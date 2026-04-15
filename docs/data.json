@@ -1,80 +1,83 @@
 {
-  "updated_at": "2026-04-15 07:23 UTC",
+  "updated_at": "2026-04-15 21:57 UTC",
   "prices": {
     "sp500": {
-      "price": 6967.38,
-      "change_pct": 1.18
+      "price": 7022.95,
+      "change_pct": 0.8
     },
     "nasdaq": {
-      "price": 23639.08,
-      "change_pct": 1.96
+      "price": 24016.02,
+      "change_pct": 1.59
     },
     "gold": {
-      "price": 4837.8,
-      "change_pct": 0.27
+      "price": 4813.9,
+      "change_pct": -0.23
     },
     "usdjpy": {
-      "price": 158.91,
-      "change_pct": -0.19
+      "price": 158.95,
+      "change_pct": -0.16
+    },
+    "vix": {
+      "price": 18.17,
+      "change_pct": -1.03
     },
     "usbond": {
-      "price": 4.26,
-      "change_pct": -0.93
+      "price": 4.28,
+      "change_pct": 0.47
     },
     "btc": {
-      "price": 73678,
-      "change_pct": -1.34
+      "price": 74808,
+      "change_pct": 0.7
     }
   },
   "news": [
     {
-      "title": "Geopolitical Crises ‘Tend To Be Buying Opportunities’ for Stocks, Says Yardeni Research President",
+      "title": "As S&P 500 approaches record highs, this is what could derail the stock-market rebound - MarketWatch",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/04/14/geopolitical-crises-tend-to-be-buying-opportunities-for-stocks-says-yardeni-research-president/"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181712112"
     },
     {
-      "title": "Countdown to the mega IPO of SpaceX: A giant leap for insiders, a gigantic risk for public investors?",
+      "title": "SpaceX IPO mania: Big opportunity or hidden red flags for investors? What to know",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.livemint.com/opinion/online-views/mega-ipo-spacex-insiders-risk-public-investors-nasdaq-s-p-dow-jones-equity-stock-market-openai-anthropic-11775972956770.html"
+      "url": "https://economictimes.indiatimes.com/news/international/us/spacex-ipo-mania-big-opportunity-or-hidden-red-flags-for-investors-what-to-know/articleshow/130267961.cms"
     },
     {
-      "title": "Criminal Group Attempting To Extort Kraken Over Exposed Client Data, Chief Security Officer Says Exchange ‘Will Not Pay These Criminals’",
+      "title": "Trump’s son Eric to join father's state visit to China",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/04/14/criminal-group-attempting-to-extort-kraken-over-exposed-client-data-chief-security-officer-says-exchange-will-not-pay-these-criminals/"
+      "url": "https://japantoday.com/category/world/exclusive-trump%E2%80%99s-son-eric-to-join-father%27s-state-visit-to-china3"
     },
     {
-      "title": "Middle East War: How FG is responding to global economic shock — Edun",
+      "title": "G. Love Loses Reported $424,000 in Crypto Account Hack",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://consequence.net/2026/04/g-love-crypto-account-hack/"
+    },
+    {
+      "title": "WWE Is Rolling Out a Paid Member Club at Exactly the Wrong Time",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.vanguardngr.com/2026/04/middle-east-war-how-fg-is-responding-to-global-economic-shock-edun/"
+      "url": "http://www.hollywoodreporter.com/business/business-news/club-wwe-wrestlemania-42-ticket-sales-slump-high-prices-1236563726/"
     },
     {
-      "title": "Rupee is more than a measure of price. It’s also a barometer of credibility",
+      "title": "The R*–Labor Share Nexus",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://indianexpress.com/article/opinion/columns/rupee-is-more-than-a-measure-of-price-its-also-a-barometer-of-credibility-10634778/"
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/04/the-r-labor-share-nexus/"
     },
     {
-      "title": "From conflict to curve: How rising yields hit debt funds — and where opportunity lies",
+      "title": "The billionaire Anthropic cofounder who majored in literature and says knowing how to ask the right question beats knowing how to code",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.livemint.com/money/personal-finance/from-conflict-to-curve-rising-yields-hit-debt-funds-where-opportunity-lies-us-iran-conflict-11776139495974.html"
-    },
-    {
-      "title": "Dollar flips to losses after Trump says Iran wants a deal",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-13/dollar-gains-as-hormuz-blockade-sparks-oil-rally-risk-off-mode"
+      "url": "https://fortune.com/2026/04/14/billionaire-anthropic-cofounder-jack-clark-coding-programming-education-gen-z-unemployment/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/3",
         "3/4",
         "3/5",
         "3/6",
@@ -103,10 +106,10 @@
         "4/9",
         "4/10",
         "4/13",
-        "4/14"
+        "4/14",
+        "4/15"
       ],
       "values": [
-        6816.63,
         6869.5,
         6830.71,
         6740.02,
@@ -135,7 +138,8 @@
         6824.66,
         6816.89,
         6886.24,
-        6967.38
+        6967.38,
+        7022.95
       ]
     },
     "gold": {
@@ -199,7 +203,7 @@
         4761.9,
         4742.4,
         4825.0,
-        4837.8
+        4813.9
       ]
     },
     "usdjpy": {
@@ -265,12 +269,11 @@
         159.11,
         159.68,
         159.21,
-        158.9
+        158.95
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/3",
         "3/4",
         "3/5",
         "3/6",
@@ -299,10 +302,10 @@
         "4/9",
         "4/10",
         "4/13",
-        "4/14"
+        "4/14",
+        "4/15"
       ],
       "values": [
-        22516.69,
         22807.48,
         22748.99,
         22387.68,
@@ -331,7 +334,8 @@
         22822.42,
         22902.89,
         23183.74,
-        23639.08
+        23639.08,
+        24016.02
       ]
     }
   }
