@@ -3,14 +3,13 @@ name: Daily Market Update
 on:
   schedule:
     - cron: '0 21 * * *'   # 毎日 06:00 JST (UTC 21:00 前日)
-  workflow_dispatch:         # 手動実行ボタンも有効
+  workflow_dispatch:         # 手動実行�Eタンも有効
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # data.json をプッシュするために必要
-
+      contents: write        # data.json を�EチE��ュするために忁E��E
     steps:
       - name: Checkout
         uses: actions/checkout@v4
