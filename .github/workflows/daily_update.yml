@@ -1,0 +1,38 @@
+name: Daily Market Update
+
+on:
+  schedule:
+    - cron: '0 21 * * *'   # 毎日 06:00 JST (UTC 21:00 前日)
+  workflow_dispatch:         # 手動実行ボタンも有効
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # data.json をプッシュするために必要
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install yfinance requests anthropic
+
+      - name: Run update script
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: python scripts/update_data.py
+
+      - name: Commit & push data.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data.json
+          git diff --staged --quiet || git commit -m "chore: daily market update $(date +'%Y-%m-%d')"
+          git push

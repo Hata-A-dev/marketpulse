@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MarketPulse — 毎朝の相場まとめ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@400;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0d0d0f;--bg2:#161618;--bg3:#1e1e21;
+  --text:#f0f0ee;--text2:#8a8a86;--text3:#555552;
+  --green:#1D9E75;--red:#D85A30;--amber:#EF9F27;--blue:#378ADD;
+  --border:rgba(255,255,255,0.08);--border2:rgba(255,255,255,0.14);
+  --radius:10px;--radius-lg:14px;
+}
+body{background:var(--bg);color:var(--text);font-family:'Syne',sans-serif;min-height:100vh}
+.container{max-width:960px;margin:0 auto;padding:1.5rem 1rem 4rem}
+
+/* Header */
+.header{display:flex;justify-content:space-between;align-items:center;margin-bottom:2rem;padding-bottom:1rem;border-bottom:0.5px solid var(--border)}
+.logo{font-size:22px;font-weight:700;letter-spacing:-0.5px}
+.logo span{color:var(--green)}
+.updated{font-size:11px;color:var(--text2);font-family:'DM Mono',monospace}
+
+/* Ticker strip */
+.tickers{display:flex;gap:8px;margin-bottom:1.5rem;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}
+.tickers::-webkit-scrollbar{display:none}
+.ticker{background:var(--bg2);border:0.5px solid var(--border);border-radius:var(--radius);padding:10px 14px;min-width:130px;cursor:pointer;transition:border-color 0.15s,background 0.15s;flex-shrink:0}
+.ticker:hover{border-color:var(--border2)}
+.ticker.active{border-color:var(--green);border-width:1.5px}
+.t-name{font-size:10px;color:var(--text2);font-family:'DM Mono',monospace;margin-bottom:5px;text-transform:uppercase}
+.t-price{font-size:17px;font-weight:600;font-family:'DM Mono',monospace}
+.t-chg{font-size:11px;font-family:'DM Mono',monospace;margin-top:3px}
+.up{color:var(--green)}.down{color:var(--red)}
+
+/* Main grid */
+.main-grid{display:grid;grid-template-columns:1fr 340px;gap:1rem;margin-bottom:1rem}
+@media(max-width:700px){.main-grid{grid-template-columns:1fr}}
+
+/* Cards */
+.card{background:var(--bg2);border:0.5px solid var(--border);border-radius:var(--radius-lg);padding:1rem 1.25rem}
+.card-label{font-size:11px;color:var(--text2);font-family:'DM Mono',monospace;margin-bottom:1rem;text-transform:uppercase;letter-spacing:0.05em}
+
+/* Chart */
+.chart-wrap{position:relative;height:210px}
+
+/* News */
+.news-list{display:flex;flex-direction:column}
+.news-item{padding:10px 0;border-bottom:0.5px solid var(--border);cursor:pointer}
+.news-item:last-child{border-bottom:none}
+.news-item:hover .n-title{color:var(--green)}
+.n-tag{display:inline-block;font-size:9px;font-family:'DM Mono',monospace;padding:2px 7px;border-radius:4px;margin-bottom:4px;text-transform:uppercase;letter-spacing:0.06em}
+.tag-sp{background:rgba(55,138,221,0.15);color:#378ADD}
+.tag-btc{background:rgba(239,159,39,0.15);color:#EF9F27}
+.tag-gold{background:rgba(239,159,39,0.12);color:#c8861a}
+.tag-macro{background:rgba(29,158,117,0.15);color:var(--green)}
+.n-title{font-size:12px;line-height:1.45;color:var(--text);transition:color 0.1s}
+.n-time{font-size:10px;color:var(--text3);font-family:'DM Mono',monospace;margin-top:3px}
+
+/* AI summary */
+.ai-card{background:var(--bg2);border:0.5px solid var(--border);border-radius:var(--radius-lg);padding:1rem 1.25rem;margin-bottom:1rem}
+.ai-header{display:flex;align-items:center;gap:8px;margin-bottom:10px}
+.ai-dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.35}}
+.ai-label{font-size:11px;color:var(--green);font-family:'DM Mono',monospace;text-transform:uppercase;letter-spacing:0.05em}
+.ai-text{font-size:14px;line-height:1.7;color:var(--text)}
+
+/* Bottom metrics */
+.metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+@media(max-width:480px){.metrics{grid-template-columns:repeat(2,1fr)}}
+.metric{background:var(--bg3);border-radius:var(--radius);padding:14px}
+.m-label{font-size:10px;color:var(--text2);font-family:'DM Mono',monospace;margin-bottom:6px;text-transform:uppercase}
+.m-value{font-size:20px;font-weight:600;font-family:'DM Mono',monospace;color:var(--text)}
+.m-sub{font-size:11px;font-family:'DM Mono',monospace;margin-top:3px}
+
+/* Loading state */
+.loading{text-align:center;padding:4rem;color:var(--text2);font-family:'DM Mono',monospace;font-size:13px}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <div class="logo">Market<span>Pulse</span></div>
+    <div class="updated" id="updated">読み込み中...</div>
+  </div>
+
+  <div class="tickers" id="tickers"><div class="loading">データ取得中...</div></div>
+
+  <div class="main-grid">
+    <div class="card">
+      <div class="card-label" id="chart-label">チャート</div>
+      <div class="chart-wrap"><canvas id="mainChart" role="img" aria-label="価格推移チャート"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-label">最新ニュース</div>
+      <div class="news-list" id="news-list"><div class="loading" style="padding:1rem 0">...</div></div>
+    </div>
+  </div>
+
+  <div class="ai-card">
+    <div class="ai-header"><div class="ai-dot"></div><div class="ai-label">AI 相場まとめ</div></div>
+    <div class="ai-text" id="ai-text">生成中...</div>
+  </div>
+
+  <div class="metrics" id="metrics"></div>
+</div>
+
+<script>
+const TAG_CLASS = {SP500:'tag-sp',BTC:'tag-btc',GOLD:'tag-gold','マクロ':'tag-macro','ビットコイン':'tag-btc'};
+const TICKER_CFG = [
+  {key:'sp500',  label:'S&P 500'},
+  {key:'btc',    label:'BTC/USD'},
+  {key:'gold',   label:'GOLD'},
+  {key:'usdjpy', label:'USD/JPY'},
+  {key:'nasdaq', label:'NASDAQ'},
+];
+
+let chartInst = null;
+let allData   = null;
+
+function fmt(n){
+  if(!n&&n!==0) return 'N/A';
+  return Number(n).toLocaleString('ja-JP',{maximumFractionDigits:2});
+}
+function chgHtml(c){
+  if(c===undefined||c===null) return '';
+  const up=c>=0, sign=up?'+':'';
+  return `<div class="t-chg ${up?'up':'down'}">${sign}${c.toFixed(2)}%</div>`;
+}
+
+function renderTickers(prices){
+  const wrap=document.getElementById('tickers');
+  wrap.innerHTML='';
+  TICKER_CFG.forEach((cfg,i)=>{
+    const p=prices[cfg.key]||{};
+    const el=document.createElement('div');
+    el.className='ticker'+(i===0?' active':'');
+    el.innerHTML=`<div class="t-name">${cfg.label}</div><div class="t-price">${fmt(p.price)}</div>${chgHtml(p.change_pct)}`;
+    el.onclick=()=>{
+      document.querySelectorAll('.ticker').forEach(t=>t.classList.remove('active'));
+      el.classList.add('active');
+      drawChart(cfg.key);
+    };
+    wrap.appendChild(el);
+  });
+}
+
+function renderNews(news){
+  const list=document.getElementById('news-list');
+  list.innerHTML='';
+  (news||[]).slice(0,5).forEach(n=>{
+    const tag=n.tag||'';
+    const cls=TAG_CLASS[tag]||'tag-macro';
+    const el=document.createElement('div');
+    el.className='news-item';
+    el.innerHTML=`<span class="n-tag ${cls}">${tag}</span><div class="n-title">${n.title}</div><div class="n-time">${n.ago||''}</div>`;
+    if(n.url) el.onclick=()=>window.open(n.url,'_blank');
+    list.appendChild(el);
+  });
+}
+
+function renderMetrics(prices){
+  const vix=prices.vix||{};
+  const bond=prices.usbond||{};
+  const btc=prices.btc||{};
+  const data=[
+    {label:'VIX 恐怖指数',  val:fmt(vix.price),   sub: vix.price<20?'低ボラ水準':'警戒水準', updown: vix.price<20?'up':'down'},
+    {label:'10年米国債利回り',val:fmt(bond.price)+'%', sub: bond.change_pct>=0?'▲ 上昇':'▼ 低下', updown: bond.change_pct>=0?'up':'down'},
+    {label:'BTC 24h変化率', val:(btc.change_pct>=0?'+':'')+Number(btc.change_pct||0).toFixed(2)+'%', sub:'', updown: btc.change_pct>=0?'up':'down'},
+  ];
+  const wrap=document.getElementById('metrics');
+  wrap.innerHTML=data.map(d=>`
+    <div class="metric">
+      <div class="m-label">${d.label}</div>
+      <div class="m-value">${d.val}</div>
+      ${d.sub?`<div class="m-sub ${d.updown}">${d.sub}</div>`:''}
+    </div>`).join('');
+}
+
+function drawChart(key){
+  const hist=(allData.history||{})[key]||{};
+  const dates =hist.dates ||[];
+  const values=hist.values||[];
+  if(!values.length){
+    document.getElementById('chart-label').textContent='チャートデータなし';
+    return;
+  }
+  const up=values[values.length-1]>=values[0];
+  const col=up?'#1D9E75':'#D85A30';
+  const cfg=TICKER_CFG.find(c=>c.key===key)||{};
+  document.getElementById('chart-label').textContent=(cfg.label||key)+' — 30日';
+  if(chartInst) chartInst.destroy();
+  chartInst=new Chart(document.getElementById('mainChart'),{
+    type:'line',
+    data:{labels:dates,datasets:[{data:values,borderColor:col,borderWidth:1.5,pointRadius:0,tension:0.3,fill:true,backgroundColor:col+'1a'}]},
+    options:{responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{display:false}},
+      scales:{
+        x:{ticks:{maxTicksLimit:6,color:'#555552'},grid:{display:false},border:{display:false}},
+        y:{ticks:{color:'#555552',maxTicksLimit:5},grid:{color:'rgba(255,255,255,0.05)'},border:{display:false}}
+      }
+    }
+  });
+}
+
+async function init(){
+  try{
+    const r=await fetch('data.json?t='+Date.now());
+    if(!r.ok) throw new Error('data.json が見つかりません');
+    allData=await r.json();
+
+    document.getElementById('updated').textContent='最終更新: '+allData.updated_at+' JST';
+    document.getElementById('ai-text').textContent=allData.summary||'—';
+
+    renderTickers(allData.prices||{});
+    renderNews(allData.news||[]);
+    renderMetrics(allData.prices||{});
+    drawChart('sp500');
+  }catch(e){
+    document.getElementById('updated').textContent='エラー: '+e.message;
+    document.getElementById('ai-text').textContent='data.json を取得できませんでした。スクリプトを実行してください。';
+  }
+}
+init();
+</script>
+</body>
+</html>
