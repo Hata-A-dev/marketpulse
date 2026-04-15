@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>マーケットパルス — 毎朝の相場まとめ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#f7f7f5;color:#1a1a18;font-family:'Noto Sans JP',sans-serif;min-height:100vh}
+.container{max-width:960px;margin:0 auto;padding:1.5rem 1rem 4rem}
+.header{display:flex;justify-content:space-between;align-items:center;margin-bottom:1.5rem;padding-bottom:1rem;border-bottom:1px solid #e8e8e4}
+.logo{font-size:20px;font-weight:700;color:#1a1a18}
+.logo em{font-style:normal;color:#0F6E56}
+.updated{font-size:11px;color:#888;font-family:'DM Mono',monospace}
+.tickers{display:flex;gap:8px;margin-bottom:1.25rem;overflow-x:auto;padding-bottom:4px;scrollbar-width:none}
+.tickers::-webkit-scrollbar{display:none}
+.ticker{background:#fff;border:1px solid #e8e8e4;border-radius:10px;padding:10px 14px;min-width:130px;cursor:pointer;flex-shrink:0;transition:border-color 0.15s}
+.ticker:hover{border-color:#aaa}
+.ticker.active{border-color:#0F6E56;border-width:1.5px;box-shadow:0 0 0 3px rgba(15,110,86,0.08)}
+.t-name{font-size:10px;color:#888;margin-bottom:4px}
+.t-price{font-size:17px;font-weight:700;color:#1a1a18;font-family:'DM Mono',monospace}
+.t-chg{font-size:11px;font-family:'DM Mono',monospace;margin-top:2px}
+.t-ytd{font-size:10px;font-family:'DM Mono',monospace;margin-top:2px}
+.up{color:#0F6E56}.dn{color:#993C1D}
+.main-grid{display:grid;grid-template-columns:1fr 300px;gap:12px;margin-bottom:12px}
+@media(max-width:660px){.main-grid{grid-template-columns:1fr}}
+.card{background:#fff;border:1px solid #e8e8e4;border-radius:12px;padding:1rem 1.25rem}
+.card-ttl{font-size:11px;color:#888;margin-bottom:8px;font-weight:500;display:flex;justify-content:space-between;align-items:center}
+.chart-wrap{position:relative;height:210px}
+.legend{display:flex;gap:14px;margin-bottom:10px}
+.leg{display:flex;align-items:center;gap:5px;font-size:11px;color:#666}
+.leg-line{width:18px;height:2px;border-radius:2px}
+.leg-dash{width:18px;height:0;border-top:2px dashed #aaa}
+.ytd-badge{font-size:10px;padding:2px 8px;border-radius:4px;font-weight:700;font-family:'DM Mono',monospace}
+.ni{padding:9px 0;border-bottom:1px solid #f0f0ec}
+.ni:last-child{border-bottom:none}
+.ni:hover .ni-title{color:#0F6E56}
+.ni-tag{display:inline-block;font-size:9px;padding:2px 7px;border-radius:4px;margin-bottom:3px;font-weight:700}
+.tsp{background:#ddeeff;color:#185FA5}.tbt{background:#fef3d8;color:#854F0B}
+.tgl{background:#fef3d8;color:#7a5200}.tmk{background:#e0f5ec;color:#0F6E56}
+.ni-title{font-size:12px;line-height:1.5;color:#1a1a18;transition:color 0.1s;cursor:pointer}
+.ni-time{font-size:10px;color:#aaa;margin-top:2px}
+.ai-card{background:#fff;border:1px solid #e8e8e4;border-radius:12px;padding:1rem 1.25rem;margin-bottom:12px}
+.ai-hd{display:flex;align-items:center;gap:8px;margin-bottom:8px}
+.ai-dot{width:7px;height:7px;border-radius:50%;background:#0F6E56;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+.ai-lbl{font-size:11px;color:#0F6E56;font-weight:700}
+.ai-txt{font-size:13px;line-height:1.8;color:#333}
+.metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+@media(max-width:480px){.metrics{grid-template-columns:repeat(2,1fr)}}
+.mc{background:#fff;border:1px solid #e8e8e4;border-radius:10px;padding:12px 14px}
+.mc-lbl{font-size:10px;color:#888;margin-bottom:5px;font-weight:500}
+.mc-val{font-size:20px;font-weight:700;color:#1a1a18;font-family:'DM Mono',monospace}
+.mc-sub{font-size:10px;margin-top:2px;font-weight:500}
+.loading{text-align:center;padding:2rem;color:#aaa;font-size:13px}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <div class="logo">マーケット<em>パルス</em></div>
+    <div class="updated" id="updated">読み込み中...</div>
+  </div>
+
+  <div class="tickers" id="tickers"><div class="loading">データ取得中...</div></div>
+
+  <div class="main-grid">
+    <div class="card">
+      <div class="card-ttl">
+        <span id="chart-ttl">📈 値動き（過去30日）</span>
+        <span class="ytd-badge" id="ytd-badge"></span>
+      </div>
+      <div class="legend">
+        <div class="leg"><div class="leg-line" id="leg-color" style="background:#0F6E56"></div>直近30日</div>
+        <div class="leg"><div class="leg-dash"></div>年初来の水準</div>
+      </div>
+      <div class="chart-wrap"><canvas id="mainChart" role="img" aria-label="価格推移チャート"></canvas></div>
+    </div>
+    <div class="card">
+      <div class="card-ttl">📰 最新ニュース</div>
+      <div id="news"><div class="loading">取得中...</div></div>
+    </div>
+  </div>
+
+  <div class="ai-card">
+    <div class="ai-hd"><div class="ai-dot"></div><div class="ai-lbl">今日の相場まとめ</div></div>
+    <div class="ai-txt" id="ai-text">読み込み中...</div>
+  </div>
+
+  <div class="metrics" id="metrics"></div>
+</div>
+
+<script>
+const TICKER_CFG = [
+  {key:'sp500',  name:'S&P500',      emoji:'🇺🇸'},
+  {key:'btc',    name:'ビットコイン', emoji:'₿'},
+  {key:'gold',   name:'金（ゴールド）',emoji:'🥇'},
+  {key:'usdjpy', name:'ドル円',       emoji:'💴'},
+  {key:'nasdaq', name:'NASDAQ',       emoji:'💻'},
+];
+const TAG_CLS = {'株式':'tsp','BTC':'tbt','金':'tgl','経済':'tmk'};
+
+let chartInst = null;
+let allData   = null;
+let currentKey = 'sp500';
+
+function fmt(n){
+  if(n===undefined||n===null) return 'N/A';
+  return Number(n).toLocaleString('ja-JP',{maximumFractionDigits:2});
+}
+
+function renderTickers(prices){
+  const wrap = document.getElementById('tickers');
+  wrap.innerHTML = '';
+  TICKER_CFG.forEach((cfg,i)=>{
+    const p = prices[cfg.key] || {};
+    const up = p.change_pct >= 0;
+    const el = document.createElement('div');
+    el.className = 'ticker' + (i===0?' active':'');
+    el.innerHTML = `
+      <div class="t-name">${cfg.emoji} ${cfg.name}</div>
+      <div class="t-price">${fmt(p.price)}</div>
+      <div class="t-chg ${up?'up':'dn'}">${up?'▲':'▼'} ${Math.abs(p.change_pct||0).toFixed(2)}%</div>`;
+    el.onclick = ()=>{
+      document.querySelectorAll('.ticker').forEach(t=>t.classList.remove('active'));
+      el.classList.add('active');
+      drawChart(cfg.key);
+    };
+    wrap.appendChild(el);
+  });
+}
+
+function renderNews(news){
+  const wrap = document.getElementById('news');
+  wrap.innerHTML = '';
+  (news||[]).slice(0,5).forEach(n=>{
+    const cls = TAG_CLS[n.tag] || 'tmk';
+    const el = document.createElement('div');
+    el.className = 'ni';
+    el.innerHTML = `<span class="ni-tag ${cls}">${n.tag||''}</span><div class="ni-title">${n.title}</div><div class="ni-time">${n.ago||''}</div>`;
+    if(n.url) el.onclick = ()=>window.open(n.url,'_blank');
+    wrap.appendChild(el);
+  });
+}
+
+function renderMetrics(prices){
+  const vix  = prices.vix    || {};
+  const bond = prices.usbond || {};
+  const btc  = prices.btc    || {};
+  const items = [
+    {lbl:'😨 VIX（恐怖指数）',  val:fmt(vix.price),  sub: (vix.price||0)<20?'低水準 ＝ 市場は落ち着いている':'警戒水準', cls:(vix.price||0)<20?'up':'dn'},
+    {lbl:'🏦 米10年国債利回り', val:fmt(bond.price)+'%', sub:(bond.change_pct||0)>=0?'▲ 上昇（株には逆風）':'▼ 低下（株には追い風）', cls:(bond.change_pct||0)>=0?'dn':'up'},
+    {lbl:'₿ BTC 24時間変化',   val:((btc.change_pct||0)>=0?'+':'')+Number(btc.change_pct||0).toFixed(2)+'%', sub:'', cls:(btc.change_pct||0)>=0?'up':'dn'},
+  ];
+  document.getElementById('metrics').innerHTML = items.map(d=>`
+    <div class="mc">
+      <div class="mc-lbl">${d.lbl}</div>
+      <div class="mc-val ${d.cls}">${d.val}</div>
+      ${d.sub?`<div class="mc-sub ${d.cls}">${d.sub}</div>`:''}
+    </div>`).join('');
+}
+
+function drawChart(key){
+  currentKey = key;
+  const hist   = (allData.history||{})[key] || {};
+  const prices = allData.prices || {};
+  const p      = prices[key] || {};
+  const cfg    = TICKER_CFG.find(c=>c.key===key) || {};
+
+  const dates  = hist.dates  || [];
+  const values = hist.values || [];
+
+  const up  = (p.change_pct||0) >= 0;
+  const col = up ? '#0F6E56' : '#993C1D';
+  document.getElementById('leg-color').style.background = col;
+  document.getElementById('chart-ttl').textContent = (up?'📈':'📉') + ' ' + cfg.name + '（過去30日）';
+
+  // 年初来バッジ（履歴の最初の値と現在値で計算）
+  let ytdPct = null;
+  if(values.length >= 2){
+    ytdPct = ((values[values.length-1] - values[0]) / values[0] * 100);
+  }
+  const badge = document.getElementById('ytd-badge');
+  if(ytdPct !== null){
+    const ytdUp = ytdPct >= 0;
+    badge.textContent = '年初来 ' + (ytdUp?'+':'') + ytdPct.toFixed(1) + '%';
+    badge.className   = 'ytd-badge ' + (ytdUp?'up':'dn');
+    badge.style.background = ytdUp ? '#e0f5ec' : '#fdeee8';
+  } else {
+    badge.textContent = '';
+  }
+
+  // 年初来ライン（values[0]の水平線）
+  const ytdLine = Array(values.length).fill(values[0]);
+
+  if(chartInst) chartInst.destroy();
+  if(!values.length){
+    document.getElementById('chart-ttl').textContent = 'チャートデータなし';
+    return;
+  }
+
+  chartInst = new Chart(document.getElementById('mainChart'),{
+    type:'line',
+    data:{
+      labels: dates,
+      datasets:[
+        {label:'直近',data:values,borderColor:col,borderWidth:2,pointRadius:0,tension:0.35,fill:true,backgroundColor:col+'14',order:1},
+        {label:'年初来水準',data:ytdLine,borderColor:'#bbb',borderWidth:1.5,borderDash:[5,4],pointRadius:0,fill:false,order:2}
+      ]
+    },
+    options:{
+      responsive:true, maintainAspectRatio:false,
+      plugins:{legend:{display:false}},
+      scales:{
+        x:{ticks:{maxTicksLimit:6,color:'#aaa',font:{size:11}},grid:{display:false},border:{display:false}},
+        y:{ticks:{color:'#aaa',maxTicksLimit:5,font:{size:11}},grid:{color:'rgba(0,0,0,0.05)'},border:{display:false}}
+      }
+    }
+  });
+}
+
+async function init(){
+  try{
+    const r = await fetch('data.json?t='+Date.now());
+    if(!r.ok) throw new Error('data.json が見つかりません');
+    allData = await r.json();
+
+    document.getElementById('updated').textContent = '最終更新: ' + allData.updated_at;
+    document.getElementById('ai-text').textContent  = allData.summary || '—';
+
+    renderTickers(allData.prices || {});
+    renderNews(allData.news || []);
+    renderMetrics(allData.prices || {});
+    drawChart('sp500');
+  }catch(e){
+    document.getElementById('updated').textContent = 'エラー: ' + e.message;
+    document.getElementById('ai-text').textContent = 'データを取得できませんでした。';
+  }
+}
+init();
+</script>
+</body>
+</html>
