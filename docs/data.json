@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15 21:57 UTC",
+  "updated_at": "2026-04-16 00:25 UTC",
   "prices": {
     "sp500": {
       "price": 7022.95,
@@ -10,12 +10,12 @@
       "change_pct": 1.59
     },
     "gold": {
-      "price": 4813.9,
-      "change_pct": -0.23
+      "price": 4852.2,
+      "change_pct": 0.56
     },
     "usdjpy": {
-      "price": 158.95,
-      "change_pct": -0.16
+      "price": 158.81,
+      "change_pct": 0.01
     },
     "vix": {
       "price": 18.17,
@@ -26,34 +26,34 @@
       "change_pct": 0.47
     },
     "btc": {
-      "price": 74808,
-      "change_pct": 0.7
+      "price": 74559,
+      "change_pct": -0.02
     }
   },
   "news": [
     {
-      "title": "As S&P 500 approaches record highs, this is what could derail the stock-market rebound - MarketWatch",
+      "title": "Meta doubles down on partnership with Broadcom, committing to 1 gigawatt of custom AI processors",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181712112"
+      "url": "https://siliconangle.com/2026/04/14/meta-doubles-partnership-broadcom-committing-1-gigawatt-custom-ai-processors/"
     },
     {
-      "title": "SpaceX IPO mania: Big opportunity or hidden red flags for investors? What to know",
+      "title": "Meta doubles down on partnership with Broadcom on custom AI processors",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/spacex-ipo-mania-big-opportunity-or-hidden-red-flags-for-investors-what-to-know/articleshow/130267961.cms"
+      "url": "https://siliconangle.com/2026/04/14/meta-doubles-partnership-broadcom-custom-ai-processors/"
     },
     {
-      "title": "Trump’s son Eric to join father's state visit to China",
+      "title": "Bitcoin Whales Ramp Up Accumulation: Holdings Hit 2-Month High",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://japantoday.com/category/world/exclusive-trump%E2%80%99s-son-eric-to-join-father%27s-state-visit-to-china3"
+      "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-whales-accumulation-holdings-2-month-high/"
     },
     {
-      "title": "G. Love Loses Reported $424,000 in Crypto Account Hack",
+      "title": "OneCoin Scam: DOJ Opens Path For Compensation With $40 Million In Forfeited Assets",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://consequence.net/2026/04/g-love-crypto-account-hack/"
+      "url": "http://www.newsbtc.com/news/onecoin-scam-doj-opens-path-for-compensation-with-40-million-in-forfeited-assets/"
     },
     {
       "title": "WWE Is Rolling Out a Paid Member Club at Exactly the Wrong Time",
@@ -68,10 +68,10 @@
       "url": "https://libertystreeteconomics.newyorkfed.org/2026/04/the-r-labor-share-nexus/"
     },
     {
-      "title": "The billionaire Anthropic cofounder who majored in literature and says knowing how to ask the right question beats knowing how to code",
+      "title": "Wall Street banks break records as Iran war drives trading boom!",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/04/14/billionaire-anthropic-cofounder-jack-clark-coding-programming-education-gen-z-unemployment/"
+      "url": "https://europeanbusinessmagazine.com/business/wall-street-trading-boom-war-volatility/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -203,12 +203,11 @@
         4761.9,
         4742.4,
         4825.0,
-        4813.9
+        4853.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/5",
         "3/6",
         "3/9",
         "3/10",
@@ -237,10 +236,10 @@
         "4/10",
         "4/13",
         "4/14",
-        "4/15"
+        "4/15",
+        "4/16"
       ],
       "values": [
-        156.98,
         157.53,
         158.43,
         157.85,
@@ -269,7 +268,8 @@
         159.11,
         159.68,
         159.21,
-        158.95
+        158.79,
+        158.81
       ]
     },
     "nasdaq": {
