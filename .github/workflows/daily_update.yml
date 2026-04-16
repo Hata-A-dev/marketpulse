@@ -2,17 +2,20 @@ name: Daily Market Update
 
 on:
   schedule:
-    - cron: '0 21 * * *'   # 毎日 06:00 JST (UTC 21:00 前日)
-  workflow_dispatch:         # 手動実行 Eタンも有効
+    - cron: '0 21 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # data.json を EチE  ュするために忁E  E
+      contents: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -20,20 +23,17 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install yfinance requests 
+        run: pip install yfinance requests
 
       - name: Run update script
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: python scripts/update_data.py
 
       - name: Commit & push data.json
-      run: |
-        git config user.name  "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git fetch origin
-        git reset --hard origin/main
-        git add docs/data.json
-        git diff --staged --quiet || git commit -m "chore: daily market update $(date +'%Y-%m-%d')"
-        git push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json
+          git diff --staged --quiet || git commit -m "chore: daily market update $(date +'%Y-%m-%d')"
+          git push origin HEAD:main
