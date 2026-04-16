@@ -36,9 +36,14 @@ def fetch_prices():
 
 def fetch_btc():
     try:
-        r = requests.get(BTC_API, timeout=10)
-        d = r.json()["bitcoin"]
-        return {"price": round(d["usd"], 0), "change_pct": round(d["usd_24h_change"], 2)}
+        t = yf.Ticker("BTC-USD")
+        hist = t.history(period="2d")
+        if len(hist) < 2:
+            return {}
+        curr = round(float(hist["Close"].iloc[-1]), 0)
+        prev = round(float(hist["Close"].iloc[-2]), 0)
+        chg  = round((curr - prev) / prev * 100, 2)
+        return {"price": curr, "change_pct": chg}
     except Exception as e:
         print(f"[WARN] BTC: {e}")
         return {}
