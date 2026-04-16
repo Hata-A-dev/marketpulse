@@ -3,13 +3,13 @@ name: Daily Market Update
 on:
   schedule:
     - cron: '0 21 * * *'   # 毎日 06:00 JST (UTC 21:00 前日)
-  workflow_dispatch:         # 手動実行�Eタンも有効
+  workflow_dispatch:         # 手動実行 Eタンも有効
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # data.json を�EチE��ュするために忁E��E
+      contents: write        # data.json を EチE  ュするために忁E  E
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,5 +33,6 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data.json
-          git diff --staged --quiet || git commit -m "chore: daily market update $(date +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "chore: daily market update $(date +'%Y-%m-%d')" 
+          git pull --rebase
           git push
