@@ -1,78 +1,89 @@
 {
-  "updated_at": "2026-04-16 21:33 UTC",
+  "updated_at": "2026-04-17 21:31 UTC",
   "prices": {
     "sp500": {
-      "price": 7041.28,
-      "change_pct": 0.26
+      "price": 7126.06,
+      "change_pct": 1.2
     },
     "nasdaq": {
-      "price": 24102.7,
-      "change_pct": 0.36
+      "price": 24468.48,
+      "change_pct": 1.52
     },
     "gold": {
-      "price": 4810.9,
-      "change_pct": 0.23
+      "price": 4849.4,
+      "change_pct": 1.34
     },
     "usdjpy": {
-      "price": 159.12,
-      "change_pct": 0.21
+      "price": 158.58,
+      "change_pct": -0.14
     },
     "vix": {
-      "price": 17.94,
-      "change_pct": -1.27
+      "price": 17.48,
+      "change_pct": -2.56
     },
     "usbond": {
-      "price": 4.31,
-      "change_pct": 0.7
+      "price": 4.25,
+      "change_pct": -1.39
     },
     "btc": {
-      "price": 74963.0,
-      "change_pct": 0.21
+      "price": 77435.0,
+      "change_pct": 3.04
     }
   },
   "news": [
     {
-      "title": "Shoe company says it's getting into AI infrastructure and yes this is the top",
+      "title": "Wall Street Edges Up to Another Record",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://www.newser.com/story/387478/wall-street-edges-up-to-another-record.html"
+    },
+    {
+      "title": "How major US stock indexes fared Thursday 4/16/2026",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-thursday-22210690.php"
+    },
+    {
+      "title": "Morgan Stanley’s Ultra-Cheap Bitcoin ETF Pulls In $100M in Just 6 Days, Leaving WisdomTree In The Dust",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.theregister.com/2026/04/15/allbirds_ai_longislandicedtea_blockchain_lolol/"
+      "url": "https://zycrypto.com/morgan-stanleys-ultra-cheap-bitcoin-etf-pulls-in-100m-in-just-6-days-leaving-wisdomtree-in-the-dust/"
     },
     {
-      "title": "New Online Casino Canada 2026: Boho Casino Launches as the Freshest Real Money Casino Site in Canada with €6,500 Bonus, Crypto Banking & 225 Free Spins",
+      "title": "Bhutan to Run Out of Bitcoin by September as it Sells Another $18 Million Worth of BTC",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/15/3274830/0/en/New-Online-Casino-Canada-2026-Boho-Casino-Launches-as-the-Freshest-Real-Money-Casino-Site-in-Canada-with-6-500-Bonus-Crypto-Banking-225-Free-Spins.html"
+      "url": "https://zycrypto.com/bhutan-to-run-out-of-bitcoin-by-september-as-it-sells-another-18-million-worth-of-btc/"
     },
     {
-      "title": "Stocks are the least over-priced asset in India",
+      "title": "Fears of another lockdown amid fuel shortages and recession risk",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/opinion/stocks-are-the-least-over-priced-asset-in-india/article70866016.ece"
+      "url": "https://www.abc.net.au/news/2026-04-17/fears-of-another-lockdown-amid-fuel-shortages-recession-risk/106568312"
     },
     {
-      "title": "A Long Slog Across Eurasia: Seoul to Amsterdam on a KLM Boeing 777-300ER",
+      "title": "How AEW Dynamite: Spring Breakthru Proved Wrestling Still Has a Soul",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economondo.com/a-long-slog-across-eurasia-seoul-to-amsterdam-on-a-klm-boeing-777-300er/"
+      "url": "https://bleedingcool.com/tv/how-aew-dynamite-spring-breakthru-proved-wrestling-still-has-a-soul/"
     },
     {
-      "title": "Goldman Sachs bond traders stumbled as Wall Street rivals thrived: 'A fire is being lit under' them",
+      "title": "Sen. Warren calls for greater transparency into Federal Reserve nominee's financial holdings",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/04/15/goldman-sachs-bond-traders-wall-street-rivals.html"
+      "url": "https://www.twincities.com/2026/04/16/warsh-fed-nominee-assets-disclosure-hearing-warren/"
     },
     {
-      "title": "Gold price drops 0.7% to $4,807 today—should investors panic now as gold and silver prices risk a 10% crash with US-Iran deal still out of sight and crude oil threat rising?",
+      "title": "Goldman’s bond desk posts embarrassing drop as Wall Street rivals soar: ‘A fire is being lit under the traders’",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-drops-0-7-to-4807-todayshould-investors-panic-now-as-gold-and-silver-prices-risk-a-10-crash-with-us-iran-deal-still-out-of-sight-and-crude-oil-threat-rising/articleshow/130291567.cms"
+      "url": "https://nypost.com/2026/04/16/business/goldmans-bond-desk-posts-embarrassing-drop-as-wall-street-rivals-soar/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/5",
         "3/6",
         "3/9",
         "3/10",
@@ -101,10 +112,10 @@
         "4/13",
         "4/14",
         "4/15",
-        "4/16"
+        "4/16",
+        "4/17"
       ],
       "values": [
-        6830.71,
         6740.02,
         6795.99,
         6781.48,
@@ -133,12 +144,12 @@
         6886.24,
         6967.38,
         7022.95,
-        7041.28
+        7041.28,
+        7126.06
       ]
     },
     "gold": {
       "dates": [
-        "3/6",
         "3/9",
         "3/10",
         "3/11",
@@ -166,10 +177,10 @@
         "4/13",
         "4/14",
         "4/15",
-        "4/16"
+        "4/16",
+        "4/17"
       ],
       "values": [
-        5146.1,
         5091.5,
         5229.7,
         5167.4,
@@ -197,12 +208,12 @@
         4742.4,
         4825.0,
         4800.0,
-        4810.9
+        4785.4,
+        4849.4
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/6",
         "3/9",
         "3/10",
         "3/11",
@@ -231,10 +242,10 @@
         "4/13",
         "4/14",
         "4/15",
-        "4/16"
+        "4/16",
+        "4/17"
       ],
       "values": [
-        157.53,
         158.43,
         157.85,
         158.11,
@@ -263,12 +274,12 @@
         159.68,
         159.21,
         158.79,
-        159.12
+        158.81,
+        158.58
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/5",
         "3/6",
         "3/9",
         "3/10",
@@ -297,10 +308,10 @@
         "4/13",
         "4/14",
         "4/15",
-        "4/16"
+        "4/16",
+        "4/17"
       ],
       "values": [
-        22748.99,
         22387.68,
         22695.95,
         22697.1,
@@ -329,7 +340,8 @@
         23183.74,
         23639.08,
         24016.02,
-        24102.7
+        24102.7,
+        24468.48
       ]
     }
   }
