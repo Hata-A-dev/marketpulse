@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17 21:31 UTC",
+  "updated_at": "2026-04-18 21:23 UTC",
   "prices": {
     "sp500": {
       "price": 7126.06,
@@ -10,8 +10,8 @@
       "change_pct": 1.52
     },
     "gold": {
-      "price": 4849.4,
-      "change_pct": 1.34
+      "price": 4857.6,
+      "change_pct": 1.51
     },
     "usdjpy": {
       "price": 158.58,
@@ -26,58 +26,58 @@
       "change_pct": -1.39
     },
     "btc": {
-      "price": 77435.0,
-      "change_pct": 3.04
+      "price": 75688.0,
+      "change_pct": -1.87
     }
   },
   "news": [
     {
-      "title": "Wall Street Edges Up to Another Record",
+      "title": "Oil is back to early war days, S&P 500 jumps to all-time high",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/387478/wall-street-edges-up-to-another-record.html"
+      "url": "https://fortune.com/2026/04/17/oil-is-back-to-early-war-days-sp-500-jumps-to-all-time-high/"
     },
     {
-      "title": "How major US stock indexes fared Thursday 4/16/2026",
+      "title": "Everything is Faster Now",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-thursday-22210690.php"
+      "url": "https://awealthofcommonsense.com/2026/04/everything-is-faster-now/"
     },
     {
-      "title": "Morgan Stanley’s Ultra-Cheap Bitcoin ETF Pulls In $100M in Just 6 Days, Leaving WisdomTree In The Dust",
+      "title": "Bitcoin Mining vs AI Trading Bots: AriseAlpha Launches Free Automated Crypto and Stock Trading Platform (2026)",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/morgan-stanleys-ultra-cheap-bitcoin-etf-pulls-in-100m-in-just-6-days-leaving-wisdomtree-in-the-dust/"
+      "url": "https://www.globenewswire.com/news-release/2026/04/17/3276437/0/en/Bitcoin-Mining-vs-AI-Trading-Bots-AriseAlpha-Launches-Free-Automated-Crypto-and-Stock-Trading-Platform-2026.html"
     },
     {
-      "title": "Bhutan to Run Out of Bitcoin by September as it Sells Another $18 Million Worth of BTC",
+      "title": "$815,420,000 in Bitcoin and Crypto Liquidated As BTC Surges Above $78,000",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/bhutan-to-run-out-of-bitcoin-by-september-as-it-sells-another-18-million-worth-of-btc/"
+      "url": "https://dailyhodl.com/2026/04/17/815420000-in-bitcoin-and-crypto-liquidated-as-btc-surges-above-78000/"
     },
     {
-      "title": "Fears of another lockdown amid fuel shortages and recession risk",
+      "title": "Budget coincides with the thunderclap of history in flux — and hard choices",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-04-17/fears-of-another-lockdown-amid-fuel-shortages-recession-risk/106568312"
+      "url": "https://www.abc.net.au/news/2026-04-18/inflation-war-making-may-budget-harder/106577912"
     },
     {
-      "title": "How AEW Dynamite: Spring Breakthru Proved Wrestling Still Has a Soul",
+      "title": "South American Crime Groups Are Going for Gold",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://bleedingcool.com/tv/how-aew-dynamite-spring-breakthru-proved-wrestling-still-has-a-soul/"
+      "url": "http://foreignpolicy.com/2026/04/17/illegal-gold-mining-south-america-colombia-peru-cocaine/"
     },
     {
-      "title": "Sen. Warren calls for greater transparency into Federal Reserve nominee's financial holdings",
+      "title": "CVB Financial Corp. Announces Completion of Merger with Heritage Commerce Corp",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.twincities.com/2026/04/16/warsh-fed-nominee-assets-disclosure-hearing-warren/"
+      "url": "https://www.globenewswire.com/news-release/2026/04/17/3276519/0/en/CVB-Financial-Corp-Announces-Completion-of-Merger-with-Heritage-Commerce-Corp.html"
     },
     {
-      "title": "Goldman’s bond desk posts embarrassing drop as Wall Street rivals soar: ‘A fire is being lit under the traders’",
+      "title": "Fed’s Waller signals caution on rate cuts",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://nypost.com/2026/04/16/business/goldmans-bond-desk-posts-embarrassing-drop-as-wall-street-rivals-soar/"
+      "url": "https://www.ocregister.com/2026/04/17/feds-waller-signals-caution-on-rate-cuts-sees-risk-of-longer-conflict/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -209,7 +209,7 @@
         4825.0,
         4800.0,
         4785.4,
-        4849.4
+        4857.6
       ]
     },
     "usdjpy": {
