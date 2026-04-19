@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18 21:23 UTC",
+  "updated_at": "2026-04-19 21:24 UTC",
   "prices": {
     "sp500": {
       "price": 7126.06,
@@ -9,13 +9,9 @@
       "price": 24468.48,
       "change_pct": 1.52
     },
-    "gold": {
-      "price": 4857.6,
-      "change_pct": 1.51
-    },
     "usdjpy": {
-      "price": 158.58,
-      "change_pct": -0.14
+      "price": 158.77,
+      "change_pct": -0.27
     },
     "vix": {
       "price": 17.48,
@@ -26,58 +22,58 @@
       "change_pct": -1.39
     },
     "btc": {
-      "price": 75688.0,
-      "change_pct": -1.87
+      "price": 74735.0,
+      "change_pct": -1.31
     }
   },
   "news": [
     {
-      "title": "Oil is back to early war days, S&P 500 jumps to all-time high",
+      "title": "Bank of America revamps AMD stock price target",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/04/17/oil-is-back-to-early-war-days-sp-500-jumps-to-all-time-high/"
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-amd-stock-price-target"
     },
     {
-      "title": "Everything is Faster Now",
+      "title": "Here’s what the stock market might have gotten wrong about the Iran war",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://awealthofcommonsense.com/2026/04/everything-is-faster-now/"
+      "url": "https://freerepublic.com/focus/f-news/4375469/posts"
     },
     {
-      "title": "Bitcoin Mining vs AI Trading Bots: AriseAlpha Launches Free Automated Crypto and Stock Trading Platform (2026)",
+      "title": "Solana futures open interest rose by 20% this week: Is $100 SOL next?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/17/3276437/0/en/Bitcoin-Mining-vs-AI-Trading-Bots-AriseAlpha-Launches-Free-Automated-Crypto-and-Stock-Trading-Platform-2026.html"
+      "url": "https://cointelegraph.com/markets/solana-futures-open-interest-rose-by-20-this-week-is-100-sol-next"
     },
     {
-      "title": "$815,420,000 in Bitcoin and Crypto Liquidated As BTC Surges Above $78,000",
+      "title": "Ethereum Signals Major Reversal – $2,900 Target Back In Focus",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/04/17/815420000-in-bitcoin-and-crypto-liquidated-as-btc-surges-above-78000/"
+      "url": "http://www.newsbtc.com/news/ethereum/ethereum-major-reversal/"
     },
     {
-      "title": "Budget coincides with the thunderclap of history in flux — and hard choices",
+      "title": "Full review: The Shark LED mask is like nothing I’ve tested — here’s why",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-04-18/inflation-war-making-may-budget-harder/106577912"
+      "url": "https://nypost.com/shopping/my-shark-cryoglow-led-face-mask-review-thoughts-on-viral-device/"
     },
     {
-      "title": "South American Crime Groups Are Going for Gold",
+      "title": "Gold surges on Hormuz news: Here’s what comes next",
       "tag": "金",
       "ago": "1日前",
-      "url": "http://foreignpolicy.com/2026/04/17/illegal-gold-mining-south-america-colombia-peru-cocaine/"
+      "url": "https://www.thestreet.com/investing/gold-price-surges-on-hormuz-news-heres-what-comes-next"
     },
     {
-      "title": "CVB Financial Corp. Announces Completion of Merger with Heritage Commerce Corp",
+      "title": "Gold price prediction: Bullion experts predict likely gold rate for next few months. Details here",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/17/3276519/0/en/CVB-Financial-Corp-Announces-Completion-of-Merger-with-Heritage-Commerce-Corp.html"
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-bullion-experts-predict-likely-gold-rate-for-next-few-months-details-here/articleshow/130353815.cms"
     },
     {
-      "title": "Fed’s Waller signals caution on rate cuts",
+      "title": "Akshaya Tritiya 2026 gold outlook: Which trends are expected to shape gold purchases this Akshaya Tritiya?",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.ocregister.com/2026/04/17/feds-waller-signals-caution-on-rate-cuts-sees-risk-of-longer-conflict/"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/akshaya-tritiya-2026-gold-outlook-which-trends-are-expected-to-shape-gold-purchases-this-akshaya-tritiya/articleshow/130348961.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -209,12 +205,11 @@
         4825.0,
         4800.0,
         4785.4,
-        4857.6
+        4879.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/9",
         "3/10",
         "3/11",
         "3/12",
@@ -243,10 +238,10 @@
         "4/14",
         "4/15",
         "4/16",
-        "4/17"
+        "4/17",
+        "4/19"
       ],
       "values": [
-        158.43,
         157.85,
         158.11,
         159.07,
@@ -275,7 +270,8 @@
         159.21,
         158.79,
         158.81,
-        158.58
+        159.2,
+        158.77
       ]
     },
     "nasdaq": {
