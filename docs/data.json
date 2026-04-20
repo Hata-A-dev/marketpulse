@@ -1,86 +1,85 @@
 {
-  "updated_at": "2026-04-19 21:24 UTC",
+  "updated_at": "2026-04-20 21:36 UTC",
   "prices": {
     "sp500": {
-      "price": 7126.06,
-      "change_pct": 1.2
+      "price": 7109.14,
+      "change_pct": -0.24
     },
     "nasdaq": {
-      "price": 24468.48,
-      "change_pct": 1.52
+      "price": 24404.39,
+      "change_pct": -0.26
     },
     "usdjpy": {
       "price": 158.77,
       "change_pct": -0.27
     },
     "vix": {
-      "price": 17.48,
-      "change_pct": -2.56
+      "price": 18.87,
+      "change_pct": 7.95
     },
     "usbond": {
       "price": 4.25,
-      "change_pct": -1.39
+      "change_pct": 0.0
     },
     "btc": {
-      "price": 74735.0,
-      "change_pct": -1.31
+      "price": 75904.0,
+      "change_pct": 2.77
     }
   },
   "news": [
     {
-      "title": "Bank of America revamps AMD stock price target",
+      "title": "Traders Brace for Renewed Turmoil on Hormuz Standoff",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-revamps-amd-stock-price-target"
+      "url": "https://financialpost.com/pmn/business-pmn/traders-brace-for-renewed-turmoil-on-hormuz-standoff"
     },
     {
-      "title": "Here’s what the stock market might have gotten wrong about the Iran war",
+      "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here’s why it can keep going. - MarketWatch",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://freerepublic.com/focus/f-news/4375469/posts"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181762006"
     },
     {
-      "title": "Solana futures open interest rose by 20% this week: Is $100 SOL next?",
+      "title": "RaveDAO Price Prediction 2026: Is RAVE a Scam or Legit?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/markets/solana-futures-open-interest-rose-by-20-this-week-is-100-sol-next"
+      "url": "https://bitcoinfoundation.org/news/altcoins/ravedao-price-prediction-2026-can-rave-break-into-top-20/"
     },
     {
-      "title": "Ethereum Signals Major Reversal – $2,900 Target Back In Focus",
+      "title": "Live: More Wall Street records, oil prices tumble, ASX on edge",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/news/ethereum/ethereum-major-reversal/"
+      "url": "https://www.abc.net.au/news/2026-04-20/asx-markets-business-news-live-updates/106581644"
     },
     {
-      "title": "Full review: The Shark LED mask is like nothing I’ve tested — here’s why",
+      "title": "LABASH: The End Times Customer Service Desk...",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://nypost.com/shopping/my-shark-cryoglow-led-face-mask-review-thoughts-on-viral-device/"
+      "url": "https://mattlabash.substack.com/p/the-end-times-customer-service-desk"
     },
     {
-      "title": "Gold surges on Hormuz news: Here’s what comes next",
+      "title": "Wells Fargo says gold could nearly double to $8,000 an ounce — even after its worst monthly drop in a decade",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/gold-price-surges-on-hormuz-news-heres-what-comes-next"
+      "url": "https://finance.yahoo.com/markets/commodities/articles/wells-fargo-says-gold-could-163500630.html"
     },
     {
-      "title": "Gold price prediction: Bullion experts predict likely gold rate for next few months. Details here",
+      "title": "Fight over gas taxes intensifies as major project expansion approved",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-bullion-experts-predict-likely-gold-rate-for-next-few-months-details-here/articleshow/130353815.cms"
+      "url": "https://www.abc.net.au/news/2026-04-20/gas-tax-inquiry-chevron-gorgon-approved/106575550"
     },
     {
-      "title": "Akshaya Tritiya 2026 gold outlook: Which trends are expected to shape gold purchases this Akshaya Tritiya?",
+      "title": "Next Catalyst for Treasury Bonds Is Named Kevin Warsh",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/akshaya-tritiya-2026-gold-outlook-which-trends-are-expected-to-shape-gold-purchases-this-akshaya-tritiya/articleshow/130348961.cms"
+      "url": "https://financialpost.com/pmn/business-pmn/next-catalyst-for-treasury-bonds-is-named-kevin-warsh"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/6",
         "3/9",
         "3/10",
         "3/11",
@@ -109,10 +108,10 @@
         "4/14",
         "4/15",
         "4/16",
-        "4/17"
+        "4/17",
+        "4/20"
       ],
       "values": [
-        6740.02,
         6795.99,
         6781.48,
         6775.8,
@@ -141,12 +140,12 @@
         6967.38,
         7022.95,
         7041.28,
-        7126.06
+        7126.06,
+        7109.14
       ]
     },
     "gold": {
       "dates": [
-        "3/9",
         "3/10",
         "3/11",
         "3/12",
@@ -174,10 +173,10 @@
         "4/14",
         "4/15",
         "4/16",
-        "4/17"
+        "4/17",
+        "4/20"
       ],
       "values": [
-        5091.5,
         5229.7,
         5167.4,
         5115.8,
@@ -205,7 +204,8 @@
         4825.0,
         4800.0,
         4785.4,
-        4879.6
+        4857.6,
+        4841.0
       ]
     },
     "usdjpy": {
@@ -239,7 +239,7 @@
         "4/15",
         "4/16",
         "4/17",
-        "4/19"
+        "4/20"
       ],
       "values": [
         157.85,
@@ -276,7 +276,6 @@
     },
     "nasdaq": {
       "dates": [
-        "3/6",
         "3/9",
         "3/10",
         "3/11",
@@ -305,10 +304,10 @@
         "4/14",
         "4/15",
         "4/16",
-        "4/17"
+        "4/17",
+        "4/20"
       ],
       "values": [
-        22387.68,
         22695.95,
         22697.1,
         22716.13,
@@ -337,7 +336,8 @@
         23639.08,
         24016.02,
         24102.7,
-        24468.48
+        24468.48,
+        24404.39
       ]
     }
   }
