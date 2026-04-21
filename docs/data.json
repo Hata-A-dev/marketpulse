@@ -1,86 +1,89 @@
 {
-  "updated_at": "2026-04-20 21:36 UTC",
+  "updated_at": "2026-04-21 21:35 UTC",
   "prices": {
     "sp500": {
-      "price": 7109.14,
-      "change_pct": -0.24
+      "price": 7064.01,
+      "change_pct": -0.63
     },
     "nasdaq": {
-      "price": 24404.39,
-      "change_pct": -0.26
+      "price": 24259.96,
+      "change_pct": -0.59
+    },
+    "gold": {
+      "price": 4738.5,
+      "change_pct": -1.42
     },
     "usdjpy": {
-      "price": 158.77,
-      "change_pct": -0.27
+      "price": 159.39,
+      "change_pct": 0.14
     },
     "vix": {
-      "price": 18.87,
-      "change_pct": 7.95
+      "price": 19.5,
+      "change_pct": 3.34
     },
     "usbond": {
-      "price": 4.25,
-      "change_pct": 0.0
+      "price": 4.29,
+      "change_pct": 0.94
     },
     "btc": {
-      "price": 75904.0,
-      "change_pct": 2.77
+      "price": 75654.0,
+      "change_pct": -0.29
     }
   },
   "news": [
     {
-      "title": "Traders Brace for Renewed Turmoil on Hormuz Standoff",
+      "title": "Wall Street closes slightly down on renewed tensions between US, Iran - Reuters",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/traders-brace-for-renewed-turmoil-on-hormuz-standoff"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181814358"
     },
     {
-      "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here’s why it can keep going. - MarketWatch",
+      "title": "US Stock Market Closing: Why did Dow Jones, S&P 500, Nasdaq end lower today? Nasdaq snaps 13-day rally as Iran tensions rise, oil jumps above $95",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181762006"
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-closing-why-did-dow-jones-sp-500-nasdaq-end-lower-today-nasdaq-snaps-13-day-rally-as-iran-tensions-rise-oil-jumps-above-95/articleshow/130402510.cms"
     },
     {
-      "title": "RaveDAO Price Prediction 2026: Is RAVE a Scam or Legit?",
+      "title": "Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/altcoins/ravedao-price-prediction-2026-can-rave-break-into-top-20/"
+      "url": "https://cointelegraph.com/news/bybit-leads-8m-round-in-malaysian-crypto-exchange-hata"
     },
     {
-      "title": "Live: More Wall Street records, oil prices tumble, ASX on edge",
+      "title": "Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-04-20/asx-markets-business-news-live-updates/106581644"
+      "url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack"
     },
     {
-      "title": "LABASH: The End Times Customer Service Desk...",
+      "title": "The Key Difference Most Missing About Oil Prices",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://mattlabash.substack.com/p/the-end-times-customer-service-desk"
+      "url": "https://dailycaller.com/2026/04/20/brent-crude-oil-prices-iran-war-dated-brent-futures-paper-price-physical-barrels-airlines-airplanes/"
     },
     {
-      "title": "Wells Fargo says gold could nearly double to $8,000 an ounce — even after its worst monthly drop in a decade",
+      "title": "Bitcoin vs El Salvador: How the Country’s BTC Investment Strategy Changed in 2026",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/wells-fargo-says-gold-could-163500630.html"
+      "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-vs-el-salvador-how-the-countrys-btc-investment-strategy-changed-in-2026/"
     },
     {
-      "title": "Fight over gas taxes intensifies as major project expansion approved",
+      "title": "Kevin Warsh set to face lawmakers in Fed chair confirmation hearing",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-04-20/gas-tax-inquiry-chevron-gorgon-approved/106575550"
+      "url": "https://www.cbsnews.com/news/kevin-warsh-federal-reserve-chair-senate-confirmation-hearing/"
     },
     {
-      "title": "Next Catalyst for Treasury Bonds Is Named Kevin Warsh",
+      "title": "Farmers & Merchants Bancorp (FMCB) Reports Record Quarter",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/next-catalyst-for-treasury-bonds-is-named-kevin-warsh"
+      "url": "https://www.globenewswire.com/news-release/2026/04/20/3277494/0/en/Farmers-Merchants-Bancorp-FMCB-Reports-Record-Quarter.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/9",
         "3/10",
         "3/11",
         "3/12",
@@ -109,10 +112,10 @@
         "4/15",
         "4/16",
         "4/17",
-        "4/20"
+        "4/20",
+        "4/21"
       ],
       "values": [
-        6795.99,
         6781.48,
         6775.8,
         6672.62,
@@ -141,12 +144,12 @@
         7022.95,
         7041.28,
         7126.06,
-        7109.14
+        7109.14,
+        7064.01
       ]
     },
     "gold": {
       "dates": [
-        "3/10",
         "3/11",
         "3/12",
         "3/13",
@@ -174,10 +177,10 @@
         "4/15",
         "4/16",
         "4/17",
-        "4/20"
+        "4/20",
+        "4/21"
       ],
       "values": [
-        5229.7,
         5167.4,
         5115.8,
         5052.5,
@@ -205,12 +208,12 @@
         4800.0,
         4785.4,
         4857.6,
-        4841.0
+        4806.6,
+        4738.5
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/10",
         "3/11",
         "3/12",
         "3/13",
@@ -239,10 +242,10 @@
         "4/15",
         "4/16",
         "4/17",
-        "4/20"
+        "4/20",
+        "4/21"
       ],
       "values": [
-        157.85,
         158.11,
         159.07,
         159.21,
@@ -271,12 +274,12 @@
         158.79,
         158.81,
         159.2,
-        158.77
+        159.16,
+        159.38
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/9",
         "3/10",
         "3/11",
         "3/12",
@@ -305,10 +308,10 @@
         "4/15",
         "4/16",
         "4/17",
-        "4/20"
+        "4/20",
+        "4/21"
       ],
       "values": [
-        22695.95,
         22697.1,
         22716.13,
         22311.98,
@@ -337,7 +340,8 @@
         24016.02,
         24102.7,
         24468.48,
-        24404.39
+        24404.39,
+        24259.96
       ]
     }
   }
