@@ -1,90 +1,83 @@
 {
-  "updated_at": "2026-04-21 21:35 UTC",
+  "updated_at": "2026-04-22 21:41 UTC",
   "prices": {
     "sp500": {
-      "price": 7064.01,
-      "change_pct": -0.63
+      "price": 7137.9,
+      "change_pct": 1.05
     },
     "nasdaq": {
-      "price": 24259.96,
-      "change_pct": -0.59
+      "price": 24657.57,
+      "change_pct": 1.64
     },
     "gold": {
-      "price": 4738.5,
-      "change_pct": -1.42
+      "price": 4758.3,
+      "change_pct": 1.27
     },
     "usdjpy": {
-      "price": 159.39,
-      "change_pct": 0.14
+      "price": 159.41,
+      "change_pct": 0.36
     },
     "vix": {
-      "price": 19.5,
-      "change_pct": 3.34
+      "price": 18.92,
+      "change_pct": -2.97
     },
     "usbond": {
       "price": 4.29,
-      "change_pct": 0.94
+      "change_pct": 0.0
     },
     "btc": {
-      "price": 75654.0,
-      "change_pct": -0.29
+      "price": 78771.0,
+      "change_pct": 3.17
     }
   },
   "news": [
     {
-      "title": "Wall Street closes slightly down on renewed tensions between US, Iran - Reuters",
+      "title": "Kalshi mulls crypto expansion with perpetual futures launch: Report",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181814358"
+      "url": "https://cointelegraph.com/news/kalshi-eyes-crypto-expansion-with-perpetual-futures-launch-report"
     },
     {
-      "title": "US Stock Market Closing: Why did Dow Jones, S&P 500, Nasdaq end lower today? Nasdaq snaps 13-day rally as Iran tensions rise, oil jumps above $95",
+      "title": "Trump says he is extending the ceasefire with Iran as talks are in doubt",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-closing-why-did-dow-jones-sp-500-nasdaq-end-lower-today-nasdaq-snaps-13-day-rally-as-iran-tensions-rise-oil-jumps-above-95/articleshow/130402510.cms"
+      "url": "https://toronto.citynews.ca/2026/04/21/trump-says-he-is-extending-the-ceasefire-with-iran-as-talks-are-in-doubt/"
     },
     {
-      "title": "Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform",
+      "title": "Why You Should Be Paying Attention To The Bitcoin Monthly MACD",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/bybit-leads-8m-round-in-malaysian-crypto-exchange-hata"
+      "url": "https://bitcoinist.com/pay-attention-bitcoin-macd/"
     },
     {
-      "title": "Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack"
-    },
-    {
-      "title": "The Key Difference Most Missing About Oil Prices",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://dailycaller.com/2026/04/20/brent-crude-oil-prices-iran-war-dated-brent-futures-paper-price-physical-barrels-airlines-airplanes/"
+      "url": "https://english.khabarhub.com/2026/21/545175/"
     },
     {
-      "title": "Bitcoin vs El Salvador: How the Country’s BTC Investment Strategy Changed in 2026",
+      "title": "Two Centuries of Prosperity on a Gold Standard, Then We Threw It Away",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-vs-el-salvador-how-the-countrys-btc-investment-strategy-changed-in-2026/"
+      "url": "https://www.activistpost.com/two-centuries-of-prosperity-on-a-gold-standard-then-we-threw-it-away/"
     },
     {
-      "title": "Kevin Warsh set to face lawmakers in Fed chair confirmation hearing",
+      "title": "Stocks fall, oil climbs amid uncertainty over US-Iran talks",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.cbsnews.com/news/kevin-warsh-federal-reserve-chair-senate-confirmation-hearing/"
+      "url": "https://www.channelnewsasia.com/world/us-stocks-oil-prices-iran-us-ceasefire-trump-extend-6071916"
     },
     {
-      "title": "Farmers & Merchants Bancorp (FMCB) Reports Record Quarter",
+      "title": "FS Bancorp, Inc. Reports First Quarter Net Income of $7.8 Million or $1.02 Per Diluted Share and Declares 53rd Consecutive Quarterly Cash Dividend",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/20/3277494/0/en/Farmers-Merchants-Bancorp-FMCB-Reports-Record-Quarter.html"
+      "url": "https://www.globenewswire.com/news-release/2026/04/21/3278482/24095/en/FS-Bancorp-Inc-Reports-First-Quarter-Net-Income-of-7-8-Million-or-1-02-Per-Diluted-Share-and-Declares-53rd-Consecutive-Quarterly-Cash-Dividend.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/10",
         "3/11",
         "3/12",
         "3/13",
@@ -113,10 +106,10 @@
         "4/16",
         "4/17",
         "4/20",
-        "4/21"
+        "4/21",
+        "4/22"
       ],
       "values": [
-        6781.48,
         6775.8,
         6672.62,
         6632.19,
@@ -145,12 +138,12 @@
         7041.28,
         7126.06,
         7109.14,
-        7064.01
+        7064.01,
+        7137.9
       ]
     },
     "gold": {
       "dates": [
-        "3/11",
         "3/12",
         "3/13",
         "3/16",
@@ -178,10 +171,10 @@
         "4/16",
         "4/17",
         "4/20",
-        "4/21"
+        "4/21",
+        "4/22"
       ],
       "values": [
-        5167.4,
         5115.8,
         5052.5,
         4994.0,
@@ -209,12 +202,12 @@
         4785.4,
         4857.6,
         4806.6,
-        4738.5
+        4698.4,
+        4758.3
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/11",
         "3/12",
         "3/13",
         "3/16",
@@ -243,10 +236,10 @@
         "4/16",
         "4/17",
         "4/20",
-        "4/21"
+        "4/21",
+        "4/22"
       ],
       "values": [
-        158.11,
         159.07,
         159.21,
         159.57,
@@ -275,12 +268,12 @@
         158.81,
         159.2,
         159.16,
-        159.38
+        158.84,
+        159.37
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/10",
         "3/11",
         "3/12",
         "3/13",
@@ -309,10 +302,10 @@
         "4/16",
         "4/17",
         "4/20",
-        "4/21"
+        "4/21",
+        "4/22"
       ],
       "values": [
-        22697.1,
         22716.13,
         22311.98,
         22105.36,
@@ -341,7 +334,8 @@
         24102.7,
         24468.48,
         24404.39,
-        24259.96
+        24259.96,
+        24657.57
       ]
     }
   }
