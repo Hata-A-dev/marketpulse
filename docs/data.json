@@ -1,84 +1,89 @@
 {
-  "updated_at": "2026-04-22 21:41 UTC",
+  "updated_at": "2026-04-23 21:36 UTC",
   "prices": {
     "sp500": {
-      "price": 7137.9,
-      "change_pct": 1.05
+      "price": 7108.4,
+      "change_pct": -0.41
     },
     "nasdaq": {
-      "price": 24657.57,
-      "change_pct": 1.64
+      "price": 24438.5,
+      "change_pct": -0.89
     },
     "gold": {
-      "price": 4758.3,
-      "change_pct": 1.27
+      "price": 4708.6,
+      "change_pct": -0.51
     },
     "usdjpy": {
-      "price": 159.41,
-      "change_pct": 0.36
+      "price": 159.65,
+      "change_pct": 0.18
     },
     "vix": {
-      "price": 18.92,
-      "change_pct": -2.97
+      "price": 19.31,
+      "change_pct": 2.06
     },
     "usbond": {
-      "price": 4.29,
-      "change_pct": 0.0
+      "price": 4.32,
+      "change_pct": 0.7
     },
     "btc": {
-      "price": 78771.0,
-      "change_pct": 3.17
+      "price": 78012.0,
+      "change_pct": -0.24
     }
   },
   "news": [
     {
-      "title": "Kalshi mulls crypto expansion with perpetual futures launch: Report",
+      "title": "Trading Day: Nasdaq hits new high",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/kalshi-eyes-crypto-expansion-with-perpetual-futures-launch-report"
+      "url": "https://www.channelnewsasia.com/business/trading-day-nasdaq-hits-new-high-6074721"
     },
     {
-      "title": "Trump says he is extending the ceasefire with Iran as talks are in doubt",
+      "title": "US stocks rally to records, but Brent oil also tops US$100 on worries about the Iran war",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://toronto.citynews.ca/2026/04/21/trump-says-he-is-extending-the-ceasefire-with-iran-as-talks-are-in-doubt/"
+      "url": "https://www.channelnewsasia.com/world/us-stocks-oil-prices-iran-us-hormuz-record-6074656"
     },
     {
-      "title": "Why You Should Be Paying Attention To The Bitcoin Monthly MACD",
+      "title": "Analyst Predicts Massive Breakout for Cardano with Over 1,000% Upside Potential",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinist.com/pay-attention-bitcoin-macd/"
+      "url": "https://zycrypto.com/analyst-predicts-massive-breakout-for-cardano-with-over-1000-upside-potential/"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "$60,000 Is The Bottom: Bitcoin Analyst Predicts Lowest Level Before Run To $200,000",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "http://www.newsbtc.com/news/bitcoin/60000-is-the-bitcoin-bottom/"
+    },
+    {
+      "title": "Northrim BanCorp Earns $13.7 Million, or $0.61 Per Diluted Share, in First Quarter 2026",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/21/545175/"
+      "url": "https://www.globenewswire.com/news-release/2026/04/22/3279401/8875/en/Northrim-BanCorp-Earns-13-7-Million-or-0-61-Per-Diluted-Share-in-First-Quarter-2026.html"
     },
     {
-      "title": "Two Centuries of Prosperity on a Gold Standard, Then We Threw It Away",
+      "title": "One new clue that Nvidia's Jensen Huang and TSMC are right about AI demand strength",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.activistpost.com/two-centuries-of-prosperity-on-a-gold-standard-then-we-threw-it-away/"
+      "url": "https://finance.yahoo.com/news/one-new-clue-that-nvidias-jensen-huang-and-tsmc-are-right-about-ai-demand-strength-162138937.html"
     },
     {
-      "title": "Stocks fall, oil climbs amid uncertainty over US-Iran talks",
+      "title": "Oak Valley Bancorp Reports 1st Quarter Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/world/us-stocks-oil-prices-iran-us-ceasefire-trump-extend-6071916"
+      "url": "https://www.globenewswire.com/news-release/2026/04/22/3279453/0/en/Oak-Valley-Bancorp-Reports-1st-Quarter-Results.html"
     },
     {
-      "title": "FS Bancorp, Inc. Reports First Quarter Net Income of $7.8 Million or $1.02 Per Diluted Share and Declares 53rd Consecutive Quarterly Cash Dividend",
+      "title": "CVB Financial Corp. Reports Earnings for the First Quarter 2026",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/21/3278482/24095/en/FS-Bancorp-Inc-Reports-First-Quarter-Net-Income-of-7-8-Million-or-1-02-Per-Diluted-Share-and-Declares-53rd-Consecutive-Quarterly-Cash-Dividend.html"
+      "url": "https://www.globenewswire.com/news-release/2026/04/22/3279437/0/en/CVB-Financial-Corp-Reports-Earnings-for-the-First-Quarter-2026.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/11",
         "3/12",
         "3/13",
         "3/16",
@@ -107,10 +112,10 @@
         "4/17",
         "4/20",
         "4/21",
-        "4/22"
+        "4/22",
+        "4/23"
       ],
       "values": [
-        6775.8,
         6672.62,
         6632.19,
         6699.38,
@@ -139,12 +144,12 @@
         7126.06,
         7109.14,
         7064.01,
-        7137.9
+        7137.9,
+        7108.4
       ]
     },
     "gold": {
       "dates": [
-        "3/12",
         "3/13",
         "3/16",
         "3/17",
@@ -172,10 +177,10 @@
         "4/17",
         "4/20",
         "4/21",
-        "4/22"
+        "4/22",
+        "4/23"
       ],
       "values": [
-        5115.8,
         5052.5,
         4994.0,
         5001.0,
@@ -203,12 +208,12 @@
         4857.6,
         4806.6,
         4698.4,
-        4758.3
+        4732.5,
+        4708.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/12",
         "3/13",
         "3/16",
         "3/17",
@@ -237,10 +242,10 @@
         "4/17",
         "4/20",
         "4/21",
-        "4/22"
+        "4/22",
+        "4/23"
       ],
       "values": [
-        159.07,
         159.21,
         159.57,
         159.1,
@@ -269,12 +274,12 @@
         159.2,
         159.16,
         158.84,
-        159.37
+        159.37,
+        159.65
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/11",
         "3/12",
         "3/13",
         "3/16",
@@ -303,10 +308,10 @@
         "4/17",
         "4/20",
         "4/21",
-        "4/22"
+        "4/22",
+        "4/23"
       ],
       "values": [
-        22716.13,
         22311.98,
         22105.36,
         22374.18,
@@ -335,7 +340,8 @@
         24468.48,
         24404.39,
         24259.96,
-        24657.57
+        24657.57,
+        24438.5
       ]
     }
   }
