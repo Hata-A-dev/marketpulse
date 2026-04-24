@@ -1,90 +1,89 @@
 {
-  "updated_at": "2026-04-23 21:36 UTC",
+  "updated_at": "2026-04-24 21:37 UTC",
   "prices": {
     "sp500": {
-      "price": 7108.4,
-      "change_pct": -0.41
+      "price": 7165.08,
+      "change_pct": 0.8
     },
     "nasdaq": {
-      "price": 24438.5,
-      "change_pct": -0.89
+      "price": 24836.6,
+      "change_pct": 1.63
     },
     "gold": {
-      "price": 4708.6,
-      "change_pct": -0.51
+      "price": 4725.4,
+      "change_pct": 0.43
     },
     "usdjpy": {
-      "price": 159.65,
-      "change_pct": 0.18
+      "price": 159.33,
+      "change_pct": -0.1
     },
     "vix": {
-      "price": 19.31,
-      "change_pct": 2.06
+      "price": 18.71,
+      "change_pct": -3.11
     },
     "usbond": {
-      "price": 4.32,
-      "change_pct": 0.7
+      "price": 4.31,
+      "change_pct": -0.23
     },
     "btc": {
-      "price": 78012.0,
-      "change_pct": -0.24
+      "price": 77611.0,
+      "change_pct": -0.84
     }
   },
   "news": [
     {
-      "title": "Trading Day: Nasdaq hits new high",
+      "title": "Trump’s Numbers, April 2026 Update",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/trading-day-nasdaq-hits-new-high-6074721"
+      "url": "https://www.factcheck.org/2026/04/trumps-numbers-april-2026-update/"
     },
     {
-      "title": "US stocks rally to records, but Brent oil also tops US$100 on worries about the Iran war",
+      "title": "Trading Day: Geopolitical reality check",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/world/us-stocks-oil-prices-iran-us-hormuz-record-6074656"
+      "url": "https://www.channelnewsasia.com/business/trading-day-geopolitical-reality-check-6077341"
     },
     {
-      "title": "Analyst Predicts Massive Breakout for Cardano with Over 1,000% Upside Potential",
+      "title": "Spot ETH ETF inflows hit 10-day streak: Will Ether rally to $3K next?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/analyst-predicts-massive-breakout-for-cardano-with-over-1000-upside-potential/"
+      "url": "https://cointelegraph.com/markets/spot-eth-etf-inflows-hit-10-day-streak-will-ether-rally-to-3k-next"
     },
     {
-      "title": "$60,000 Is The Bottom: Bitcoin Analyst Predicts Lowest Level Before Run To $200,000",
+      "title": "Top 5 Richest Crypto Billionaires in 2026: Who Dominates the Blockchain World?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/news/bitcoin/60000-is-the-bitcoin-bottom/"
+      "url": "https://bitcoinfoundation.org/news/opinion/top-5-richest-crypto-billionaires-in-2026-who-dominates-the-blockchain-world/"
     },
     {
-      "title": "Northrim BanCorp Earns $13.7 Million, or $0.61 Per Diluted Share, in First Quarter 2026",
+      "title": "Bernard Arnault Warns Middle East Conflict Could Spell ‘Catastrophe’ for World Economy",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/22/3279401/8875/en/Northrim-BanCorp-Earns-13-7-Million-or-0-61-Per-Diluted-Share-in-First-Quarter-2026.html"
+      "url": "http://wwd.com/business-news/financial/bernard-arnault-middle-east-conflict-economic-catastrophe-1238926997/"
     },
     {
-      "title": "One new clue that Nvidia's Jensen Huang and TSMC are right about AI demand strength",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/news/one-new-clue-that-nvidias-jensen-huang-and-tsmc-are-right-about-ai-demand-strength-162138937.html"
+      "url": "https://english.khabarhub.com/2026/23/545481/"
     },
     {
-      "title": "Oak Valley Bancorp Reports 1st Quarter Results",
+      "title": "An Economic War of Attrition",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/22/3279453/0/en/Oak-Valley-Bancorp-Reports-1st-Quarter-Results.html"
+      "url": "http://foreignpolicy.com/2026/04/23/trump-iran-war-economic-attrition-blockade-strait-hormuz-ceasefire/"
     },
     {
-      "title": "CVB Financial Corp. Reports Earnings for the First Quarter 2026",
+      "title": "Meridian Corporation Reports First Quarter 2026 Results and Announces a Quarterly Dividend of $0.14 per Common Share",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/22/3279437/0/en/CVB-Financial-Corp-Reports-Earnings-for-the-First-Quarter-2026.html"
+      "url": "https://www.globenewswire.com/news-release/2026/04/23/3280447/0/en/Meridian-Corporation-Reports-First-Quarter-2026-Results-and-Announces-a-Quarterly-Dividend-of-0-14-per-Common-Share.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/12",
         "3/13",
         "3/16",
         "3/17",
@@ -113,10 +112,10 @@
         "4/20",
         "4/21",
         "4/22",
-        "4/23"
+        "4/23",
+        "4/24"
       ],
       "values": [
-        6672.62,
         6632.19,
         6699.38,
         6716.09,
@@ -145,12 +144,12 @@
         7109.14,
         7064.01,
         7137.9,
-        7108.4
+        7108.4,
+        7165.08
       ]
     },
     "gold": {
       "dates": [
-        "3/13",
         "3/16",
         "3/17",
         "3/18",
@@ -178,10 +177,10 @@
         "4/20",
         "4/21",
         "4/22",
-        "4/23"
+        "4/23",
+        "4/24"
       ],
       "values": [
-        5052.5,
         4994.0,
         5001.0,
         4889.9,
@@ -209,12 +208,12 @@
         4806.6,
         4698.4,
         4732.5,
-        4708.6
+        4705.1,
+        4725.4
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/13",
         "3/16",
         "3/17",
         "3/18",
@@ -243,10 +242,10 @@
         "4/20",
         "4/21",
         "4/22",
-        "4/23"
+        "4/23",
+        "4/24"
       ],
       "values": [
-        159.21,
         159.57,
         159.1,
         158.89,
@@ -275,12 +274,12 @@
         159.16,
         158.84,
         159.37,
-        159.65
+        159.49,
+        159.33
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/12",
         "3/13",
         "3/16",
         "3/17",
@@ -309,10 +308,10 @@
         "4/20",
         "4/21",
         "4/22",
-        "4/23"
+        "4/23",
+        "4/24"
       ],
       "values": [
-        22311.98,
         22105.36,
         22374.18,
         22479.53,
@@ -341,7 +340,8 @@
         24404.39,
         24259.96,
         24657.57,
-        24438.5
+        24438.5,
+        24836.6
       ]
     }
   }
