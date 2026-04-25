@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24 21:37 UTC",
+  "updated_at": "2026-04-25 21:26 UTC",
   "prices": {
     "sp500": {
       "price": 7165.08,
@@ -10,8 +10,8 @@
       "change_pct": 1.63
     },
     "gold": {
-      "price": 4725.4,
-      "change_pct": 0.43
+      "price": 4722.3,
+      "change_pct": 0.37
     },
     "usdjpy": {
       "price": 159.33,
@@ -26,58 +26,46 @@
       "change_pct": -0.23
     },
     "btc": {
-      "price": 77611.0,
-      "change_pct": -0.84
+      "price": 77528.0,
+      "change_pct": 0.09
     }
   },
   "news": [
     {
-      "title": "Trump’s Numbers, April 2026 Update",
+      "title": "S&P 500 hits record high close, surges $7.6 trillion since March as tech stocks power market rally",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.factcheck.org/2026/04/trumps-numbers-april-2026-update/"
+      "url": "https://economictimes.indiatimes.com/news/international/us/sp-500-hits-record-high-close-surges-7-6-trillion-since-march-as-tech-stocks-power-market-rally/articleshow/130503991.cms"
     },
     {
-      "title": "Trading Day: Geopolitical reality check",
+      "title": "Nvidia breakout sends chip giant to first record since October",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/trading-day-geopolitical-reality-check-6077341"
+      "url": "https://financialpost.com/technology/tech-news/nvidia-breakout-chip-giant"
     },
     {
-      "title": "Spot ETH ETF inflows hit 10-day streak: Will Ether rally to $3K next?",
+      "title": "Top memecoin holders expected to attend Trump luncheon",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/markets/spot-eth-etf-inflows-hit-10-day-streak-will-ether-rally-to-3k-next"
+      "url": "https://cointelegraph.com/news/tron-justin-sun-donald-trump-memecoin-lunch"
     },
     {
-      "title": "Top 5 Richest Crypto Billionaires in 2026: Who Dominates the Blockchain World?",
+      "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/opinion/top-5-richest-crypto-billionaires-in-2026-who-dominates-the-blockchain-world/"
+      "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound"
     },
     {
-      "title": "Bernard Arnault Warns Middle East Conflict Could Spell ‘Catastrophe’ for World Economy",
+      "title": "First Advantage review",
       "tag": "金",
       "ago": "1日前",
-      "url": "http://wwd.com/business-news/financial/bernard-arnault-middle-east-conflict-economic-catastrophe-1238926997/"
+      "url": "https://www.techradar.com/pro/first-advantage-review"
     },
     {
-      "title": "Today’s News in a Nutshell",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/23/545481/"
-    },
-    {
-      "title": "An Economic War of Attrition",
+      "title": "Justice Dept. drops criminal probe of Fed Chair Jerome Powell - The Boston Globe",
       "tag": "経済",
       "ago": "1日前",
-      "url": "http://foreignpolicy.com/2026/04/23/trump-iran-war-economic-attrition-blockade-strait-hormuz-ceasefire/"
-    },
-    {
-      "title": "Meridian Corporation Reports First Quarter 2026 Results and Announces a Quarterly Dividend of $0.14 per Common Share",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/23/3280447/0/en/Meridian-Corporation-Reports-First-Quarter-2026-Results-and-Announces-a-Quarterly-Dividend-of-0-14-per-Common-Share.html"
+      "url": "https://www.bostonglobe.com/2026/04/24/business/justice-dept-drops-criminal-probe-fed-chair-jerome-powell/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -209,7 +197,7 @@
         4698.4,
         4732.5,
         4705.1,
-        4725.4
+        4722.3
       ]
     },
     "usdjpy": {
