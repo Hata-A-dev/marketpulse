@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25 21:26 UTC",
+  "updated_at": "2026-04-26 21:27 UTC",
   "prices": {
     "sp500": {
       "price": 7165.08,
@@ -9,13 +9,9 @@
       "price": 24836.6,
       "change_pct": 1.63
     },
-    "gold": {
-      "price": 4722.3,
-      "change_pct": 0.37
-    },
     "usdjpy": {
-      "price": 159.33,
-      "change_pct": -0.1
+      "price": 159.51,
+      "change_pct": -0.15
     },
     "vix": {
       "price": 18.71,
@@ -26,46 +22,58 @@
       "change_pct": -0.23
     },
     "btc": {
-      "price": 77528.0,
-      "change_pct": 0.09
+      "price": 78298.0,
+      "change_pct": 0.88
     }
   },
   "news": [
     {
-      "title": "S&P 500 hits record high close, surges $7.6 trillion since March as tech stocks power market rally",
+      "title": "Nvidia poised to become largest company by market cap amid AI stock surge",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/sp-500-hits-record-high-close-surges-7-6-trillion-since-march-as-tech-stocks-power-market-rally/articleshow/130503991.cms"
+      "url": "https://cryptobriefing.com/nvidia-poised-to-become-largest-company-by-market-cap-amid-ai-stock-surge/"
     },
     {
-      "title": "Nvidia breakout sends chip giant to first record since October",
+      "title": "The AI rally looks like the dot-com bubble. The companies do not.",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://financialpost.com/technology/tech-news/nvidia-breakout-chip-giant"
+      "url": "https://thenextweb.com/news/ai-stocks-dot-com-bubble-comparison-market-outlook/"
     },
     {
-      "title": "Top memecoin holders expected to attend Trump luncheon",
+      "title": "Trump hosts crypto contest winners at Mar-a-Lago as his meme coin plunges in value",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/tron-justin-sun-donald-trump-memecoin-lunch"
+      "url": "https://www.irishtimes.com/world/us/2026/04/25/trump-hosts-crypto-contest-winners-at-mar-a-lago-as-his-meme-coin-plunges-in-value/"
     },
     {
-      "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
+      "title": "Bitcoin Eyes $80,000 As Over 40,000 Coins Fly Off Exchanges",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound"
+      "url": "https://zycrypto.com/bitcoin-eyes-80000-as-over-40000-coins-fly-off-exchanges/"
     },
     {
-      "title": "First Advantage review",
+      "title": "Score an RTX 5070 prebuilt with a Ryzen 7 7700X & 16 GB of DDR5 for $650 off — Stack these promo codes to save on Skytech Gaming's high-end systems",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.techradar.com/pro/first-advantage-review"
+      "url": "https://www.tomshardware.com/pc-components/score-an-rtx-5070-prebuilt-with-a-ryzen-7-7700x-and-16-gb-of-ddr5-for-usd650-off-stack-these-promo-codes-to-save-on-skytech-gamings-high-end-systems"
     },
     {
-      "title": "Justice Dept. drops criminal probe of Fed Chair Jerome Powell - The Boston Globe",
+      "title": "Barking! Now Green flop Lorna Slater's £2billion tree planting 'dream' has failed to take root",
+      "tag": "金",
+      "ago": "1日前",
+      "url": "https://www.dailymail.com/news/article-15765113/Barking-Green-flop-Lorna-Slaters-2billion-tree-planting-dream-failed-root.html"
+    },
+    {
+      "title": "'It's not dropped': Trump throws Pirro under the bus after she closed Jerome Powell probe",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.bostonglobe.com/2026/04/24/business/justice-dept-drops-criminal-probe-fed-chair-jerome-powell/"
+      "url": "https://www.rawstory.com/jerome-powell-2676814750/"
+    },
+    {
+      "title": "US Market Outlook: Bullish bias intact",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/us-market-outlook-bullish-bias-intact/article70904361.ece"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -197,12 +205,11 @@
         4698.4,
         4732.5,
         4705.1,
-        4722.3
+        4740.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/16",
         "3/17",
         "3/18",
         "3/19",
@@ -231,10 +238,10 @@
         "4/21",
         "4/22",
         "4/23",
-        "4/24"
+        "4/24",
+        "4/26"
       ],
       "values": [
-        159.57,
         159.1,
         158.89,
         159.79,
@@ -263,7 +270,8 @@
         158.84,
         159.37,
         159.49,
-        159.33
+        159.75,
+        159.51
       ]
     },
     "nasdaq": {
