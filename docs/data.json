@@ -1,86 +1,85 @@
 {
-  "updated_at": "2026-04-26 21:27 UTC",
+  "updated_at": "2026-04-27 21:44 UTC",
   "prices": {
     "sp500": {
-      "price": 7165.08,
-      "change_pct": 0.8
+      "price": 7173.91,
+      "change_pct": 0.12
     },
     "nasdaq": {
-      "price": 24836.6,
-      "change_pct": 1.63
+      "price": 24887.1,
+      "change_pct": 0.2
     },
     "usdjpy": {
-      "price": 159.51,
-      "change_pct": -0.15
+      "price": 159.37,
+      "change_pct": -0.24
     },
     "vix": {
-      "price": 18.71,
-      "change_pct": -3.11
+      "price": 18.02,
+      "change_pct": -3.69
     },
     "usbond": {
-      "price": 4.31,
-      "change_pct": -0.23
+      "price": 4.34,
+      "change_pct": 0.7
     },
     "btc": {
-      "price": 78298.0,
-      "change_pct": 0.88
+      "price": 76919.0,
+      "change_pct": -2.21
     }
   },
   "news": [
     {
-      "title": "Nvidia poised to become largest company by market cap amid AI stock surge",
+      "title": "United States Antimony Corp. (UAMY) Delivers Robust Revenue Growth amid Higher Antimony Demand",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/nvidia-poised-to-become-largest-company-by-market-cap-amid-ai-stock-surge/"
+      "url": "https://finance.yahoo.com/markets/commodities/articles/united-states-antimony-corp-uamy-211241171.html"
     },
     {
-      "title": "The AI rally looks like the dot-com bubble. The companies do not.",
+      "title": "QXO Inc. (QXO) Turns to Acquisitions to Build Industrial Conglomerate",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://thenextweb.com/news/ai-stocks-dot-com-bubble-comparison-market-outlook/"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qxo-inc-qxo-turns-acquisitions-205651715.html"
     },
     {
-      "title": "Trump hosts crypto contest winners at Mar-a-Lago as his meme coin plunges in value",
+      "title": "Top 3 Justin Sun Controversies: Scandals, Feuds, and Their Impact on Crypto Markets",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.irishtimes.com/world/us/2026/04/25/trump-hosts-crypto-contest-winners-at-mar-a-lago-as-his-meme-coin-plunges-in-value/"
+      "url": "https://bitcoinfoundation.org/news/blockchain-news/top-3-justin-sun-controversies-scandals-feuds-and-their-impact-on-crypto-markets/"
     },
     {
-      "title": "Bitcoin Eyes $80,000 As Over 40,000 Coins Fly Off Exchanges",
+      "title": "Dogecoin Back At The Triangle Tip: Historical Trends Point To What Comes Next",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/bitcoin-eyes-80000-as-over-40000-coins-fly-off-exchanges/"
+      "url": "http://www.newsbtc.com/altcoin/dogecoin-back-at-the-triangle-tip-historical-trends-point-to-what-comes-next/"
     },
     {
-      "title": "Score an RTX 5070 prebuilt with a Ryzen 7 7700X & 16 GB of DDR5 for $650 off — Stack these promo codes to save on Skytech Gaming's high-end systems",
+      "title": "Iran accuses US of ceasefire breach amid Middle East tensions",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.tomshardware.com/pc-components/score-an-rtx-5070-prebuilt-with-a-ryzen-7-7700x-and-16-gb-of-ddr5-for-usd650-off-stack-these-promo-codes-to-save-on-skytech-gamings-high-end-systems"
+      "url": "https://cryptobriefing.com/iran-accuses-us-of-ceasefire-breach-amid-middle-east-tensions/"
     },
     {
-      "title": "Barking! Now Green flop Lorna Slater's £2billion tree planting 'dream' has failed to take root",
+      "title": "Record-Setting Momentum Rally Is Drawing Doubters",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.dailymail.com/news/article-15765113/Barking-Green-flop-Lorna-Slaters-2billion-tree-planting-dream-failed-root.html"
+      "url": "https://financialpost.com/pmn/business-pmn/record-setting-momentum-rally-is-drawing-doubters"
     },
     {
-      "title": "'It's not dropped': Trump throws Pirro under the bus after she closed Jerome Powell probe",
+      "title": "Key U.S. senator lifts block on Fed chair nominee",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.rawstory.com/jerome-powell-2676814750/"
+      "url": "https://japantoday.com/category/world/key-us-senator-lifts-block-on-fed-chair-nominee"
     },
     {
-      "title": "US Market Outlook: Bullish bias intact",
+      "title": "Bitcoin nears $79K liquidity zone, $1.5B short squeeze potential at $81K",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/us-market-outlook-bullish-bias-intact/article70904361.ece"
+      "url": "https://cryptobriefing.com/bitcoin-nears-79k-liquidity-zone-15b-short-squeeze-potential-at-81k/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/13",
         "3/16",
         "3/17",
         "3/18",
@@ -109,10 +108,10 @@
         "4/21",
         "4/22",
         "4/23",
-        "4/24"
+        "4/24",
+        "4/27"
       ],
       "values": [
-        6632.19,
         6699.38,
         6716.09,
         6624.7,
@@ -141,12 +140,12 @@
         7064.01,
         7137.9,
         7108.4,
-        7165.08
+        7165.08,
+        7173.91
       ]
     },
     "gold": {
       "dates": [
-        "3/16",
         "3/17",
         "3/18",
         "3/19",
@@ -174,10 +173,10 @@
         "4/21",
         "4/22",
         "4/23",
-        "4/24"
+        "4/24",
+        "4/27"
       ],
       "values": [
-        4994.0,
         5001.0,
         4889.9,
         4600.7,
@@ -205,7 +204,8 @@
         4698.4,
         4732.5,
         4705.1,
-        4740.9
+        4722.3,
+        4697.7
       ]
     },
     "usdjpy": {
@@ -239,7 +239,7 @@
         "4/22",
         "4/23",
         "4/24",
-        "4/26"
+        "4/27"
       ],
       "values": [
         159.1,
@@ -271,12 +271,11 @@
         159.37,
         159.49,
         159.75,
-        159.51
+        159.38
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/13",
         "3/16",
         "3/17",
         "3/18",
@@ -305,10 +304,10 @@
         "4/21",
         "4/22",
         "4/23",
-        "4/24"
+        "4/24",
+        "4/27"
       ],
       "values": [
-        22105.36,
         22374.18,
         22479.53,
         22152.42,
@@ -337,7 +336,8 @@
         24259.96,
         24657.57,
         24438.5,
-        24836.6
+        24836.6,
+        24887.1
       ]
     }
   }
