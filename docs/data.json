@@ -1,86 +1,83 @@
 {
-  "updated_at": "2026-04-27 21:44 UTC",
+  "updated_at": "2026-04-28 21:49 UTC",
   "prices": {
     "sp500": {
-      "price": 7173.91,
-      "change_pct": 0.12
+      "price": 7138.8,
+      "change_pct": -0.49
     },
     "nasdaq": {
-      "price": 24887.1,
-      "change_pct": 0.2
+      "price": 24663.8,
+      "change_pct": -0.9
+    },
+    "gold": {
+      "price": 4609.6,
+      "change_pct": -1.41
     },
     "usdjpy": {
-      "price": 159.37,
-      "change_pct": -0.24
+      "price": 159.58,
+      "change_pct": 0.0
     },
     "vix": {
-      "price": 18.02,
-      "change_pct": -3.69
+      "price": 17.83,
+      "change_pct": -1.05
     },
     "usbond": {
-      "price": 4.34,
-      "change_pct": 0.7
+      "price": 4.35,
+      "change_pct": 0.23
     },
     "btc": {
-      "price": 76919.0,
-      "change_pct": -2.21
+      "price": 76320.0,
+      "change_pct": -1.35
     }
   },
   "news": [
     {
-      "title": "United States Antimony Corp. (UAMY) Delivers Robust Revenue Growth amid Higher Antimony Demand",
+      "title": "Nvidia Stock Breaks Record: Company Worth Nearly $5.3 Trillion After Surge",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/united-states-antimony-corp-uamy-211241171.html"
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/04/27/nvidia-sets-new-record-with-nearly-53-trillion-value-after-ai-darling-surges-4/"
     },
     {
-      "title": "QXO Inc. (QXO) Turns to Acquisitions to Build Industrial Conglomerate",
+      "title": "Stocks Inch Up to More Records",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qxo-inc-qxo-turns-acquisitions-205651715.html"
+      "url": "https://www.newser.com/story/388073/stocks-inch-up-to-more-records.html"
     },
     {
-      "title": "Top 3 Justin Sun Controversies: Scandals, Feuds, and Their Impact on Crypto Markets",
+      "title": "Tennessee crypto kiosk ban set to go into effect July 1",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/blockchain-news/top-3-justin-sun-controversies-scandals-feuds-and-their-impact-on-crypto-markets/"
+      "url": "https://cointelegraph.com/news/tennessee-crypto-kiosk-atm-ban-july"
     },
     {
-      "title": "Dogecoin Back At The Triangle Tip: Historical Trends Point To What Comes Next",
+      "title": "PENGU token jumps 14% amid Pudgy Penguins floor price pump",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/altcoin/dogecoin-back-at-the-triangle-tip-historical-trends-point-to-what-comes-next/"
+      "url": "https://coinjournal.net/news/pengu-token-jumps-14-amid-pudgy-penguins-floor-price-pump/"
     },
     {
-      "title": "Iran accuses US of ceasefire breach amid Middle East tensions",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/iran-accuses-us-of-ceasefire-breach-amid-middle-east-tensions/"
+      "url": "https://english.khabarhub.com/2026/27/546051/"
     },
     {
-      "title": "Record-Setting Momentum Rally Is Drawing Doubters",
+      "title": "The Middle Class Short-Term Rentals Is Dying And Luxury Is Taking Over",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/record-setting-momentum-rally-is-drawing-doubters"
+      "url": "https://skift.com/2026/04/27/the-middle-class-short-term-rentals-is-dying-and-luxury-is-taking-over/"
     },
     {
-      "title": "Key U.S. senator lifts block on Fed chair nominee",
+      "title": "Brown & Brown, Inc. announces first quarter 2026 results, including total revenues of $1.9 billion, an increase of 35.4%; flat Organic Revenue; growth of Organic Revenue with Contingents of 2.2%; diluted net income per share of $1.06; Diluted Net Income Per Share - Adjusted of $1.39; and a quarterly dividend of $0.165 per share",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://japantoday.com/category/world/key-us-senator-lifts-block-on-fed-chair-nominee"
-    },
-    {
-      "title": "Bitcoin nears $79K liquidity zone, $1.5B short squeeze potential at $81K",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/bitcoin-nears-79k-liquidity-zone-15b-short-squeeze-potential-at-81k/"
+      "url": "https://www.globenewswire.com/news-release/2026/04/27/3282088/0/en/Brown-Brown-Inc-announces-first-quarter-2026-results-including-total-revenues-of-1-9-billion-an-increase-of-35-4-flat-Organic-Revenue-growth-of-Organic-Revenue-with-Contingents-of-.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/16",
         "3/17",
         "3/18",
         "3/19",
@@ -109,10 +106,10 @@
         "4/22",
         "4/23",
         "4/24",
-        "4/27"
+        "4/27",
+        "4/28"
       ],
       "values": [
-        6699.38,
         6716.09,
         6624.7,
         6606.49,
@@ -141,12 +138,12 @@
         7137.9,
         7108.4,
         7165.08,
-        7173.91
+        7173.91,
+        7138.8
       ]
     },
     "gold": {
       "dates": [
-        "3/17",
         "3/18",
         "3/19",
         "3/20",
@@ -174,10 +171,10 @@
         "4/22",
         "4/23",
         "4/24",
-        "4/27"
+        "4/27",
+        "4/28"
       ],
       "values": [
-        5001.0,
         4889.9,
         4600.7,
         4570.4,
@@ -205,12 +202,12 @@
         4732.5,
         4705.1,
         4722.3,
-        4697.7
+        4675.4,
+        4609.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/17",
         "3/18",
         "3/19",
         "3/20",
@@ -239,10 +236,10 @@
         "4/22",
         "4/23",
         "4/24",
-        "4/27"
+        "4/27",
+        "4/28"
       ],
       "values": [
-        159.1,
         158.89,
         159.79,
         157.92,
@@ -271,12 +268,12 @@
         159.37,
         159.49,
         159.75,
-        159.38
+        159.58,
+        159.59
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/16",
         "3/17",
         "3/18",
         "3/19",
@@ -305,10 +302,10 @@
         "4/22",
         "4/23",
         "4/24",
-        "4/27"
+        "4/27",
+        "4/28"
       ],
       "values": [
-        22374.18,
         22479.53,
         22152.42,
         22090.69,
@@ -337,7 +334,8 @@
         24657.57,
         24438.5,
         24836.6,
-        24887.1
+        24887.1,
+        24663.8
       ]
     }
   }
