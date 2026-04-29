@@ -1,84 +1,89 @@
 {
-  "updated_at": "2026-04-28 21:49 UTC",
+  "updated_at": "2026-04-29 21:50 UTC",
   "prices": {
     "sp500": {
-      "price": 7138.8,
-      "change_pct": -0.49
+      "price": 7135.95,
+      "change_pct": -0.04
     },
     "nasdaq": {
-      "price": 24663.8,
-      "change_pct": -0.9
+      "price": 24673.24,
+      "change_pct": 0.04
     },
     "gold": {
-      "price": 4609.6,
-      "change_pct": -1.41
+      "price": 4557.3,
+      "change_pct": -0.74
     },
     "usdjpy": {
-      "price": 159.58,
-      "change_pct": 0.0
+      "price": 160.31,
+      "change_pct": 0.6
     },
     "vix": {
-      "price": 17.83,
-      "change_pct": -1.05
+      "price": 18.81,
+      "change_pct": 5.5
     },
     "usbond": {
-      "price": 4.35,
-      "change_pct": 0.23
+      "price": 4.42,
+      "change_pct": 1.61
     },
     "btc": {
-      "price": 76320.0,
-      "change_pct": -1.35
+      "price": 75986.0,
+      "change_pct": -0.48
     }
   },
   "news": [
     {
-      "title": "Nvidia Stock Breaks Record: Company Worth Nearly $5.3 Trillion After Surge",
+      "title": "How major US stock indexes fared Tuesday 4/28/2026",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/04/27/nvidia-sets-new-record-with-nearly-53-trillion-value-after-ai-darling-surges-4/"
+      "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-4-28-2026-22230775.php"
     },
     {
-      "title": "Stocks Inch Up to More Records",
+      "title": "Sinking AI Stocks, Rising Oil Prices Weigh on Wall Street",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/388073/stocks-inch-up-to-more-records.html"
+      "url": "https://www.newser.com/story/388168/sinking-ai-stocks-rising-oil-prices-weigh-on-wall-street.html"
     },
     {
-      "title": "Tennessee crypto kiosk ban set to go into effect July 1",
+      "title": "Robinhood Shares Slide on 34% Decrease in Crypto Revenue",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/tennessee-crypto-kiosk-atm-ban-july"
+      "url": "https://decrypt.co/365876/robinhood-shares-slide-34-decrease-crypto-revenue"
     },
     {
-      "title": "PENGU token jumps 14% amid Pudgy Penguins floor price pump",
+      "title": "BitsStrategy Unveils Free AI Crypto Trading Bot for 24/7 Automated Market Opportunities",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://coinjournal.net/news/pengu-token-jumps-14-amid-pudgy-penguins-floor-price-pump/"
+      "url": "https://www.globenewswire.com/news-release/2026/04/28/3283101/0/en/BitsStrategy-Unveils-Free-AI-Crypto-Trading-Bot-for-24-7-Automated-Market-Opportunities.html"
     },
     {
       "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/27/546051/"
+      "url": "https://english.khabarhub.com/2026/28/546202/"
     },
     {
-      "title": "The Middle Class Short-Term Rentals Is Dying And Luxury Is Taking Over",
+      "title": "Trump wants do-over of failed airline fantasy — at taxpayers’ expense",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://skift.com/2026/04/27/the-middle-class-short-term-rentals-is-dying-and-luxury-is-taking-over/"
+      "url": "https://www.salon.com/2026/04/28/trump-wants-do-over-of-failed-airline-fantasy-at-taxpayers-expense/"
     },
     {
-      "title": "Brown & Brown, Inc. announces first quarter 2026 results, including total revenues of $1.9 billion, an increase of 35.4%; flat Organic Revenue; growth of Organic Revenue with Contingents of 2.2%; diluted net income per share of $1.06; Diluted Net Income Per Share - Adjusted of $1.39; and a quarterly dividend of $0.165 per share",
+      "title": "Sound Financial Bancorp, Inc. Q1 2026 Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/27/3282088/0/en/Brown-Brown-Inc-announces-first-quarter-2026-results-including-total-revenues-of-1-9-billion-an-increase-of-35-4-flat-Organic-Revenue-growth-of-Organic-Revenue-with-Contingents-of-.html"
+      "url": "https://www.globenewswire.com/news-release/2026/04/28/3283270/20398/en/Sound-Financial-Bancorp-Inc-Q1-2026-Results.html"
+    },
+    {
+      "title": "First Busey Corporation Announces 2026 First Quarter Earnings",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.globenewswire.com/news-release/2026/04/28/3283255/10701/en/First-Busey-Corporation-Announces-2026-First-Quarter-Earnings.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/17",
         "3/18",
         "3/19",
         "3/20",
@@ -107,10 +112,10 @@
         "4/23",
         "4/24",
         "4/27",
-        "4/28"
+        "4/28",
+        "4/29"
       ],
       "values": [
-        6716.09,
         6624.7,
         6606.49,
         6506.48,
@@ -139,12 +144,12 @@
         7108.4,
         7165.08,
         7173.91,
-        7138.8
+        7138.8,
+        7135.95
       ]
     },
     "gold": {
       "dates": [
-        "3/18",
         "3/19",
         "3/20",
         "3/23",
@@ -172,10 +177,10 @@
         "4/23",
         "4/24",
         "4/27",
-        "4/28"
+        "4/28",
+        "4/29"
       ],
       "values": [
-        4889.9,
         4600.7,
         4570.4,
         4404.1,
@@ -203,12 +208,12 @@
         4705.1,
         4722.3,
         4675.4,
-        4609.6
+        4591.5,
+        4557.3
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/18",
         "3/19",
         "3/20",
         "3/23",
@@ -237,10 +242,10 @@
         "4/23",
         "4/24",
         "4/27",
-        "4/28"
+        "4/28",
+        "4/29"
       ],
       "values": [
-        158.89,
         159.79,
         157.92,
         159.23,
@@ -269,12 +274,12 @@
         159.49,
         159.75,
         159.58,
-        159.59
+        159.36,
+        160.31
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/17",
         "3/18",
         "3/19",
         "3/20",
@@ -303,10 +308,10 @@
         "4/23",
         "4/24",
         "4/27",
-        "4/28"
+        "4/28",
+        "4/29"
       ],
       "values": [
-        22479.53,
         22152.42,
         22090.69,
         21647.61,
@@ -335,7 +340,8 @@
         24438.5,
         24836.6,
         24887.1,
-        24663.8
+        24663.8,
+        24673.24
       ]
     }
   }
