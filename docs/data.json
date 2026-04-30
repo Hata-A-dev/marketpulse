@@ -1,90 +1,89 @@
 {
-  "updated_at": "2026-04-29 21:50 UTC",
+  "updated_at": "2026-04-30 21:45 UTC",
   "prices": {
     "sp500": {
-      "price": 7135.95,
-      "change_pct": -0.04
+      "price": 7209.01,
+      "change_pct": 1.02
     },
     "nasdaq": {
-      "price": 24673.24,
-      "change_pct": 0.04
+      "price": 24892.31,
+      "change_pct": 0.89
     },
     "gold": {
-      "price": 4557.3,
-      "change_pct": -0.74
+      "price": 4636.0,
+      "change_pct": 2.0
     },
     "usdjpy": {
-      "price": 160.31,
-      "change_pct": 0.6
+      "price": 156.65,
+      "change_pct": -1.82
     },
     "vix": {
-      "price": 18.81,
-      "change_pct": 5.5
+      "price": 16.89,
+      "change_pct": -10.21
     },
     "usbond": {
-      "price": 4.42,
-      "change_pct": 1.61
+      "price": 4.39,
+      "change_pct": -0.68
     },
     "btc": {
-      "price": 75986.0,
-      "change_pct": -0.48
+      "price": 76351.0,
+      "change_pct": 0.76
     }
   },
   "news": [
     {
-      "title": "How major US stock indexes fared Tuesday 4/28/2026",
+      "title": "Big Tech earnings test record stock market rally as AI spending takes center stage",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-tuesday-4-28-2026-22230775.php"
+      "url": "https://www.nbcnews.com/business/markets/big-tech-ai-earnings-alphabet-meta-amazon-microsoft-rcna342796"
     },
     {
-      "title": "Sinking AI Stocks, Rising Oil Prices Weigh on Wall Street",
+      "title": "Stocks Hold Near Records Despite Surge in Oil Prices",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/388168/sinking-ai-stocks-rising-oil-prices-weigh-on-wall-street.html"
+      "url": "https://www.newser.com/story/388245/stocks-hold-near-records-despite-surge-in-oil-prices.html"
     },
     {
-      "title": "Robinhood Shares Slide on 34% Decrease in Crypto Revenue",
+      "title": "Bitcoin Sees Declining Short-Term Activity Amid Gradual Upside Momentum",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/365876/robinhood-shares-slide-34-decrease-crypto-revenue"
+      "url": "https://bitcoinist.com/bitcoin-declining-sth-activity/"
     },
     {
-      "title": "BitsStrategy Unveils Free AI Crypto Trading Bot for 24/7 Automated Market Opportunities",
+      "title": "Abits Group Inc Reports Full Year 2025 Results with 37% Revenue Growth; Expands Bitcoin Mining Operations to 760 PH/s Combined Hash Rate",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/28/3283101/0/en/BitsStrategy-Unveils-Free-AI-Crypto-Trading-Bot-for-24-7-Automated-Market-Opportunities.html"
+      "url": "https://www.globenewswire.com/news-release/2026/04/29/3284316/0/en/Abits-Group-Inc-Reports-Full-Year-2025-Results-with-37-Revenue-Growth-Expands-Bitcoin-Mining-Operations-to-760-PH-s-Combined-Hash-Rate.html"
     },
     {
       "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/28/546202/"
+      "url": "https://english.khabarhub.com/2026/29/546357/"
     },
     {
-      "title": "Trump wants do-over of failed airline fantasy — at taxpayers’ expense",
+      "title": "S&P/TSX composite down more than 200 points as oil tops US$100 per barrel",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.salon.com/2026/04/28/trump-wants-do-over-of-failed-airline-fantasy-at-taxpayers-expense/"
+      "url": "https://www.bnnbloomberg.ca/business/2026/04/29/sptsx-composite-down-more-than-200-points-as-oil-tops-us100-per-barrel/"
     },
     {
-      "title": "Sound Financial Bancorp, Inc. Q1 2026 Results",
+      "title": "US stocks close mixed ahead of big tech earnings",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/28/3283270/20398/en/Sound-Financial-Bancorp-Inc-Q1-2026-Results.html"
+      "url": "https://www.straitstimes.com/business/companies-markets/us-stocks-close-mixed-ahead-of-big-tech-earnings"
     },
     {
-      "title": "First Busey Corporation Announces 2026 First Quarter Earnings",
+      "title": "Powell plans to stay on at Fed after his term as chair ends, citing legal actions by administration",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/28/3283255/10701/en/First-Busey-Corporation-Announces-2026-First-Quarter-Earnings.html"
+      "url": "https://japantoday.com/category/world/fed-likely-to-leave-rates-unchanged-at-what-may-be-powell%27s-last-meeting-as-warsh-to-advance"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/18",
         "3/19",
         "3/20",
         "3/23",
@@ -113,10 +112,10 @@
         "4/24",
         "4/27",
         "4/28",
-        "4/29"
+        "4/29",
+        "4/30"
       ],
       "values": [
-        6624.7,
         6606.49,
         6506.48,
         6581.0,
@@ -145,12 +144,12 @@
         7165.08,
         7173.91,
         7138.8,
-        7135.95
+        7135.95,
+        7209.01
       ]
     },
     "gold": {
       "dates": [
-        "3/19",
         "3/20",
         "3/23",
         "3/24",
@@ -178,10 +177,10 @@
         "4/24",
         "4/27",
         "4/28",
-        "4/29"
+        "4/29",
+        "4/30"
       ],
       "values": [
-        4600.7,
         4570.4,
         4404.1,
         4399.3,
@@ -209,12 +208,12 @@
         4722.3,
         4675.4,
         4591.5,
-        4557.3
+        4545.2,
+        4636.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/19",
         "3/20",
         "3/23",
         "3/24",
@@ -243,10 +242,10 @@
         "4/24",
         "4/27",
         "4/28",
-        "4/29"
+        "4/29",
+        "4/30"
       ],
       "values": [
-        159.79,
         157.92,
         159.23,
         158.48,
@@ -275,12 +274,12 @@
         159.75,
         159.58,
         159.36,
-        160.31
+        159.55,
+        156.65
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/18",
         "3/19",
         "3/20",
         "3/23",
@@ -309,10 +308,10 @@
         "4/24",
         "4/27",
         "4/28",
-        "4/29"
+        "4/29",
+        "4/30"
       ],
       "values": [
-        22152.42,
         22090.69,
         21647.61,
         21946.76,
@@ -341,7 +340,8 @@
         24836.6,
         24887.1,
         24663.8,
-        24673.24
+        24673.24,
+        24892.31
       ]
     }
   }
