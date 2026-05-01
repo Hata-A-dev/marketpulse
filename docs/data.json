@@ -1,90 +1,83 @@
 {
-  "updated_at": "2026-04-30 21:45 UTC",
+  "updated_at": "2026-05-01 21:41 UTC",
   "prices": {
     "sp500": {
-      "price": 7209.01,
-      "change_pct": 1.02
+      "price": 7230.12,
+      "change_pct": 0.29
     },
     "nasdaq": {
-      "price": 24892.31,
+      "price": 25114.44,
       "change_pct": 0.89
     },
     "gold": {
-      "price": 4636.0,
-      "change_pct": 2.0
+      "price": 4625.6,
+      "change_pct": 0.24
     },
     "usdjpy": {
-      "price": 156.65,
-      "change_pct": -1.82
+      "price": 157.03,
+      "change_pct": -1.97
     },
     "vix": {
-      "price": 16.89,
-      "change_pct": -10.21
+      "price": 16.99,
+      "change_pct": 0.59
     },
     "usbond": {
-      "price": 4.39,
-      "change_pct": -0.68
+      "price": 4.38,
+      "change_pct": -0.23
     },
     "btc": {
-      "price": 76351.0,
-      "change_pct": 0.76
+      "price": 78148.0,
+      "change_pct": 2.42
     }
   },
   "news": [
     {
-      "title": "Big Tech earnings test record stock market rally as AI spending takes center stage",
+      "title": "20VC x SaaStr: When the Agents Pick the Models, OpenAI Comes Back to Life, and Thoma Bravo Just Wiped Out $5.1B on Medallia",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.nbcnews.com/business/markets/big-tech-ai-earnings-alphabet-meta-amazon-microsoft-rcna342796"
+      "url": "https://www.saastr.com/20vc-x-saastr-when-the-agents-pick-the-models-openai-comes-back-to-life-and-thoma-bravo-just-wiped-out-5-1b-on-medallia/"
     },
     {
-      "title": "Stocks Hold Near Records Despite Surge in Oil Prices",
+      "title": "Disney is slashing stock-based compensation for some tech employees",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/388245/stocks-hold-near-records-despite-surge-in-oil-prices.html"
+      "url": "https://www.businessinsider.com/disney-reduces-tech-employees-stock-based-compensation-2026-4"
     },
     {
-      "title": "Bitcoin Sees Declining Short-Term Activity Amid Gradual Upside Momentum",
+      "title": "Stablecoins overtake Bitcoin in Latin America crypto purchases — Bitso",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinist.com/bitcoin-declining-sth-activity/"
+      "url": "https://cointelegraph.com/news/stablecoins-surpass-bitcoin-latin-america-crypto-purchases-bitso-report"
     },
     {
-      "title": "Abits Group Inc Reports Full Year 2025 Results with 37% Revenue Growth; Expands Bitcoin Mining Operations to 760 PH/s Combined Hash Rate",
+      "title": "Juvthorix Unveiled: Should You Join Juvthorix? Hidden Features, Performance, Fees & Real User Insights!",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/04/29/3284316/0/en/Abits-Group-Inc-Reports-Full-Year-2025-Results-with-37-Revenue-Growth-Expands-Bitcoin-Mining-Operations-to-760-PH-s-Combined-Hash-Rate.html"
+      "url": "https://www.globenewswire.com/news-release/2026/04/30/3285544/0/en/Juvthorix-Unveiled-Should-You-Join-Juvthorix-Hidden-Features-Performance-Fees-Real-User-Insights.html"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "How Women Are Reclaiming the \"Lipstick Effect\" Through Jewelry",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/29/546357/"
+      "url": "https://www.highsnobiety.com/p/the-lipstick-effect-through-jewelry-round-up/"
     },
     {
-      "title": "S&P/TSX composite down more than 200 points as oil tops US$100 per barrel",
+      "title": "Why U.S. Macroeconomic Data Drives Bitcoin Price in 2026: Inflation, Interest Rates, and Liquidity Impact Explained",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.bnnbloomberg.ca/business/2026/04/29/sptsx-composite-down-more-than-200-points-as-oil-tops-us100-per-barrel/"
+      "url": "https://bitcoinfoundation.org/news/bitcoin/why-u-s-macroeconomic-data-drives-bitcoin-price-in-2026-inflation-interest-rates-and-liquidity-impact-explained/"
     },
     {
-      "title": "US stocks close mixed ahead of big tech earnings",
+      "title": "Weekly U.S. jobless claims fall to 189,000, lowest in more than five decades",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.straitstimes.com/business/companies-markets/us-stocks-close-mixed-ahead-of-big-tech-earnings"
-    },
-    {
-      "title": "Powell plans to stay on at Fed after his term as chair ends, citing legal actions by administration",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://japantoday.com/category/world/fed-likely-to-leave-rates-unchanged-at-what-may-be-powell%27s-last-meeting-as-warsh-to-advance"
+      "url": "https://www.pbs.org/newshour/economy/weekly-u-s-jobless-claims-fall-to-189000-lowest-in-more-than-five-decades"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/19",
         "3/20",
         "3/23",
         "3/24",
@@ -113,10 +106,10 @@
         "4/27",
         "4/28",
         "4/29",
-        "4/30"
+        "4/30",
+        "5/1"
       ],
       "values": [
-        6606.49,
         6506.48,
         6581.0,
         6556.37,
@@ -145,12 +138,12 @@
         7173.91,
         7138.8,
         7135.95,
-        7209.01
+        7209.01,
+        7230.12
       ]
     },
     "gold": {
       "dates": [
-        "3/20",
         "3/23",
         "3/24",
         "3/25",
@@ -178,10 +171,10 @@
         "4/27",
         "4/28",
         "4/29",
-        "4/30"
+        "4/30",
+        "5/1"
       ],
       "values": [
-        4570.4,
         4404.1,
         4399.3,
         4549.8,
@@ -209,12 +202,12 @@
         4675.4,
         4591.5,
         4545.2,
-        4636.0
+        4614.7,
+        4625.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/20",
         "3/23",
         "3/24",
         "3/25",
@@ -243,10 +236,10 @@
         "4/27",
         "4/28",
         "4/29",
-        "4/30"
+        "4/30",
+        "5/1"
       ],
       "values": [
-        157.92,
         159.23,
         158.48,
         158.72,
@@ -275,12 +268,12 @@
         159.58,
         159.36,
         159.55,
-        156.65
+        160.18,
+        157.03
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/19",
         "3/20",
         "3/23",
         "3/24",
@@ -309,10 +302,10 @@
         "4/27",
         "4/28",
         "4/29",
-        "4/30"
+        "4/30",
+        "5/1"
       ],
       "values": [
-        22090.69,
         21647.61,
         21946.76,
         21761.89,
@@ -341,7 +334,8 @@
         24887.1,
         24663.8,
         24673.24,
-        24892.31
+        24892.31,
+        25114.44
       ]
     }
   }
