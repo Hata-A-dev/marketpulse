@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02 21:29 UTC",
+  "updated_at": "2026-05-03 21:31 UTC",
   "prices": {
     "sp500": {
       "price": 7230.12,
@@ -8,10 +8,6 @@
     "nasdaq": {
       "price": 25114.44,
       "change_pct": 0.89
-    },
-    "gold": {
-      "price": 4629.9,
-      "change_pct": 0.33
     },
     "usdjpy": {
       "price": 157.03,
@@ -26,58 +22,46 @@
       "change_pct": -0.23
     },
     "btc": {
-      "price": 78497.0,
-      "change_pct": 0.41
+      "price": 78928.0,
+      "change_pct": 0.34
     }
   },
   "news": [
     {
-      "title": "S&P 500, Nasdaq end higher, notch weekly gains after earnings-heavy week",
+      "title": "Goldman Sachs says the S&P 500's run past 7,100 is 'froth' — a previous time Wall Street said that, a crash followed",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-end-higher-notch-weekly-gains-after-earnings-heavy-week"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-p-500s-194500078.html"
     },
     {
-      "title": "More Big Profits Propel Indexes",
-      "tag": "株式",
-      "ago": "1日前",
-      "url": "https://www.newser.com/story/388409/more-big-profits-propel-indexes.html"
-    },
-    {
-      "title": "Three Bitcoin data points suggest a rally to $80K is imminent",
+      "title": "CryptoQuant warns Bitcoin’s April surge speculative, correction risk looms",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/markets/3-bitcoin-data-points-suggest-rally-to-80k-is-imminent"
+      "url": "https://cryptobriefing.com/cryptoquant-warns-bitcoins-april-surge-speculative-correction-risk-looms/"
     },
     {
-      "title": "US Hits Iran With $500M Crypto Seizure In Major Financial Offensive",
+      "title": "Bitcoin Clings To Key Support: EMA Reclaim Vs $78,000 Resistance Showdown",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinist.com/us-hits-iran-with-500m-crypto-seizure-in-major-financial-offensive/"
+      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-clings-to-key-support/"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "How to Trade Gold as Supply Chain Disruptions Push Commodity Prices Closer to Fresh Records",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/01/546627/"
+      "url": "https://www.vanguardngr.com/2026/05/how-to-trade-gold-as-supply-chain-disruptions-push-commodity-prices-closer-to-fresh-records/"
     },
     {
-      "title": "Should MPC have hiked rates?",
+      "title": "Disney Is Struggling to Sell D23 Tickets, and the Economy Is Being Blamed",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/opinion/should-mpc-have-hiked-rates/article70929357.ece"
+      "url": "https://insidethemagic.net/2026/05/disney-is-struggling-to-sell-d23-tickets-and-the-economy-is-being-blamed-el1/"
     },
     {
-      "title": "Why are gold and silver prices up today, and will gold reach $4,800 and silver touch $90 again? Analysts insights, market outlook and what should investors do now",
+      "title": "Iran conflict drives oil prices over $100, impacting Fed rate cut outlook",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-gold-and-silver-prices-up-today-and-will-gold-reach-4800-and-silver-touch-90-again-analysts-insights-market-outlook-and-what-should-investors-do-now/articleshow/130702961.cms"
-    },
-    {
-      "title": "Will the Next Fed Chairman Be More Compliant With Trump?",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "http://foreignpolicy.com/2026/05/01/adam-tooze-kevin-warsh-federal-reserve-trump-interest-rates/"
+      "url": "https://cryptobriefing.com/iran-conflict-drives-oil-prices-over-100-impacting-fed-rate-cut-outlook/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -209,7 +193,7 @@
         4591.5,
         4545.2,
         4614.7,
-        4629.9
+        4644.5
       ]
     },
     "usdjpy": {
