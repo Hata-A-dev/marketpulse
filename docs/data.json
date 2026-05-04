@@ -1,74 +1,85 @@
 {
-  "updated_at": "2026-05-03 21:31 UTC",
+  "updated_at": "2026-05-04 21:51 UTC",
   "prices": {
     "sp500": {
-      "price": 7230.12,
-      "change_pct": 0.29
+      "price": 7200.75,
+      "change_pct": -0.41
     },
     "nasdaq": {
-      "price": 25114.44,
-      "change_pct": 0.89
+      "price": 25067.8,
+      "change_pct": -0.19
     },
     "usdjpy": {
-      "price": 157.03,
-      "change_pct": -1.97
+      "price": 157.14,
+      "change_pct": 0.1
     },
     "vix": {
-      "price": 16.99,
-      "change_pct": 0.59
+      "price": 18.29,
+      "change_pct": 7.65
     },
     "usbond": {
-      "price": 4.38,
-      "change_pct": -0.23
+      "price": 4.45,
+      "change_pct": 1.6
     },
     "btc": {
-      "price": 78928.0,
-      "change_pct": 0.34
+      "price": 80350.0,
+      "change_pct": 2.31
     }
   },
   "news": [
     {
-      "title": "Goldman Sachs says the S&P 500's run past 7,100 is 'froth' — a previous time Wall Street said that, a crash followed",
+      "title": "Young investors drawn to Singapore equities as safe harbour amid wild seas",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-p-500s-194500078.html"
+      "url": "https://www.straitstimes.com/business/young-investors-drawn-to-singapore-equities-as-safe-harbour-amid-wild-seas"
     },
     {
-      "title": "CryptoQuant warns Bitcoin’s April surge speculative, correction risk looms",
+      "title": "'It's worse than that': Expert shares sobering warning as Trump's 'defects' get worse",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://www.rawstory.com/trump-2676845714/"
+    },
+    {
+      "title": "CryptoQuant warns Bitcoin rally lacks support, signals potential decline",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/cryptoquant-warns-bitcoins-april-surge-speculative-correction-risk-looms/"
+      "url": "https://cryptobriefing.com/cryptoquant-warns-bitcoin-rally-lacks-support-signals-potential-decline/"
     },
     {
-      "title": "Bitcoin Clings To Key Support: EMA Reclaim Vs $78,000 Resistance Showdown",
+      "title": "Bitcoin miners pivot to AI, impacting $115K price target for May 2026",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-clings-to-key-support/"
+      "url": "https://cryptobriefing.com/bitcoin-miners-pivot-to-ai-impacting-115k-price-target-for-may-2026/"
     },
     {
-      "title": "How to Trade Gold as Supply Chain Disruptions Push Commodity Prices Closer to Fresh Records",
+      "title": "As fuel costs soar, cycling advocates argue our priorities are all wrong",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.vanguardngr.com/2026/05/how-to-trade-gold-as-supply-chain-disruptions-push-commodity-prices-closer-to-fresh-records/"
+      "url": "https://www.abc.net.au/news/2026-05-04/ebikes-surge-fuel-crisis-cars-darwin-wait-list-iran-war/106612904"
     },
     {
-      "title": "Disney Is Struggling to Sell D23 Tickets, and the Economy Is Being Blamed",
+      "title": "How the US Pulled Off an Armed Robbery of the World’s Energy Supply and Created the Petrogas Dollar. “Chaos is the Objective”",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://insidethemagic.net/2026/05/disney-is-struggling-to-sell-d23-tickets-and-the-economy-is-being-blamed-el1/"
+      "url": "https://www.globalresearch.ca/us-armed-robbery-world-energy-supply-petrogas-dollar/5924769"
     },
     {
-      "title": "Iran conflict drives oil prices over $100, impacting Fed rate cut outlook",
+      "title": "Hawkish RBA Shapes as Global Outlier With Third Hike Priced In",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/iran-conflict-drives-oil-prices-over-100-impacting-fed-rate-cut-outlook/"
+      "url": "https://financialpost.com/pmn/business-pmn/hawkish-rba-shapes-as-global-outlier-with-third-hike-priced-in"
+    },
+    {
+      "title": "Tokyo Intervenes in Currency Markets to Halt Rapid Yen Weakness",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://newsonjapan.com/article/149097.php"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/20",
         "3/23",
         "3/24",
         "3/25",
@@ -97,10 +108,10 @@
         "4/28",
         "4/29",
         "4/30",
-        "5/1"
+        "5/1",
+        "5/4"
       ],
       "values": [
-        6506.48,
         6581.0,
         6556.37,
         6591.9,
@@ -129,12 +140,12 @@
         7138.8,
         7135.95,
         7209.01,
-        7230.12
+        7230.12,
+        7200.75
       ]
     },
     "gold": {
       "dates": [
-        "3/23",
         "3/24",
         "3/25",
         "3/26",
@@ -162,10 +173,10 @@
         "4/28",
         "4/29",
         "4/30",
-        "5/1"
+        "5/1",
+        "5/4"
       ],
       "values": [
-        4404.1,
         4399.3,
         4549.8,
         4375.5,
@@ -193,12 +204,12 @@
         4591.5,
         4545.2,
         4614.7,
-        4644.5
+        4629.9,
+        4532.4
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/23",
         "3/24",
         "3/25",
         "3/26",
@@ -227,10 +238,10 @@
         "4/28",
         "4/29",
         "4/30",
-        "5/1"
+        "5/1",
+        "5/4"
       ],
       "values": [
-        159.23,
         158.48,
         158.72,
         159.38,
@@ -259,12 +270,12 @@
         159.36,
         159.55,
         160.18,
-        157.03
+        156.98,
+        157.14
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/20",
         "3/23",
         "3/24",
         "3/25",
@@ -293,10 +304,10 @@
         "4/28",
         "4/29",
         "4/30",
-        "5/1"
+        "5/1",
+        "5/4"
       ],
       "values": [
-        21647.61,
         21946.76,
         21761.89,
         21929.82,
@@ -325,7 +336,8 @@
         24663.8,
         24673.24,
         24892.31,
-        25114.44
+        25114.44,
+        25067.8
       ]
     }
   }
