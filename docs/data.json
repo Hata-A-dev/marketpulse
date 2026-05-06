@@ -1,84 +1,89 @@
 {
-  "updated_at": "2026-05-05 21:51 UTC",
+  "updated_at": "2026-05-06 21:50 UTC",
   "prices": {
     "sp500": {
-      "price": 7259.22,
-      "change_pct": 0.81
+      "price": 7365.12,
+      "change_pct": 1.46
     },
     "nasdaq": {
-      "price": 25326.12,
-      "change_pct": 1.03
+      "price": 25838.94,
+      "change_pct": 2.02
     },
     "gold": {
-      "price": 4567.8,
-      "change_pct": 1.07
+      "price": 4703.1,
+      "change_pct": 3.23
     },
     "usdjpy": {
-      "price": 157.88,
-      "change_pct": 0.66
+      "price": 156.28,
+      "change_pct": -0.58
     },
     "vix": {
-      "price": 17.38,
-      "change_pct": -4.98
+      "price": 17.39,
+      "change_pct": 0.06
     },
     "usbond": {
-      "price": 4.42,
-      "change_pct": -0.67
+      "price": 4.36,
+      "change_pct": -1.36
     },
     "btc": {
-      "price": 80937.0,
-      "change_pct": 1.39
+      "price": 81569.0,
+      "change_pct": 0.79
     }
   },
   "news": [
     {
-      "title": "S&P 500 falls from record high on Middle East worries",
+      "title": "Live: ASX to rise following gains on Wall St",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.straitstimes.com/business/companies-markets/sp-500-falls-from-record-high-on-middle-east-worries"
+      "url": "https://www.abc.net.au/news/2026-05-06/asx-markets-business-news-live-updates-wednesday-6-may/106646208"
     },
     {
-      "title": "Trading Day: The oil, bonds tango",
+      "title": "Russel Metals Announces 2026 First Quarter Results",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/trading-day-oil-bonds-tango-6099501"
+      "url": "https://www.prnewswire.com/news-releases/russel-metals-announces-2026-first-quarter-results-302763149.html"
     },
     {
-      "title": "Western Union Officially Rolls Out USDPT Stablecoin on Solana Blockchain",
+      "title": "Bitcoin Price Could See A Double-Digit Crash Soon, According To The 750-Day Cycle",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/05/04/western-union-officially-rolls-out-usdpt-stablecoin-on-solana-blockchain/"
+      "url": "https://bitcoinist.com/bitcoin-double-digit-crash/"
     },
     {
-      "title": "What Is Crypto Scalping and How Does It Work? Best Scalping Strategies Explained",
+      "title": "Saylor's Strategy posts wider quarterly loss on bitcoin slump",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/altcoins/what-is-crypto-scalping-and-how-does-it-work-best-scalping-strategies/"
+      "url": "https://www.channelnewsasia.com/business/saylors-strategy-posts-wider-quarterly-loss-bitcoin-slump-6102191"
     },
     {
-      "title": "Gold Plunges Over 2% to $4,527 as Pullback Deepens in Volatile 2026 Market",
+      "title": "Great British Motoring: The Story of the Mini – How a Tiny Car Changed Everything",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.ibtimes.com.au/gold-plunges-over-2-4527-pullback-deepens-volatile-2026-market-1868189"
+      "url": "https://anglotopia.net/columns/great-british-motoring-columns/great-british-motors-the-story-of-the-mini-how-a-tiny-car-changed-everything/"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "Why a gold investment makes sense this May",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/04/547124/"
+      "url": "https://www.cbsnews.com/news/why-gold-investment-makes-sense-may-2026/"
     },
     {
-      "title": "Flagship Communities Real Estate Investment Trust Announces First Quarter 2026 Results",
+      "title": "Live: Angus Taylor says rate decision is a 'hammer blow' to mortgage holders",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/04/3287201/0/en/Flagship-Communities-Real-Estate-Investment-Trust-Announces-First-Quarter-2026-Results.html"
+      "url": "https://www.abc.net.au/news/2026-05-06/federal-politics-live-blog-rates-reaction/106645282"
+    },
+    {
+      "title": "Talos Energy Announces First Quarter 2026 Operational and Financial Results",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.prnewswire.com/news-releases/talos-energy-announces-first-quarter-2026-operational-and-financial-results-302763106.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/24",
         "3/25",
         "3/26",
         "3/27",
@@ -107,10 +112,10 @@
         "4/30",
         "5/1",
         "5/4",
-        "5/5"
+        "5/5",
+        "5/6"
       ],
       "values": [
-        6556.37,
         6591.9,
         6477.16,
         6368.85,
@@ -139,12 +144,12 @@
         7209.01,
         7230.12,
         7200.75,
-        7259.22
+        7259.22,
+        7365.12
       ]
     },
     "gold": {
       "dates": [
-        "3/25",
         "3/26",
         "3/27",
         "3/30",
@@ -172,10 +177,10 @@
         "4/30",
         "5/1",
         "5/4",
-        "5/5"
+        "5/5",
+        "5/6"
       ],
       "values": [
-        4549.8,
         4375.5,
         4492.0,
         4526.0,
@@ -203,12 +208,12 @@
         4614.7,
         4629.9,
         4519.5,
-        4567.8
+        4555.8,
+        4703.1
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/25",
         "3/26",
         "3/27",
         "3/30",
@@ -237,10 +242,10 @@
         "4/30",
         "5/1",
         "5/4",
-        "5/5"
+        "5/5",
+        "5/6"
       ],
       "values": [
-        158.72,
         159.38,
         159.7,
         160.23,
@@ -269,12 +274,12 @@
         160.18,
         156.98,
         156.85,
-        157.88
+        157.19,
+        156.28
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/24",
         "3/25",
         "3/26",
         "3/27",
@@ -303,10 +308,10 @@
         "4/30",
         "5/1",
         "5/4",
-        "5/5"
+        "5/5",
+        "5/6"
       ],
       "values": [
-        21761.89,
         21929.82,
         21408.08,
         20948.36,
@@ -335,7 +340,8 @@
         24892.31,
         25114.44,
         25067.8,
-        25326.12
+        25326.13,
+        25838.94
       ]
     }
   }
