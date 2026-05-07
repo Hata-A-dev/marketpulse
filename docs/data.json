@@ -1,90 +1,89 @@
 {
-  "updated_at": "2026-05-06 21:50 UTC",
+  "updated_at": "2026-05-07 21:44 UTC",
   "prices": {
     "sp500": {
-      "price": 7365.12,
-      "change_pct": 1.46
+      "price": 7337.11,
+      "change_pct": -0.38
     },
     "nasdaq": {
-      "price": 25838.94,
-      "change_pct": 2.02
+      "price": 25806.2,
+      "change_pct": -0.13
     },
     "gold": {
-      "price": 4703.1,
-      "change_pct": 3.23
+      "price": 4696.0,
+      "change_pct": 0.3
     },
     "usdjpy": {
-      "price": 156.28,
-      "change_pct": -0.58
+      "price": 156.8,
+      "change_pct": -0.56
     },
     "vix": {
-      "price": 17.39,
-      "change_pct": 0.06
+      "price": 17.08,
+      "change_pct": -1.78
     },
     "usbond": {
-      "price": 4.36,
-      "change_pct": -1.36
+      "price": 4.39,
+      "change_pct": 0.69
     },
     "btc": {
-      "price": 81569.0,
-      "change_pct": 0.79
+      "price": 79803.0,
+      "change_pct": -2.0
     }
   },
   "news": [
     {
-      "title": "Live: ASX to rise following gains on Wall St",
+      "title": "Stocks Leap Higher on Hopes for Hormuz Reopening",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-05-06/asx-markets-business-news-live-updates-wednesday-6-may/106646208"
+      "url": "https://www.newser.com/story/388685/stocks-leap-higher-on-hopes-for-hormuz-reopening.html"
     },
     {
-      "title": "Russel Metals Announces 2026 First Quarter Results",
+      "title": "ATN International, Inc. Reports First Quarter 2026 Results; Reaffirms 2026 Outlook",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/russel-metals-announces-2026-first-quarter-results-302763149.html"
+      "url": "https://www.globenewswire.com/news-release/2026/05/06/3289430/12418/en/ATN-International-Inc-Reports-First-Quarter-2026-Results-Reaffirms-2026-Outlook.html"
     },
     {
-      "title": "Bitcoin Price Could See A Double-Digit Crash Soon, According To The 750-Day Cycle",
+      "title": "Find New Crypto Coins Before They Explode in 2026: Signals, Tools & On-Chain",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinist.com/bitcoin-double-digit-crash/"
+      "url": "https://bitcoinfoundation.org/news/altcoins/find-new-crypto-coins-before-they-explode/"
     },
     {
-      "title": "Saylor's Strategy posts wider quarterly loss on bitcoin slump",
+      "title": "XRP Price Is Replicating The 2017 Trend And The Implications Are Parabolic",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/saylors-strategy-posts-wider-quarterly-loss-bitcoin-slump-6102191"
+      "url": "http://www.newsbtc.com/analysis/xrp/xrp-replicate-2017-trend/"
     },
     {
-      "title": "Great British Motoring: The Story of the Mini – How a Tiny Car Changed Everything",
+      "title": "Mohamed El-Erian: The U.S. stock market decoupling from the global gloom has limits",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://anglotopia.net/columns/great-british-motoring-columns/great-british-motors-the-story-of-the-mini-how-a-tiny-car-changed-everything/"
+      "url": "https://financialpost.com/financial-times/u-s-stock-market-decoupling-has-limits"
     },
     {
-      "title": "Why a gold investment makes sense this May",
+      "title": "Global Palladium-Gold-Platinum Market Gains Momentum as the Skaergaard Project Places itself in the EU Industrial Framework",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.cbsnews.com/news/why-gold-investment-makes-sense-may-2026/"
+      "url": "https://www.prnewswire.com/news-releases/global-palladium-gold-platinum-market-gains-momentum-as-the-skaergaard-project-places-itself-in-the-eu-industrial-framework-302764399.html"
     },
     {
-      "title": "Live: Angus Taylor says rate decision is a 'hammer blow' to mortgage holders",
+      "title": "Increasing JobSeeker is long overdue. Here’s how we could do it, without breaking the budget",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-05-06/federal-politics-live-blog-rates-reaction/106645282"
+      "url": "https://theconversation.com/increasing-jobseeker-is-long-overdue-heres-how-we-could-do-it-without-breaking-the-budget-281341"
     },
     {
-      "title": "Talos Energy Announces First Quarter 2026 Operational and Financial Results",
+      "title": "Black Hills Corp. Reaffirms 2026 Earnings Guidance, Reports 2026 First-Quarter Results, and Provides Updates on Merger with NorthWestern Energy and Data Center Progress",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/talos-energy-announces-first-quarter-2026-operational-and-financial-results-302763106.html"
+      "url": "https://www.globenewswire.com/news-release/2026/05/06/3289375/10381/en/Black-Hills-Corp-Reaffirms-2026-Earnings-Guidance-Reports-2026-First-Quarter-Results-and-Provides-Updates-on-Merger-with-NorthWestern-Energy-and-Data-Center-Progress.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/25",
         "3/26",
         "3/27",
         "3/30",
@@ -113,10 +112,10 @@
         "5/1",
         "5/4",
         "5/5",
-        "5/6"
+        "5/6",
+        "5/7"
       ],
       "values": [
-        6591.9,
         6477.16,
         6368.85,
         6343.72,
@@ -145,12 +144,12 @@
         7230.12,
         7200.75,
         7259.22,
-        7365.12
+        7365.12,
+        7337.11
       ]
     },
     "gold": {
       "dates": [
-        "3/26",
         "3/27",
         "3/30",
         "3/31",
@@ -178,10 +177,10 @@
         "5/1",
         "5/4",
         "5/5",
-        "5/6"
+        "5/6",
+        "5/7"
       ],
       "values": [
-        4375.5,
         4492.0,
         4526.0,
         4647.6,
@@ -209,12 +208,12 @@
         4629.9,
         4519.5,
         4555.8,
-        4703.1
+        4681.9,
+        4696.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/26",
         "3/27",
         "3/30",
         "3/31",
@@ -243,10 +242,10 @@
         "5/1",
         "5/4",
         "5/5",
-        "5/6"
+        "5/6",
+        "5/7"
       ],
       "values": [
-        159.38,
         159.7,
         160.23,
         159.84,
@@ -275,12 +274,12 @@
         156.98,
         156.85,
         157.19,
-        156.28
+        157.68,
+        156.8
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/25",
         "3/26",
         "3/27",
         "3/30",
@@ -309,10 +308,10 @@
         "5/1",
         "5/4",
         "5/5",
-        "5/6"
+        "5/6",
+        "5/7"
       ],
       "values": [
-        21929.82,
         21408.08,
         20948.36,
         20794.64,
@@ -341,7 +340,8 @@
         25114.44,
         25067.8,
         25326.13,
-        25838.94
+        25838.94,
+        25806.2
       ]
     }
   }
