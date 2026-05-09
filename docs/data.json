@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08 21:46 UTC",
+  "updated_at": "2026-05-09 21:32 UTC",
   "prices": {
     "sp500": {
       "price": 7398.93,
@@ -10,8 +10,8 @@
       "change_pct": 1.71
     },
     "gold": {
-      "price": 4723.7,
-      "change_pct": 0.51
+      "price": 4720.4,
+      "change_pct": 0.44
     },
     "usdjpy": {
       "price": 156.62,
@@ -26,52 +26,58 @@
       "change_pct": -0.68
     },
     "btc": {
-      "price": 80185.0,
-      "change_pct": 0.22
+      "price": 80796.0,
+      "change_pct": 0.76
     }
   },
   "news": [
     {
-      "title": "Stocks Fall From Record Highs as Oil Prices Yo-Yo",
+      "title": "Global stocks diverge, oil rises as fresh US-Iran clashes hit peace hopes",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/388760/stocks-fall-from-record-highs-as-oil-prices-yo-yo.html"
+      "url": "https://www.channelnewsasia.com/world/us-iran-war-hormuz-stocks-market-oil-us-jobs-6110491"
     },
     {
-      "title": "How major US stock indexes fared Thursday 5/7/2026",
+      "title": "S&P 500 closes at another record, notches longest weekly winning streak since 2024: Live updates - CNBC",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-thursday-5-7-2026-22247658.php"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183163364"
     },
     {
-      "title": "This New Move Just Opened XRP To 44 Million New Users",
+      "title": "Pundit Predicts When The XRP Price Will Rally To $12",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/xrp-news/xrp-to-millions-new-users/"
+      "url": "http://www.newsbtc.com/analysis/xrp/xrp-price-will-rally-to-12/"
     },
     {
-      "title": "Why This Crypto Trader Is Loading Up On Ethereum Now",
+      "title": "Kraken parent company applies for OCC charter in move toward banking",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinist.com/crypto-trader-buying-ethereum/"
+      "url": "https://cointelegraph.com/news/kraken-payward-occ-charter-banking"
     },
     {
-      "title": "Wheaton Precious Metals Announces Record Revenue, Earnings and Cash Flow for the First Quarter of 2026",
+      "title": "Inside India's $130 billion wedding obsession",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/wheaton-precious-metals-announces-record-revenue-earnings-and-cash-flow-for-the-first-quarter-of-2026-302766193.html"
+      "url": "https://www.abc.net.au/news/2026-05-09/india-130-billion-wedding-industry/106632070"
     },
     {
-      "title": "Iran wants oil tariffs paid in Chinese yuan – is the power of the US petrodollar in decline?",
+      "title": "Hyperliquid price forecast: Can HYPE coin price reach $50?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://theconversation.com/iran-wants-oil-tariffs-paid-in-chinese-yuan-is-the-power-of-the-us-petrodollar-in-decline-281858"
+      "url": "https://coinjournal.net/news/hyperliquid-price-forecast-can-hype-coin-price-reach-50/"
     },
     {
-      "title": "ASX falls the furthest in seven weeks in near-$50b wipeout",
+      "title": "US stocks today: S&P 500 and Nasdaq notch records, boosted by AI and earnings optimism",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-05-08/asx-markets-business-news-wall-street-live-friday-may-8-2026/106653140"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-notch-records-boosted-by-ai-and-earnings-optimism/articleshow/130966593.cms"
+    },
+    {
+      "title": "US market today: Strong US jobs data complicates any Kevin Warsh push for lower rates",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-today-strong-us-jobs-data-complicates-any-kevin-warsh-push-for-lower-rates/articleshow/130965901.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -203,7 +209,7 @@
         4555.8,
         4681.9,
         4699.8,
-        4723.7
+        4720.4
       ]
     },
     "usdjpy": {
