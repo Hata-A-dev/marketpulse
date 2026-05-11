@@ -1,80 +1,85 @@
 {
-  "updated_at": "2026-05-10 21:37 UTC",
+  "updated_at": "2026-05-11 21:56 UTC",
   "prices": {
     "sp500": {
-      "price": 7398.93,
-      "change_pct": 0.84
+      "price": 7412.84,
+      "change_pct": 0.19
     },
     "nasdaq": {
-      "price": 26247.08,
-      "change_pct": 1.71
+      "price": 26274.12,
+      "change_pct": 0.1
     },
     "usdjpy": {
-      "price": 156.61,
-      "change_pct": -0.14
+      "price": 157.12,
+      "change_pct": 0.18
     },
     "vix": {
-      "price": 17.19,
-      "change_pct": 0.64
+      "price": 18.38,
+      "change_pct": 6.92
     },
     "usbond": {
-      "price": 4.36,
-      "change_pct": -0.68
+      "price": 4.41,
+      "change_pct": 1.15
     },
     "btc": {
-      "price": 80860.0,
-      "change_pct": 0.24
+      "price": 81866.0,
+      "change_pct": -0.33
     }
   },
   "news": [
     {
-      "title": "Goldman Sachs spots a troubling big tech trend",
+      "title": "Market guru Yardeni sees S&P 500 hitting 8,250 this year, highest among top Wall Street forecasters, as earnings bolster ‘Roaring 2020s’",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/technology/goldman-sachs-spots-a-troubling-big-tech-trend"
+      "url": "https://fortune.com/2026/05/10/stock-market-outlook-yardeni-sp500-price-target-hike-8250-earnings-roaring-2020s/"
     },
     {
-      "title": "Nifty 50, Nifty 500: PE multiples can be the same number yet poles apart",
+      "title": "Keefe Bruyette and Mizuho Lowers PT on Arch Capital Group (ACGL)",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/portfolio/nifty-50-nifty-500-pe-multiples-can-be-the-same-number-yet-poles-apart/article70956216.ece"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keefe-bruyette-mizuho-lowers-pt-155324436.html"
     },
     {
-      "title": "Swiss Bitcoin Reserve Effort Withdrawn After Resistance From Central Bank",
+      "title": "US government’s crypto holdings rise by over $4B since April 1",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/news/bitcoin/swiss-bitcoin-reserve-effort-withdrawn-after-resistance-from-central-bank/"
+      "url": "https://cryptobriefing.com/us-government-crypto-holdings-rise-4b/"
     },
     {
-      "title": "New Fed Era Approaches: What Bitcoin Investors Should Expect Under Warsh",
+      "title": "Stablecoin Showdown Expected as Banks Lobby Hard Before May 14 Senate Vote",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinist.com/new-fed-what-bitcoin-investors-should-expect-warsh/"
+      "url": "https://zycrypto.com/stablecoin-showdown-expected-as-banks-lobby-hard-before-may-14-senate-vote/"
     },
     {
-      "title": "Venezuelan Victims of Socialism Are Using RuneScape To Make Money",
+      "title": "Mature hands for money: India’s next economic reform lies in building financially aware households",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://reason.com/2026/05/09/in-runescape-venezuelans-can-have-economic-freedom/"
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/mature-hands-for-money-indias-next-economic-reform-lies-in-building-financially-aware-households/articleshow/130996602.cms"
     },
     {
-      "title": "Apollo CEO warns there’s now a 35% chance of a major market shock amid AI-driven upheaval. How to stay afloat",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-ceo-warns-now-35-173000193.html"
+      "url": "https://english.khabarhub.com/2026/10/548011/"
     },
     {
-      "title": "What Happens When Homes Don’t Sell? What to Know About a “Stuck” Market",
+      "title": "Jim Cramer has a blunt message on gold for investors",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.redfin.com/blog/what-happens-when-homes-dont-sell/"
+      "url": "https://www.thestreet.com/investing/jim-cramer-has-a-blunt-message-on-gold-for-investors"
+    },
+    {
+      "title": "Jerome Powell and the so-called ‘Fed independence’",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.wnd.com/2026/05/jerome-powell-so-called-fed-independence/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/27",
         "3/30",
         "3/31",
         "4/1",
@@ -103,10 +108,10 @@
         "5/5",
         "5/6",
         "5/7",
-        "5/8"
+        "5/8",
+        "5/11"
       ],
       "values": [
-        6368.85,
         6343.72,
         6528.52,
         6575.32,
@@ -135,12 +140,12 @@
         7259.22,
         7365.12,
         7337.11,
-        7398.93
+        7398.93,
+        7412.84
       ]
     },
     "gold": {
       "dates": [
-        "3/30",
         "3/31",
         "4/1",
         "4/2",
@@ -168,10 +173,10 @@
         "5/5",
         "5/6",
         "5/7",
-        "5/8"
+        "5/8",
+        "5/11"
       ],
       "values": [
-        4526.0,
         4647.6,
         4783.2,
         4651.5,
@@ -199,7 +204,8 @@
         4555.8,
         4681.9,
         4699.8,
-        4730.7
+        4720.4,
+        4745.6
       ]
     },
     "usdjpy": {
@@ -233,7 +239,7 @@
         "5/6",
         "5/7",
         "5/8",
-        "5/10"
+        "5/11"
       ],
       "values": [
         159.84,
@@ -265,12 +271,11 @@
         157.68,
         156.51,
         156.83,
-        156.61
+        157.12
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/27",
         "3/30",
         "3/31",
         "4/1",
@@ -299,10 +304,10 @@
         "5/5",
         "5/6",
         "5/7",
-        "5/8"
+        "5/8",
+        "5/11"
       ],
       "values": [
-        20948.36,
         20794.64,
         21590.63,
         21840.95,
@@ -331,7 +336,8 @@
         25326.13,
         25838.94,
         25806.2,
-        26247.08
+        26247.08,
+        26274.12
       ]
     }
   }
