@@ -1,86 +1,89 @@
 {
-  "updated_at": "2026-05-11 21:56 UTC",
+  "updated_at": "2026-05-12 22:01 UTC",
   "prices": {
     "sp500": {
-      "price": 7412.84,
-      "change_pct": 0.19
+      "price": 7400.96,
+      "change_pct": -0.16
     },
     "nasdaq": {
-      "price": 26274.12,
-      "change_pct": 0.1
+      "price": 26088.2,
+      "change_pct": -0.71
+    },
+    "gold": {
+      "price": 4722.6,
+      "change_pct": 0.08
     },
     "usdjpy": {
-      "price": 157.12,
-      "change_pct": 0.18
+      "price": 157.57,
+      "change_pct": 0.45
     },
     "vix": {
-      "price": 18.38,
-      "change_pct": 6.92
+      "price": 17.99,
+      "change_pct": -2.12
     },
     "usbond": {
-      "price": 4.41,
-      "change_pct": 1.15
+      "price": 4.46,
+      "change_pct": 1.13
     },
     "btc": {
-      "price": 81866.0,
-      "change_pct": -0.33
+      "price": 80691.0,
+      "change_pct": -1.27
     }
   },
   "news": [
     {
-      "title": "Market guru Yardeni sees S&P 500 hitting 8,250 this year, highest among top Wall Street forecasters, as earnings bolster ‘Roaring 2020s’",
+      "title": "Markets News, May 11, 2026: Stocks Start Week Higher as S&P 500, Nasdaq Set New Records; Oil Rises as Trump Calls Iran Peace Plan Response 'Unacceptable' -",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/05/10/stock-market-outlook-yardeni-sp500-price-target-hike-8250-earnings-roaring-2020s/"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183190558"
     },
     {
-      "title": "Keefe Bruyette and Mizuho Lowers PT on Arch Capital Group (ACGL)",
+      "title": "Wallace Finance Expands AI Investing Platform to Android with Back-Testing and One-Tap Sharing",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/keefe-bruyette-mizuho-lowers-pt-155324436.html"
+      "url": "https://www.globenewswire.com/news-release/2026/05/11/3292419/0/en/Wallace-Finance-Expands-AI-Investing-Platform-to-Android-with-Back-Testing-and-One-Tap-Sharing.html"
     },
     {
-      "title": "US government’s crypto holdings rise by over $4B since April 1",
+      "title": "TeamPCP's Mini Shai-Hulud Is Back: A Self-Spreading Supply Chain Attack Compromises TanStack npm Packages - StepSecurity",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-government-crypto-holdings-rise-4b/"
+      "url": "https://www.stepsecurity.io/blog/mini-shai-hulud-is-back-a-self-spreading-supply-chain-attack-hits-the-npm-ecosystem"
     },
     {
-      "title": "Stablecoin Showdown Expected as Banks Lobby Hard Before May 14 Senate Vote",
+      "title": "Exodus Reports First Quarter 2026 Results",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/stablecoin-showdown-expected-as-banks-lobby-hard-before-may-14-senate-vote/"
+      "url": "https://www.globenewswire.com/news-release/2026/05/11/3292390/0/en/Exodus-Reports-First-Quarter-2026-Results.html"
     },
     {
-      "title": "Mature hands for money: India’s next economic reform lies in building financially aware households",
+      "title": "Observe and shock absorb: To ride out this oil crisis, focus should be on well-targeted support, not broad price suppression",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/mature-hands-for-money-indias-next-economic-reform-lies-in-building-financially-aware-households/articleshow/130996602.cms"
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/observe-and-shock-absorb-to-ride-out-this-oil-crisis-focus-should-be-on-well-targeted-support-not-broad-price-suppression/articleshow/131020847.cms"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "As Maharashtra CM Fadnavis backs PM, debunks Rahul, Congress says country under Modi in ruins",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/10/548011/"
+      "url": "https://indianexpress.com/article/cities/pune/as-maharashtra-cm-fadnavis-backs-pm-debunks-rahul-congress-says-country-under-modi-in-ruins-10684361/"
     },
     {
-      "title": "Jim Cramer has a blunt message on gold for investors",
+      "title": "Valley National Bancorp Announces Pricing Of Subordinated Notes",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/jim-cramer-has-a-blunt-message-on-gold-for-investors"
+      "url": "https://www.globenewswire.com/news-release/2026/05/11/3292417/0/en/Valley-National-Bancorp-Announces-Pricing-Of-Subordinated-Notes.html"
     },
     {
-      "title": "Jerome Powell and the so-called ‘Fed independence’",
+      "title": "Microvast Reports First Quarter 2026 Financial Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.wnd.com/2026/05/jerome-powell-so-called-fed-independence/"
+      "url": "https://www.globenewswire.com/news-release/2026/05/11/3292397/0/en/Microvast-Reports-First-Quarter-2026-Financial-Results.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/30",
         "3/31",
         "4/1",
         "4/2",
@@ -109,10 +112,10 @@
         "5/6",
         "5/7",
         "5/8",
-        "5/11"
+        "5/11",
+        "5/12"
       ],
       "values": [
-        6343.72,
         6528.52,
         6575.32,
         6582.69,
@@ -141,12 +144,12 @@
         7365.12,
         7337.11,
         7398.93,
-        7412.84
+        7412.84,
+        7400.96
       ]
     },
     "gold": {
       "dates": [
-        "3/31",
         "4/1",
         "4/2",
         "4/6",
@@ -174,10 +177,10 @@
         "5/6",
         "5/7",
         "5/8",
-        "5/11"
+        "5/11",
+        "5/12"
       ],
       "values": [
-        4647.6,
         4783.2,
         4651.5,
         4656.8,
@@ -205,12 +208,12 @@
         4681.9,
         4699.8,
         4720.4,
-        4745.6
+        4718.7,
+        4722.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "3/31",
         "4/1",
         "4/2",
         "4/3",
@@ -239,10 +242,10 @@
         "5/6",
         "5/7",
         "5/8",
-        "5/11"
+        "5/11",
+        "5/12"
       ],
       "values": [
-        159.84,
         158.58,
         158.69,
         159.49,
@@ -271,12 +274,12 @@
         157.68,
         156.51,
         156.83,
-        157.12
+        156.86,
+        157.57
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/30",
         "3/31",
         "4/1",
         "4/2",
@@ -305,10 +308,10 @@
         "5/6",
         "5/7",
         "5/8",
-        "5/11"
+        "5/11",
+        "5/12"
       ],
       "values": [
-        20794.64,
         21590.63,
         21840.95,
         21879.18,
@@ -337,7 +340,8 @@
         25838.94,
         25806.2,
         26247.08,
-        26274.12
+        26274.13,
+        26088.2
       ]
     }
   }
