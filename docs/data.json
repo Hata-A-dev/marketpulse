@@ -1,90 +1,89 @@
 {
-  "updated_at": "2026-05-12 22:01 UTC",
+  "updated_at": "2026-05-13 22:03 UTC",
   "prices": {
     "sp500": {
-      "price": 7400.96,
-      "change_pct": -0.16
+      "price": 7444.25,
+      "change_pct": 0.58
     },
     "nasdaq": {
-      "price": 26088.2,
-      "change_pct": -0.71
+      "price": 26402.34,
+      "change_pct": 1.2
     },
     "gold": {
-      "price": 4722.6,
-      "change_pct": 0.08
+      "price": 4697.1,
+      "change_pct": 0.42
     },
     "usdjpy": {
-      "price": 157.57,
-      "change_pct": 0.45
+      "price": 157.77,
+      "change_pct": 0.34
     },
     "vix": {
-      "price": 17.99,
-      "change_pct": -2.12
+      "price": 17.87,
+      "change_pct": -0.67
     },
     "usbond": {
-      "price": 4.46,
-      "change_pct": 1.13
+      "price": 4.48,
+      "change_pct": 0.45
     },
     "btc": {
-      "price": 80691.0,
-      "change_pct": -1.27
+      "price": 79350.0,
+      "change_pct": -1.4
     }
   },
   "news": [
     {
-      "title": "Markets News, May 11, 2026: Stocks Start Week Higher as S&P 500, Nasdaq Set New Records; Oil Rises as Trump Calls Iran Peace Plan Response 'Unacceptable' -",
+      "title": "Trump Shrugs Off Americans’ “Financial Situation” After Inflation Report Release",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183190558"
+      "url": "https://truthout.org/articles/trump-shrugs-off-americans-financial-situation-after-inflation-report-release/"
     },
     {
-      "title": "Wallace Finance Expands AI Investing Platform to Android with Back-Testing and One-Tap Sharing",
+      "title": "US-Iran tensions drive WTI crude oil price rally amid supply concerns",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/11/3292419/0/en/Wallace-Finance-Expands-AI-Investing-Platform-to-Android-with-Back-Testing-and-One-Tap-Sharing.html"
+      "url": "https://cryptobriefing.com/us-iran-tensions-drive-wti-crude-oil-price-rally-amid-supply-concerns/"
     },
     {
-      "title": "TeamPCP's Mini Shai-Hulud Is Back: A Self-Spreading Supply Chain Attack Compromises TanStack npm Packages - StepSecurity",
+      "title": "Bitcoin Climbs Steadily Higher With No Major Signs Of Distribution",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.stepsecurity.io/blog/mini-shai-hulud-is-back-a-self-spreading-supply-chain-attack-hits-the-npm-ecosystem"
+      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-climbs-steadily-higher/"
     },
     {
-      "title": "Exodus Reports First Quarter 2026 Results",
+      "title": "Pakistan shelters Iranian military jets at Nur Khan Air Base as US-Iran conflict rattles crypto markets",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/11/3292390/0/en/Exodus-Reports-First-Quarter-2026-Results.html"
+      "url": "https://cryptobriefing.com/pakistan-iran-air-base-crypto-markets/"
     },
     {
-      "title": "Observe and shock absorb: To ride out this oil crisis, focus should be on well-targeted support, not broad price suppression",
+      "title": "Is a US stock market crash beginning? Nasdaq 100 drops over 2% as Dow Jones and S&P 500 struggle after inflation shock hits investors",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/observe-and-shock-absorb-to-ride-out-this-oil-crisis-focus-should-be-on-well-targeted-support-not-broad-price-suppression/articleshow/131020847.cms"
+      "url": "https://economictimes.indiatimes.com/news/international/us/is-a-us-stock-market-crash-beginning-nasdaq-100-drops-over-2-as-dow-jones-and-sp-500-struggle-after-inflation-shock-hits-investors/articleshow/131047449.cms"
     },
     {
-      "title": "As Maharashtra CM Fadnavis backs PM, debunks Rahul, Congress says country under Modi in ruins",
+      "title": "Is the biggest US stock market crash in history coming in 2026? Robert Kiyosaki warns rising debt, sticky inflation and the AI stock bubble could trigger a historic Wall Street collapse",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://indianexpress.com/article/cities/pune/as-maharashtra-cm-fadnavis-backs-pm-debunks-rahul-congress-says-country-under-modi-in-ruins-10684361/"
+      "url": "https://economictimes.indiatimes.com/news/international/us/is-the-biggest-us-stock-market-crash-in-history-coming-in-2026-robert-kiyosaki-warns-rising-debt-sticky-inflation-and-the-ai-stock-bubble-could-trigger-a-historic-wall-street-collapse/articleshow/131044334.cms"
     },
     {
-      "title": "Valley National Bancorp Announces Pricing Of Subordinated Notes",
+      "title": "JPMorgan just filed for its second tokenized fund on Ethereum. Wall Street’s blockchain moment is no longer theoretical.",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/11/3292417/0/en/Valley-National-Bancorp-Announces-Pricing-Of-Subordinated-Notes.html"
+      "url": "https://thenextweb.com/news/jpmorgan-tokenized-fund-ethereum-genius-act/"
     },
     {
-      "title": "Microvast Reports First Quarter 2026 Financial Results",
+      "title": "Franco-Nevada Reports Record Q1 2026 Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/11/3292397/0/en/Microvast-Reports-First-Quarter-2026-Financial-Results.html"
+      "url": "https://www.prnewswire.com/news-releases/franco-nevada-reports-record-q1-2026-results-302770055.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "3/31",
         "4/1",
         "4/2",
         "4/6",
@@ -113,10 +112,10 @@
         "5/7",
         "5/8",
         "5/11",
-        "5/12"
+        "5/12",
+        "5/13"
       ],
       "values": [
-        6528.52,
         6575.32,
         6582.69,
         6611.83,
@@ -145,12 +144,12 @@
         7337.11,
         7398.93,
         7412.84,
-        7400.96
+        7400.96,
+        7444.25
       ]
     },
     "gold": {
       "dates": [
-        "4/1",
         "4/2",
         "4/6",
         "4/7",
@@ -178,10 +177,10 @@
         "5/7",
         "5/8",
         "5/11",
-        "5/12"
+        "5/12",
+        "5/13"
       ],
       "values": [
-        4783.2,
         4651.5,
         4656.8,
         4657.1,
@@ -209,12 +208,12 @@
         4699.8,
         4720.4,
         4718.7,
-        4722.6
+        4677.6,
+        4697.1
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/1",
         "4/2",
         "4/3",
         "4/6",
@@ -243,10 +242,10 @@
         "5/7",
         "5/8",
         "5/11",
-        "5/12"
+        "5/12",
+        "5/13"
       ],
       "values": [
-        158.58,
         158.69,
         159.49,
         159.78,
@@ -275,12 +274,12 @@
         156.51,
         156.83,
         156.86,
-        157.57
+        157.23,
+        157.77
       ]
     },
     "nasdaq": {
       "dates": [
-        "3/31",
         "4/1",
         "4/2",
         "4/6",
@@ -309,10 +308,10 @@
         "5/7",
         "5/8",
         "5/11",
-        "5/12"
+        "5/12",
+        "5/13"
       ],
       "values": [
-        21590.63,
         21840.95,
         21879.18,
         21996.34,
@@ -341,7 +340,8 @@
         25806.2,
         26247.08,
         26274.13,
-        26088.2
+        26088.2,
+        26402.34
       ]
     }
   }
