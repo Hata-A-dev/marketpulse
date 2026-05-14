@@ -1,90 +1,89 @@
 {
-  "updated_at": "2026-05-13 22:03 UTC",
+  "updated_at": "2026-05-14 21:58 UTC",
   "prices": {
     "sp500": {
-      "price": 7444.25,
-      "change_pct": 0.58
+      "price": 7501.24,
+      "change_pct": 0.77
     },
     "nasdaq": {
-      "price": 26402.34,
-      "change_pct": 1.2
+      "price": 26635.22,
+      "change_pct": 0.88
     },
     "gold": {
-      "price": 4697.1,
-      "change_pct": 0.42
+      "price": 4655.4,
+      "change_pct": -0.9
     },
     "usdjpy": {
-      "price": 157.77,
-      "change_pct": 0.34
+      "price": 158.33,
+      "change_pct": 0.42
     },
     "vix": {
-      "price": 17.87,
-      "change_pct": -0.67
+      "price": 17.26,
+      "change_pct": -3.41
     },
     "usbond": {
-      "price": 4.48,
-      "change_pct": 0.45
+      "price": 4.46,
+      "change_pct": -0.45
     },
     "btc": {
-      "price": 79350.0,
-      "change_pct": -1.4
+      "price": 81360.0,
+      "change_pct": 2.63
     }
   },
   "news": [
     {
-      "title": "Trump Shrugs Off Americans’ “Financial Situation” After Inflation Report Release",
+      "title": "Tech Stocks Carry Wall Street to Records",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://truthout.org/articles/trump-shrugs-off-americans-financial-situation-after-inflation-report-release/"
+      "url": "https://www.newser.com/story/389087/tech-stocks-carry-wall-street-to-records.html"
     },
     {
-      "title": "US-Iran tensions drive WTI crude oil price rally amid supply concerns",
+      "title": "At The Money: Is SpaceX IPO Breaking Capitalism?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-iran-tensions-drive-wti-crude-oil-price-rally-amid-supply-concerns/"
+      "url": "https://ritholtz.com/2026/05/atm-spacex-ipo/"
     },
     {
-      "title": "Bitcoin Climbs Steadily Higher With No Major Signs Of Distribution",
+      "title": "Bitcoin’s Institutional Footprint Expands Exponentially Across Markets – Here’s How Much They Hold",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-climbs-steadily-higher/"
+      "url": "https://bitcoinist.com/bitcoins-institutional-footprint/"
     },
     {
-      "title": "Pakistan shelters Iranian military jets at Nur Khan Air Base as US-Iran conflict rattles crypto markets",
+      "title": "What Is AI Mining in Crypto? Top 5 Best AI Mining Platforms to Earn in 2026",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/pakistan-iran-air-base-crypto-markets/"
+      "url": "https://bitcoinfoundation.org/news/ai/what-is-ai-mining-crypto-top-5-best-ai-mining-platforms-earn-2026/"
     },
     {
-      "title": "Is a US stock market crash beginning? Nasdaq 100 drops over 2% as Dow Jones and S&P 500 struggle after inflation shock hits investors",
+      "title": "INTEGRA ENTERS INTO EQUITY AGREEMENT WITH THE SHOSHONE-PAIUTE TRIBES",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/is-a-us-stock-market-crash-beginning-nasdaq-100-drops-over-2-as-dow-jones-and-sp-500-struggle-after-inflation-shock-hits-investors/articleshow/131047449.cms"
+      "url": "https://www.prnewswire.com/news-releases/integra-enters-into-equity-agreement-with-the-shoshone-paiute-tribes-302771561.html"
     },
     {
-      "title": "Is the biggest US stock market crash in history coming in 2026? Robert Kiyosaki warns rising debt, sticky inflation and the AI stock bubble could trigger a historic Wall Street collapse",
+      "title": "Whale shorts $70M in crypto and tech: Should Bitcoin traders worry?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/is-the-biggest-us-stock-market-crash-in-history-coming-in-2026-robert-kiyosaki-warns-rising-debt-sticky-inflation-and-the-ai-stock-bubble-could-trigger-a-historic-wall-street-collapse/articleshow/131044334.cms"
+      "url": "https://cointelegraph.com/markets/whale-shorts-70m-in-crypto-tech-should-bitcoin-traders-worry"
     },
     {
-      "title": "JPMorgan just filed for its second tokenized fund on Ethereum. Wall Street’s blockchain moment is no longer theoretical.",
+      "title": "Senate confirms Trump pick Warsh as chairman of the Federal Reserve, following Powell",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://thenextweb.com/news/jpmorgan-tokenized-fund-ethereum-genius-act/"
+      "url": "https://japantoday.com/category/world/senate-is-set-to-confirm-trump-pick-warsh-as-chairman-of-the-federal-reserve-following-powell"
     },
     {
-      "title": "Franco-Nevada Reports Record Q1 2026 Results",
+      "title": "U.S. Senate confirms Kevin Warsh as next Fed chair",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/franco-nevada-reports-record-q1-2026-results-302770055.html"
+      "url": "https://japantoday.com/category/world/u.s.-senate-confirms-kevin-warsh-as-next-fed-chair"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/1",
         "4/2",
         "4/6",
         "4/7",
@@ -113,10 +112,10 @@
         "5/8",
         "5/11",
         "5/12",
-        "5/13"
+        "5/13",
+        "5/14"
       ],
       "values": [
-        6575.32,
         6582.69,
         6611.83,
         6616.85,
@@ -145,12 +144,12 @@
         7398.93,
         7412.84,
         7400.96,
-        7444.25
+        7444.25,
+        7501.24
       ]
     },
     "gold": {
       "dates": [
-        "4/2",
         "4/6",
         "4/7",
         "4/8",
@@ -178,10 +177,10 @@
         "5/8",
         "5/11",
         "5/12",
-        "5/13"
+        "5/13",
+        "5/14"
       ],
       "values": [
-        4651.5,
         4656.8,
         4657.1,
         4749.5,
@@ -209,12 +208,12 @@
         4720.4,
         4718.7,
         4677.6,
-        4697.1
+        4697.7,
+        4655.4
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/2",
         "4/3",
         "4/6",
         "4/7",
@@ -243,10 +242,10 @@
         "5/8",
         "5/11",
         "5/12",
-        "5/13"
+        "5/13",
+        "5/14"
       ],
       "values": [
-        158.69,
         159.49,
         159.78,
         159.68,
@@ -275,12 +274,12 @@
         156.83,
         156.86,
         157.23,
-        157.77
+        157.67,
+        158.31
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/1",
         "4/2",
         "4/6",
         "4/7",
@@ -309,10 +308,10 @@
         "5/8",
         "5/11",
         "5/12",
-        "5/13"
+        "5/13",
+        "5/14"
       ],
       "values": [
-        21840.95,
         21879.18,
         21996.34,
         22017.85,
@@ -341,7 +340,8 @@
         26247.08,
         26274.13,
         26088.2,
-        26402.34
+        26402.34,
+        26635.22
       ]
     }
   }
