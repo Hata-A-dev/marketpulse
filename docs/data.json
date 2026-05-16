@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15 21:46 UTC",
+  "updated_at": "2026-05-16 21:38 UTC",
   "prices": {
     "sp500": {
       "price": 7408.5,
@@ -10,8 +10,8 @@
       "change_pct": -1.54
     },
     "gold": {
-      "price": 4543.6,
-      "change_pct": -2.88
+      "price": 4555.8,
+      "change_pct": -2.61
     },
     "usdjpy": {
       "price": 158.73,
@@ -22,56 +22,62 @@
       "change_pct": 6.78
     },
     "usbond": {
-      "price": 4.6,
-      "change_pct": 3.14
+      "price": 4.59,
+      "change_pct": 2.91
     },
     "btc": {
-      "price": 79049.0,
-      "change_pct": -2.47
+      "price": 78239.0,
+      "change_pct": -1.05
     }
   },
   "news": [
     {
-      "title": "Cboe Global Markets Declares Second-Quarter 2026 Dividend",
+      "title": "Dow Jones, S&P 500 and Nasdaq end this week lower as tech stocks slide, Treasury yields and oil prices climb after Trump-Xi China summit disappoints investors - US stock market performance today May 15",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/cboe-global-markets-declares-second-quarter-2026-dividend-302772913.html"
+      "url": "https://economictimes.indiatimes.com/news/international/us/dow-jones-sp-500-and-nasdaq-end-this-week-lower-as-tech-stocks-slide-treasury-yields-and-oil-prices-climb-after-trump-xi-china-summit-disappoints-investors-us-stock-market-performance-today-may-15/articleshow/131127482.cms"
     },
     {
-      "title": "S&P 500, Nasdaq rally on tech boost; investors eye Beijing talks - Reuters",
+      "title": "Wall Street ends lower on mounting inflation worries",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183217853"
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-lower-on-mounting-inflation-worries"
     },
     {
-      "title": "Who Is Kevin Warsh? Trump’s New Pick Could Replace Jerome Powell As Fed Chair",
+      "title": "Lombard migrates $1B in Bitcoin-backed assets to Chainlink CCIP after $292M exploit shakes LayerZero confidence",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/regulation/who-is-kevin-warsh-trumps-new-pick-could-replace-jerome-powell-as-fed-chair/"
+      "url": "https://cryptobriefing.com/lombard-migrates-1b-chainlink-ccip-exploit/"
     },
     {
-      "title": "Ex-Celsius exec sentenced to time served after guilty plea",
+      "title": "Crypto Founder Reveals What Could be the Biggest Catalyst for the Crypto Market in 2026‬",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/celsius-roni-cohen-pavon-sentenced-guilty-plea"
+      "url": "https://zycrypto.com/crypto-founder-reveals-what-could-be-the-biggest-catalyst-for-the-crypto-market-in-2026/"
     },
     {
-      "title": "On Interpolatable Archives (Clean)",
+      "title": "Fuel price hike may push inflation up by 20 bps, say experts",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://goodinternet.substack.com/p/on-interpolatable-archives-clean"
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/fuel-price-hike-may-push-inflation-up-by-20-bps-say-experts/articleshow/131126862.cms"
     },
     {
-      "title": "Abaxx Exchange Single-Day Trading Volume Surpasses 50,000 Contracts",
+      "title": "What’s the AI Endgame?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/14/3295274/0/en/Abaxx-Exchange-Single-Day-Trading-Volume-Surpasses-50-000-Contracts.html"
+      "url": "https://www.theatlantic.com/podcasts/2026/05/whats-the-ai-endgame/687184/"
     },
     {
-      "title": "US stock market loses over $250B at open as liquidity squeeze rattles risk assets",
+      "title": "U Power Reports Financial Results for Full Year of 2025",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-stock-market-loses-250b-at-open/"
+      "url": "https://www.prnewswire.com/news-releases/u-power-reports-financial-results-for-full-year-of-2025-302773936.html"
+    },
+    {
+      "title": "Jerome H. Powell steps down as Federal Reserve chair after eight years",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://cryptobriefing.com/powell-steps-down-fed-chair/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -205,7 +211,7 @@
         4677.6,
         4697.7,
         4678.1,
-        4543.6
+        4555.8
       ]
     },
     "usdjpy": {
