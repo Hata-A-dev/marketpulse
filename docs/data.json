@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16 21:38 UTC",
+  "updated_at": "2026-05-17 21:43 UTC",
   "prices": {
     "sp500": {
       "price": 7408.5,
@@ -9,13 +9,9 @@
       "price": 26225.14,
       "change_pct": -1.54
     },
-    "gold": {
-      "price": 4555.8,
-      "change_pct": -2.61
-    },
     "usdjpy": {
-      "price": 158.73,
-      "change_pct": 0.56
+      "price": 158.71,
+      "change_pct": 0.21
     },
     "vix": {
       "price": 18.43,
@@ -26,58 +22,58 @@
       "change_pct": 2.91
     },
     "btc": {
-      "price": 78239.0,
-      "change_pct": -1.05
+      "price": 78386.0,
+      "change_pct": 0.33
     }
   },
   "news": [
     {
-      "title": "Dow Jones, S&P 500 and Nasdaq end this week lower as tech stocks slide, Treasury yields and oil prices climb after Trump-Xi China summit disappoints investors - US stock market performance today May 15",
+      "title": "Analyst Says Don’t Buy Bitcoin Until This Happens",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/dow-jones-sp-500-and-nasdaq-end-this-week-lower-as-tech-stocks-slide-treasury-yields-and-oil-prices-climb-after-trump-xi-china-summit-disappoints-investors-us-stock-market-performance-today-may-15/articleshow/131127482.cms"
+      "url": "http://www.newsbtc.com/news/bitcoin/dont-buy-bitcoin-until-this/"
     },
     {
-      "title": "Wall Street ends lower on mounting inflation worries",
+      "title": "Nvidia tops US public companies list with $5.5T market cap",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-lower-on-mounting-inflation-worries"
+      "url": "https://cryptobriefing.com/nvidia-tops-us-public-companies-5-5t-market-cap/"
     },
     {
-      "title": "Lombard migrates $1B in Bitcoin-backed assets to Chainlink CCIP after $292M exploit shakes LayerZero confidence",
+      "title": "Why Bitcoin Price Could Be Forming A Consolidation Structure Around $80,000",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/lombard-migrates-1b-chainlink-ccip-exploit/"
+      "url": "http://www.newsbtc.com/news/bitcoin/why-bitcoin-price-could-be-forming-consolidation/"
     },
     {
-      "title": "Crypto Founder Reveals What Could be the Biggest Catalyst for the Crypto Market in 2026‬",
+      "title": "Historic CLARITY Act Clears Senate Hurdle, Could Provide $10 Trillion Catalyst for Crypto Economy",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/crypto-founder-reveals-what-could-be-the-biggest-catalyst-for-the-crypto-market-in-2026/"
+      "url": "https://zycrypto.com/historic-clarity-act-clears-senate-hurdle-could-provide-10-trillion-catalyst-for-crypto-economy/"
     },
     {
-      "title": "Fuel price hike may push inflation up by 20 bps, say experts",
+      "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/fuel-price-hike-may-push-inflation-up-by-20-bps-say-experts/articleshow/131126862.cms"
+      "url": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed"
     },
     {
-      "title": "What’s the AI Endgame?",
+      "title": "Federal Reserve and the story of gold vs equities",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.theatlantic.com/podcasts/2026/05/whats-the-ai-endgame/687184/"
+      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/federal-reserve-and-the-story-of-gold-vs-equities/article70986454.ece"
     },
     {
-      "title": "U Power Reports Financial Results for Full Year of 2025",
+      "title": "Global Inventory Race Intensifies in Shadow of the Iran War",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/u-power-reports-financial-results-for-full-year-of-2025-302773936.html"
+      "url": "https://financialpost.com/pmn/business-pmn/global-inventory-race-intensifies-in-shadow-of-the-iran-war"
     },
     {
-      "title": "Jerome H. Powell steps down as Federal Reserve chair after eight years",
+      "title": "Trump returns to the U.S. from China with pressure over rising inflation",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/powell-steps-down-fed-chair/"
+      "url": "https://www.pbs.org/newshour/economy/trump-returns-to-the-u-s-from-china-with-pressure-over-rising-inflation"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -150,7 +146,6 @@
     },
     "gold": {
       "dates": [
-        "4/6",
         "4/7",
         "4/8",
         "4/9",
@@ -182,7 +177,6 @@
         "5/15"
       ],
       "values": [
-        4656.8,
         4657.1,
         4749.5,
         4792.2,
@@ -211,12 +205,11 @@
         4677.6,
         4697.7,
         4678.1,
-        4555.8
+        4561.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/6",
         "4/7",
         "4/8",
         "4/9",
@@ -245,10 +238,10 @@
         "5/12",
         "5/13",
         "5/14",
-        "5/15"
+        "5/15",
+        "5/17"
       ],
       "values": [
-        159.78,
         159.68,
         158.72,
         158.64,
@@ -277,7 +270,8 @@
         157.23,
         157.67,
         157.85,
-        158.73
+        158.38,
+        158.71
       ]
     },
     "nasdaq": {
