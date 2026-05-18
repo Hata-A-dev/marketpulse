@@ -1,86 +1,81 @@
 {
-  "updated_at": "2026-05-17 21:43 UTC",
+  "updated_at": "2026-05-18 21:57 UTC",
   "prices": {
-    "sp500": {
-      "price": 7408.5,
-      "change_pct": -1.24
-    },
     "nasdaq": {
-      "price": 26225.14,
-      "change_pct": -1.54
+      "price": 26090.73,
+      "change_pct": -0.51
     },
     "usdjpy": {
-      "price": 158.71,
-      "change_pct": 0.21
+      "price": 158.73,
+      "change_pct": 0.22
     },
     "vix": {
-      "price": 18.43,
-      "change_pct": 6.78
+      "price": 17.82,
+      "change_pct": -3.31
     },
     "usbond": {
-      "price": 4.59,
-      "change_pct": 2.91
+      "price": 4.62,
+      "change_pct": 0.65
     },
     "btc": {
-      "price": 78386.0,
-      "change_pct": 0.33
+      "price": 77074.0,
+      "change_pct": -0.46
     }
   },
   "news": [
     {
-      "title": "Analyst Says Don’t Buy Bitcoin Until This Happens",
+      "title": "AMD buys $6.5 million of surging tech stock",
       "tag": "株式",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/news/bitcoin/dont-buy-bitcoin-until-this/"
+      "url": "https://www.thestreet.com/investing/stocks/amd-buys-6-5-million-of-marvell-stock"
     },
     {
-      "title": "Nvidia tops US public companies list with $5.5T market cap",
+      "title": "One Low-Cost ETF For Europe, Japan, And A Lot Of Stocks Americans Ignore",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/nvidia-tops-us-public-companies-5-5t-market-cap/"
+      "url": "https://247wallst.com/investing/2026/05/17/one-low-cost-etf-for-europe-japan-and-a-lot-of-stocks-americans-ignore/"
     },
     {
-      "title": "Why Bitcoin Price Could Be Forming A Consolidation Structure Around $80,000",
+      "title": "Bitcoin Faces Potential Drop to $41K in Four-Stage Collapse in 2026 – Analysis",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/news/bitcoin/why-bitcoin-price-could-be-forming-consolidation/"
+      "url": "https://zycrypto.com/bitcoin-faces-potential-drop-to-41k-in-four-stage-collapse-in-2026-analysis/"
     },
     {
-      "title": "Historic CLARITY Act Clears Senate Hurdle, Could Provide $10 Trillion Catalyst for Crypto Economy",
+      "title": "Iran launches Hormuz Safe, a Bitcoin-settled maritime insurance platform for Persian Gulf shipping",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/historic-clarity-act-clears-senate-hurdle-could-provide-10-trillion-catalyst-for-crypto-economy/"
+      "url": "https://cryptobriefing.com/iran-hormuz-safe-bitcoin-maritime-insurance/"
     },
     {
-      "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed"
+      "url": "https://english.khabarhub.com/2026/17/549225/"
     },
     {
-      "title": "Federal Reserve and the story of gold vs equities",
+      "title": "How political narratives shackle economic policy",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/federal-reserve-and-the-story-of-gold-vs-equities/article70986454.ece"
+      "url": "https://www.thehindubusinessline.com/opinion/how-political-narratives-shackle-economic-policy/article70990820.ece"
     },
     {
-      "title": "Global Inventory Race Intensifies in Shadow of the Iran War",
+      "title": "Gundlach says it’s ‘just not possible’ for the Fed to cut rates",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/global-inventory-race-intensifies-in-shadow-of-the-iran-war"
+      "url": "https://fortune.com/2026/05/17/jeffrey-gundlach-doubleline-fed-rate-cuts-not-possible-inflation-kevin-warsh/"
     },
     {
-      "title": "Trump returns to the U.S. from China with pressure over rising inflation",
+      "title": "Stocks in Focus After Bonds Send Inflation Alarm",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.pbs.org/newshour/economy/trump-returns-to-the-u-s-from-china-with-pressure-over-rising-inflation"
+      "url": "https://financialpost.com/pmn/business-pmn/stocks-in-focus-after-bonds-send-inflation-alarm"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/6",
         "4/7",
         "4/8",
         "4/9",
@@ -109,10 +104,10 @@
         "5/12",
         "5/13",
         "5/14",
-        "5/15"
+        "5/15",
+        "5/18"
       ],
       "values": [
-        6611.83,
         6616.85,
         6782.81,
         6824.66,
@@ -141,12 +136,12 @@
         7400.96,
         7444.25,
         7501.24,
-        7408.5
+        7408.5,
+        7403.05
       ]
     },
     "gold": {
       "dates": [
-        "4/7",
         "4/8",
         "4/9",
         "4/10",
@@ -174,10 +169,10 @@
         "5/12",
         "5/13",
         "5/14",
-        "5/15"
+        "5/15",
+        "5/18"
       ],
       "values": [
-        4657.1,
         4749.5,
         4792.2,
         4761.9,
@@ -205,7 +200,8 @@
         4677.6,
         4697.7,
         4678.1,
-        4561.9
+        4555.8,
+        4570.8
       ]
     },
     "usdjpy": {
@@ -239,7 +235,7 @@
         "5/13",
         "5/14",
         "5/15",
-        "5/17"
+        "5/18"
       ],
       "values": [
         159.68,
@@ -271,12 +267,11 @@
         157.67,
         157.85,
         158.38,
-        158.71
+        158.73
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/6",
         "4/7",
         "4/8",
         "4/9",
@@ -305,10 +300,10 @@
         "5/12",
         "5/13",
         "5/14",
-        "5/15"
+        "5/15",
+        "5/18"
       ],
       "values": [
-        21996.34,
         22017.85,
         22634.99,
         22822.42,
@@ -337,7 +332,8 @@
         26088.2,
         26402.34,
         26635.22,
-        26225.14
+        26225.14,
+        26090.73
       ]
     }
   }
