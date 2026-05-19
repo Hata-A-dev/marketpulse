@@ -1,82 +1,83 @@
 {
-  "updated_at": "2026-05-18 21:57 UTC",
+  "updated_at": "2026-05-19 22:04 UTC",
   "prices": {
+    "sp500": {
+      "price": 7353.61,
+      "change_pct": -0.67
+    },
     "nasdaq": {
-      "price": 26090.73,
-      "change_pct": -0.51
+      "price": 25870.71,
+      "change_pct": -0.84
+    },
+    "gold": {
+      "price": 4485.4,
+      "change_pct": -1.47
     },
     "usdjpy": {
-      "price": 158.73,
-      "change_pct": 0.22
+      "price": 159.1,
+      "change_pct": 0.16
     },
     "vix": {
-      "price": 17.82,
-      "change_pct": -3.31
+      "price": 18.06,
+      "change_pct": 1.35
     },
     "usbond": {
-      "price": 4.62,
-      "change_pct": 0.65
+      "price": 4.67,
+      "change_pct": 1.08
     },
     "btc": {
-      "price": 77074.0,
-      "change_pct": -0.46
+      "price": 76735.0,
+      "change_pct": -0.28
     }
   },
   "news": [
     {
-      "title": "AMD buys $6.5 million of surging tech stock",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/stocks/amd-buys-6-5-million-of-marvell-stock"
+      "url": "https://www.cnbc.com/2026/05/18/stock-market-today-live-updates.html"
     },
     {
-      "title": "One Low-Cost ETF For Europe, Japan, And A Lot Of Stocks Americans Ignore",
+      "title": "Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://247wallst.com/investing/2026/05/17/one-low-cost-etf-for-europe-japan-and-a-lot-of-stocks-americans-ignore/"
+      "url": "https://cointelegraph.com/markets/bitcoin-lost-its-hold-on-80k-but-three-events-may-send-it-back-sooner-than-markets-expect"
     },
     {
-      "title": "Bitcoin Faces Potential Drop to $41K in Four-Stage Collapse in 2026 – Analysis",
+      "title": "Soluna revenue jumps 58% as hosting business offsets weaker Bitcoin mining",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/bitcoin-faces-potential-drop-to-41k-in-four-stage-collapse-in-2026-analysis/"
+      "url": "https://cointelegraph.com/news/soluna-q1-revenue-rises-58-data-center-hosting-surpasses-crypto-mining"
     },
     {
-      "title": "Iran launches Hormuz Safe, a Bitcoin-settled maritime insurance platform for Persian Gulf shipping",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/iran-hormuz-safe-bitcoin-maritime-insurance/"
-    },
-    {
-      "title": "Today’s News in a Nutshell",
+      "title": "New Zealand Fast-Track Permitting And A Positive PEA Land On The Same Reefton Goldfield Asset",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/17/549225/"
+      "url": "https://www.globenewswire.com/news-release/2026/05/18/3296964/0/en/New-Zealand-Fast-Track-Permitting-And-A-Positive-PEA-Land-On-The-Same-Reefton-Goldfield-Asset.html"
     },
     {
-      "title": "How political narratives shackle economic policy",
+      "title": "Oil spike and Iran ultimatum pull crypto markets lower",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/opinion/how-political-narratives-shackle-economic-policy/article70990820.ece"
+      "url": "https://cryptobriefing.com/oil-spike-iran-crypto-markets-lower/"
     },
     {
-      "title": "Gundlach says it’s ‘just not possible’ for the Fed to cut rates",
+      "title": "Breitbart Business Digest: Warsh’s Supply-Side Case for Cutting Rates",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/05/17/jeffrey-gundlach-doubleline-fed-rate-cuts-not-possible-inflation-kevin-warsh/"
+      "url": "https://www.breitbart.com/economy/2026/05/18/breitbart-business-digest-warshs-supply-side-case-for-cutting-rates/"
     },
     {
-      "title": "Stocks in Focus After Bonds Send Inflation Alarm",
+      "title": "Bitcoin’s price drop below $78K cleared the path for a rebound as options traders hedge downside risk",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/stocks-in-focus-after-bonds-send-inflation-alarm"
+      "url": "https://cryptoslate.com/bitcoin-price-drop-78000-rebound-options-hedging/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/7",
         "4/8",
         "4/9",
         "4/10",
@@ -105,10 +106,10 @@
         "5/13",
         "5/14",
         "5/15",
-        "5/18"
+        "5/18",
+        "5/19"
       ],
       "values": [
-        6616.85,
         6782.81,
         6824.66,
         6816.89,
@@ -137,12 +138,12 @@
         7444.25,
         7501.24,
         7408.5,
-        7403.05
+        7403.05,
+        7353.61
       ]
     },
     "gold": {
       "dates": [
-        "4/8",
         "4/9",
         "4/10",
         "4/13",
@@ -170,10 +171,10 @@
         "5/13",
         "5/14",
         "5/15",
-        "5/18"
+        "5/18",
+        "5/19"
       ],
       "values": [
-        4749.5,
         4792.2,
         4761.9,
         4742.4,
@@ -201,12 +202,12 @@
         4697.7,
         4678.1,
         4555.8,
-        4570.8
+        4552.5,
+        4485.4
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/7",
         "4/8",
         "4/9",
         "4/10",
@@ -235,10 +236,10 @@
         "5/13",
         "5/14",
         "5/15",
-        "5/18"
+        "5/18",
+        "5/19"
       ],
       "values": [
-        159.68,
         158.72,
         158.64,
         159.11,
@@ -267,12 +268,12 @@
         157.67,
         157.85,
         158.38,
-        158.73
+        158.84,
+        159.03
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/7",
         "4/8",
         "4/9",
         "4/10",
@@ -301,10 +302,10 @@
         "5/13",
         "5/14",
         "5/15",
-        "5/18"
+        "5/18",
+        "5/19"
       ],
       "values": [
-        22017.85,
         22634.99,
         22822.42,
         22902.89,
@@ -333,7 +334,8 @@
         26402.34,
         26635.22,
         26225.14,
-        26090.73
+        26090.73,
+        25870.71
       ]
     }
   }
