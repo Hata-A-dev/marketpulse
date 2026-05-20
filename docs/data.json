@@ -1,84 +1,83 @@
 {
-  "updated_at": "2026-05-19 22:04 UTC",
+  "updated_at": "2026-05-20 22:18 UTC",
   "prices": {
     "sp500": {
-      "price": 7353.61,
-      "change_pct": -0.67
-    },
-    "nasdaq": {
-      "price": 25870.71,
-      "change_pct": -0.84
-    },
-    "gold": {
-      "price": 4485.4,
-      "change_pct": -1.47
-    },
-    "usdjpy": {
-      "price": 159.1,
-      "change_pct": 0.16
-    },
-    "vix": {
-      "price": 18.06,
-      "change_pct": 1.35
-    },
-    "usbond": {
-      "price": 4.67,
+      "price": 7432.97,
       "change_pct": 1.08
     },
+    "nasdaq": {
+      "price": 26270.36,
+      "change_pct": 1.54
+    },
+    "gold": {
+      "price": 4544.1,
+      "change_pct": 0.84
+    },
+    "usdjpy": {
+      "price": 158.84,
+      "change_pct": -0.01
+    },
+    "vix": {
+      "price": 17.44,
+      "change_pct": -3.43
+    },
+    "usbond": {
+      "price": 4.57,
+      "change_pct": -2.14
+    },
     "btc": {
-      "price": 76735.0,
-      "change_pct": -0.28
+      "price": 77233.0,
+      "change_pct": 0.63
     }
   },
   "news": [
     {
-      "title": "Stock market today: Live updates",
+      "title": "Live: ASX to fall as inflation worries lead to US government debt sell-off",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/05/18/stock-market-today-live-updates.html"
+      "url": "https://www.abc.net.au/news/2026-05-20/asx-markets-business-live-news/106699784"
     },
     {
-      "title": "Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect",
+      "title": "S&P Global Announces Pricing of $2,000,000,000 Private Offering of Senior Notes by Mobility Global Inc. Ahead of Planned Separation",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/markets/bitcoin-lost-its-hold-on-80k-but-three-events-may-send-it-back-sooner-than-markets-expect"
+      "url": "https://www.prnewswire.com/news-releases/sp-global-announces-pricing-of-2-000-000-000-private-offering-of-senior-notes-by-mobility-global-inc-ahead-of-planned-separation-302776849.html"
     },
     {
-      "title": "Soluna revenue jumps 58% as hosting business offsets weaker Bitcoin mining",
+      "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/soluna-q1-revenue-rises-58-data-center-hosting-surpasses-crypto-mining"
+      "url": "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013"
     },
     {
-      "title": "New Zealand Fast-Track Permitting And A Positive PEA Land On The Same Reefton Goldfield Asset",
+      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/"
+    },
+    {
+      "title": "Bitcoin and Recession Signals in 2026: Is BTC Entering a Macro Slowdown Phase?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/18/3296964/0/en/New-Zealand-Fast-Track-Permitting-And-A-Positive-PEA-Land-On-The-Same-Reefton-Goldfield-Asset.html"
+      "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-and-recession-signals-in-2026-is-btc-entering-a-macro-slowdown-phase/"
     },
     {
-      "title": "Oil spike and Iran ultimatum pull crypto markets lower",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/oil-spike-iran-crypto-markets-lower/"
-    },
-    {
-      "title": "Breitbart Business Digest: Warsh’s Supply-Side Case for Cutting Rates",
+      "title": "Wall St ends lower as inflation worries push up yields",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.breitbart.com/economy/2026/05/18/breitbart-business-digest-warshs-supply-side-case-for-cutting-rates/"
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-st-ends-lower-as-inflation-worries-push-up-yields"
     },
     {
-      "title": "Bitcoin’s price drop below $78K cleared the path for a rebound as options traders hedge downside risk",
+      "title": "ZTO Reports First Quarter 2026 Unaudited Financial Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/bitcoin-price-drop-78000-rebound-options-hedging/"
+      "url": "https://www.prnewswire.com/news-releases/zto-reports-first-quarter-2026-unaudited-financial-results-302776370.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/8",
         "4/9",
         "4/10",
         "4/13",
@@ -107,10 +106,10 @@
         "5/14",
         "5/15",
         "5/18",
-        "5/19"
+        "5/19",
+        "5/20"
       ],
       "values": [
-        6782.81,
         6824.66,
         6816.89,
         6886.24,
@@ -139,12 +138,12 @@
         7501.24,
         7408.5,
         7403.05,
-        7353.61
+        7353.61,
+        7432.97
       ]
     },
     "gold": {
       "dates": [
-        "4/9",
         "4/10",
         "4/13",
         "4/14",
@@ -172,10 +171,10 @@
         "5/14",
         "5/15",
         "5/18",
-        "5/19"
+        "5/19",
+        "5/20"
       ],
       "values": [
-        4792.2,
         4761.9,
         4742.4,
         4825.0,
@@ -203,12 +202,12 @@
         4678.1,
         4555.8,
         4552.5,
-        4485.4
+        4506.3,
+        4544.1
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/8",
         "4/9",
         "4/10",
         "4/13",
@@ -237,10 +236,10 @@
         "5/14",
         "5/15",
         "5/18",
-        "5/19"
+        "5/19",
+        "5/20"
       ],
       "values": [
-        158.72,
         158.64,
         159.11,
         159.68,
@@ -269,12 +268,12 @@
         157.85,
         158.38,
         158.84,
-        159.03
+        158.86,
+        158.84
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/8",
         "4/9",
         "4/10",
         "4/13",
@@ -303,10 +302,10 @@
         "5/14",
         "5/15",
         "5/18",
-        "5/19"
+        "5/19",
+        "5/20"
       ],
       "values": [
-        22634.99,
         22822.42,
         22902.89,
         23183.74,
@@ -335,7 +334,8 @@
         26635.22,
         26225.14,
         26090.73,
-        25870.71
+        25870.71,
+        26270.36
       ]
     }
   }
