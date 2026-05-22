@@ -1,90 +1,89 @@
 {
-  "updated_at": "2026-05-21 22:09 UTC",
+  "updated_at": "2026-05-22 21:56 UTC",
   "prices": {
     "sp500": {
-      "price": 7445.72,
-      "change_pct": 0.17
+      "price": 7473.47,
+      "change_pct": 0.37
     },
     "nasdaq": {
-      "price": 26293.1,
-      "change_pct": 0.09
+      "price": 26343.97,
+      "change_pct": 0.19
     },
     "gold": {
-      "price": 4544.2,
-      "change_pct": 0.28
+      "price": 4510.5,
+      "change_pct": -0.65
     },
     "usdjpy": {
-      "price": 158.99,
-      "change_pct": -0.03
+      "price": 159.15,
+      "change_pct": 0.16
     },
     "vix": {
-      "price": 16.76,
-      "change_pct": -3.9
+      "price": 16.7,
+      "change_pct": -0.36
     },
     "usbond": {
-      "price": 4.59,
-      "change_pct": 0.44
+      "price": 4.56,
+      "change_pct": -0.65
     },
     "btc": {
-      "price": 77636.0,
-      "change_pct": 0.23
+      "price": 75933.0,
+      "change_pct": -2.07
     }
   },
   "news": [
     {
-      "title": "Stock market today: Live updates",
+      "title": "Stock Market Today: S&P 500 and Nasdaq turn higher, Dow on pace for fresh record; investors digest Nvidia earnings; oil trims gain; Walmart results in focus",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/05/20/stock-market-today-live-updates.html"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183313118"
     },
     {
-      "title": "Nvidia implied move at 5.3% ahead of earnings, and options traders are leaning bullish",
+      "title": "How major US stock indexes fared Thursday 5/21/2026",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/nvidia-implied-move-earnings-options/"
+      "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-thursday-22271012.php"
     },
     {
-      "title": "Missouri AG sues crypto ATM operator CoinFlip ‘for enabling scams’",
+      "title": "If You’re Looking To Bitcoin Above $90,000, This Analyst Says To Watch This Bearish OB Level",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/missouri-attorney-general-lawsuit-coinflip-scams"
+      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-above-90000-path/"
     },
     {
-      "title": "Elon Musk's SpaceX IPO Filing Reveals $1.45 Billion Bitcoin Position",
+      "title": "World Liberty Financial rebound gives dormant WLFI holders an exit as AI Financial warns of survival risk",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/368570/elon-musks-spacex-ipo-filing-reveals-1-45-billion-bitcoin-position"
+      "url": "https://cryptoslate.com/world-liberty-financial-wlfi-rebound-ai-financial-risk/"
     },
     {
-      "title": "Trump says Iran talks on borderline between deal and strikes, and crypto markets are watching",
+      "title": "After opposition attack, BJP lists gains from PM's tour",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/trump-iran-talks-deal-strikes-crypto/"
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/after-opposition-attack-bjp-lists-gains-from-pms-tour/articleshow/131250801.cms"
     },
     {
-      "title": "Trump’s Self-Absorption Spells Midterms Disaster for the GOP",
+      "title": "EXCLUSIVE: Karen Wazen Opens Flagship at Dubai Mall",
       "tag": "金",
       "ago": "1日前",
-      "url": "http://nymag.com/intelligencer/article/trumps-self-absorption-spells-midterms-disaster-for-the-gop.html"
+      "url": "http://wwd.com/eye/scoops/karen-wazen-opens-flagship-at-dubai-mall-1238976759/"
     },
     {
-      "title": "Wall St rises as chip stocks rally ahead of Nvidia results",
+      "title": "CVB Financial Corp. Names George A. Borba Jr. Chairman of the Board; Prior Chairman Hal W. Oswalt Transitions to Vice Chairman",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-st-rises-as-chip-stocks-rally-ahead-of-nvidia-results"
+      "url": "https://www.globenewswire.com/news-release/2026/05/21/3299762/0/en/CVB-Financial-Corp-Names-George-A-Borba-Jr-Chairman-of-the-Board-Prior-Chairman-Hal-W-Oswalt-Transitions-to-Vice-Chairman.html"
     },
     {
-      "title": "FEDS Note: Population Growth and Labor Market Fragility: Lessons from Domestic and International Experiences",
+      "title": "Richmond Fed’s Barkin says current policy well-positioned for shocks",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/population-growth-and-labor-market-fragility-lessons-from-domestic-and-international-experiences-20260520.html"
+      "url": "https://cryptobriefing.com/richmond-fed-barkin-policy-supply-shocks/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/10",
         "4/13",
         "4/14",
         "4/15",
@@ -113,10 +112,10 @@
         "5/18",
         "5/19",
         "5/20",
-        "5/21"
+        "5/21",
+        "5/22"
       ],
       "values": [
-        6816.89,
         6886.24,
         6967.38,
         7022.95,
@@ -145,7 +144,8 @@
         7403.05,
         7353.61,
         7432.97,
-        7445.72
+        7445.72,
+        7473.47
       ]
     },
     "gold": {
@@ -178,7 +178,8 @@
         "5/18",
         "5/19",
         "5/20",
-        "5/21"
+        "5/21",
+        "5/22"
       ],
       "values": [
         4742.4,
@@ -209,12 +210,12 @@
         4552.5,
         4506.3,
         4531.3,
-        4544.2
+        4539.8,
+        4510.5
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/10",
         "4/13",
         "4/14",
         "4/15",
@@ -243,10 +244,10 @@
         "5/18",
         "5/19",
         "5/20",
-        "5/21"
+        "5/21",
+        "5/22"
       ],
       "values": [
-        159.11,
         159.68,
         159.21,
         158.79,
@@ -275,12 +276,12 @@
         158.84,
         158.86,
         159.04,
-        158.97
+        158.89,
+        159.15
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/10",
         "4/13",
         "4/14",
         "4/15",
@@ -309,10 +310,10 @@
         "5/18",
         "5/19",
         "5/20",
-        "5/21"
+        "5/21",
+        "5/22"
       ],
       "values": [
-        22902.89,
         23183.74,
         23639.08,
         24016.02,
@@ -341,7 +342,8 @@
         26090.73,
         25870.71,
         26270.36,
-        26293.1
+        26293.1,
+        26343.97
       ]
     }
   }
