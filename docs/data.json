@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22 21:56 UTC",
+  "updated_at": "2026-05-23 21:42 UTC",
   "prices": {
     "sp500": {
       "price": 7473.47,
@@ -10,8 +10,8 @@
       "change_pct": 0.19
     },
     "gold": {
-      "price": 4510.5,
-      "change_pct": -0.65
+      "price": 4521.0,
+      "change_pct": -0.41
     },
     "usdjpy": {
       "price": 159.15,
@@ -26,58 +26,40 @@
       "change_pct": -0.65
     },
     "btc": {
-      "price": 75933.0,
-      "change_pct": -2.07
+      "price": 76490.0,
+      "change_pct": 1.33
     }
   },
   "news": [
     {
-      "title": "Stock Market Today: S&P 500 and Nasdaq turn higher, Dow on pace for fresh record; investors digest Nvidia earnings; oil trims gain; Walmart results in focus",
+      "title": "Stocks climb, yields dip as investors focus on some progress in US-Iran talks",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183313118"
+      "url": "https://www.channelnewsasia.com/business/stocks-climb-yields-dip-investors-focus-some-progress-in-us-iran-talks-6135706"
     },
     {
-      "title": "How major US stock indexes fared Thursday 5/21/2026",
-      "tag": "株式",
-      "ago": "1日前",
-      "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-thursday-22271012.php"
-    },
-    {
-      "title": "If You’re Looking To Bitcoin Above $90,000, This Analyst Says To Watch This Bearish OB Level",
+      "title": "US 2-year yield climbs to 4.14%, hitting highest level since February 2025",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-above-90000-path/"
+      "url": "https://cryptobriefing.com/us-2-year-yield-rises-highest-since-february/"
     },
     {
-      "title": "World Liberty Financial rebound gives dormant WLFI holders an exit as AI Financial warns of survival risk",
+      "title": "Cuban Dumps Bitcoin...",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/world-liberty-financial-wlfi-rebound-ai-financial-risk/"
+      "url": "https://www.cryptoprowl.com/releases/billionaire-mark-cuban-sells-bitcoin-as-narrative-disappoints-5594"
     },
     {
-      "title": "After opposition attack, BJP lists gains from PM's tour",
+      "title": "The Great Depression Pantry: What They Stocked and What We Can Learn From It",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/after-opposition-attack-bjp-lists-gains-from-pms-tour/articleshow/131250801.cms"
+      "url": "https://thesurvivalmom.com/great-depression-pantry/"
     },
     {
-      "title": "EXCLUSIVE: Karen Wazen Opens Flagship at Dubai Mall",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "http://wwd.com/eye/scoops/karen-wazen-opens-flagship-at-dubai-mall-1238976759/"
-    },
-    {
-      "title": "CVB Financial Corp. Names George A. Borba Jr. Chairman of the Board; Prior Chairman Hal W. Oswalt Transitions to Vice Chairman",
+      "title": "Federal Reserve faces market bets for rate hike by December under Warsh",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/21/3299762/0/en/CVB-Financial-Corp-Names-George-A-Borba-Jr-Chairman-of-the-Board-Prior-Chairman-Hal-W-Oswalt-Transitions-to-Vice-Chairman.html"
-    },
-    {
-      "title": "Richmond Fed’s Barkin says current policy well-positioned for shocks",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/richmond-fed-barkin-policy-supply-shocks/"
+      "url": "https://cryptobriefing.com/fed-rate-hike-bets-warsh-december/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -211,7 +193,7 @@
         4506.3,
         4531.3,
         4539.8,
-        4510.5
+        4521.0
       ]
     },
     "usdjpy": {
