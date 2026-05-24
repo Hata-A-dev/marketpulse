@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23 21:42 UTC",
+  "updated_at": "2026-05-24 21:43 UTC",
   "prices": {
     "sp500": {
       "price": 7473.47,
@@ -9,13 +9,9 @@
       "price": 26343.97,
       "change_pct": 0.19
     },
-    "gold": {
-      "price": 4521.0,
-      "change_pct": -0.41
-    },
     "usdjpy": {
-      "price": 159.15,
-      "change_pct": 0.16
+      "price": 158.83,
+      "change_pct": -0.12
     },
     "vix": {
       "price": 16.7,
@@ -26,40 +22,58 @@
       "change_pct": -0.65
     },
     "btc": {
-      "price": 76490.0,
-      "change_pct": 1.33
+      "price": 76095.0,
+      "change_pct": -0.75
     }
   },
   "news": [
     {
-      "title": "Stocks climb, yields dip as investors focus on some progress in US-Iran talks",
+      "title": "Banking giant massively resets Jazz Pharma stock price target",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/stocks-climb-yields-dip-investors-focus-some-progress-in-us-iran-talks-6135706"
+      "url": "https://www.thestreet.com/investing/stocks/ubs-massively-raises-jazz-pharma-stock-price-target-to-307"
     },
     {
-      "title": "US 2-year yield climbs to 4.14%, hitting highest level since February 2025",
+      "title": "Broadcom’s AI Packaging Bet Gets Bigger. Wall Street Is Betting on More Upside for AVGO Stock.",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://www.barchart.com/story/news/2102972/broadcoms-ai-packaging-bet-gets-bigger-wall-street-is-betting-on-more-upside-for-avgo-stock"
+    },
+    {
+      "title": "Everyone Is Calling For Lower Bitcoin Price: Why This Is The Perfect Time To Go Parabolic",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-2-year-yield-rises-highest-since-february/"
+      "url": "https://bitcoinist.com/everyone-is-calling-for-lower-bitcoin-price-why-this-is-the-perfect-time-to-go-parabolic/"
     },
     {
-      "title": "Cuban Dumps Bitcoin...",
+      "title": "Bitcoin Could Be Entering Critical Pullback Phase Below This Level",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.cryptoprowl.com/releases/billionaire-mark-cuban-sells-bitcoin-as-narrative-disappoints-5594"
+      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-in-pullback-phase/"
     },
     {
-      "title": "The Great Depression Pantry: What They Stocked and What We Can Learn From It",
+      "title": "More War-Driven Inflation Seen in Fed’s Favored Gauge",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://thesurvivalmom.com/great-depression-pantry/"
+      "url": "https://financialpost.com/pmn/business-pmn/more-war-driven-inflation-seen-in-feds-favored-gauge"
     },
     {
-      "title": "Federal Reserve faces market bets for rate hike by December under Warsh",
+      "title": "India’s next freedom must be the freedom to produce",
+      "tag": "金",
+      "ago": "1日前",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/indias-next-freedom-must-be-the-freedom-to-produce/article71014742.ece"
+    },
+    {
+      "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-rate-hike-bets-warsh-december/"
+      "url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low"
+    },
+    {
+      "title": "U.S. debt is the ‘elephant in the room’ amid bond market rout as Fed-fueled interest costs could drive even larger deficits, analysts warn",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://fortune.com/2026/05/23/us-debt-bond-market-selloff-fed-rate-hikes-inflation-interest-costs-deficits/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -132,7 +146,6 @@
     },
     "gold": {
       "dates": [
-        "4/13",
         "4/14",
         "4/15",
         "4/16",
@@ -164,7 +177,6 @@
         "5/22"
       ],
       "values": [
-        4742.4,
         4825.0,
         4800.0,
         4785.4,
@@ -193,12 +205,11 @@
         4506.3,
         4531.3,
         4539.8,
-        4521.0
+        4523.2
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/13",
         "4/14",
         "4/15",
         "4/16",
@@ -227,10 +238,10 @@
         "5/19",
         "5/20",
         "5/21",
-        "5/22"
+        "5/22",
+        "5/24"
       ],
       "values": [
-        159.68,
         159.21,
         158.79,
         158.81,
@@ -259,7 +270,8 @@
         158.86,
         159.04,
         158.89,
-        159.15
+        159.02,
+        158.83
       ]
     },
     "nasdaq": {
