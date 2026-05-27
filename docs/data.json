@@ -1,82 +1,89 @@
 {
-  "updated_at": "2026-05-26 22:14 UTC",
+  "updated_at": "2026-05-27 22:24 UTC",
   "prices": {
     "sp500": {
-      "price": 7519.12,
-      "change_pct": 0.61
+      "price": 7520.36,
+      "change_pct": 0.02
     },
     "nasdaq": {
-      "price": 26656.18,
-      "change_pct": 1.19
+      "price": 26674.73,
+      "change_pct": 0.07
+    },
+    "gold": {
+      "price": 4488.0,
+      "change_pct": -0.28
     },
     "usdjpy": {
-      "price": 159.29,
-      "change_pct": 0.21
+      "price": 159.48,
+      "change_pct": 0.33
     },
     "vix": {
-      "price": 17.01,
-      "change_pct": 2.53
+      "price": 16.29,
+      "change_pct": -4.23
+    },
+    "usbond": {
+      "price": 4.48,
+      "change_pct": -0.22
     },
     "btc": {
-      "price": 75725.0,
-      "change_pct": -2.01
+      "price": 74412.0,
+      "change_pct": -1.86
     }
   },
   "news": [
     {
-      "title": "Stock futures today: Live updates",
+      "title": "Stock market today: Dow rises, S&P 500 and Nasdaq waver as tech momentum fades, oil falls amid US-Iran talks",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/05/25/stock-futures-today-live-updates.html"
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6b383ab6-14ff-4c88-b2eb-226bf03dc075"
     },
     {
-      "title": "Hyperliquid sees $2.5B open interest as demand for tokenized equities surges",
+      "title": "Stock market today: S&P 500, Nasdaq retreat from records as tech momentum fades, oil falls amid US-Iran talks",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/hyperliquid-2-5b-open-interest-tokenized-equities/"
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4f10082c-2117-4c2a-853e-9304a536bb0b"
     },
     {
-      "title": "BlackRock Unloads $1 Billion BTC — Retail Panic Loading",
+      "title": "Someone Just Destroyed $8.2 Million in Bitcoin—Why?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/blackrock-unloads-1-billion-btc-retail-panic-loading/"
+      "url": "https://decrypt.co/369099/someone-burned-8-million-bitcoin-destroyed-why"
     },
     {
-      "title": "XRP Channel Pattern Points To $5, Says Korean Analyst",
+      "title": "This Half-Gigabyte AI Model Runs Local Agents on Your Phone",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/altcoin/xrp-channel-pattern-points-to-5-says-korean-analyst/"
+      "url": "https://decrypt.co/369068/openbmb-minicpm5-half-gigabyte-ai-model-local-agents-phone"
     },
     {
-      "title": "With Central Bank’s Blessing, Georgia Taps Tether for 'Official' Stablecoin",
+      "title": "CNN Blurts Out that Oil Won’t Dip Below $70 Until … 2032!",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://decrypt.co/368961/central-bank-georgia-tether-stablecoin"
+      "url": "https://newsbusters.org/blogs/business/joseph-vazquez/2026/05/26/crystal-bull-cnn-blurts-out-oil-wont-dip-below-70-until"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "Eldorado Gold Publishes 2025 Sustainability Report, Incorporating Climate Change Strategy and Data",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/25/550472/"
+      "url": "https://www.globenewswire.com/news-release/2026/05/26/3301518/0/en/Eldorado-Gold-Publishes-2025-Sustainability-Report-Incorporating-Climate-Change-Strategy-and-Data.html"
     },
     {
-      "title": "FinVolution Group Reports First Quarter 2026 Unaudited Financial Results",
+      "title": "Live: ASX to fall ahead of inflation data, Nasdaq hits record high",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/finvolution-group-reports-first-quarter-2026-unaudited-financial-results-302781329.html"
+      "url": "https://www.abc.net.au/news/2026-05-27/asx-markets-business-live-news-may-27/106725674"
     },
     {
-      "title": "News of the day: Canada’s slumping auto industry, market warning signs, Tim Hortons hiring local, Bank of Canada in no rate cut rush, cottage country buyers and more",
+      "title": "Qfin Holdings Announces First Quarter 2026 Unaudited Financial Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://financialpost.com/uncategorized/news-of-the-day-canadas-slumping-auto-industry-market-warning-signs-tim-hortons-hiring-local-bank-of-canada-in-no-rate-cut-rush-cottage-country-buyers-and-more"
+      "url": "https://www.globenewswire.com/news-release/2026/05/26/3301561/0/en/Qfin-Holdings-Announces-First-Quarter-2026-Unaudited-Financial-Results.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/14",
         "4/15",
         "4/16",
         "4/17",
@@ -105,10 +112,10 @@
         "5/20",
         "5/21",
         "5/22",
-        "5/26"
+        "5/26",
+        "5/27"
       ],
       "values": [
-        6967.38,
         7022.95,
         7041.28,
         7126.06,
@@ -137,12 +144,12 @@
         7432.97,
         7445.72,
         7473.47,
-        7519.12
+        7519.12,
+        7520.36
       ]
     },
     "gold": {
       "dates": [
-        "4/15",
         "4/16",
         "4/17",
         "4/20",
@@ -170,10 +177,10 @@
         "5/20",
         "5/21",
         "5/22",
-        "5/26"
+        "5/26",
+        "5/27"
       ],
       "values": [
-        4800.0,
         4785.4,
         4857.6,
         4806.6,
@@ -201,12 +208,12 @@
         4531.3,
         4539.8,
         4521.0,
-        4506.6
+        4500.4,
+        4488.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/15",
         "4/16",
         "4/17",
         "4/20",
@@ -235,10 +242,10 @@
         "5/21",
         "5/22",
         "5/25",
-        "5/26"
+        "5/26",
+        "5/27"
       ],
       "values": [
-        158.79,
         158.81,
         159.2,
         159.16,
@@ -267,12 +274,12 @@
         158.89,
         159.02,
         158.95,
-        159.29
+        158.95,
+        159.48
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/14",
         "4/15",
         "4/16",
         "4/17",
@@ -301,10 +308,10 @@
         "5/20",
         "5/21",
         "5/22",
-        "5/26"
+        "5/26",
+        "5/27"
       ],
       "values": [
-        23639.08,
         24016.02,
         24102.7,
         24468.48,
@@ -333,7 +340,8 @@
         26270.36,
         26293.1,
         26343.97,
-        26656.18
+        26656.18,
+        26674.73
       ]
     }
   }
