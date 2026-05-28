@@ -1,90 +1,89 @@
 {
-  "updated_at": "2026-05-27 22:24 UTC",
+  "updated_at": "2026-05-28 22:25 UTC",
   "prices": {
     "sp500": {
-      "price": 7520.36,
-      "change_pct": 0.02
+      "price": 7563.63,
+      "change_pct": 0.58
     },
     "nasdaq": {
-      "price": 26674.73,
-      "change_pct": 0.07
+      "price": 26917.47,
+      "change_pct": 0.91
     },
     "gold": {
-      "price": 4488.0,
-      "change_pct": -0.28
+      "price": 4524.3,
+      "change_pct": 1.73
     },
     "usdjpy": {
-      "price": 159.48,
-      "change_pct": 0.33
+      "price": 159.57,
+      "change_pct": 0.21
     },
     "vix": {
-      "price": 16.29,
-      "change_pct": -4.23
+      "price": 15.74,
+      "change_pct": -3.38
     },
     "usbond": {
-      "price": 4.48,
-      "change_pct": -0.22
+      "price": 4.45,
+      "change_pct": -0.67
     },
     "btc": {
-      "price": 74412.0,
-      "change_pct": -1.86
+      "price": 73585.0,
+      "change_pct": -1.02
     }
   },
   "news": [
     {
-      "title": "Stock market today: Dow rises, S&P 500 and Nasdaq waver as tech momentum fades, oil falls amid US-Iran talks",
+      "title": "S&P U.S. Indices Eligible Exchanges Methodology Update",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6b383ab6-14ff-4c88-b2eb-226bf03dc075"
+      "url": "https://www.prnewswire.com/news-releases/sp-us-indices-eligible-exchanges-methodology-update-302783713.html"
     },
     {
-      "title": "Stock market today: S&P 500, Nasdaq retreat from records as tech momentum fades, oil falls amid US-Iran talks",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4f10082c-2117-4c2a-853e-9304a536bb0b"
+      "url": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html"
     },
     {
-      "title": "Someone Just Destroyed $8.2 Million in Bitcoin—Why?",
+      "title": "Secrets To yggdrasil casinos – Even In This Down Economy",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/369099/someone-burned-8-million-bitcoin-destroyed-why"
+      "url": "https://johnchow.com/secrets-to-yggdrasil-casinos-even-in-this-down-economy/"
     },
     {
-      "title": "This Half-Gigabyte AI Model Runs Local Agents on Your Phone",
+      "title": "7 Days To Improving The Way You yggdrasil slots",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/369068/openbmb-minicpm5-half-gigabyte-ai-model-local-agents-phone"
+      "url": "https://johnchow.com/7-days-to-improving-the-way-you-yggdrasil-slots/"
     },
     {
-      "title": "CNN Blurts Out that Oil Won’t Dip Below $70 Until … 2032!",
+      "title": "XRP Pushing To $100: The Market Cap Conversation Will Go Out The Window If This Happens",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://newsbusters.org/blogs/business/joseph-vazquez/2026/05/26/crystal-bull-cnn-blurts-out-oil-wont-dip-below-70-until"
+      "url": "http://www.newsbtc.com/analysis/xrp/xrp-pushing-to-100-market-cap/"
     },
     {
-      "title": "Eldorado Gold Publishes 2025 Sustainability Report, Incorporating Climate Change Strategy and Data",
+      "title": "You May Now Have Five Minutes Of 'Turning Texas Blue' Fantasy-Indulgence Time",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/26/3301518/0/en/Eldorado-Gold-Publishes-2025-Sustainability-Report-Incorporating-Climate-Change-Strategy-and-Data.html"
+      "url": "https://www.wonkette.com/p/ken-paxton-wins-texas-senate-runoff"
     },
     {
-      "title": "Live: ASX to fall ahead of inflation data, Nasdaq hits record high",
+      "title": "X Financial Reports First Quarter 2026 Unaudited Financial Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-05-27/asx-markets-business-live-news-may-27/106725674"
+      "url": "https://www.prnewswire.com/news-releases/x-financial-reports-first-quarter-2026-unaudited-financial-results-302783121.html"
     },
     {
-      "title": "Qfin Holdings Announces First Quarter 2026 Unaudited Financial Results",
+      "title": "Stocks are rallying despite the Iran war and stubborn inflation. Here's why.",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/26/3301561/0/en/Qfin-Holdings-Announces-First-Quarter-2026-Unaudited-Financial-Results.html"
+      "url": "https://www.cbsnews.com/news/stock-market-high-nvidia-ai-economic-divide/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/15",
         "4/16",
         "4/17",
         "4/20",
@@ -113,10 +112,10 @@
         "5/21",
         "5/22",
         "5/26",
-        "5/27"
+        "5/27",
+        "5/28"
       ],
       "values": [
-        7022.95,
         7041.28,
         7126.06,
         7109.14,
@@ -145,12 +144,12 @@
         7445.72,
         7473.47,
         7519.12,
-        7520.36
+        7520.36,
+        7563.63
       ]
     },
     "gold": {
       "dates": [
-        "4/16",
         "4/17",
         "4/20",
         "4/21",
@@ -178,10 +177,10 @@
         "5/21",
         "5/22",
         "5/26",
-        "5/27"
+        "5/27",
+        "5/28"
       ],
       "values": [
-        4785.4,
         4857.6,
         4806.6,
         4698.4,
@@ -209,12 +208,12 @@
         4539.8,
         4521.0,
         4500.4,
-        4488.0
+        4447.5,
+        4524.3
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/16",
         "4/17",
         "4/20",
         "4/21",
@@ -243,10 +242,10 @@
         "5/22",
         "5/25",
         "5/26",
-        "5/27"
+        "5/27",
+        "5/28"
       ],
       "values": [
-        158.81,
         159.2,
         159.16,
         158.84,
@@ -275,12 +274,12 @@
         159.02,
         158.95,
         158.95,
-        159.48
+        159.24,
+        159.23
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/15",
         "4/16",
         "4/17",
         "4/20",
@@ -309,10 +308,10 @@
         "5/21",
         "5/22",
         "5/26",
-        "5/27"
+        "5/27",
+        "5/28"
       ],
       "values": [
-        24016.02,
         24102.7,
         24468.48,
         24404.39,
@@ -341,7 +340,8 @@
         26293.1,
         26343.97,
         26656.18,
-        26674.73
+        26674.73,
+        26917.47
       ]
     }
   }
