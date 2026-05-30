@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29 22:23 UTC",
+  "updated_at": "2026-05-30 21:48 UTC",
   "prices": {
     "sp500": {
       "price": 7580.06,
@@ -10,8 +10,8 @@
       "change_pct": 0.2
     },
     "gold": {
-      "price": 4569.9,
-      "change_pct": 1.57
+      "price": 4560.5,
+      "change_pct": 1.36
     },
     "usdjpy": {
       "price": 159.26,
@@ -26,52 +26,46 @@
       "change_pct": 0.0
     },
     "btc": {
-      "price": 73458.0,
-      "change_pct": -0.11
+      "price": 73843.0,
+      "change_pct": 0.64
     }
   },
   "news": [
     {
-      "title": "The EM Outperformance Cycle",
+      "title": "Oil falls, stocks mixed on US-Iran truce prospects",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://dailyreckoning.com/the-em-outperformance-cycle/"
+      "url": "https://www.channelnewsasia.com/world/oil-prices-stocks-market-us-iran-deal-6150796"
     },
     {
-      "title": "S&P 500 and Nasdaq hit record closing highs as US and Iran agree to extend ceasefire - Reuters",
+      "title": "Wall Street ends higher, crude prices ease on potential US-Iran truce extension",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183438408"
+      "url": "https://finance.yahoo.com/news/oil-eyes-weekly-drop-hormuz-020658431.html"
     },
     {
-      "title": "Here’s Why The Bitcoin Price Has Continued To Decline This Week",
+      "title": "Analyst Compares This Bitcoin Bear Market To Previous Cycles To Show What’s Coming Next",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinist.com/why-bitcoin-price-has-decline/"
+      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-bear-market-comparison/"
     },
     {
-      "title": "What Is Solar and Why Did SXP Price Collapse to Near Zero in 2026?",
+      "title": "Canborsa Launches Beta of the First Perpetual RWA DEX on Canton Network",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/analysis/what-is-solar-and-why-did-sxp-price-collapse-to-near-zero-in-2026/"
+      "url": "https://www.globenewswire.com/news-release/2026/05/29/3303828/0/en/Canborsa-Launches-Beta-of-the-First-Perpetual-RWA-DEX-on-Canton-Network.html"
     },
     {
-      "title": "Jan van Eck: Bitcoin adoption stagnation impacts price expectations, private credit offers high yields, and gold is reemerging as a global currency | The Pomp Podcast",
+      "title": "Ruvi AI (RUVI) Major Upgrade Introduces Proprietary AI Technology as Momentum Around ROI Potential Grows",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/jan-van-eck-bitcoin-adoption-stagnation-impacts-price-expectations-private-credit-offers-high-yields-and-gold-is-reemerging-as-a-global-currency-the-pomp-podcast/"
+      "url": "https://www.globenewswire.com/news-release/2026/05/29/3303800/0/en/Ruvi-AI-RUVI-Major-Upgrade-Introduces-Proprietary-AI-Technology-as-Momentum-Around-ROI-Potential-Grows.html"
     },
     {
-      "title": "Today’s News in a Nutshell",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/28/551040/"
-    },
-    {
-      "title": "Bessent rejects ‘doomer view’ of Iran war fallout — touts Trump Accounts and economic growth",
+      "title": "Dollar set for weekly loss amid US-Iran ceasefire deal",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://nypost.com/2026/05/28/us-news/bessent-rejects-doomer-view-of-iran-war-fallout-touts-trump-accounts-and-economic-growth/"
+      "url": "https://finance.yahoo.com/news/dollar-heads-weekly-loss-reports-012026913.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -203,7 +197,7 @@
         4500.4,
         4447.5,
         4499.3,
-        4569.9
+        4560.5
       ]
     },
     "usdjpy": {
