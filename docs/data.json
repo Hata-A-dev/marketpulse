@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30 21:48 UTC",
+  "updated_at": "2026-05-31 21:45 UTC",
   "prices": {
     "sp500": {
       "price": 7580.06,
@@ -9,13 +9,9 @@
       "price": 26972.62,
       "change_pct": 0.2
     },
-    "gold": {
-      "price": 4560.5,
-      "change_pct": 1.36
-    },
     "usdjpy": {
-      "price": 159.26,
-      "change_pct": -0.01
+      "price": 159.29,
+      "change_pct": 0.01
     },
     "vix": {
       "price": 15.32,
@@ -26,46 +22,52 @@
       "change_pct": 0.0
     },
     "btc": {
-      "price": 73843.0,
-      "change_pct": 0.64
+      "price": 73650.0,
+      "change_pct": -0.14
     }
   },
   "news": [
     {
-      "title": "Oil falls, stocks mixed on US-Iran truce prospects",
+      "title": "Goldman Sachs massively resets Snowflake stock price target for 2026",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/world/oil-prices-stocks-market-us-iran-deal-6150796"
+      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-massively-resets-snowflake-stock-price-target-for-2026"
     },
     {
-      "title": "Wall Street ends higher, crude prices ease on potential US-Iran truce extension",
-      "tag": "株式",
-      "ago": "1日前",
-      "url": "https://finance.yahoo.com/news/oil-eyes-weekly-drop-hormuz-020658431.html"
-    },
-    {
-      "title": "Analyst Compares This Bitcoin Bear Market To Previous Cycles To Show What’s Coming Next",
+      "title": "On-Chain Data Suggests XRP Still Overvalued Despite Weak Price Action — More Pain For Bulls?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-bear-market-comparison/"
+      "url": "http://www.newsbtc.com/xrp-news/xrp-is-overvalued-despite-weak-price/"
     },
     {
-      "title": "Canborsa Launches Beta of the First Perpetual RWA DEX on Canton Network",
+      "title": "Pennsylvania Bank Issues Urgent Alert After AI Application Triggers Data Breach, Exposing Sensitive Customer Info",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/29/3303828/0/en/Canborsa-Launches-Beta-of-the-First-Perpetual-RWA-DEX-on-Canton-Network.html"
+      "url": "https://dailyhodl.com/2026/05/30/pennsylvania-bank-issues-urgent-alert-after-ai-application-triggers-data-breach-exposing-sensitive-customer-info/"
     },
     {
-      "title": "Ruvi AI (RUVI) Major Upgrade Introduces Proprietary AI Technology as Momentum Around ROI Potential Grows",
+      "title": "AI Sector Growth Accelerates Past $26 Billion as Ruvi AI (RUVI) Launches New Features, Proprietary Models, and Ecosystem Upgrades",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/29/3303800/0/en/Ruvi-AI-RUVI-Major-Upgrade-Introduces-Proprietary-AI-Technology-as-Momentum-Around-ROI-Potential-Grows.html"
+      "url": "https://www.globenewswire.com/news-release/2026/05/30/3303896/0/en/AI-Sector-Growth-Accelerates-Past-26-Billion-as-Ruvi-AI-RUVI-Launches-New-Features-Proprietary-Models-and-Ecosystem-Upgrades.html"
     },
     {
-      "title": "Dollar set for weekly loss amid US-Iran ceasefire deal",
+      "title": "Open interest collapses",
+      "tag": "金",
+      "ago": "1日前",
+      "url": "https://freerepublic.com/focus/f-news/4381583/posts"
+    },
+    {
+      "title": "The US debt machine is getting harder to stabilize – So where does Bitcoin fit in?",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/news/dollar-heads-weekly-loss-reports-012026913.html"
+      "url": "https://cryptoslate.com/the-us-debt-machine-is-getting-harder-to-stabilize-so-where-does-bitcoin-fit-in/"
+    },
+    {
+      "title": "Will the base metals remain hot?",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.thehindubusinessline.com/portfolio/will-the-base-metals-remain-hot/article71042294.ece"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -197,7 +199,7 @@
         4500.4,
         4447.5,
         4499.3,
-        4560.5
+        4593.0
       ]
     },
     "usdjpy": {
@@ -231,7 +233,7 @@
         "5/27",
         "5/28",
         "5/29",
-        "5/30"
+        "5/31"
       ],
       "values": [
         158.84,
@@ -263,7 +265,7 @@
         159.24,
         159.57,
         159.27,
-        159.26
+        159.29
       ]
     },
     "nasdaq": {
