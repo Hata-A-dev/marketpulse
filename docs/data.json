@@ -1,80 +1,79 @@
 {
-  "updated_at": "2026-05-31 21:45 UTC",
+  "updated_at": "2026-06-01 22:54 UTC",
   "prices": {
     "sp500": {
-      "price": 7580.06,
-      "change_pct": 0.22
+      "price": 7599.96,
+      "change_pct": 0.26
     },
     "nasdaq": {
-      "price": 26972.62,
-      "change_pct": 0.2
+      "price": 27086.81,
+      "change_pct": 0.42
     },
     "usdjpy": {
-      "price": 159.29,
-      "change_pct": 0.01
+      "price": 159.64,
+      "change_pct": 0.23
     },
     "vix": {
-      "price": 15.32,
-      "change_pct": -2.67
+      "price": 16.05,
+      "change_pct": 4.77
     },
     "usbond": {
-      "price": 4.45,
-      "change_pct": 0.0
+      "price": 4.47,
+      "change_pct": 0.45
     },
     "btc": {
-      "price": 73650.0,
-      "change_pct": -0.14
+      "price": 71260.0,
+      "change_pct": -3.15
     }
   },
   "news": [
     {
-      "title": "Goldman Sachs massively resets Snowflake stock price target for 2026",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures are little changed after record-highs in May",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-massively-resets-snowflake-stock-price-target-for-2026"
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_334715b0-1daf-46f8-843c-5686a33f8cb1"
     },
     {
-      "title": "On-Chain Data Suggests XRP Still Overvalued Despite Weak Price Action — More Pain For Bulls?",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq waver as oil surges",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fb9353c5-f4b6-46b8-9481-7799e6c99a35"
+    },
+    {
+      "title": "Core Scientific, Inc. (CORZ): Leopold Aschenbrenner Trims Holding",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/xrp-news/xrp-is-overvalued-despite-weak-price/"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-inc-corz-leopold-213300983.html"
     },
     {
-      "title": "Pennsylvania Bank Issues Urgent Alert After AI Application Triggers Data Breach, Exposing Sensitive Customer Info",
+      "title": "Bitcoin ETFs Post $1.42B Weekly Outflows To Close May Bloodbath",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/05/30/pennsylvania-bank-issues-urgent-alert-after-ai-application-triggers-data-breach-exposing-sensitive-customer-info/"
+      "url": "https://bitcoinist.com/bitcoin-etfs-1-42b-weekly-outflows-bloodbath-may/"
     },
     {
-      "title": "AI Sector Growth Accelerates Past $26 Billion as Ruvi AI (RUVI) Launches New Features, Proprietary Models, and Ecosystem Upgrades",
+      "title": "Ruvi AI (RUVI) Introduces Staking in Its Latest Ecosystem Upgrade, Expanding Utility for Token Holders",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/30/3303896/0/en/AI-Sector-Growth-Accelerates-Past-26-Billion-as-Ruvi-AI-RUVI-Launches-New-Features-Proprietary-Models-and-Ecosystem-Upgrades.html"
+      "url": "https://www.globenewswire.com/news-release/2026/05/31/3303947/0/en/Ruvi-AI-RUVI-Introduces-Staking-in-Its-Latest-Ecosystem-Upgrade-Expanding-Utility-for-Token-Holders.html"
     },
     {
-      "title": "Open interest collapses",
+      "title": "Shot of hike as painkiller: India’s economic storm calls for decisive MPC action",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://freerepublic.com/focus/f-news/4381583/posts"
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/shot-of-hike-as-painkiller-indias-economic-storm-calls-for-decisive-mpc-action/articleshow/131428665.cms"
     },
     {
-      "title": "The US debt machine is getting harder to stabilize – So where does Bitcoin fit in?",
+      "title": "Bond Trader Bets on Fed Hike Poised for Gut Check From Jobs Data",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/the-us-debt-machine-is-getting-harder-to-stabilize-so-where-does-bitcoin-fit-in/"
-    },
-    {
-      "title": "Will the base metals remain hot?",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/portfolio/will-the-base-metals-remain-hot/article71042294.ece"
+      "url": "https://financialpost.com/pmn/business-pmn/bond-trader-bets-on-fed-hike-poised-for-gut-check-from-jobs-data"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/17",
         "4/20",
         "4/21",
         "4/22",
@@ -103,10 +102,10 @@
         "5/26",
         "5/27",
         "5/28",
-        "5/29"
+        "5/29",
+        "6/1"
       ],
       "values": [
-        7126.06,
         7109.14,
         7064.01,
         7137.9,
@@ -135,12 +134,12 @@
         7519.12,
         7520.36,
         7563.63,
-        7580.06
+        7580.06,
+        7599.96
       ]
     },
     "gold": {
       "dates": [
-        "4/20",
         "4/21",
         "4/22",
         "4/23",
@@ -168,10 +167,10 @@
         "5/26",
         "5/27",
         "5/28",
-        "5/29"
+        "5/29",
+        "6/1"
       ],
       "values": [
-        4806.6,
         4698.4,
         4732.5,
         4705.1,
@@ -199,7 +198,8 @@
         4500.4,
         4447.5,
         4499.3,
-        4593.0
+        4560.5,
+        4512.0
       ]
     },
     "usdjpy": {
@@ -233,7 +233,7 @@
         "5/27",
         "5/28",
         "5/29",
-        "5/31"
+        "6/1"
       ],
       "values": [
         158.84,
@@ -265,12 +265,11 @@
         159.24,
         159.57,
         159.27,
-        159.29
+        159.63
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/17",
         "4/20",
         "4/21",
         "4/22",
@@ -299,10 +298,10 @@
         "5/26",
         "5/27",
         "5/28",
-        "5/29"
+        "5/29",
+        "6/1"
       ],
       "values": [
-        24468.48,
         24404.39,
         24259.96,
         24657.57,
@@ -331,7 +330,8 @@
         26656.18,
         26674.73,
         26917.47,
-        26972.62
+        26972.62,
+        27086.81
       ]
     }
   }
