@@ -1,80 +1,89 @@
 {
-  "updated_at": "2026-06-01 22:54 UTC",
+  "updated_at": "2026-06-02 22:54 UTC",
   "prices": {
     "sp500": {
-      "price": 7599.96,
-      "change_pct": 0.26
+      "price": 7609.78,
+      "change_pct": 0.13
     },
     "nasdaq": {
-      "price": 27086.81,
-      "change_pct": 0.42
+      "price": 27093.9,
+      "change_pct": 0.03
+    },
+    "gold": {
+      "price": 4517.6,
+      "change_pct": 0.95
     },
     "usdjpy": {
-      "price": 159.64,
-      "change_pct": 0.23
+      "price": 159.93,
+      "change_pct": 0.36
     },
     "vix": {
-      "price": 16.05,
-      "change_pct": 4.77
+      "price": 15.77,
+      "change_pct": -1.74
     },
     "usbond": {
-      "price": 4.47,
-      "change_pct": 0.45
+      "price": 4.45,
+      "change_pct": -0.45
     },
     "btc": {
-      "price": 71260.0,
-      "change_pct": -3.15
+      "price": 66525.0,
+      "change_pct": -6.72
     }
   },
   "news": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures are little changed after record-highs in May",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_334715b0-1daf-46f8-843c-5686a33f8cb1"
+      "url": "https://www.cnbc.com/2026/06/01/stock-market-today-live-updates.html"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq waver as oil surges",
+      "title": "Why are oil prices up today and will Brent and US WTI crude futures continue to drop or rise again? Oil prices surge as Iran talks stall and supply concerns return",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fb9353c5-f4b6-46b8-9481-7799e6c99a35"
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-and-us-wti-crude-futures-continue-to-drop-or-rise-again-oil-prices-surge-as-iran-talks-stall-and-supply-concerns-return/articleshow/131450108.cms"
     },
     {
-      "title": "Core Scientific, Inc. (CORZ): Leopold Aschenbrenner Trims Holding",
+      "title": "WLD Coin Rallies 15% As Live Music Partnership Fuels Adoption Hopes",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-inc-corz-leopold-213300983.html"
+      "url": "http://www.newsbtc.com/news/wld-coin-rallies-20-as-live-music-partnership-fuels-adoption-hopes/"
     },
     {
-      "title": "Bitcoin ETFs Post $1.42B Weekly Outflows To Close May Bloodbath",
+      "title": "Crypto Ponzi Scheme Convictions: Key Red Flags Investors Must Know",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinist.com/bitcoin-etfs-1-42b-weekly-outflows-bloodbath-may/"
+      "url": "https://www.forbes.com/sites/steveweisman/2026/06/01/crypto-ponzi-scheme-convictions-key-red-flags-investors-must-know/"
     },
     {
-      "title": "Ruvi AI (RUVI) Introduces Staking in Its Latest Ecosystem Upgrade, Expanding Utility for Token Holders",
+      "title": "Divya Mathur Holds One of Fashion’s Most Influential Jobs. Here’s How She Earned Consumers’ Trust.",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/05/31/3303947/0/en/Ruvi-AI-RUVI-Introduces-Staking-in-Its-Latest-Ecosystem-Upgrade-Expanding-Utility-for-Token-Holders.html"
+      "url": "https://msmagazine.com/2026/06/01/divya-mathur-revolve-indian-american-women-fashion/"
     },
     {
-      "title": "Shot of hike as painkiller: India’s economic storm calls for decisive MPC action",
+      "title": "Fleeing for their futures, a California exodus unleashes a Florida ‘gold rush’",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/shot-of-hike-as-painkiller-indias-economic-storm-calls-for-decisive-mpc-action/articleshow/131428665.cms"
+      "url": "https://www.foxbusiness.com/economy/fleeing-futures-massive-california-exodus-unleashes-florida-gold-rush"
     },
     {
-      "title": "Bond Trader Bets on Fed Hike Poised for Gut Check From Jobs Data",
+      "title": "Why is gold price down today, and will precious metals continue to drop or rise again? Gold falls as inflation concerns grow amid Middle East conflict",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/bond-trader-bets-on-fed-hike-poised-for-gut-check-from-jobs-data"
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-gold-price-down-today-and-will-precious-metals-continue-to-drop-or-rise-again-gold-falls-as-inflation-concerns-grow-amid-middle-east-conflict/articleshow/131450114.cms"
+    },
+    {
+      "title": "Arrow Financial Corporation and Adirondack Bancorp, Inc. Receive OCC Approval for Merger",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.prnewswire.com/news-releases/arrow-financial-corporation-and-adirondack-bancorp-inc-receive-occ-approval-for-merger-302787622.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/20",
         "4/21",
         "4/22",
         "4/23",
@@ -103,10 +112,10 @@
         "5/27",
         "5/28",
         "5/29",
-        "6/1"
+        "6/1",
+        "6/2"
       ],
       "values": [
-        7109.14,
         7064.01,
         7137.9,
         7108.4,
@@ -135,12 +144,12 @@
         7520.36,
         7563.63,
         7580.06,
-        7599.96
+        7599.96,
+        7609.78
       ]
     },
     "gold": {
       "dates": [
-        "4/21",
         "4/22",
         "4/23",
         "4/24",
@@ -168,10 +177,10 @@
         "5/27",
         "5/28",
         "5/29",
-        "6/1"
+        "6/1",
+        "6/2"
       ],
       "values": [
-        4698.4,
         4732.5,
         4705.1,
         4722.3,
@@ -199,12 +208,12 @@
         4447.5,
         4499.3,
         4560.5,
-        4512.0
+        4475.2,
+        4518.1
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/21",
         "4/22",
         "4/23",
         "4/24",
@@ -233,10 +242,10 @@
         "5/27",
         "5/28",
         "5/29",
-        "6/1"
+        "6/1",
+        "6/2"
       ],
       "values": [
-        158.84,
         159.37,
         159.49,
         159.75,
@@ -265,12 +274,12 @@
         159.24,
         159.57,
         159.27,
-        159.63
+        159.35,
+        159.94
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/20",
         "4/21",
         "4/22",
         "4/23",
@@ -299,10 +308,10 @@
         "5/27",
         "5/28",
         "5/29",
-        "6/1"
+        "6/1",
+        "6/2"
       ],
       "values": [
-        24404.39,
         24259.96,
         24657.57,
         24438.5,
@@ -331,7 +340,8 @@
         26674.73,
         26917.47,
         26972.62,
-        27086.81
+        27086.81,
+        27093.9
       ]
     }
   }
