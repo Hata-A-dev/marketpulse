@@ -1,90 +1,77 @@
 {
-  "updated_at": "2026-06-02 22:54 UTC",
+  "updated_at": "2026-06-03 22:56 UTC",
   "prices": {
     "sp500": {
-      "price": 7609.78,
-      "change_pct": 0.13
+      "price": 7553.68,
+      "change_pct": -0.74
     },
     "nasdaq": {
-      "price": 27093.9,
-      "change_pct": 0.03
+      "price": 26853.98,
+      "change_pct": -0.89
     },
     "gold": {
-      "price": 4517.6,
-      "change_pct": 0.95
+      "price": 4463.4,
+      "change_pct": -0.57
     },
     "usdjpy": {
-      "price": 159.93,
-      "change_pct": 0.36
+      "price": 159.98,
+      "change_pct": 0.21
     },
     "vix": {
-      "price": 15.77,
-      "change_pct": -1.74
+      "price": 16.06,
+      "change_pct": 1.84
     },
     "usbond": {
-      "price": 4.45,
-      "change_pct": -0.45
+      "price": 4.49,
+      "change_pct": 0.9
     },
     "btc": {
-      "price": 66525.0,
-      "change_pct": -6.72
+      "price": 64777.0,
+      "change_pct": -2.89
     }
   },
   "news": [
     {
-      "title": "Stock market today: Live updates",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as AI fervor meets US-Iran uncertainty",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/01/stock-market-today-live-updates.html"
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ed2311ec-0b3c-4afc-94d9-e4ca7e1e30fd"
     },
     {
-      "title": "Why are oil prices up today and will Brent and US WTI crude futures continue to drop or rise again? Oil prices surge as Iran talks stall and supply concerns return",
+      "title": "Asian Stocks Poised to Gain as AI Rally Extends: Markets Wrap",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-and-us-wti-crude-futures-continue-to-drop-or-rise-again-oil-prices-surge-as-iran-talks-stall-and-supply-concerns-return/articleshow/131450108.cms"
+      "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-poised-to-gain-as-ai-rally-extends-markets-wrap"
     },
     {
-      "title": "WLD Coin Rallies 15% As Live Music Partnership Fuels Adoption Hopes",
+      "title": "Ledger vs Trezor: Which Hardware Wallet Is Better?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/news/wld-coin-rallies-20-as-live-music-partnership-fuels-adoption-hopes/"
+      "url": "https://bitcoinfoundation.org/news/opinion/ledger-vs-trezor-which-hardware-wallet-is-better/"
     },
     {
-      "title": "Crypto Ponzi Scheme Convictions: Key Red Flags Investors Must Know",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://www.forbes.com/sites/steveweisman/2026/06/01/crypto-ponzi-scheme-convictions-key-red-flags-investors-must-know/"
-    },
-    {
-      "title": "Divya Mathur Holds One of Fashion’s Most Influential Jobs. Here’s How She Earned Consumers’ Trust.",
+      "title": "The Federal Reserve is Why the People are Unhappy",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://msmagazine.com/2026/06/01/divya-mathur-revolve-indian-american-women-fashion/"
+      "url": "https://dailyreckoning.com/the-federal-reserve-is-why-the-people-are-unhappy/"
     },
     {
-      "title": "Fleeing for their futures, a California exodus unleashes a Florida ‘gold rush’",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://www.foxbusiness.com/economy/fleeing-futures-massive-california-exodus-unleashes-florida-gold-rush"
-    },
-    {
-      "title": "Why is gold price down today, and will precious metals continue to drop or rise again? Gold falls as inflation concerns grow amid Middle East conflict",
+      "title": "Japan holds back on yen warnings as currency nears 160 level",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-gold-price-down-today-and-will-precious-metals-continue-to-drop-or-rise-again-gold-falls-as-inflation-concerns-grow-amid-middle-east-conflict/articleshow/131450114.cms"
+      "url": "https://cryptobriefing.com/japan-yen-warnings-160-level/"
     },
     {
-      "title": "Arrow Financial Corporation and Adirondack Bancorp, Inc. Receive OCC Approval for Merger",
+      "title": "Crypto correction vaporized $176B in investor funds: Are bears back in control?",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/arrow-financial-corporation-and-adirondack-bancorp-inc-receive-occ-approval-for-merger-302787622.html"
+      "url": "https://cointelegraph.com/markets/crypto-correction-vaporized-176b-in-investor-funds-are-bears-back-in-control"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/21",
         "4/22",
         "4/23",
         "4/24",
@@ -113,10 +100,10 @@
         "5/28",
         "5/29",
         "6/1",
-        "6/2"
+        "6/2",
+        "6/3"
       ],
       "values": [
-        7064.01,
         7137.9,
         7108.4,
         7165.08,
@@ -145,12 +132,12 @@
         7563.63,
         7580.06,
         7599.96,
-        7609.78
+        7609.78,
+        7553.68
       ]
     },
     "gold": {
       "dates": [
-        "4/22",
         "4/23",
         "4/24",
         "4/27",
@@ -178,10 +165,10 @@
         "5/28",
         "5/29",
         "6/1",
-        "6/2"
+        "6/2",
+        "6/3"
       ],
       "values": [
-        4732.5,
         4705.1,
         4722.3,
         4675.4,
@@ -209,12 +196,12 @@
         4499.3,
         4560.5,
         4475.2,
-        4518.1
+        4489.1,
+        4463.4
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/22",
         "4/23",
         "4/24",
         "4/27",
@@ -243,10 +230,10 @@
         "5/28",
         "5/29",
         "6/1",
-        "6/2"
+        "6/2",
+        "6/3"
       ],
       "values": [
-        159.37,
         159.49,
         159.75,
         159.58,
@@ -275,12 +262,12 @@
         159.57,
         159.27,
         159.35,
-        159.94
+        159.64,
+        159.99
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/21",
         "4/22",
         "4/23",
         "4/24",
@@ -309,10 +296,10 @@
         "5/28",
         "5/29",
         "6/1",
-        "6/2"
+        "6/2",
+        "6/3"
       ],
       "values": [
-        24259.96,
         24657.57,
         24438.5,
         24836.6,
@@ -341,7 +328,8 @@
         26917.47,
         26972.62,
         27086.81,
-        27093.9
+        27093.9,
+        26853.98
       ]
     }
   }
