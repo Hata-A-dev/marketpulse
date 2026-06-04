@@ -1,78 +1,89 @@
 {
-  "updated_at": "2026-06-03 22:56 UTC",
+  "updated_at": "2026-06-04 22:15 UTC",
   "prices": {
     "sp500": {
-      "price": 7553.68,
-      "change_pct": -0.74
+      "price": 7584.31,
+      "change_pct": 0.41
     },
     "nasdaq": {
-      "price": 26853.98,
-      "change_pct": -0.89
+      "price": 26830.96,
+      "change_pct": -0.09
     },
     "gold": {
-      "price": 4463.4,
-      "change_pct": -0.57
+      "price": 4501.9,
+      "change_pct": 1.47
     },
     "usdjpy": {
-      "price": 159.98,
-      "change_pct": 0.21
+      "price": 159.99,
+      "change_pct": 0.01
     },
     "vix": {
-      "price": 16.06,
-      "change_pct": 1.84
+      "price": 15.4,
+      "change_pct": -4.11
     },
     "usbond": {
-      "price": 4.49,
-      "change_pct": 0.9
+      "price": 4.48,
+      "change_pct": -0.22
     },
     "btc": {
-      "price": 64777.0,
-      "change_pct": -2.89
+      "price": 63240.0,
+      "change_pct": -1.21
     }
   },
   "news": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as AI fervor meets US-Iran uncertainty",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ed2311ec-0b3c-4afc-94d9-e4ca7e1e30fd"
+      "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html"
     },
     {
-      "title": "Asian Stocks Poised to Gain as AI Rally Extends: Markets Wrap",
+      "title": "Commentary: How much AI Is too much for stock investors?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-poised-to-gain-as-ai-rally-extends-markets-wrap"
+      "url": "https://www.channelnewsasia.com/commentary/ai-stocks-growth-earnings-sp-500-invest-portfolio-6159476"
     },
     {
-      "title": "Ledger vs Trezor: Which Hardware Wallet Is Better?",
+      "title": "Bitcoin falls 4% to over three-month low",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/opinion/ledger-vs-trezor-which-hardware-wallet-is-better/"
+      "url": "https://www.channelnewsasia.com/business/bitcoin-falls-4-over-three-month-low-6160776"
     },
     {
-      "title": "The Federal Reserve is Why the People are Unhappy",
+      "title": "Bitmine's Ethereum bet nears $9 billion loss as ether falls below $1,800",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://www.coindesk.com/markets/2026/06/03/bitmine-s-ethereum-bet-nears-usd9-billion-loss-as-ether-falls-below-usd1-800"
+    },
+    {
+      "title": "Trading Day: War clouds and tech wobbles",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://dailyreckoning.com/the-federal-reserve-is-why-the-people-are-unhappy/"
+      "url": "https://www.channelnewsasia.com/business/trading-day-war-clouds-and-tech-wobbles-6160756"
     },
     {
-      "title": "Japan holds back on yen warnings as currency nears 160 level",
-      "tag": "経済",
+      "title": "RBI's rate-setting panel starts deliberations, policy announcement on Friday",
+      "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/japan-yen-warnings-160-level/"
+      "url": "https://www.thehindubusinessline.com/money-and-banking/rbis-rate-setting-panel-starts-deliberations-policy-announcement-on-friday/article71056664.ece"
     },
     {
-      "title": "Crypto correction vaporized $176B in investor funds: Are bears back in control?",
+      "title": "IDT Corporation Reports Third Quarter Fiscal Year 2026 Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/markets/crypto-correction-vaporized-176b-in-investor-funds-are-bears-back-in-control"
+      "url": "https://www.globenewswire.com/news-release/2026/06/03/3306409/33173/en/IDT-Corporation-Reports-Third-Quarter-Fiscal-Year-2026-Results.html"
+    },
+    {
+      "title": "Treasury Yield Rises Most in Two Weeks After Jobs Gauge",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://financialpost.com/pmn/business-pmn/treasury-yield-rises-most-in-two-weeks-after-jobs-gauge"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/22",
         "4/23",
         "4/24",
         "4/27",
@@ -101,10 +112,10 @@
         "5/29",
         "6/1",
         "6/2",
-        "6/3"
+        "6/3",
+        "6/4"
       ],
       "values": [
-        7137.9,
         7108.4,
         7165.08,
         7173.91,
@@ -133,12 +144,12 @@
         7580.06,
         7599.96,
         7609.78,
-        7553.68
+        7553.68,
+        7584.31
       ]
     },
     "gold": {
       "dates": [
-        "4/23",
         "4/24",
         "4/27",
         "4/28",
@@ -166,10 +177,10 @@
         "5/29",
         "6/1",
         "6/2",
-        "6/3"
+        "6/3",
+        "6/4"
       ],
       "values": [
-        4705.1,
         4722.3,
         4675.4,
         4591.5,
@@ -197,12 +208,12 @@
         4560.5,
         4475.2,
         4489.1,
-        4463.4
+        4436.7,
+        4501.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/23",
         "4/24",
         "4/27",
         "4/28",
@@ -231,10 +242,10 @@
         "5/29",
         "6/1",
         "6/2",
-        "6/3"
+        "6/3",
+        "6/4"
       ],
       "values": [
-        159.49,
         159.75,
         159.58,
         159.36,
@@ -263,12 +274,12 @@
         159.27,
         159.35,
         159.64,
+        159.97,
         159.99
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/22",
         "4/23",
         "4/24",
         "4/27",
@@ -297,10 +308,10 @@
         "5/29",
         "6/1",
         "6/2",
-        "6/3"
+        "6/3",
+        "6/4"
       ],
       "values": [
-        24657.57,
         24438.5,
         24836.6,
         24887.1,
@@ -329,7 +340,8 @@
         26972.62,
         27086.81,
         27093.9,
-        26853.98
+        26853.98,
+        26830.96
       ]
     }
   }
