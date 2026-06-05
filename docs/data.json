@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-04 22:15 UTC",
+  "updated_at": "2026-06-05 22:07 UTC",
   "prices": {
     "sp500": {
-      "price": 7584.31,
-      "change_pct": 0.41
+      "price": 7383.74,
+      "change_pct": -2.64
     },
     "nasdaq": {
-      "price": 26830.96,
-      "change_pct": -0.09
+      "price": 25709.43,
+      "change_pct": -4.18
     },
     "gold": {
-      "price": 4501.9,
-      "change_pct": 1.47
+      "price": 4353.9,
+      "change_pct": -2.72
     },
     "usdjpy": {
-      "price": 159.99,
-      "change_pct": 0.01
+      "price": 160.29,
+      "change_pct": 0.22
     },
     "vix": {
-      "price": 15.4,
-      "change_pct": -4.11
+      "price": 21.51,
+      "change_pct": 39.68
     },
     "usbond": {
-      "price": 4.48,
-      "change_pct": -0.22
+      "price": 4.54,
+      "change_pct": 1.34
     },
     "btc": {
-      "price": 63240.0,
-      "change_pct": -1.21
+      "price": 61286.0,
+      "change_pct": -3.94
     }
   },
   "news": [
@@ -35,56 +35,43 @@
       "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/03/stock-market-today-live-updates.html"
+      "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html"
     },
     {
-      "title": "Commentary: How much AI Is too much for stock investors?",
+      "title": "S&P Dow Jones Indices Consultation on Treatment of MegaCap Companies - Results",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/commentary/ai-stocks-growth-earnings-sp-500-invest-portfolio-6159476"
+      "url": "https://www.prnewswire.com/news-releases/sp-dow-jones-indices-consultation-on-treatment-of-megacap-companies--results-302792104.html"
     },
     {
-      "title": "Bitcoin falls 4% to over three-month low",
+      "title": "Oil drops, stocks mostly higher despite AI concerns",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/bitcoin-falls-4-over-three-month-low-6160776"
+      "url": "https://www.channelnewsasia.com/business/oil-drops-stocks-mostly-higher-despite-ai-concerns-6163371"
     },
     {
-      "title": "Bitmine's Ethereum bet nears $9 billion loss as ether falls below $1,800",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://www.coindesk.com/markets/2026/06/03/bitmine-s-ethereum-bet-nears-usd9-billion-loss-as-ether-falls-below-usd1-800"
-    },
-    {
-      "title": "Trading Day: War clouds and tech wobbles",
+      "title": "Exchange of old gold has risen almost 60% year-on-year, say jewellery retailers",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/trading-day-war-clouds-and-tech-wobbles-6160756"
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/exchange-of-old-gold-has-risen-almost-60-year-on-year-say-jewellery-retailers/articleshow/131515836.cms"
     },
     {
-      "title": "RBI's rate-setting panel starts deliberations, policy announcement on Friday",
+      "title": "Holiday misery to continue for Brits as experts reveal flight prices are set to soar even further next year - but the REAL winner of the jet fuel crisis is Butlin's",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/rbis-rate-setting-panel-starts-deliberations-policy-announcement-on-friday/article71056664.ece"
+      "url": "https://www.dailymail.com/travel/article-15870989/holiday-misery-flight-prices-soar-Dispatches-documentary-butlins.html"
     },
     {
-      "title": "IDT Corporation Reports Third Quarter Fiscal Year 2026 Results",
+      "title": "How income investors can benefit from interest rate hikes: Expert",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/06/03/3306409/33173/en/IDT-Corporation-Reports-Third-Quarter-Fiscal-Year-2026-Results.html"
-    },
-    {
-      "title": "Treasury Yield Rises Most in Two Weeks After Jobs Gauge",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/treasury-yield-rises-most-in-two-weeks-after-jobs-gauge"
+      "url": "https://www.fool.com.au/2026/06/05/how-income-investors-can-benefit-from-interest-rate-hikes-expert/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/23",
         "4/24",
         "4/27",
         "4/28",
@@ -113,10 +100,10 @@
         "6/1",
         "6/2",
         "6/3",
-        "6/4"
+        "6/4",
+        "6/5"
       ],
       "values": [
-        7108.4,
         7165.08,
         7173.91,
         7138.8,
@@ -145,12 +132,12 @@
         7599.96,
         7609.78,
         7553.68,
-        7584.31
+        7584.31,
+        7383.74
       ]
     },
     "gold": {
       "dates": [
-        "4/24",
         "4/27",
         "4/28",
         "4/29",
@@ -178,10 +165,10 @@
         "6/1",
         "6/2",
         "6/3",
-        "6/4"
+        "6/4",
+        "6/5"
       ],
       "values": [
-        4722.3,
         4675.4,
         4591.5,
         4545.2,
@@ -209,12 +196,12 @@
         4475.2,
         4489.1,
         4436.7,
-        4501.9
+        4475.8,
+        4353.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/24",
         "4/27",
         "4/28",
         "4/29",
@@ -243,10 +230,10 @@
         "6/1",
         "6/2",
         "6/3",
-        "6/4"
+        "6/4",
+        "6/5"
       ],
       "values": [
-        159.75,
         159.58,
         159.36,
         159.55,
@@ -275,12 +262,12 @@
         159.35,
         159.64,
         159.97,
-        159.99
+        159.94,
+        160.29
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/23",
         "4/24",
         "4/27",
         "4/28",
@@ -309,10 +296,10 @@
         "6/1",
         "6/2",
         "6/3",
-        "6/4"
+        "6/4",
+        "6/5"
       ],
       "values": [
-        24438.5,
         24836.6,
         24887.1,
         24663.8,
@@ -341,7 +328,8 @@
         27086.81,
         27093.9,
         26853.98,
-        26830.96
+        26830.96,
+        25709.43
       ]
     }
   }
