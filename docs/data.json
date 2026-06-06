@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05 22:07 UTC",
+  "updated_at": "2026-06-06 21:53 UTC",
   "prices": {
     "sp500": {
       "price": 7383.74,
@@ -10,8 +10,8 @@
       "change_pct": -4.18
     },
     "gold": {
-      "price": 4353.9,
-      "change_pct": -2.72
+      "price": 4337.1,
+      "change_pct": -3.1
     },
     "usdjpy": {
       "price": 160.29,
@@ -26,46 +26,52 @@
       "change_pct": 1.34
     },
     "btc": {
-      "price": 61286.0,
-      "change_pct": -3.94
+      "price": 60805.0,
+      "change_pct": -0.19
     }
   },
   "news": [
     {
-      "title": "Stock market today: Live updates",
+      "title": "The Class of 2026: Meet the 12 companies making their Fortune 500 debut",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html"
+      "url": "https://fortune.com/2026/06/05/fortune-500-debut-class-of-2026-galaxy-digital-marvell-technologies-bitgo-arista/"
     },
     {
-      "title": "S&P Dow Jones Indices Consultation on Treatment of MegaCap Companies - Results",
+      "title": "Marvell Technology and Flex to join S&P 500 index, replacing Pool and Campbell's",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/sp-dow-jones-indices-consultation-on-treatment-of-megacap-companies--results-302792104.html"
+      "url": "https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html"
     },
     {
-      "title": "Oil drops, stocks mostly higher despite AI concerns",
+      "title": "Crypto market crash: Why Bitcoin, XRP, Ethereum and altcoins are down today? Latest crypto market news and price analysis as BTC falls below $60,000, ETH plunges nearly 12%, and the Nasdaq Crypto Index drops almost 7%",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/oil-drops-stocks-mostly-higher-despite-ai-concerns-6163371"
+      "url": "https://economictimes.indiatimes.com/news/international/us/crypto-market-crash-bitcoin-xrp-ethereum-price-drop-reason-breakin-g-news-live-today-analysis-as-btc-falls-below-60000-eth-plunges-nearly-12-and-the-nasdaq-crypto-index-drops-almost-7/articleshow/131540202.cms"
     },
     {
-      "title": "Exchange of old gold has risen almost 60% year-on-year, say jewellery retailers",
+      "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion"
+    },
+    {
+      "title": "Why is the US stock market down today? Dow Jones, S&P 500 and Nasdaq crash big as strong jobs report, rising Treasury yields and AI stock selloff shake Wall Street — here are today's biggest gainers and losers",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/exchange-of-old-gold-has-risen-almost-60-year-on-year-say-jewellery-retailers/articleshow/131515836.cms"
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-the-us-stock-market-down-today-dow-jones-sp-500-and-nasdaq-crash-big-as-strong-jobs-report-rising-treasury-yields-and-ai-stock-selloff-shake-wall-street-here-are-todays-biggest-gainers-and-losers/articleshow/131537800.cms"
     },
     {
-      "title": "Holiday misery to continue for Brits as experts reveal flight prices are set to soar even further next year - but the REAL winner of the jet fuel crisis is Butlin's",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://www.dailymail.com/travel/article-15870989/holiday-misery-flight-prices-soar-Dispatches-documentary-butlins.html"
-    },
-    {
-      "title": "How income investors can benefit from interest rate hikes: Expert",
+      "title": "S&P 500, Nasdaq Post Worst Day of Year Amid AI Stock Slump",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.fool.com.au/2026/06/05/how-income-investors-can-benefit-from-interest-rate-hikes-expert/"
+      "url": "https://www.mediaite.com/media/news/sp-500-nasdaq-post-worst-day-of-year-amid-ai-stock-slump/"
+    },
+    {
+      "title": "Wall Street ends sharply lower as chips slide, jobs data fuels rate hike fears",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-sharply-lower-as-chips-slide-jobs-data-fuels-rate-hike-fears"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -197,7 +203,7 @@
         4489.1,
         4436.7,
         4475.8,
-        4353.9
+        4337.1
       ]
     },
     "usdjpy": {
