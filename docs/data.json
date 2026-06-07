@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06 21:53 UTC",
+  "updated_at": "2026-06-07 21:56 UTC",
   "prices": {
     "sp500": {
       "price": 7383.74,
@@ -9,13 +9,9 @@
       "price": 25709.43,
       "change_pct": -4.18
     },
-    "gold": {
-      "price": 4337.1,
-      "change_pct": -3.1
-    },
     "usdjpy": {
-      "price": 160.29,
-      "change_pct": 0.22
+      "price": 160.21,
+      "change_pct": 0.14
     },
     "vix": {
       "price": 21.51,
@@ -26,52 +22,58 @@
       "change_pct": 1.34
     },
     "btc": {
-      "price": 60805.0,
-      "change_pct": -0.19
+      "price": 61687.0,
+      "change_pct": 1.35
     }
   },
   "news": [
     {
-      "title": "The Class of 2026: Meet the 12 companies making their Fortune 500 debut",
+      "title": "SpaceX and other mega IPOs may wait years to join the S&P 500",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/06/05/fortune-500-debut-class-of-2026-galaxy-digital-marvell-technologies-bitgo-arista/"
+      "url": "https://fortune.com/2026/06/06/spacex-openai-anthropic-mega-ipo-sp500-inclusion-nasdaq-russell/"
     },
     {
-      "title": "Marvell Technology and Flex to join S&P 500 index, replacing Pool and Campbell's",
+      "title": "$10,000 in Asia’s Biggest 50 Stocks Became $15,267 in Five Months: Here’s Why",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html"
+      "url": "https://247wallst.com/investing/2026/06/06/10000-in-asias-biggest-50-stocks-became-15267-in-five-months-heres-why-2/"
     },
     {
-      "title": "Crypto market crash: Why Bitcoin, XRP, Ethereum and altcoins are down today? Latest crypto market news and price analysis as BTC falls below $60,000, ETH plunges nearly 12%, and the Nasdaq Crypto Index drops almost 7%",
+      "title": "Morgan Stanley enables clients to lend bitcoin for crypto ETF conversions",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/crypto-market-crash-bitcoin-xrp-ethereum-price-drop-reason-breakin-g-news-live-today-analysis-as-btc-falls-below-60000-eth-plunges-nearly-12-and-the-nasdaq-crypto-index-drops-almost-7/articleshow/131540202.cms"
+      "url": "https://cryptobriefing.com/morgan-stanley-galaxy-bitcoin-lending-etf/"
     },
     {
-      "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
+      "title": "Analyst Predicts When Bitcoin Price Will Reach $100,000 In 2026",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion"
+      "url": "http://www.newsbtc.com/news/bitcoin/analyst-predicts-when-the-bitcoin-price-will-reach-100000-in-2026/"
     },
     {
-      "title": "Why is the US stock market down today? Dow Jones, S&P 500 and Nasdaq crash big as strong jobs report, rising Treasury yields and AI stock selloff shake Wall Street — here are today's biggest gainers and losers",
+      "title": "Billionaire Ray Dalio issues stunning verdict on U.S. national debt",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-the-us-stock-market-down-today-dow-jones-sp-500-and-nasdaq-crash-big-as-strong-jobs-report-rising-treasury-yields-and-ai-stock-selloff-shake-wall-street-here-are-todays-biggest-gainers-and-losers/articleshow/131537800.cms"
+      "url": "https://www.thestreet.com/economy/billionaire-ray-dalio-issues-stunning-verdict-on-u-s-national-debt"
     },
     {
-      "title": "S&P 500, Nasdaq Post Worst Day of Year Amid AI Stock Slump",
-      "tag": "経済",
+      "title": "Top 10 TMX Stocks to Consider Buying on Canada's Toronto Stock Exchange in 2026",
+      "tag": "金",
       "ago": "1日前",
-      "url": "https://www.mediaite.com/media/news/sp-500-nasdaq-post-worst-day-of-year-amid-ai-stock-slump/"
+      "url": "https://www.ibtimes.com.au/top-10-tsx-stocks-2026-growth-stability-1870255"
     },
     {
-      "title": "Wall Street ends sharply lower as chips slide, jobs data fuels rate hike fears",
+      "title": "Federal Reserve’s Hammack signals rate hikes could be on the table as inflation stays sticky",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-sharply-lower-as-chips-slide-jobs-data-fuels-rate-hike-fears"
+      "url": "https://cryptobriefing.com/fed-hammack-rate-hike-signal-inflation/"
+    },
+    {
+      "title": "ECB Steps Up as G7’s Lead Hawk With Interest-Rate Hike Primed",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://financialpost.com/pmn/business-pmn/ecb-steps-up-as-g7s-lead-hawk-with-interest-rate-hike-primed"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -203,12 +205,11 @@
         4489.1,
         4436.7,
         4475.8,
-        4337.1
+        4365.3
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/27",
         "4/28",
         "4/29",
         "4/30",
@@ -237,10 +238,10 @@
         "6/2",
         "6/3",
         "6/4",
-        "6/5"
+        "6/5",
+        "6/7"
       ],
       "values": [
-        159.58,
         159.36,
         159.55,
         160.18,
@@ -269,7 +270,8 @@
         159.64,
         159.97,
         159.94,
-        160.29
+        159.99,
+        160.21
       ]
     },
     "nasdaq": {
