@@ -1,86 +1,89 @@
 {
-  "updated_at": "2026-06-08 22:18 UTC",
+  "updated_at": "2026-06-09 22:16 UTC",
   "prices": {
     "sp500": {
-      "price": 7405.73,
-      "change_pct": 0.3
+      "price": 7386.65,
+      "change_pct": -0.26
     },
     "nasdaq": {
-      "price": 25929.66,
-      "change_pct": 0.86
+      "price": 25678.82,
+      "change_pct": -0.97
+    },
+    "gold": {
+      "price": 4275.8,
+      "change_pct": -1.39
     },
     "usdjpy": {
-      "price": 160.33,
-      "change_pct": 0.21
+      "price": 160.38,
+      "change_pct": 0.03
     },
     "vix": {
-      "price": 18.92,
-      "change_pct": -12.04
+      "price": 19.87,
+      "change_pct": 5.02
     },
     "usbond": {
-      "price": 4.55,
-      "change_pct": 0.22
+      "price": 4.53,
+      "change_pct": -0.44
     },
     "btc": {
-      "price": 63268.0,
-      "change_pct": 0.04
+      "price": 61825.0,
+      "change_pct": -2.01
     }
   },
   "news": [
     {
-      "title": "Stock futures fall as investors look ahead to SpaceX IPO",
+      "title": "US stock futures drop after tech selloff as Fed rate hike expectations surge",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/07/stock-market-today-live-updates.html"
+      "url": "https://cryptobriefing.com/us-stock-futures-drop-tech-selloff-fed-rate-hike/"
     },
     {
-      "title": "Is Honeywell International Inc. (HON) A Good Stock To Buy Now?",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-international-inc-hon-good-212147412.html"
+      "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html"
     },
     {
-      "title": "Ethereum’s RSI Just Hit Its Lowest Level In History, And That May Be Exactly The Point",
+      "title": "Norks blast 250+ fake job offers to developers over 6 weeks to try and snarf creds and crypto",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/altcoin/ethereums-rsi-just-hit-its-lowest-level-in-history-and-that-may-be-exactly-the-point/"
+      "url": "https://www.theregister.com/security/2026/06/08/suspected-norks-send-250-fake-dev-job-pitches-to-steal-crypto/5252526"
     },
     {
-      "title": "A 400 Billion Shiba Inu Surprise: Whale Wallet Springs Back To Life",
+      "title": "Active tokenized RWAs surge almost 600% despite crypto pullback: Binance",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.newsbtc.com/altcoin/a-400-billion-shiba-inu-surprise-whale-wallet-springs-back-to-life/"
+      "url": "https://cointelegraph.com/news/tokenized-rwas-stocks-gold-real-estate-institutional-adoption-binance"
     },
     {
-      "title": "He Predicted Gold at $5,000. Now He Says This $2 Stock Could Be Even Bigger.",
+      "title": "Canadian dollar hits fresh 2026 low as currency is buffeted by several headwinds, says National Bank of Canada",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/06/07/3307748/0/en/He-Predicted-Gold-at-5-000-Now-He-Says-This-2-Stock-Could-Be-Even-Bigger.html"
+      "url": "https://financialpost.com/news/economy/canadian-dollar-2026-low-headwinds-national-bank"
     },
     {
-      "title": "Why isn't the U.S. better at soccer?",
+      "title": "Climate Alarmism’s Reset And The Policy Reckoning It Demands",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.natesilver.net/p/why-isnt-the-us-better-at-soccer"
+      "url": "https://dailycaller.com/2026/06/08/opinion-climate-alarmism-policy-reckoning-vijay-jayaraj/"
     },
     {
-      "title": "How to solve Corpus Christi and Austin water supply issues forever at under $7 billion in bonds.",
+      "title": "Property and the budget ease pressure on the RBA",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://freerepublic.com/focus/f-chat/4382784/posts"
+      "url": "https://www.abc.net.au/news/2026-06-09/interest-rates-rba-budget-pressures-economic-change/106771540"
     },
     {
-      "title": "Here’s the biggest news you missed this weekend",
+      "title": "We were happier during the COVID-19 pandemic. The reason is money",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-june-7-rcna348569"
+      "url": "https://www.abc.net.au/news/2026-06-09/happiness-index-shows-we-were-more-satisfied-in-covid-pandemic/106764966"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/27",
         "4/28",
         "4/29",
         "4/30",
@@ -109,10 +112,10 @@
         "6/3",
         "6/4",
         "6/5",
-        "6/8"
+        "6/8",
+        "6/9"
       ],
       "values": [
-        7173.91,
         7138.8,
         7135.95,
         7209.01,
@@ -141,12 +144,12 @@
         7553.68,
         7584.31,
         7383.74,
-        7405.73
+        7405.73,
+        7386.65
       ]
     },
     "gold": {
       "dates": [
-        "4/28",
         "4/29",
         "4/30",
         "5/1",
@@ -174,10 +177,10 @@
         "6/3",
         "6/4",
         "6/5",
-        "6/8"
+        "6/8",
+        "6/9"
       ],
       "values": [
-        4591.5,
         4545.2,
         4614.7,
         4629.9,
@@ -205,12 +208,12 @@
         4436.7,
         4475.8,
         4337.1,
-        4348.6
+        4335.9,
+        4275.8
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/28",
         "4/29",
         "4/30",
         "5/1",
@@ -239,10 +242,10 @@
         "6/3",
         "6/4",
         "6/5",
-        "6/8"
+        "6/8",
+        "6/9"
       ],
       "values": [
-        159.36,
         159.55,
         160.18,
         156.98,
@@ -271,12 +274,12 @@
         159.97,
         159.94,
         159.99,
-        160.18
+        160.33,
+        160.36
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/27",
         "4/28",
         "4/29",
         "4/30",
@@ -305,10 +308,10 @@
         "6/3",
         "6/4",
         "6/5",
-        "6/8"
+        "6/8",
+        "6/9"
       ],
       "values": [
-        24887.1,
         24663.8,
         24673.24,
         24892.31,
@@ -337,7 +340,8 @@
         26853.98,
         26830.96,
         25709.43,
-        25929.66
+        25929.66,
+        25678.82
       ]
     }
   }
