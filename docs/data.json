@@ -1,90 +1,83 @@
 {
-  "updated_at": "2026-06-09 22:16 UTC",
+  "updated_at": "2026-06-10 22:45 UTC",
   "prices": {
     "sp500": {
-      "price": 7386.65,
-      "change_pct": -0.26
+      "price": 7266.99,
+      "change_pct": -1.62
     },
     "nasdaq": {
-      "price": 25678.82,
-      "change_pct": -0.97
+      "price": 25169.5,
+      "change_pct": -1.98
     },
     "gold": {
-      "price": 4275.8,
-      "change_pct": -1.39
+      "price": 4076.4,
+      "change_pct": -4.31
     },
     "usdjpy": {
-      "price": 160.38,
-      "change_pct": 0.03
+      "price": 160.52,
+      "change_pct": 0.22
     },
     "vix": {
-      "price": 19.87,
-      "change_pct": 5.02
+      "price": 22.22,
+      "change_pct": 11.83
     },
     "usbond": {
-      "price": 4.53,
-      "change_pct": -0.44
+      "price": 4.54,
+      "change_pct": 0.22
     },
     "btc": {
-      "price": 61825.0,
-      "change_pct": -2.01
+      "price": 61468.0,
+      "change_pct": -0.29
     }
   },
   "news": [
     {
-      "title": "US stock futures drop after tech selloff as Fed rate hike expectations surge",
+      "title": "Asian Stocks Set to Fall After Volatile US Session: Markets Wrap",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-stock-futures-drop-tech-selloff-fed-rate-hike/"
+      "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-set-to-fall-after-volatile-us-session-markets-wrap"
     },
     {
       "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html"
+      "url": "https://www.cnbc.com/2026/06/09/stock-market-today-live-updates.html"
     },
     {
-      "title": "Norks blast 250+ fake job offers to developers over 6 weeks to try and snarf creds and crypto",
+      "title": "US House lawmakers raise concerns over crypto tax bills progress",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.theregister.com/security/2026/06/08/suspected-norks-send-250-fake-dev-job-pitches-to-steal-crypto/5252526"
+      "url": "https://cryptobriefing.com/house-lawmakers-crypto-tax-bills-concerns/"
     },
     {
-      "title": "Active tokenized RWAs surge almost 600% despite crypto pullback: Binance",
+      "title": "Dan Loeb reveals DOJ threatened Trump over Ross Ulbricht commutation in January 2021",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/tokenized-rwas-stocks-gold-real-estate-institutional-adoption-binance"
+      "url": "https://cryptobriefing.com/doj-threatened-trump-ulbricht-commutation/"
     },
     {
-      "title": "Canadian dollar hits fresh 2026 low as currency is buffeted by several headwinds, says National Bank of Canada",
+      "title": "How Washington is Silently Tokenizing Your Bank Account",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://financialpost.com/news/economy/canadian-dollar-2026-low-headwinds-national-bank"
+      "url": "https://www.activistpost.com/how-washington-is-silently-tokenizing-your-bank-account/"
     },
     {
-      "title": "Climate Alarmism’s Reset And The Policy Reckoning It Demands",
+      "title": "Canadian dollar slides to 2026 low as traders expect Bank of Canada to hold rates",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://dailycaller.com/2026/06/08/opinion-climate-alarmism-policy-reckoning-vijay-jayaraj/"
+      "url": "https://cryptobriefing.com/canadian-dollar-slides-2026-low-bank-of-canada/"
     },
     {
-      "title": "Property and the budget ease pressure on the RBA",
+      "title": "S&P 500 closes 0.3% lower as NASDAQ drops 1.1% in tech-led selloff",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-06-09/interest-rates-rba-budget-pressures-economic-change/106771540"
-    },
-    {
-      "title": "We were happier during the COVID-19 pandemic. The reason is money",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-06-09/happiness-index-shows-we-were-more-satisfied-in-covid-pandemic/106764966"
+      "url": "https://cryptobriefing.com/sp500-nasdaq-tech-selloff-bitcoin/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "4/28",
         "4/29",
         "4/30",
         "5/1",
@@ -113,10 +106,10 @@
         "6/4",
         "6/5",
         "6/8",
-        "6/9"
+        "6/9",
+        "6/10"
       ],
       "values": [
-        7138.8,
         7135.95,
         7209.01,
         7230.12,
@@ -145,12 +138,12 @@
         7584.31,
         7383.74,
         7405.73,
-        7386.65
+        7386.65,
+        7266.99
       ]
     },
     "gold": {
       "dates": [
-        "4/29",
         "4/30",
         "5/1",
         "5/4",
@@ -178,10 +171,10 @@
         "6/4",
         "6/5",
         "6/8",
-        "6/9"
+        "6/9",
+        "6/10"
       ],
       "values": [
-        4545.2,
         4614.7,
         4629.9,
         4519.5,
@@ -209,12 +202,12 @@
         4475.8,
         4337.1,
         4335.9,
-        4275.8
+        4260.0,
+        4075.8
       ]
     },
     "usdjpy": {
       "dates": [
-        "4/29",
         "4/30",
         "5/1",
         "5/4",
@@ -243,10 +236,10 @@
         "6/4",
         "6/5",
         "6/8",
-        "6/9"
+        "6/9",
+        "6/10"
       ],
       "values": [
-        159.55,
         160.18,
         156.98,
         156.85,
@@ -275,12 +268,12 @@
         159.94,
         159.99,
         160.33,
-        160.36
+        160.17,
+        160.53
       ]
     },
     "nasdaq": {
       "dates": [
-        "4/28",
         "4/29",
         "4/30",
         "5/1",
@@ -309,10 +302,10 @@
         "6/4",
         "6/5",
         "6/8",
-        "6/9"
+        "6/9",
+        "6/10"
       ],
       "values": [
-        24663.8,
         24673.24,
         24892.31,
         25114.44,
@@ -341,7 +334,8 @@
         26830.96,
         25709.43,
         25929.66,
-        25678.82
+        25678.82,
+        25169.5
       ]
     }
   }
