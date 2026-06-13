@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12 22:16 UTC",
+  "updated_at": "2026-06-13 21:55 UTC",
   "prices": {
     "sp500": {
       "price": 7431.46,
@@ -10,8 +10,8 @@
       "change_pct": 0.31
     },
     "gold": {
-      "price": 4239.9,
-      "change_pct": 3.66
+      "price": 4215.0,
+      "change_pct": 3.05
     },
     "usdjpy": {
       "price": 160.18,
@@ -26,52 +26,52 @@
       "change_pct": 0.67
     },
     "btc": {
-      "price": 63468.0,
-      "change_pct": -0.15
+      "price": 64492.0,
+      "change_pct": 1.49
     }
   },
   "news": [
     {
-      "title": "Stock market today: Live updates",
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut - BBC",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183773834"
     },
     {
-      "title": "Elon Musk's SpaceX is about to make its debut on Wall Street",
+      "title": "SpaceX debut sparks trading frenzy, but threatens to suck oxygen out of stock market",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://japantoday.com/category/business/elon-musk%27s-spacex-is-about-to-make-its-debut-on-wall-street.-what-to-know"
+      "url": "https://nypost.com/2026/06/12/business/spacex-debut-sparks-trading-frenzy-but-threatens-to-suck-oxygen-out-of-stock-market/"
     },
     {
-      "title": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says",
+      "title": "US officials see 80%-85% chance of peace deal with Iran soon",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/370851/bitcoin-quantum-threat-now-coinbase"
+      "url": "https://cryptobriefing.com/us-iran-peace-deal-crypto-impact-2/"
     },
     {
-      "title": "SUI Stuck In A Downtrend After Resistance Rejection, More Losses Ahead?",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "http://www.newsbtc.com/sui/sui-stuck-in-a-downtrend/"
-    },
-    {
-      "title": "Border agents seize dozens of counterfeit watches, sunglasses — worth nearly $20M if real",
+      "title": "Breitbart Business Digest: Peace, Chicks, and Rockets",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://nypost.com/2026/06/11/us-news/border-agents-seize-dozens-of-counterfeit-watches-sunglasses-worth-nearly-20m-if-real/"
+      "url": "https://www.breitbart.com/economy/2026/06/12/breitbart-business-digest-peace-chicks-and-rockets/"
     },
     {
-      "title": "gamepulse-sdk added to PyPI",
+      "title": "SpaceX’s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://pypi.org/project/gamepulse-sdk/"
+      "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290"
     },
     {
-      "title": "Europe's central bank raises rates to fight inflation from Iran war, the Fed to decide next week",
+      "title": "5 everyday habits that quietly make debt worse",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://japantoday.com/category/business/europe%27s-central-bank-raises-rates-to-fight-inflation-from-iran-war-the-fed-to-decide-next-week"
+      "url": "https://nypost.com/business/bad-debt-spending-habits/"
+    },
+    {
+      "title": "US stocks: US market ends up on Iran war peace deal hopes, SpaceX's historic debut",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-up-on-iran-war-peace-deal-hopes-spacexs-historic-debut/articleshow/131693450.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -203,7 +203,7 @@
         4260.0,
         4108.2,
         4090.3,
-        4239.9
+        4215.0
       ]
     },
     "usdjpy": {
