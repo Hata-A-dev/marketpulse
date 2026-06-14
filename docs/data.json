@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13 21:55 UTC",
+  "updated_at": "2026-06-14 22:00 UTC",
   "prices": {
     "sp500": {
       "price": 7431.46,
@@ -9,13 +9,9 @@
       "price": 25888.84,
       "change_pct": 0.31
     },
-    "gold": {
-      "price": 4215.0,
-      "change_pct": 3.05
-    },
     "usdjpy": {
-      "price": 160.18,
-      "change_pct": 0.03
+      "price": 159.79,
+      "change_pct": -0.21
     },
     "vix": {
       "price": 17.68,
@@ -26,52 +22,52 @@
       "change_pct": 0.67
     },
     "btc": {
-      "price": 64492.0,
-      "change_pct": 1.49
+      "price": 65258.0,
+      "change_pct": 1.3
     }
   },
   "news": [
     {
-      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut - BBC",
+      "title": "You can ignore AI giants like SpaceX, but your 401(k) won’t",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183773834"
+      "url": "https://fortune.com/2026/06/13/spacex-stock-index-funds-passive-investing-401k-nasdaq-100-russell/"
     },
     {
-      "title": "SpaceX debut sparks trading frenzy, but threatens to suck oxygen out of stock market",
+      "title": "Is Apollo Commercial Real Estate Finance, Inc. (ARI) A Good Stock To Buy Now?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://nypost.com/2026/06/12/business/spacex-debut-sparks-trading-frenzy-but-threatens-to-suck-oxygen-out-of-stock-market/"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-commercial-real-estate-finance-204105990.html"
     },
     {
-      "title": "US officials see 80%-85% chance of peace deal with Iran soon",
+      "title": "James McDonald nominated to replace Jay Clayton as US Attorney for SDNY",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-iran-peace-deal-crypto-impact-2/"
+      "url": "https://cryptobriefing.com/james-mcdonald-nominated-sdny-us-attorney/"
     },
     {
-      "title": "Breitbart Business Digest: Peace, Chicks, and Rockets",
+      "title": "Trump says Iran deal to be signed on Sunday as Bitcoin climbs above $63K",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://cryptobriefing.com/trump-iran-deal-bitcoin-reaction/"
+    },
+    {
+      "title": "Sable keeps up the fight for energy —and lower oil prices",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.breitbart.com/economy/2026/06/12/breitbart-business-digest-peace-chicks-and-rockets/"
+      "url": "https://nypost.com/2026/06/13/opinion/sable-keeps-up-the-fight-for-energy-and-lower-oil-prices/"
     },
     {
-      "title": "SpaceX’s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
+      "title": "Why Xbox (and others) are considering the role of \"ads\" on console — it's more complicated than simple \"greed,\" unfortunately",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290"
+      "url": "https://www.windowscentral.com/gaming/xbox/why-xbox-and-others-are-considering-the-role-of-ads-on-console"
     },
     {
-      "title": "5 everyday habits that quietly make debt worse",
+      "title": "Global central banks assess Iran war’s impact on inflation and growth",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://nypost.com/business/bad-debt-spending-habits/"
-    },
-    {
-      "title": "US stocks: US market ends up on Iran war peace deal hopes, SpaceX's historic debut",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-up-on-iran-war-peace-deal-hopes-spacexs-historic-debut/articleshow/131693450.cms"
+      "url": "https://cryptobriefing.com/central-banks-iran-war-inflation-growth/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -203,11 +199,12 @@
         4260.0,
         4108.2,
         4090.3,
-        4215.0
+        4238.8
       ]
     },
     "usdjpy": {
       "dates": [
+        "5/4",
         "5/5",
         "5/6",
         "5/7",
@@ -236,10 +233,10 @@
         "6/9",
         "6/10",
         "6/11",
-        "6/12",
-        "6/13"
+        "6/12"
       ],
       "values": [
+        156.85,
         157.19,
         157.68,
         156.51,
@@ -268,8 +265,7 @@
         160.17,
         160.38,
         160.53,
-        160.13,
-        160.18
+        160.13
       ]
     },
     "nasdaq": {
