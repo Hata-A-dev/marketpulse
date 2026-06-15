@@ -1,80 +1,85 @@
 {
-  "updated_at": "2026-06-14 22:00 UTC",
+  "updated_at": "2026-06-15 22:53 UTC",
   "prices": {
     "sp500": {
-      "price": 7431.46,
-      "change_pct": 0.5
+      "price": 7554.29,
+      "change_pct": 1.65
     },
     "nasdaq": {
-      "price": 25888.84,
-      "change_pct": 0.31
+      "price": 26683.94,
+      "change_pct": 3.07
     },
     "usdjpy": {
-      "price": 159.79,
-      "change_pct": -0.21
+      "price": 160.33,
+      "change_pct": 0.12
     },
     "vix": {
-      "price": 17.68,
-      "change_pct": -9.05
+      "price": 16.2,
+      "change_pct": -8.37
     },
     "usbond": {
-      "price": 4.49,
-      "change_pct": 0.67
+      "price": 4.47,
+      "change_pct": -0.45
     },
     "btc": {
-      "price": 65258.0,
-      "change_pct": 1.3
+      "price": 66220.0,
+      "change_pct": 0.78
     }
   },
   "news": [
     {
-      "title": "You can ignore AI giants like SpaceX, but your 401(k) won’t",
+      "title": "Stock market today: S&P 500, Nasdaq, Dow futures jump after US and Iran reach peace deal",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/06/13/spacex-stock-index-funds-passive-investing-401k-nasdaq-100-russell/"
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f16c0beb-454f-467d-aa41-1b7ceefdab9d"
     },
     {
-      "title": "Is Apollo Commercial Real Estate Finance, Inc. (ARI) A Good Stock To Buy Now?",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-commercial-real-estate-finance-204105990.html"
+      "url": "https://www.cnbc.com/2026/06/14/stock-market-today-live-updates.html"
     },
     {
-      "title": "James McDonald nominated to replace Jay Clayton as US Attorney for SDNY",
+      "title": "US and Iran reach deal to halt three months of war, and crypto played a surprising role",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/james-mcdonald-nominated-sdny-us-attorney/"
+      "url": "https://cryptobriefing.com/us-iran-war-deal-crypto-role/"
     },
     {
-      "title": "Trump says Iran deal to be signed on Sunday as Bitcoin climbs above $63K",
+      "title": "Zimbabwe mandates crypto firms to register with central bank",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/trump-iran-deal-bitcoin-reaction/"
+      "url": "https://cryptobriefing.com/zimbabwe-crypto-registration-central-bank/"
+    },
+    {
+      "title": "Today’s News in a Nutshell",
+      "tag": "金",
+      "ago": "1日前",
+      "url": "https://english.khabarhub.com/2026/14/553783/"
     },
     {
       "title": "Sable keeps up the fight for energy —and lower oil prices",
       "tag": "金",
-      "ago": "1日前",
+      "ago": "2日前",
       "url": "https://nypost.com/2026/06/13/opinion/sable-keeps-up-the-fight-for-energy-and-lower-oil-prices/"
     },
     {
-      "title": "Why Xbox (and others) are considering the role of \"ads\" on console — it's more complicated than simple \"greed,\" unfortunately",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://www.windowscentral.com/gaming/xbox/why-xbox-and-others-are-considering-the-role-of-ads-on-console"
-    },
-    {
-      "title": "Global central banks assess Iran war’s impact on inflation and growth",
+      "title": "RBA Set for First Rate Pause of 2026 as Bets on Further Hike Ebb",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/central-banks-iran-war-inflation-growth/"
+      "url": "https://financialpost.com/pmn/business-pmn/rba-set-for-first-rate-pause-of-2026-as-bets-on-further-hike-ebb"
+    },
+    {
+      "title": "U.S. and Iran agree on peace deal to end the war, Pakistan Prime Minister Shehbaz Sharif says",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.cnbc.com/2026/06/14/us-iran-war-peace-deal.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/1",
         "5/4",
         "5/5",
         "5/6",
@@ -103,10 +108,10 @@
         "6/9",
         "6/10",
         "6/11",
-        "6/12"
+        "6/12",
+        "6/15"
       ],
       "values": [
-        7230.12,
         7200.75,
         7259.22,
         7365.12,
@@ -135,12 +140,12 @@
         7386.65,
         7266.99,
         7394.3,
-        7431.46
+        7431.46,
+        7554.29
       ]
     },
     "gold": {
       "dates": [
-        "5/4",
         "5/5",
         "5/6",
         "5/7",
@@ -168,10 +173,10 @@
         "6/9",
         "6/10",
         "6/11",
-        "6/12"
+        "6/12",
+        "6/15"
       ],
       "values": [
-        4519.5,
         4555.8,
         4681.9,
         4699.8,
@@ -199,12 +204,12 @@
         4260.0,
         4108.2,
         4090.3,
-        4238.8
+        4215.0,
+        4334.5
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/4",
         "5/5",
         "5/6",
         "5/7",
@@ -233,10 +238,10 @@
         "6/9",
         "6/10",
         "6/11",
-        "6/12"
+        "6/12",
+        "6/15"
       ],
       "values": [
-        156.85,
         157.19,
         157.68,
         156.51,
@@ -265,12 +270,12 @@
         160.17,
         160.38,
         160.53,
-        160.13
+        160.13,
+        160.34
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/1",
         "5/4",
         "5/5",
         "5/6",
@@ -299,10 +304,10 @@
         "6/9",
         "6/10",
         "6/11",
-        "6/12"
+        "6/12",
+        "6/15"
       ],
       "values": [
-        25114.44,
         25067.8,
         25326.13,
         25838.94,
@@ -331,7 +336,8 @@
         25678.82,
         25169.5,
         25809.66,
-        25888.84
+        25888.84,
+        26683.94
       ]
     }
   }
