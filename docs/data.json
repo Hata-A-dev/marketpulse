@@ -1,74 +1,79 @@
 {
-  "updated_at": "2026-06-16 22:45 UTC",
+  "updated_at": "2026-06-17 22:27 UTC",
   "prices": {
     "sp500": {
-      "price": 7511.35,
-      "change_pct": -0.57
+      "price": 7420.1,
+      "change_pct": -1.21
     },
     "nasdaq": {
-      "price": 26376.34,
-      "change_pct": -1.15
+      "price": 26021.66,
+      "change_pct": -1.34
     },
     "gold": {
-      "price": 4351.3,
-      "change_pct": 0.54
+      "price": 4286.8,
+      "change_pct": -1.02
     },
     "usdjpy": {
-      "price": 160.41,
-      "change_pct": 0.28
+      "price": 160.63,
+      "change_pct": 0.25
     },
     "vix": {
-      "price": 16.41,
-      "change_pct": 1.3
+      "price": 18.44,
+      "change_pct": 12.37
     },
     "btc": {
-      "price": 65623.0,
-      "change_pct": -1.01
+      "price": 64305.0,
+      "change_pct": -1.98
     }
   },
   "news": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures drift ahead of Warsh's first Fed meeting",
+      "title": "JPMorgan estimates US net equity issuance could hit $1.2T by 2027",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/203c25a9ccb4ef39"
+      "url": "https://cryptobriefing.com/jpmorgan-us-equity-issuance-1-2-trillion-2027/"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq drift ahead of Warsh's first Fed meeting as chair",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-drift-ahead-of-warshs-first-fed-meeting-as-chair-223512220.html"
+      "url": "https://www.cnbc.com/2026/06/16/stock-market-today-live-updates.html"
     },
     {
-      "title": "Trump signals reopening of Strait of Hormuz, easing pressure on oil and crypto markets",
+      "title": "The Real Cowboys of Crypto: Wyoming Ropes a $1 Stablecoin...",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/trump-strait-hormuz-reopening-bitcoin-oil/"
+      "url": "http://www.msn.com/en-us/money/markets/ar-AA25LOng"
     },
     {
-      "title": "US consumers’ inflation concerns rise to highest level since March 2025",
+      "title": "Vietnam has to find $200 billion to fund its ambitious growth agenda. Techcombank’s CEO thinks that has to come from overseas",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-consumer-inflation-concerns-highest-since-march-2025/"
+      "url": "https://fortune.com/2026/06/16/techcombank-ceo-jens-lottner-vietnam-energy-growth/"
     },
     {
-      "title": "Oil Holds Losses After Iran Deal Spurs Stock Rally: Markets Wrap",
+      "title": "Golvurikenz Unveiled: How Golvurikenz Is Transforming the Trading Experience Through Advanced Technology",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-holds-losses-after-iran-deal-spurs-stock-rally-markets-wrap"
+      "url": "https://www.globenewswire.com/news-release/2026/06/16/3313030/0/en/Golvurikenz-Unveiled-How-Golvurikenz-Is-Transforming-the-Trading-Experience-Through-Advanced-Technology.html"
     },
     {
-      "title": "As deal is agreed with US, not all in Iran are convinced that peace is here",
+      "title": "Chase Sapphire Reserve for Business review: Premium perks for a high annual fee",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.aljazeera.com/economy/2026/6/15/as-deal-is-agreed-with-us-not-all-in-iran-are-convinced-that-peace-is-here"
+      "url": "https://thepointsguy.com/credit-cards/reviews/chase-sapphire-reserve-for-business-review/"
+    },
+    {
+      "title": "Why are oil prices down while gold and silver prices up today? Reasons behind crude oil fall, precious metals rally, analyst insights and market outlook",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-down-while-gold-and-silver-prices-up-today-reasons-behind-crude-oil-fall-precious-metals-rally-analyst-insights-and-market-outlook/articleshow/131781984.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/5",
         "5/6",
         "5/7",
         "5/8",
@@ -97,10 +102,10 @@
         "6/11",
         "6/12",
         "6/15",
-        "6/16"
+        "6/16",
+        "6/17"
       ],
       "values": [
-        7259.22,
         7365.12,
         7337.11,
         7398.93,
@@ -129,12 +134,12 @@
         7394.3,
         7431.46,
         7554.29,
-        7511.35
+        7511.35,
+        7420.1
       ]
     },
     "gold": {
       "dates": [
-        "5/6",
         "5/7",
         "5/8",
         "5/11",
@@ -162,10 +167,10 @@
         "6/11",
         "6/12",
         "6/15",
-        "6/16"
+        "6/16",
+        "6/17"
       ],
       "values": [
-        4681.9,
         4699.8,
         4720.4,
         4718.7,
@@ -193,12 +198,12 @@
         4090.3,
         4215.0,
         4328.0,
-        4351.3
+        4330.9,
+        4286.8
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/6",
         "5/7",
         "5/8",
         "5/11",
@@ -227,10 +232,10 @@
         "6/11",
         "6/12",
         "6/15",
-        "6/16"
+        "6/16",
+        "6/17"
       ],
       "values": [
-        157.68,
         156.51,
         156.83,
         156.86,
@@ -259,12 +264,12 @@
         160.53,
         160.13,
         159.96,
-        160.41
+        160.23,
+        160.64
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/5",
         "5/6",
         "5/7",
         "5/8",
@@ -293,10 +298,10 @@
         "6/11",
         "6/12",
         "6/15",
-        "6/16"
+        "6/16",
+        "6/17"
       ],
       "values": [
-        25326.13,
         25838.94,
         25806.2,
         26247.08,
@@ -325,7 +330,8 @@
         25809.66,
         25888.84,
         26683.94,
-        26376.34
+        26376.34,
+        26021.66
       ]
     }
   }
