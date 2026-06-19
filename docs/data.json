@@ -1,76 +1,72 @@
 {
-  "updated_at": "2026-06-18 22:49 UTC",
+  "updated_at": "2026-06-19 21:56 UTC",
   "prices": {
     "sp500": {
-      "price": 7500.58,
-      "change_pct": 1.08
+      "price": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "price": 26517.93,
-      "change_pct": 1.91
+      "price": NaN,
+      "change_pct": NaN
     },
     "gold": {
-      "price": 4222.1,
-      "change_pct": -3.14
+      "price": 4172.9,
+      "change_pct": -1.21
     },
     "usdjpy": {
-      "price": 161.21,
-      "change_pct": 0.49
-    },
-    "vix": {
-      "price": 16.4,
-      "change_pct": -11.06
+      "price": 161.28,
+      "change_pct": 0.42
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Stock market today: Live updates",
+      "title": "Stocks market today: Dow, S&P 500, Nasdaq rally amid Iran deal optimism as AI chip trade reignites - Yahoo Finance",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/17/stock-market-today-live-updates.html"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183972064"
     },
     {
-      "title": "Warsh experiences worst 'Fed day' S&P 500 performance for a new chair since 1994",
+      "title": "Are prices really dropping in the US, as Trump claims?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/b70aa09966c3cf12"
+      "url": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims"
     },
     {
-      "title": "England beats Croatia 4-2 as FIFA’s Kraken partnership puts crypto front and center at World Cup 2026",
+      "title": "US ends maritime blockade and resumes Strait of Hormuz shipping after Iran peace agreement",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/england-croatia-world-cup-crypto-kraken/"
+      "url": "https://cryptobriefing.com/us-ends-blockade-strait-hormuz-iran-deal/"
     },
     {
-      "title": "Dollar jumps as Fed holds rates but projects one hike later this year",
+      "title": "Bitcoin Plunges To $63,000 Ethereum, XRP, Dogecoin Retreat 5% The Day After Chair Warsh Takes Over",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-as-fed-holds-rates-but-projects-one-hike-later-this-year/articleshow/131812344.cms"
+      "url": "https://biztoc.com/x/d9070ea24807a294"
     },
     {
-      "title": "Worst Case Scenario – Rejected",
+      "title": "Gold And Silver Futures Fall As Fed Indicates Future Hikes",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://dailyreckoning.com/worst-case-scenario-rejected/"
+      "url": "https://www.forbes.com/sites/conormurray/2026/06/18/gold-and-silver-futures-fall-as-fed-indicates-future-hikes/"
     },
     {
-      "title": "Save 20% on ALL Accor+ Voyager subscription with promo code ALLACCORPLUS",
+      "title": "The Building Scavengers: On Deconstruction and Intellectual Demolition in Western Academia",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://frequentmiler.com/save-20-on-all-accor-voyager-subscription-with-promo-code-allaccorplus/"
+      "url": "https://www.globalresearch.ca/deconstruction-intellectual-demolition-western-academia/5930454"
     },
     {
-      "title": "Federal Reserve chair takes initial steps toward regime change",
+      "title": "Federal Reserve signals openness to rate hikes amid inflation concerns, Bitcoin dips",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-chair-warsh-regime-change/"
+      "url": "https://cryptobriefing.com/fed-signals-rate-hikes-inflation-bitcoin/"
     },
     {
-      "title": "Kevin Warsh showed that he’s decisively not Trump’s ‘sock puppet’—and markets didn’t like it",
+      "title": "Kevin Warsh surprises markets with hawkish inflation stance in Fed debut",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/06/17/how-did-market-react-kevin-warsh-press-conference-inflation-rates/"
+      "url": "https://cryptobriefing.com/warsh-hawkish-inflation-stance-fed-crypto/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -138,7 +134,7 @@
         7554.29,
         7511.35,
         7420.1,
-        7500.58
+        NaN
       ]
     },
     "gold": {
@@ -171,7 +167,8 @@
         "6/15",
         "6/16",
         "6/17",
-        "6/18"
+        "6/18",
+        "6/19"
       ],
       "values": [
         4720.4,
@@ -202,12 +199,12 @@
         4328.0,
         4330.9,
         4358.9,
-        4222.1
+        4224.1,
+        4172.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/8",
         "5/11",
         "5/12",
         "5/13",
@@ -236,10 +233,10 @@
         "6/15",
         "6/16",
         "6/17",
-        "6/18"
+        "6/18",
+        "6/19"
       ],
       "values": [
-        156.83,
         156.86,
         157.23,
         157.67,
@@ -268,7 +265,8 @@
         159.96,
         160.23,
         160.42,
-        161.2
+        160.6,
+        161.28
       ]
     },
     "nasdaq": {
@@ -334,7 +332,7 @@
         26683.94,
         26376.34,
         26021.66,
-        26517.93
+        NaN
       ]
     }
   }
