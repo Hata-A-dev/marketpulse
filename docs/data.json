@@ -1,72 +1,57 @@
 {
-  "updated_at": "2026-06-19 21:56 UTC",
+  "updated_at": "2026-06-20 21:57 UTC",
   "prices": {
     "sp500": {
-      "price": NaN,
-      "change_pct": NaN
+      "price": 7500.58,
+      "change_pct": 1.08
     },
     "nasdaq": {
-      "price": NaN,
-      "change_pct": NaN
+      "price": 26517.93,
+      "change_pct": 1.91
     },
     "gold": {
       "price": 4172.9,
       "change_pct": -1.21
     },
     "usdjpy": {
-      "price": 161.28,
-      "change_pct": 0.42
+      "price": 161.27,
+      "change_pct": -0.01
     },
-    "btc": {}
+    "btc": {
+      "price": 63923.0,
+      "change_pct": 0.6
+    }
   },
   "news": [
     {
-      "title": "Stocks market today: Dow, S&P 500, Nasdaq rally amid Iran deal optimism as AI chip trade reignites - Yahoo Finance",
+      "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183972064"
+      "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers"
     },
     {
-      "title": "Are prices really dropping in the US, as Trump claims?",
+      "title": "This TSX stock — a top gainer on the week — has one analyst pricing in 56% upside on a wave of buybacks",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims"
+      "url": "https://financialpost.com/investing/tsx-stock-analyst-pricing-56-upside-buybacks"
     },
     {
-      "title": "US ends maritime blockade and resumes Strait of Hormuz shipping after Iran peace agreement",
+      "title": "Franklin Templeton new ETFs would convert US companies stock dividends into Bitcoin exposure",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-ends-blockade-strait-hormuz-iran-deal/"
+      "url": "https://cryptoslate.com/franklin-templeton-new-etfs-would-convert-us-companies-stock-dividends-into-bitcoin-exposure/"
     },
     {
-      "title": "Bitcoin Plunges To $63,000 Ethereum, XRP, Dogecoin Retreat 5% The Day After Chair Warsh Takes Over",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://biztoc.com/x/d9070ea24807a294"
-    },
-    {
-      "title": "Gold And Silver Futures Fall As Fed Indicates Future Hikes",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.forbes.com/sites/conormurray/2026/06/18/gold-and-silver-futures-fall-as-fed-indicates-future-hikes/"
+      "url": "https://english.khabarhub.com/2026/19/554559/"
     },
     {
-      "title": "The Building Scavengers: On Deconstruction and Intellectual Demolition in Western Academia",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://www.globalresearch.ca/deconstruction-intellectual-demolition-western-academia/5930454"
-    },
-    {
-      "title": "Federal Reserve signals openness to rate hikes amid inflation concerns, Bitcoin dips",
+      "title": "With Inflation Surging, Is a Bond ETF the Best Investment Right Now? Here's What History Suggests",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-signals-rate-hikes-inflation-bitcoin/"
-    },
-    {
-      "title": "Kevin Warsh surprises markets with hawkish inflation stance in Fed debut",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/warsh-hawkish-inflation-stance-fed-crypto/"
+      "url": "https://biztoc.com/x/2096a201decc08cb"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -134,7 +119,7 @@
         7554.29,
         7511.35,
         7420.1,
-        NaN
+        7500.58
       ]
     },
     "gold": {
@@ -205,7 +190,6 @@
     },
     "usdjpy": {
       "dates": [
-        "5/11",
         "5/12",
         "5/13",
         "5/14",
@@ -234,10 +218,10 @@
         "6/16",
         "6/17",
         "6/18",
-        "6/19"
+        "6/19",
+        "6/20"
       ],
       "values": [
-        156.86,
         157.23,
         157.67,
         157.85,
@@ -266,7 +250,8 @@
         160.23,
         160.42,
         160.6,
-        161.28
+        161.29,
+        161.27
       ]
     },
     "nasdaq": {
@@ -332,7 +317,7 @@
         26683.94,
         26376.34,
         26021.66,
-        NaN
+        26517.93
       ]
     }
   }
