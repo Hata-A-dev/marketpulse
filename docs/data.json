@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20 21:57 UTC",
+  "updated_at": "2026-06-21 22:07 UTC",
   "prices": {
     "sp500": {
       "price": 7500.58,
@@ -14,44 +14,62 @@
       "change_pct": -1.21
     },
     "usdjpy": {
-      "price": 161.27,
-      "change_pct": -0.01
+      "price": 161.36,
+      "change_pct": 0.04
     },
     "btc": {
-      "price": 63923.0,
-      "change_pct": 0.6
+      "price": 63645.0,
+      "change_pct": -0.93
     }
   },
   "news": [
     {
-      "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
+      "title": "Cathie Wood buys $52 million of surging tech stock",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers"
+      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-52-million-of-surging-tech-stock"
     },
     {
-      "title": "This TSX stock — a top gainer on the week — has one analyst pricing in 56% upside on a wave of buybacks",
+      "title": "You’re Watching AI Headlines Daily. Here’s How to Own the Whole Trend at Once",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://financialpost.com/investing/tsx-stock-analyst-pricing-56-upside-buybacks"
+      "url": "https://247wallst.com/investing/2026/06/20/youre-watching-ai-headlines-daily-heres-how-to-own-the-whole-trend-at-once/"
     },
     {
-      "title": "Franklin Templeton new ETFs would convert US companies stock dividends into Bitcoin exposure",
+      "title": "Shigeru Ishiba calls Bitcoin a once-in-a-century opportunity at WebX 2025",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/franklin-templeton-new-etfs-would-convert-us-companies-stock-dividends-into-bitcoin-exposure/"
+      "url": "https://cryptobriefing.com/ishiba-bitcoin-once-in-a-century-opportunity/"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared"
+    },
+    {
+      "title": "Kiyosaki Eyes Gold, Silver Rebound as Hormuz Risks Keep Safe-Haven Case Alive",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/19/554559/"
+      "url": "https://beincrypto.com/kiyosaki-gold-silver-hormuz-safe-haven/"
     },
     {
-      "title": "With Inflation Surging, Is a Bond ETF the Best Investment Right Now? Here's What History Suggests",
+      "title": "No Dot Plot, No Forward Guidance: Kevin Warsh's First Fed Meeting Draws Mixed Reactions From Economists",
+      "tag": "金",
+      "ago": "1日前",
+      "url": "https://finance.yahoo.com/economy/policy/articles/no-dot-plot-no-forward-113128646.html"
+    },
+    {
+      "title": "US Federal Reserve sees faster inflation in latest gauge update",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/2096a201decc08cb"
+      "url": "https://cryptobriefing.com/fed-pce-inflation-gauge-april-2026/"
+    },
+    {
+      "title": "Fed’s Favorite Gauge Is Seen Showing Faster Inflation",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://financialpost.com/pmn/business-pmn/feds-favorite-gauge-is-seen-showing-faster-inflation"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -124,7 +142,6 @@
     },
     "gold": {
       "dates": [
-        "5/8",
         "5/11",
         "5/12",
         "5/13",
@@ -156,7 +173,6 @@
         "6/19"
       ],
       "values": [
-        4720.4,
         4718.7,
         4677.6,
         4697.7,
@@ -219,7 +235,7 @@
         "6/17",
         "6/18",
         "6/19",
-        "6/20"
+        "6/21"
       ],
       "values": [
         157.23,
@@ -251,7 +267,7 @@
         160.42,
         160.6,
         161.29,
-        161.27
+        161.36
       ]
     },
     "nasdaq": {
