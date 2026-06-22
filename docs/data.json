@@ -1,82 +1,65 @@
 {
-  "updated_at": "2026-06-21 22:07 UTC",
+  "updated_at": "2026-06-22 22:29 UTC",
   "prices": {
     "sp500": {
-      "price": 7500.58,
-      "change_pct": 1.08
+      "price": 7472.79,
+      "change_pct": -0.37
     },
     "nasdaq": {
-      "price": 26517.93,
-      "change_pct": 1.91
-    },
-    "gold": {
-      "price": 4172.9,
-      "change_pct": -1.21
+      "price": 26166.6,
+      "change_pct": -1.32
     },
     "usdjpy": {
-      "price": 161.36,
-      "change_pct": 0.04
+      "price": 161.61,
+      "change_pct": 0.2
     },
     "btc": {
-      "price": 63645.0,
-      "change_pct": -0.93
+      "price": 63966.0,
+      "change_pct": 1.15
     }
   },
   "news": [
     {
-      "title": "Cathie Wood buys $52 million of surging tech stock",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-52-million-of-surging-tech-stock"
+      "url": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html"
     },
     {
-      "title": "You’re Watching AI Headlines Daily. Here’s How to Own the Whole Trend at Once",
+      "title": "The Magnitude of the Numbers Is just Mindboggling: 12 U.S. Companies, $30 Trillion",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://247wallst.com/investing/2026/06/20/youre-watching-ai-headlines-daily-heres-how-to-own-the-whole-trend-at-once/"
+      "url": "https://www.activistpost.com/the-magnitude-of-the-numbers-is-just-mindboggling-12-u-s-companies-30-trillion/"
     },
     {
-      "title": "Shigeru Ishiba calls Bitcoin a once-in-a-century opportunity at WebX 2025",
+      "title": "State Street SPDR S&P 500 ETF Trust vs. Invesco QQQ: ETF comparison for 2026 portfolios",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/ishiba-bitcoin-once-in-a-century-opportunity/"
+      "url": "https://cryptobriefing.com/spy-vs-qqq-etf-comparison-2026/"
     },
     {
-      "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
+      "title": "Atkore Inc. positioned for growth amid rising demand for electrical infrastructure",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared"
+      "url": "https://cryptobriefing.com/atkore-growth-electrical-infrastructure-data-centers/"
     },
     {
-      "title": "Kiyosaki Eyes Gold, Silver Rebound as Hormuz Risks Keep Safe-Haven Case Alive",
+      "title": "I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://beincrypto.com/kiyosaki-gold-silver-hormuz-safe-haven/"
+      "url": "https://lwilko.com/blog/i-gave-an-ai-a-civilization"
     },
     {
-      "title": "No Dot Plot, No Forward Guidance: Kevin Warsh's First Fed Meeting Draws Mixed Reactions From Economists",
+      "title": "Robert Kiyosaki makes stunning prediction on gold and silver prices",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/economy/policy/articles/no-dot-plot-no-forward-113128646.html"
-    },
-    {
-      "title": "US Federal Reserve sees faster inflation in latest gauge update",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-pce-inflation-gauge-april-2026/"
-    },
-    {
-      "title": "Fed’s Favorite Gauge Is Seen Showing Faster Inflation",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/feds-favorite-gauge-is-seen-showing-faster-inflation"
+      "url": "https://www.thestreet.com/investing/robert-kiyosaki-makes-stunning-prediction-on-gold-and-silver-prices"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/7",
         "5/8",
         "5/11",
         "5/12",
@@ -105,10 +88,10 @@
         "6/15",
         "6/16",
         "6/17",
-        "6/18"
+        "6/18",
+        "6/22"
       ],
       "values": [
-        7337.11,
         7398.93,
         7412.84,
         7400.96,
@@ -137,7 +120,8 @@
         7554.29,
         7511.35,
         7420.1,
-        7500.58
+        7500.58,
+        7472.79
       ]
     },
     "gold": {
@@ -170,7 +154,7 @@
         "6/16",
         "6/17",
         "6/18",
-        "6/19"
+        "6/22"
       ],
       "values": [
         4718.7,
@@ -201,7 +185,7 @@
         4330.9,
         4358.9,
         4224.1,
-        4172.9
+        4210.4
       ]
     },
     "usdjpy": {
@@ -235,7 +219,7 @@
         "6/17",
         "6/18",
         "6/19",
-        "6/21"
+        "6/22"
       ],
       "values": [
         157.23,
@@ -267,12 +251,11 @@
         160.42,
         160.6,
         161.29,
-        161.36
+        161.61
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/7",
         "5/8",
         "5/11",
         "5/12",
@@ -301,10 +284,10 @@
         "6/15",
         "6/16",
         "6/17",
-        "6/18"
+        "6/18",
+        "6/22"
       ],
       "values": [
-        25806.2,
         26247.08,
         26274.13,
         26088.2,
@@ -333,7 +316,8 @@
         26683.94,
         26376.34,
         26021.66,
-        26517.93
+        26517.93,
+        26166.6
       ]
     }
   }
