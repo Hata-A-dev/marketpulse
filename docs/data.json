@@ -1,21 +1,29 @@
 {
-  "updated_at": "2026-06-22 22:29 UTC",
+  "updated_at": "2026-06-23 22:06 UTC",
   "prices": {
     "sp500": {
-      "price": 7472.79,
-      "change_pct": -0.37
+      "price": 7365.46,
+      "change_pct": -1.44
     },
     "nasdaq": {
-      "price": 26166.6,
-      "change_pct": -1.32
+      "price": 25587.04,
+      "change_pct": -2.21
+    },
+    "gold": {
+      "price": 4129.0,
+      "change_pct": -1.26
     },
     "usdjpy": {
-      "price": 161.61,
-      "change_pct": 0.2
+      "price": 161.55,
+      "change_pct": 0.07
+    },
+    "vix": {
+      "price": 19.49,
+      "change_pct": 12.79
     },
     "btc": {
-      "price": 63966.0,
-      "change_pct": 1.15
+      "price": 62590.0,
+      "change_pct": -2.13
     }
   },
   "news": [
@@ -23,44 +31,55 @@
       "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/21/stock-market-today-live-updates.html"
+      "url": "https://www.cnbc.com/2026/06/22/stock-market-today-live-updates.html"
     },
     {
-      "title": "The Magnitude of the Numbers Is just Mindboggling: 12 U.S. Companies, $30 Trillion",
+      "title": "Why CVS Stock Trounced the Market Today",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.activistpost.com/the-magnitude-of-the-numbers-is-just-mindboggling-12-u-s-companies-30-trillion/"
+      "url": "https://biztoc.com/x/3e35492e47c7e18a"
     },
     {
-      "title": "State Street SPDR S&P 500 ETF Trust vs. Invesco QQQ: ETF comparison for 2026 portfolios",
+      "title": "Google searches for 'Bitcoin' sink to yearly low amid investor fear",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/spy-vs-qqq-etf-comparison-2026/"
+      "url": "https://biztoc.com/x/22ff7160aebb9284"
     },
     {
-      "title": "Atkore Inc. positioned for growth amid rising demand for electrical infrastructure",
+      "title": "Strategy used $300 million of MSTR dilution to backstop its Bitcoin’s biggest buying machine",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/atkore-growth-electrical-infrastructure-data-centers/"
+      "url": "https://cryptoslate.com/strategy-used-300-million-mstr-dilution-backstop-bitcoin-buying-machine/"
     },
     {
-      "title": "I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench",
+      "title": "Why AI tokens will send your enterprise cloud bill sky-high again",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://lwilko.com/blog/i-gave-an-ai-a-civilization"
+      "url": "https://www.zdnet.com/article/why-ai-tokens-will-send-enterprise-cloud-bill-sky-high/"
     },
     {
-      "title": "Robert Kiyosaki makes stunning prediction on gold and silver prices",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/robert-kiyosaki-makes-stunning-prediction-on-gold-and-silver-prices"
+      "url": "https://english.khabarhub.com/2026/22/555027/"
+    },
+    {
+      "title": "It Was Another Rough Day for Big Tech",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.newser.com/story/391497/it-was-another-rough-day-for-big-tech.html"
+    },
+    {
+      "title": "Greenspan’s legacy: From irrational exuberance to 2008 housing crisis",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://wirehub.medianewsgroup.com/2026/06/22/greenspans-legacy-from-irrational-exuberance-to-2008-crisis/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/8",
         "5/11",
         "5/12",
         "5/13",
@@ -89,10 +108,10 @@
         "6/16",
         "6/17",
         "6/18",
-        "6/22"
+        "6/22",
+        "6/23"
       ],
       "values": [
-        7398.93,
         7412.84,
         7400.96,
         7444.25,
@@ -121,12 +140,12 @@
         7511.35,
         7420.1,
         7500.58,
-        7472.79
+        7472.79,
+        7365.46
       ]
     },
     "gold": {
       "dates": [
-        "5/11",
         "5/12",
         "5/13",
         "5/14",
@@ -154,10 +173,10 @@
         "6/16",
         "6/17",
         "6/18",
-        "6/22"
+        "6/22",
+        "6/23"
       ],
       "values": [
-        4718.7,
         4677.6,
         4697.7,
         4678.1,
@@ -185,12 +204,12 @@
         4330.9,
         4358.9,
         4224.1,
-        4210.4
+        4181.9,
+        4129.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/12",
         "5/13",
         "5/14",
         "5/15",
@@ -219,10 +238,10 @@
         "6/17",
         "6/18",
         "6/19",
-        "6/22"
+        "6/22",
+        "6/23"
       ],
       "values": [
-        157.23,
         157.67,
         157.85,
         158.38,
@@ -251,12 +270,12 @@
         160.42,
         160.6,
         161.29,
-        161.61
+        161.43,
+        161.59
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/8",
         "5/11",
         "5/12",
         "5/13",
@@ -285,10 +304,10 @@
         "6/16",
         "6/17",
         "6/18",
-        "6/22"
+        "6/22",
+        "6/23"
       ],
       "values": [
-        26247.08,
         26274.13,
         26088.2,
         26402.34,
@@ -317,7 +336,8 @@
         26376.34,
         26021.66,
         26517.93,
-        26166.6
+        26166.6,
+        25587.04
       ]
     }
   }
