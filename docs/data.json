@@ -1,86 +1,67 @@
 {
-  "updated_at": "2026-06-23 22:06 UTC",
+  "updated_at": "2026-06-24 22:05 UTC",
   "prices": {
     "sp500": {
-      "price": 7365.46,
-      "change_pct": -1.44
+      "price": 7358.22,
+      "change_pct": -0.1
     },
     "nasdaq": {
-      "price": 25587.04,
-      "change_pct": -2.21
+      "price": 25476.63,
+      "change_pct": -0.43
     },
     "gold": {
-      "price": 4129.0,
-      "change_pct": -1.26
+      "price": 4016.4,
+      "change_pct": -2.75
     },
     "usdjpy": {
-      "price": 161.55,
-      "change_pct": 0.07
+      "price": 161.78,
+      "change_pct": 0.13
     },
     "vix": {
-      "price": 19.49,
-      "change_pct": 12.79
+      "price": 18.63,
+      "change_pct": -4.41
     },
     "btc": {
-      "price": 62590.0,
-      "change_pct": -2.13
+      "price": 60972.0,
+      "change_pct": -2.71
     }
   },
   "news": [
     {
-      "title": "Stock market today: Live updates",
+      "title": "Alphabet Set to Join and Honeywell International to Remain in Dow Jones Industrial Average",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/22/stock-market-today-live-updates.html"
+      "url": "https://www.prnewswire.com/news-releases/alphabet-set-to-join-and-honeywell-international-to-remain-in-dow-jones-industrial-average-302808382.html"
     },
     {
-      "title": "Why CVS Stock Trounced the Market Today",
-      "tag": "株式",
-      "ago": "1日前",
-      "url": "https://biztoc.com/x/3e35492e47c7e18a"
-    },
-    {
-      "title": "Google searches for 'Bitcoin' sink to yearly low amid investor fear",
+      "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/22ff7160aebb9284"
+      "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk"
     },
     {
-      "title": "Strategy used $300 million of MSTR dilution to backstop its Bitcoin’s biggest buying machine",
+      "title": "Trump's Quantum Push Wins Praise, But Experts Warn Bitcoin Isn't Ready",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/strategy-used-300-million-mstr-dilution-backstop-bitcoin-buying-machine/"
+      "url": "https://decrypt.co/371916/trump-quantum-praise-experts-warn-bitcoin-not-ready"
     },
     {
-      "title": "Why AI tokens will send your enterprise cloud bill sky-high again",
+      "title": "Free at Last",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.zdnet.com/article/why-ai-tokens-will-send-enterprise-cloud-bill-sky-high/"
+      "url": "https://dailyreckoning.com/free-at-last/"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "8 TPG staffers share their favorite redemptions so far in 2026",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/22/555027/"
-    },
-    {
-      "title": "It Was Another Rough Day for Big Tech",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.newser.com/story/391497/it-was-another-rough-day-for-big-tech.html"
-    },
-    {
-      "title": "Greenspan’s legacy: From irrational exuberance to 2008 housing crisis",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://wirehub.medianewsgroup.com/2026/06/22/greenspans-legacy-from-irrational-exuberance-to-2008-crisis/"
+      "url": "https://thepointsguy.com/loyalty-programs/tpg-staffers-favorite-redemptions-so-far-2026/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/11",
         "5/12",
         "5/13",
         "5/14",
@@ -109,10 +90,10 @@
         "6/17",
         "6/18",
         "6/22",
-        "6/23"
+        "6/23",
+        "6/24"
       ],
       "values": [
-        7412.84,
         7400.96,
         7444.25,
         7501.24,
@@ -141,12 +122,12 @@
         7420.1,
         7500.58,
         7472.79,
-        7365.46
+        7365.46,
+        7358.22
       ]
     },
     "gold": {
       "dates": [
-        "5/12",
         "5/13",
         "5/14",
         "5/15",
@@ -174,10 +155,10 @@
         "6/17",
         "6/18",
         "6/22",
-        "6/23"
+        "6/23",
+        "6/24"
       ],
       "values": [
-        4677.6,
         4697.7,
         4678.1,
         4555.8,
@@ -205,12 +186,12 @@
         4358.9,
         4224.1,
         4181.9,
-        4129.0
+        4129.9,
+        4016.4
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/13",
         "5/14",
         "5/15",
         "5/18",
@@ -239,10 +220,10 @@
         "6/18",
         "6/19",
         "6/22",
-        "6/23"
+        "6/23",
+        "6/24"
       ],
       "values": [
-        157.67,
         157.85,
         158.38,
         158.84,
@@ -271,12 +252,12 @@
         160.6,
         161.29,
         161.43,
-        161.59
+        161.57,
+        161.78
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/11",
         "5/12",
         "5/13",
         "5/14",
@@ -305,10 +286,10 @@
         "6/17",
         "6/18",
         "6/22",
-        "6/23"
+        "6/23",
+        "6/24"
       ],
       "values": [
-        26274.13,
         26088.2,
         26402.34,
         26635.22,
@@ -337,7 +318,8 @@
         26021.66,
         26517.93,
         26166.6,
-        25587.04
+        25587.04,
+        25476.63
       ]
     }
   }
