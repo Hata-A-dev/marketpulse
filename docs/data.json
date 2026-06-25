@@ -1,68 +1,85 @@
 {
-  "updated_at": "2026-06-24 22:05 UTC",
+  "updated_at": "2026-06-25 22:14 UTC",
   "prices": {
     "sp500": {
-      "price": 7358.22,
-      "change_pct": -0.1
+      "price": 7357.49,
+      "change_pct": -0.01
     },
     "nasdaq": {
-      "price": 25476.63,
-      "change_pct": -0.43
+      "price": 25358.6,
+      "change_pct": -0.46
     },
     "gold": {
-      "price": 4016.4,
-      "change_pct": -2.75
+      "price": 4045.8,
+      "change_pct": 1.39
     },
     "usdjpy": {
-      "price": 161.78,
-      "change_pct": 0.13
+      "price": 161.79,
+      "change_pct": 0.12
     },
     "vix": {
-      "price": 18.63,
-      "change_pct": -4.41
+      "price": 18.89,
+      "change_pct": 1.4
     },
     "btc": {
-      "price": 60972.0,
-      "change_pct": -2.71
+      "price": 59806.0,
+      "change_pct": -1.95
     }
   },
   "news": [
     {
-      "title": "Alphabet Set to Join and Honeywell International to Remain in Dow Jones Industrial Average",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/alphabet-set-to-join-and-honeywell-international-to-remain-in-dow-jones-industrial-average-302808382.html"
+      "url": "https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html"
     },
     {
-      "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
+      "title": "How major US stock indexes fared Wednesday 6/24/2026",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-6242026-134182362"
+    },
+    {
+      "title": "Claimant Seeks Control of Satoshi Nakamoto’s Alleged Dormant Bitcoin Fortune",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk"
+      "url": "https://zycrypto.com/claimant-seeks-control-of-satoshi-nakamotos-alleged-dormant-bitcoin-fortune/"
     },
     {
-      "title": "Trump's Quantum Push Wins Praise, But Experts Warn Bitcoin Isn't Ready",
+      "title": "Ethereum Doesn’t Know What It’s Supposed to Be Anymore",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/371916/trump-quantum-praise-experts-warn-bitcoin-not-ready"
+      "url": "https://www.pymnts.com/cryptocurrency/2026/ethereum-doesnt-know-what-its-supposed-to-be-anymore/"
     },
     {
-      "title": "Free at Last",
+      "title": "A Golden Opportunity Just Appeared",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://dailyreckoning.com/free-at-last/"
+      "url": "https://dailyreckoning.com/a-golden-opportunity-just-appeared/"
     },
     {
-      "title": "8 TPG staffers share their favorite redemptions so far in 2026",
+      "title": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://thepointsguy.com/loyalty-programs/tpg-staffers-favorite-redemptions-so-far-2026/"
+      "url": "https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain"
+    },
+    {
+      "title": "Trip.com Group Limited Reports Unaudited First Quarter of 2026 Financial Results",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.prnewswire.com/news-releases/tripcom-group-limited-reports-unaudited-first-quarter-of-2026-financial-results-302809167.html"
+    },
+    {
+      "title": "Kevin Warsh’s first Fed meeting sends gold, silver, and Bitcoin tumbling",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://cryptobriefing.com/warsh-fed-remarks-pressure-bitcoin-gold-silver/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/12",
         "5/13",
         "5/14",
         "5/15",
@@ -91,10 +108,10 @@
         "6/18",
         "6/22",
         "6/23",
-        "6/24"
+        "6/24",
+        "6/25"
       ],
       "values": [
-        7400.96,
         7444.25,
         7501.24,
         7408.5,
@@ -123,12 +140,12 @@
         7500.58,
         7472.79,
         7365.46,
-        7358.22
+        7358.22,
+        7357.49
       ]
     },
     "gold": {
       "dates": [
-        "5/13",
         "5/14",
         "5/15",
         "5/18",
@@ -156,10 +173,10 @@
         "6/18",
         "6/22",
         "6/23",
-        "6/24"
+        "6/24",
+        "6/25"
       ],
       "values": [
-        4697.7,
         4678.1,
         4555.8,
         4552.5,
@@ -187,12 +204,12 @@
         4224.1,
         4181.9,
         4129.9,
-        4016.4
+        3990.3,
+        4045.8
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/14",
         "5/15",
         "5/18",
         "5/19",
@@ -221,10 +238,10 @@
         "6/19",
         "6/22",
         "6/23",
-        "6/24"
+        "6/24",
+        "6/25"
       ],
       "values": [
-        157.85,
         158.38,
         158.84,
         158.86,
@@ -253,12 +270,12 @@
         161.29,
         161.43,
         161.57,
-        161.78
+        161.6,
+        161.77
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/12",
         "5/13",
         "5/14",
         "5/15",
@@ -287,10 +304,10 @@
         "6/18",
         "6/22",
         "6/23",
-        "6/24"
+        "6/24",
+        "6/25"
       ],
       "values": [
-        26088.2,
         26402.34,
         26635.22,
         26225.14,
@@ -319,7 +336,8 @@
         26517.93,
         26166.6,
         25587.04,
-        25476.63
+        25476.64,
+        25358.6
       ]
     }
   }
