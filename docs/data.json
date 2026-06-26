@@ -1,86 +1,85 @@
 {
-  "updated_at": "2026-06-25 22:14 UTC",
+  "updated_at": "2026-06-26 22:00 UTC",
   "prices": {
     "sp500": {
-      "price": 7357.49,
-      "change_pct": -0.01
+      "price": 7354.02,
+      "change_pct": -0.05
     },
     "nasdaq": {
-      "price": 25358.6,
-      "change_pct": -0.46
+      "price": 25297.62,
+      "change_pct": -0.24
     },
     "gold": {
-      "price": 4045.8,
-      "change_pct": 1.39
+      "price": 4103.0,
+      "change_pct": 1.8
     },
     "usdjpy": {
-      "price": 161.79,
-      "change_pct": 0.12
+      "price": 161.73,
+      "change_pct": -0.02
     },
     "vix": {
-      "price": 18.89,
-      "change_pct": 1.4
+      "price": 18.41,
+      "change_pct": -2.54
     },
     "btc": {
-      "price": 59806.0,
-      "change_pct": -1.95
+      "price": 59830.0,
+      "change_pct": 0.18
     }
   },
   "news": [
     {
-      "title": "Stock market today: Live updates",
+      "title": "War, inflation can’t stop ETFs’ trillion-dollar inflow boom",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/24/stock-market-today-live-updates.html"
+      "url": "https://www.straitstimes.com/business/invest/war-inflation-cant-stop-etfs-trillion-dollar-inflow-boom"
     },
     {
-      "title": "How major US stock indexes fared Wednesday 6/24/2026",
+      "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-6242026-134182362"
+      "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower"
     },
     {
-      "title": "Claimant Seeks Control of Satoshi Nakamoto’s Alleged Dormant Bitcoin Fortune",
+      "title": "FCC tightens submarine cable rules, fast-tracks approvals for US firms",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/claimant-seeks-control-of-satoshi-nakamotos-alleged-dormant-bitcoin-fortune/"
+      "url": "https://cryptobriefing.com/fcc-submarine-cable-rules-chinese-equipment/"
     },
     {
-      "title": "Ethereum Doesn’t Know What It’s Supposed to Be Anymore",
+      "title": "These US Banks Now Support Bitcoin & Stablecoins in 2026 — Full Breakdown of Crypto Banking Access",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.pymnts.com/cryptocurrency/2026/ethereum-doesnt-know-what-its-supposed-to-be-anymore/"
+      "url": "https://bitcoinfoundation.org/news/opinion/these-us-banks-now-support-bitcoin-stablecoins-in-2026-full-breakdown-of-crypto-banking-access/"
     },
     {
-      "title": "A Golden Opportunity Just Appeared",
+      "title": "The bond market knows something about the $39 trillion national debt that Washington doesn’t",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://dailyreckoning.com/a-golden-opportunity-just-appeared/"
+      "url": "https://fortune.com/2026/06/25/national-debt-inflation-bond-market/"
     },
     {
-      "title": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
+      "title": "Global imbalances, growth and stability - Bank of Canada",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain"
+      "url": "https://www.bankofcanada.ca/2026/06/global-imbalances-growth-and-stability/"
     },
     {
-      "title": "Trip.com Group Limited Reports Unaudited First Quarter of 2026 Financial Results",
+      "title": "U.S. jobless aid filings fall to 215,000 last week as layoffs remain low despite economic headwinds",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/tripcom-group-limited-reports-unaudited-first-quarter-of-2026-financial-results-302809167.html"
+      "url": "https://japantoday.com/category/business/us-jobless-aid-filings-fall-to-215-000-last-week-as-layoffs-remain-low-despite-economic-headwinds1"
     },
     {
-      "title": "Kevin Warsh’s first Fed meeting sends gold, silver, and Bitcoin tumbling",
+      "title": "Crude Falls Toward Earlier Levels As Household Costs Keep Climbing",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/warsh-fed-remarks-pressure-bitcoin-gold-silver/"
+      "url": "https://newsonjapan.com/article/149796.php"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/13",
         "5/14",
         "5/15",
         "5/18",
@@ -109,10 +108,10 @@
         "6/22",
         "6/23",
         "6/24",
-        "6/25"
+        "6/25",
+        "6/26"
       ],
       "values": [
-        7444.25,
         7501.24,
         7408.5,
         7403.05,
@@ -141,12 +140,12 @@
         7472.79,
         7365.46,
         7358.22,
-        7357.49
+        7357.49,
+        7354.02
       ]
     },
     "gold": {
       "dates": [
-        "5/14",
         "5/15",
         "5/18",
         "5/19",
@@ -174,10 +173,10 @@
         "6/22",
         "6/23",
         "6/24",
-        "6/25"
+        "6/25",
+        "6/26"
       ],
       "values": [
-        4678.1,
         4555.8,
         4552.5,
         4506.3,
@@ -205,12 +204,12 @@
         4181.9,
         4129.9,
         3990.3,
-        4045.8
+        4030.5,
+        4103.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/15",
         "5/18",
         "5/19",
         "5/20",
@@ -239,10 +238,10 @@
         "6/22",
         "6/23",
         "6/24",
-        "6/25"
+        "6/25",
+        "6/26"
       ],
       "values": [
-        158.38,
         158.84,
         158.86,
         159.04,
@@ -271,12 +270,12 @@
         161.43,
         161.57,
         161.6,
-        161.77
+        161.76,
+        161.73
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/13",
         "5/14",
         "5/15",
         "5/18",
@@ -305,10 +304,10 @@
         "6/22",
         "6/23",
         "6/24",
-        "6/25"
+        "6/25",
+        "6/26"
       ],
       "values": [
-        26402.34,
         26635.22,
         26225.14,
         26090.73,
@@ -337,7 +336,8 @@
         26166.6,
         25587.04,
         25476.64,
-        25358.6
+        25358.6,
+        25297.62
       ]
     }
   }
