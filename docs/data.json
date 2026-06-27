@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26 22:00 UTC",
+  "updated_at": "2026-06-27 21:51 UTC",
   "prices": {
     "sp500": {
       "price": 7354.02,
@@ -10,70 +10,70 @@
       "change_pct": -0.24
     },
     "gold": {
-      "price": 4103.0,
-      "change_pct": 1.8
+      "price": 4078.7,
+      "change_pct": 1.2
     },
     "usdjpy": {
-      "price": 161.73,
-      "change_pct": -0.02
+      "price": 161.68,
+      "change_pct": -0.07
     },
     "vix": {
       "price": 18.41,
       "change_pct": -2.54
     },
     "btc": {
-      "price": 59830.0,
-      "change_pct": 0.18
+      "price": 60091.0,
+      "change_pct": 0.12
     }
   },
   "news": [
     {
-      "title": "War, inflation can’t stop ETFs’ trillion-dollar inflow boom",
+      "title": "Wall Street mixed as Moderna rallies and chips tumble - Reuters",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.straitstimes.com/business/invest/war-inflation-cant-stop-etfs-trillion-dollar-inflow-boom"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184119518"
     },
     {
-      "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
+      "title": "AI Drop Cancels Broader Gains",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower"
+      "url": "https://www.newser.com/story/391807/ai-drop-cancels-broader-gains.html"
     },
     {
-      "title": "FCC tightens submarine cable rules, fast-tracks approvals for US firms",
+      "title": "Iran’s Revolutionary Guards claim to repel US attack on Sirik Island as crypto markets rattle",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fcc-submarine-cable-rules-chinese-equipment/"
+      "url": "https://cryptobriefing.com/iran-us-sirik-island-crypto-market-impact/"
     },
     {
-      "title": "These US Banks Now Support Bitcoin & Stablecoins in 2026 — Full Breakdown of Crypto Banking Access",
+      "title": "FIFA holds minute of silence at World Cup 2026 for earthquake victims as crypto firms mobilize relief",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/opinion/these-us-banks-now-support-bitcoin-stablecoins-in-2026-full-breakdown-of-crypto-banking-access/"
+      "url": "https://cryptobriefing.com/fifa-world-cup-2026-earthquake-crypto-relief/"
     },
     {
-      "title": "The bond market knows something about the $39 trillion national debt that Washington doesn’t",
+      "title": "Blue Moon Metals and Alpha Future Funds Announce Signing of Binding Agreement to Combine Holdings in the Sulitjelma Mining District, Norway",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/06/25/national-debt-inflation-bond-market/"
+      "url": "https://www.prnewswire.com/news-releases/blue-moon-metals-and-alpha-future-funds-announce-signing-of-binding-agreement-to-combine-holdings-in-the-sulitjelma-mining-district-norway-302812307.html"
     },
     {
-      "title": "Global imbalances, growth and stability - Bank of Canada",
+      "title": "IMF chief economist Gourinchas says global economy remains firmly 'dollar-centered'",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.bankofcanada.ca/2026/06/global-imbalances-growth-and-stability/"
+      "url": "https://finance.yahoo.com/economy/articles/imf-chief-economist-gourinchas-says-170055440.html"
     },
     {
-      "title": "U.S. jobless aid filings fall to 215,000 last week as layoffs remain low despite economic headwinds",
+      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://japantoday.com/category/business/us-jobless-aid-filings-fall-to-215-000-last-week-as-layoffs-remain-low-despite-economic-headwinds1"
+      "url": "https://biztoc.com/x/a5088dbaadf1e0aa"
     },
     {
-      "title": "Crude Falls Toward Earlier Levels As Household Costs Keep Climbing",
+      "title": "Evaluating Greenspan’s Legacy and the Evolution of Monetary Policy",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://newsonjapan.com/article/149796.php"
+      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/evaluating-greenspans-legacy-and-the-evolution-of-monetary-policy/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -205,12 +205,11 @@
         4129.9,
         3990.3,
         4030.5,
-        4103.0
+        4078.7
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/18",
         "5/19",
         "5/20",
         "5/21",
@@ -239,10 +238,10 @@
         "6/23",
         "6/24",
         "6/25",
-        "6/26"
+        "6/26",
+        "6/27"
       ],
       "values": [
-        158.84,
         158.86,
         159.04,
         158.89,
@@ -271,7 +270,8 @@
         161.57,
         161.6,
         161.76,
-        161.73
+        161.8,
+        161.68
       ]
     },
     "nasdaq": {
