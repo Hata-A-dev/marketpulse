@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27 21:51 UTC",
+  "updated_at": "2026-06-28 21:51 UTC",
   "prices": {
     "sp500": {
       "price": 7354.02,
@@ -9,71 +9,65 @@
       "price": 25297.62,
       "change_pct": -0.24
     },
-    "gold": {
-      "price": 4078.7,
-      "change_pct": 1.2
-    },
     "usdjpy": {
-      "price": 161.68,
-      "change_pct": -0.07
+      "price": 161.73,
+      "change_pct": -0.04
     },
     "vix": {
       "price": 18.41,
       "change_pct": -2.54
     },
+    "usbond": {
+      "price": 4.37,
+      "change_pct": -0.46
+    },
     "btc": {
-      "price": 60091.0,
-      "change_pct": 0.12
+      "price": 59250.0,
+      "change_pct": -1.15
     }
   },
   "news": [
     {
-      "title": "Wall Street mixed as Moderna rallies and chips tumble - Reuters",
+      "title": "Crypto Decouples From Stock Records as DOGE and HYPE Lead Weekly Losses While AI Stocks Rise",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184119518"
+      "url": "https://bitcoinist.com/crypto-decouples-from-stock-records-as-doge-and-hype-lead-weekly-losses-while/"
     },
     {
-      "title": "AI Drop Cancels Broader Gains",
+      "title": "Stifel Raises its Price Target on Marvell Technology (MRVL)",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/391807/ai-drop-cancels-broader-gains.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-raises-price-target-marvell-193226804.html"
     },
     {
-      "title": "Iran’s Revolutionary Guards claim to repel US attack on Sirik Island as crypto markets rattle",
+      "title": "USDT Just Flipped Ethereum in Market Capitalization",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/iran-us-sirik-island-crypto-market-impact/"
+      "url": "https://zycrypto.com/usdt-just-flipped-ethereum-in-market-capitalization/"
     },
     {
-      "title": "FIFA holds minute of silence at World Cup 2026 for earthquake victims as crypto firms mobilize relief",
+      "title": "Coinbase and Circle stocks crater 69-72% from highs, dramatically underperforming Big Tech",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fifa-world-cup-2026-earthquake-crypto-relief/"
+      "url": "https://cryptobriefing.com/coinbase-circle-stocks-underperform-big-tech/"
     },
     {
-      "title": "Blue Moon Metals and Alpha Future Funds Announce Signing of Binding Agreement to Combine Holdings in the Sulitjelma Mining District, Norway",
+      "title": "Bitcoin Drops Again. Skeptical Investment Strategist Calls It 'Useless'",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/blue-moon-metals-and-alpha-future-funds-announce-signing-of-binding-agreement-to-combine-holdings-in-the-sulitjelma-mining-district-norway-302812307.html"
+      "url": "https://news.slashdot.org/story/26/06/27/0257237/bitcoin-drops-again-skeptical-investment-strategist-calls-it-useless"
     },
     {
-      "title": "IMF chief economist Gourinchas says global economy remains firmly 'dollar-centered'",
+      "title": "Economic Digest: A Snapshot of Nepal’s Business News",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/economy/articles/imf-chief-economist-gourinchas-says-170055440.html"
+      "url": "https://english.khabarhub.com/2026/27/555828/"
     },
     {
-      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
+      "title": "Bitcoin and gold worst-performing major assets in 2026 amid liquidity squeeze",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/a5088dbaadf1e0aa"
-    },
-    {
-      "title": "Evaluating Greenspan’s Legacy and the Evolution of Monetary Policy",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://knowledge.wharton.upenn.edu/podcast/this-week-in-business/evaluating-greenspans-legacy-and-the-evolution-of-monetary-policy/"
+      "url": "https://cryptobriefing.com/bitcoin-and-gold-worst-performing-major-assets-in-2026-amid-liquidity-squeeze/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -146,7 +140,6 @@
     },
     "gold": {
       "dates": [
-        "5/15",
         "5/18",
         "5/19",
         "5/20",
@@ -177,7 +170,6 @@
         "6/26"
       ],
       "values": [
-        4555.8,
         4552.5,
         4506.3,
         4531.3,
@@ -205,7 +197,7 @@
         4129.9,
         3990.3,
         4030.5,
-        4078.7
+        4096.3
       ]
     },
     "usdjpy": {
@@ -239,7 +231,7 @@
         "6/24",
         "6/25",
         "6/26",
-        "6/27"
+        "6/28"
       ],
       "values": [
         158.86,
@@ -271,7 +263,7 @@
         161.6,
         161.76,
         161.8,
-        161.68
+        161.73
       ]
     },
     "nasdaq": {
