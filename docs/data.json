@@ -1,80 +1,85 @@
 {
-  "updated_at": "2026-06-28 21:51 UTC",
+  "updated_at": "2026-06-29 22:02 UTC",
   "prices": {
     "sp500": {
-      "price": 7354.02,
-      "change_pct": -0.05
+      "price": 7440.43,
+      "change_pct": 1.18
     },
     "nasdaq": {
-      "price": 25297.62,
-      "change_pct": -0.24
+      "price": 25820.14,
+      "change_pct": 2.07
     },
     "usdjpy": {
-      "price": 161.73,
-      "change_pct": -0.04
+      "price": 161.9,
+      "change_pct": 0.06
     },
     "vix": {
-      "price": 18.41,
-      "change_pct": -2.54
+      "price": 17.65,
+      "change_pct": -4.13
     },
     "usbond": {
       "price": 4.37,
-      "change_pct": -0.46
+      "change_pct": 0.0
     },
     "btc": {
-      "price": 59250.0,
-      "change_pct": -1.15
+      "price": 60372.0,
+      "change_pct": 1.41
     }
   },
   "news": [
     {
-      "title": "Crypto Decouples From Stock Records as DOGE and HYPE Lead Weekly Losses While AI Stocks Rise",
+      "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails. - MarketWatch",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://bitcoinist.com/crypto-decouples-from-stock-records-as-doge-and-hype-lead-weekly-losses-while/"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184165182"
     },
     {
-      "title": "Stifel Raises its Price Target on Marvell Technology (MRVL)",
+      "title": "Why Braiin Stock Plummeted This Week",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-raises-price-target-marvell-193226804.html"
+      "url": "https://biztoc.com/x/5a1d2eab475b4685"
     },
     {
-      "title": "USDT Just Flipped Ethereum in Market Capitalization",
+      "title": "Strategy Valuation Drop Threatens Key Bitcoin Funding Engine",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/usdt-just-flipped-ethereum-in-market-capitalization/"
+      "url": "https://www.pymnts.com/cryptocurrency/2026/strategy-valuation-drop-threatens-key-bitcoin-funding-engine/"
     },
     {
-      "title": "Coinbase and Circle stocks crater 69-72% from highs, dramatically underperforming Big Tech",
+      "title": "US-Iran talks resume in Switzerland after delays, with crypto sanctions adding pressure",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/coinbase-circle-stocks-underperform-big-tech/"
+      "url": "https://cryptobriefing.com/us-iran-talks-resume-switzerland-crypto-sanctions/"
     },
     {
-      "title": "Bitcoin Drops Again. Skeptical Investment Strategist Calls It 'Useless'",
+      "title": "New laws aim to make it harder to launder ill-gotten gains through property",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://news.slashdot.org/story/26/06/27/0257237/bitcoin-drops-again-skeptical-investment-strategist-calls-it-useless"
+      "url": "https://www.abc.net.au/news/2026-06-29/real-estate-easy-target-criminals-laundering-money-until-now/106841680"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal’s Business News",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/27/555828/"
+      "url": "https://english.khabarhub.com/2026/28/556015/"
     },
     {
-      "title": "Bitcoin and gold worst-performing major assets in 2026 amid liquidity squeeze",
+      "title": "Auto Refinancing Volume Doubles as Fed Cuts Rates",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/bitcoin-and-gold-worst-performing-major-assets-in-2026-amid-liquidity-squeeze/"
+      "url": "https://www.pymnts.com/consumer-finance/2026/auto-refinancing-volume-doubles-as-fed-cuts-rates/"
+    },
+    {
+      "title": "National average money market account rates for June 2026",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/national-average-money-market-account-113634479.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/14",
         "5/15",
         "5/18",
         "5/19",
@@ -103,10 +108,10 @@
         "6/23",
         "6/24",
         "6/25",
-        "6/26"
+        "6/26",
+        "6/29"
       ],
       "values": [
-        7501.24,
         7408.5,
         7403.05,
         7353.61,
@@ -135,7 +140,8 @@
         7365.46,
         7358.22,
         7357.49,
-        7354.02
+        7354.02,
+        7440.43
       ]
     },
     "gold": {
@@ -167,7 +173,8 @@
         "6/23",
         "6/24",
         "6/25",
-        "6/26"
+        "6/26",
+        "6/29"
       ],
       "values": [
         4552.5,
@@ -197,7 +204,8 @@
         4129.9,
         3990.3,
         4030.5,
-        4096.3
+        4078.7,
+        4030.5
       ]
     },
     "usdjpy": {
@@ -231,7 +239,7 @@
         "6/24",
         "6/25",
         "6/26",
-        "6/28"
+        "6/29"
       ],
       "values": [
         158.86,
@@ -263,12 +271,11 @@
         161.6,
         161.76,
         161.8,
-        161.73
+        161.9
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/14",
         "5/15",
         "5/18",
         "5/19",
@@ -297,10 +304,10 @@
         "6/23",
         "6/24",
         "6/25",
-        "6/26"
+        "6/26",
+        "6/29"
       ],
       "values": [
-        26635.22,
         26225.14,
         26090.73,
         25870.71,
@@ -329,7 +336,8 @@
         25587.04,
         25476.64,
         25358.6,
-        25297.62
+        25297.62,
+        25820.14
       ]
     }
   }
