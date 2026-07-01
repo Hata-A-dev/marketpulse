@@ -1,86 +1,85 @@
 {
-  "updated_at": "2026-06-30 22:06 UTC",
+  "updated_at": "2026-07-01 22:11 UTC",
   "prices": {
     "sp500": {
-      "price": 7499.36,
-      "change_pct": 0.79
+      "price": 7483.23,
+      "change_pct": -0.22
     },
     "nasdaq": {
-      "price": 26213.72,
-      "change_pct": 1.52
+      "price": 26040.03,
+      "change_pct": -0.66
     },
     "gold": {
-      "price": 4021.8,
-      "change_pct": -0.01
+      "price": 4046.4,
+      "change_pct": 0.58
     },
     "usdjpy": {
-      "price": 162.6,
-      "change_pct": 0.5
+      "price": 162.56,
+      "change_pct": 0.4
     },
     "vix": {
-      "price": 16.45,
-      "change_pct": -6.8
+      "price": 16.59,
+      "change_pct": 0.85
     },
     "btc": {
-      "price": 58627.0,
-      "change_pct": -2.51
+      "price": 60751.0,
+      "change_pct": 3.74
     }
   },
   "news": [
     {
-      "title": "Dow Jones hits record above 52,000 as Alphabet debuts in index, S&P 500 climbs and Nasdaq jumps over 2% as tech stocks lead Wall Street rally - here's how US stock market performed today (June 29)",
+      "title": "Leverage in the Stock Market",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/dow-jones-hits-record-above-52000-as-alphabet-debuts-in-index-sp-500-climbs-and-nasdaq-jumps-over-2-as-tech-stocks-lead-wall-street-rally-heres-how-us-stock-market-performed-today-june-29/articleshow/132079276.cms"
+      "url": "https://awealthofcommonsense.com/2026/06/leverage-in-the-stock-market/"
     },
     {
-      "title": "How major US stock indexes fared Monday 6/29/2026",
+      "title": "Live: ASX likely to open higher, AI-buying frenzy drives Dow to record high",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.seattlepi.com/business/article/how-major-us-stock-indexes-fared-monday-6-29-2026-22325845.php"
+      "url": "https://www.abc.net.au/news/2026-07-01/asx-markets-business-live-news/106863906"
     },
     {
-      "title": "Saylor’s Bitcoin Flywheel Hits a Snag",
+      "title": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyreckoning.com/saylors-bitcoin-flywheel-hits-a-snag/"
+      "url": "https://biztoc.com/x/22156ce648e1b72b"
     },
     {
-      "title": "Attackers Exploit SimpleHelp Flaw to Steal Info from AI Coding Assistants, Clouds",
+      "title": "Strategy Just Announced a Major Revamp to Its Bitcoin Strategy. Here's What Investors Should Know",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://devops.com/attackers-exploit-simplehelp-flaw-to-steal-info-from-ai-coding-assistants-clouds/"
+      "url": "https://biztoc.com/x/dcdf2141ddae3783"
     },
     {
-      "title": "A Lifeline for California’s Small Farms Just Expired. What Comes Next?",
+      "title": "Canadian Stocks Beating US for a Second Year as Banks Surge",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.kqed.org/news/12088977/a-lifeline-for-californias-small-farms-just-expired-what-comes-next"
+      "url": "https://financialpost.com/pmn/business-pmn/canadian-stocks-beating-us-for-a-second-year-as-banks-surge"
     },
     {
-      "title": "Stocks and oil prices edge up as investors eye Iran peace deal",
+      "title": "First Mining Receives Federal Approval for the Springpole Gold Project Environmental Assessment",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.irishtimes.com/business/2026/06/29/stocks-and-oil-prices-edge-up-as-investors-eye-iran-peace-deal/"
+      "url": "https://www.prnewswire.com/news-releases/first-mining-receives-federal-approval-for-the-springpole-gold-project-environmental-assessment-302815100.html"
     },
     {
-      "title": "Lithium Americas Publishes 2025 ESG-S Report",
+      "title": "Non-Farm Payrolls report on July 2 may sway Fed rate decision in 2026",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/lithium-americas-publishes-2025-esg-s-report"
+      "url": "https://cryptobriefing.com/non-farm-payrolls-report-on-july-2-may-sway-fed-rate-decision-in-2026/"
     },
     {
-      "title": "Supreme Court rulings on Fed, FTC: What they mean for consumers",
+      "title": "Bank Of America CEO Is Wrong Again: America Doesn’t Need Three More Rate Hikes",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/06/29/supreme-court-rulings-fed-ftc-consumers.html"
+      "url": "https://dailycaller.com/2026/06/30/opinion-bank-of-america-rate-hikes-inflation-alfredo-ortiz/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/18",
         "5/19",
         "5/20",
         "5/21",
@@ -109,10 +108,10 @@
         "6/25",
         "6/26",
         "6/29",
-        "6/30"
+        "6/30",
+        "7/1"
       ],
       "values": [
-        7403.05,
         7353.61,
         7432.97,
         7445.72,
@@ -141,12 +140,12 @@
         7357.49,
         7354.02,
         7440.43,
-        7499.36
+        7499.36,
+        7483.23
       ]
     },
     "gold": {
       "dates": [
-        "5/19",
         "5/20",
         "5/21",
         "5/22",
@@ -174,10 +173,10 @@
         "6/25",
         "6/26",
         "6/29",
-        "6/30"
+        "6/30",
+        "7/1"
       ],
       "values": [
-        4506.3,
         4531.3,
         4539.8,
         4521.0,
@@ -205,12 +204,12 @@
         4030.5,
         4078.7,
         4022.3,
-        4021.8
+        4022.9,
+        4046.4
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/20",
         "5/21",
         "5/22",
         "5/25",
@@ -239,10 +238,10 @@
         "6/25",
         "6/26",
         "6/29",
-        "6/30"
+        "6/30",
+        "7/1"
       ],
       "values": [
-        159.04,
         158.89,
         159.02,
         158.95,
@@ -271,12 +270,12 @@
         161.76,
         161.8,
         161.79,
-        162.6
+        161.92,
+        162.56
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/18",
         "5/19",
         "5/20",
         "5/21",
@@ -305,10 +304,10 @@
         "6/25",
         "6/26",
         "6/29",
-        "6/30"
+        "6/30",
+        "7/1"
       ],
       "values": [
-        26090.73,
         25870.71,
         26270.36,
         26293.1,
@@ -337,7 +336,8 @@
         25358.6,
         25297.62,
         25820.14,
-        26213.72
+        26213.72,
+        26040.03
       ]
     }
   }
