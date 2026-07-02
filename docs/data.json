@@ -1,86 +1,85 @@
 {
-  "updated_at": "2026-07-01 22:11 UTC",
+  "updated_at": "2026-07-02 21:56 UTC",
   "prices": {
     "sp500": {
-      "price": 7483.23,
-      "change_pct": -0.22
+      "price": 7483.24,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "price": 26040.03,
-      "change_pct": -0.66
+      "price": 25832.67,
+      "change_pct": -0.8
     },
     "gold": {
-      "price": 4046.4,
-      "change_pct": 0.58
+      "price": 4135.5,
+      "change_pct": 1.65
     },
     "usdjpy": {
-      "price": 162.56,
-      "change_pct": 0.4
+      "price": 161.07,
+      "change_pct": -0.96
     },
     "vix": {
-      "price": 16.59,
-      "change_pct": 0.85
+      "price": 16.15,
+      "change_pct": -2.65
     },
     "btc": {
-      "price": 60751.0,
-      "change_pct": 3.74
+      "price": 61476.0,
+      "change_pct": 2.45
     }
   },
   "news": [
     {
-      "title": "Leverage in the Stock Market",
+      "title": "Why The AI Credit Rush Isn’t Hurting The Bond Market, But Is Boosting Bank Stocks",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://awealthofcommonsense.com/2026/06/leverage-in-the-stock-market/"
+      "url": "https://www.forbes.com/sites/brandonkochkodin/2026/07/01/why-the-ai-credit-rush-isnt-hurting-the-bond-market-but-is-boosting-bank-stocks/"
     },
     {
-      "title": "Live: ASX likely to open higher, AI-buying frenzy drives Dow to record high",
+      "title": "Stock Market Today: Dow to eke out record close, S&P 500 flat and Nasdaq declines as investors digest Fed Chair Warsh’s remarks; ADP signals steadying",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-07-01/asx-markets-business-live-news/106863906"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184259246"
     },
     {
-      "title": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test",
+      "title": "Strategy’s STRC stabilizes near $85, SATA trades at $97.9 amid Bitcoin pressure",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/22156ce648e1b72b"
+      "url": "https://cryptobriefing.com/strategy-strc-strive-sata-bitcoin-preferred-stock/"
     },
     {
-      "title": "Strategy Just Announced a Major Revamp to Its Bitcoin Strategy. Here's What Investors Should Know",
+      "title": "Strategy’s stock premium drops below 1x as Bitcoin downturn erases billions in value",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/dcdf2141ddae3783"
+      "url": "https://cryptobriefing.com/strategy-mstr-stock-premium-drops-bitcoin-downturn/"
     },
     {
-      "title": "Canadian Stocks Beating US for a Second Year as Banks Surge",
+      "title": "Abaxx Exchange Surpasses 100,000 Contracts Traded in a Single Day",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/canadian-stocks-beating-us-for-a-second-year-as-banks-surge"
+      "url": "https://www.globenewswire.com/news-release/2026/07/01/3321018/0/en/Abaxx-Exchange-Surpasses-100-000-Contracts-Traded-in-a-Single-Day.html"
     },
     {
-      "title": "First Mining Receives Federal Approval for the Springpole Gold Project Environmental Assessment",
+      "title": "Ημερήσια Γεωπολιτική Επισκόπηση - 01/07/2026",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/first-mining-receives-federal-approval-for-the-springpole-gold-project-environmental-assessment-302815100.html"
+      "url": "https://i-epikaira.blogspot.com/2026/07/01072026.html"
     },
     {
-      "title": "Non-Farm Payrolls report on July 2 may sway Fed rate decision in 2026",
+      "title": "June employment report to assess US jobs market improvement",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/non-farm-payrolls-report-on-july-2-may-sway-fed-rate-decision-in-2026/"
+      "url": "https://cryptobriefing.com/june-employment-report-us-jobs-market/"
     },
     {
-      "title": "Bank Of America CEO Is Wrong Again: America Doesn’t Need Three More Rate Hikes",
+      "title": "Warsh keeps his interest rate cards close",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://dailycaller.com/2026/06/30/opinion-bank-of-america-rate-hikes-inflation-alfredo-ortiz/"
+      "url": "https://biztoc.com/x/416ace1cc5ed3d04"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/19",
         "5/20",
         "5/21",
         "5/22",
@@ -109,10 +108,10 @@
         "6/26",
         "6/29",
         "6/30",
-        "7/1"
+        "7/1",
+        "7/2"
       ],
       "values": [
-        7353.61,
         7432.97,
         7445.72,
         7473.47,
@@ -141,12 +140,12 @@
         7354.02,
         7440.43,
         7499.36,
-        7483.23
+        7483.23,
+        7483.24
       ]
     },
     "gold": {
       "dates": [
-        "5/20",
         "5/21",
         "5/22",
         "5/26",
@@ -174,10 +173,10 @@
         "6/26",
         "6/29",
         "6/30",
-        "7/1"
+        "7/1",
+        "7/2"
       ],
       "values": [
-        4531.3,
         4539.8,
         4521.0,
         4500.4,
@@ -205,12 +204,12 @@
         4078.7,
         4022.3,
         4022.9,
-        4046.4
+        4068.3,
+        4135.5
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/21",
         "5/22",
         "5/25",
         "5/26",
@@ -239,10 +238,10 @@
         "6/26",
         "6/29",
         "6/30",
-        "7/1"
+        "7/1",
+        "7/2"
       ],
       "values": [
-        158.89,
         159.02,
         158.95,
         158.95,
@@ -271,12 +270,12 @@
         161.8,
         161.79,
         161.92,
-        162.56
+        162.63,
+        161.07
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/19",
         "5/20",
         "5/21",
         "5/22",
@@ -305,10 +304,10 @@
         "6/26",
         "6/29",
         "6/30",
-        "7/1"
+        "7/1",
+        "7/2"
       ],
       "values": [
-        25870.71,
         26270.36,
         26293.1,
         26343.97,
@@ -337,7 +336,8 @@
         25297.62,
         25820.14,
         26213.72,
-        26040.03
+        26040.03,
+        25832.67
       ]
     }
   }
