@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02 21:56 UTC",
+  "updated_at": "2026-07-03 21:53 UTC",
   "prices": {
     "sp500": {
       "price": 7483.24,
@@ -10,70 +10,64 @@
       "change_pct": -0.8
     },
     "gold": {
-      "price": 4135.5,
-      "change_pct": 1.65
+      "price": 4187.3,
+      "change_pct": 1.81
     },
     "usdjpy": {
-      "price": 161.07,
-      "change_pct": -0.96
+      "price": 161.34,
+      "change_pct": -0.74
     },
     "vix": {
-      "price": 16.15,
-      "change_pct": -2.65
+      "price": 15.81,
+      "change_pct": -2.11
     },
     "btc": {
-      "price": 61476.0,
-      "change_pct": 2.45
+      "price": 62661.0,
+      "change_pct": 1.91
     }
   },
   "news": [
     {
-      "title": "Why The AI Credit Rush Isn’t Hurting The Bond Market, But Is Boosting Bank Stocks",
+      "title": "Gains for Most of Wall Street Overshadowed by Chip Stocks",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.forbes.com/sites/brandonkochkodin/2026/07/01/why-the-ai-credit-rush-isnt-hurting-the-bond-market-but-is-boosting-bank-stocks/"
+      "url": "https://www.newser.com/story/392164/gains-for-most-of-wall-street-overshadowed-by-chip-stocks.html"
     },
     {
-      "title": "Stock Market Today: Dow to eke out record close, S&P 500 flat and Nasdaq declines as investors digest Fed Chair Warsh’s remarks; ADP signals steadying",
+      "title": "Lands Trump Accounts Role With Two Core iShares ETFs",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184259246"
+      "url": "https://biztoc.com/x/ccd8c26cf855f64c"
     },
     {
-      "title": "Strategy’s STRC stabilizes near $85, SATA trades at $97.9 amid Bitcoin pressure",
+      "title": "Winklevoss Twins Dump $60M Bitcoin to Gemini as BTC Struggles Near $60K",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/strategy-strc-strive-sata-bitcoin-preferred-stock/"
+      "url": "https://zycrypto.com/winklevoss-twins-dump-60m-bitcoin-to-gemini-as-btc-struggles-near-60k/"
     },
     {
-      "title": "Strategy’s stock premium drops below 1x as Bitcoin downturn erases billions in value",
+      "title": "California man pleads guilty to harassing missing woman’s family with fake bitcoin ransom messages",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/strategy-mstr-stock-premium-drops-bitcoin-downturn/"
+      "url": "https://cryptobriefing.com/callella-guilty-bitcoin-harassment-guthrie/"
     },
     {
-      "title": "Abaxx Exchange Surpasses 100,000 Contracts Traded in a Single Day",
+      "title": "Latin America has turned Trumpy. That creates opportunities",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/07/01/3321018/0/en/Abaxx-Exchange-Surpasses-100-000-Contracts-Traded-in-a-Single-Day.html"
+      "url": "https://www.nrc.nl/nieuws/2026/07/02/latin-america-has-turned-trumpy-that-creates-opportunities-a4931127"
     },
     {
-      "title": "Ημερήσια Γεωπολιτική Επισκόπηση - 01/07/2026",
+      "title": "Rupee’s pain has a global address",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://i-epikaira.blogspot.com/2026/07/01072026.html"
+      "url": "https://www.thehindubusinessline.com/opinion/rupees-pain-has-a-global-address/article71174647.ece"
     },
     {
-      "title": "June employment report to assess US jobs market improvement",
+      "title": "Dollar down, stocks shine after disappointing US jobs data",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/june-employment-report-us-jobs-market/"
-    },
-    {
-      "title": "Warsh keeps his interest rate cards close",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://biztoc.com/x/416ace1cc5ed3d04"
+      "url": "https://www.channelnewsasia.com/world/dollar-down-stocks-shine-after-disappointing-us-jobs-data-6228996"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -174,7 +168,8 @@
         "6/29",
         "6/30",
         "7/1",
-        "7/2"
+        "7/2",
+        "7/3"
       ],
       "values": [
         4539.8,
@@ -205,12 +200,12 @@
         4022.3,
         4022.9,
         4068.3,
-        4135.5
+        4112.7,
+        4187.3
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/22",
         "5/25",
         "5/26",
         "5/27",
@@ -239,10 +234,10 @@
         "6/29",
         "6/30",
         "7/1",
-        "7/2"
+        "7/2",
+        "7/3"
       ],
       "values": [
-        159.02,
         158.95,
         158.95,
         159.24,
@@ -271,7 +266,8 @@
         161.79,
         161.92,
         162.63,
-        161.07
+        162.54,
+        161.34
       ]
     },
     "nasdaq": {
