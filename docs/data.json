@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03 21:53 UTC",
+  "updated_at": "2026-07-04 21:45 UTC",
   "prices": {
     "sp500": {
       "price": 7483.24,
@@ -17,57 +17,59 @@
       "price": 161.34,
       "change_pct": -0.74
     },
-    "vix": {
-      "price": 15.81,
-      "change_pct": -2.11
-    },
     "btc": {
-      "price": 62661.0,
-      "change_pct": 1.91
+      "price": 63239.0,
+      "change_pct": 1.11
     }
   },
   "news": [
     {
-      "title": "Gains for Most of Wall Street Overshadowed by Chip Stocks",
+      "title": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/392164/gains-for-most-of-wall-street-overshadowed-by-chip-stocks.html"
+      "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back"
     },
     {
-      "title": "Lands Trump Accounts Role With Two Core iShares ETFs",
+      "title": "This TSX stock jumped 17% on the week and could buck its discount status on massive Alberta power centre project, analyst says",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/ccd8c26cf855f64c"
+      "url": "https://financialpost.com/investing/tsx-stock-jumped-17-this-week-discount"
     },
     {
-      "title": "Winklevoss Twins Dump $60M Bitcoin to Gemini as BTC Struggles Near $60K",
+      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/winklevoss-twins-dump-60m-bitcoin-to-gemini-as-btc-struggles-near-60k/"
+      "url": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html"
     },
     {
-      "title": "California man pleads guilty to harassing missing woman’s family with fake bitcoin ransom messages",
+      "title": "'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/callella-guilty-bitcoin-harassment-guthrie/"
+      "url": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls"
     },
     {
-      "title": "Latin America has turned Trumpy. That creates opportunities",
+      "title": "Soft Jobs Data Helps Gold Rebound From $4,000 Test",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.nrc.nl/nieuws/2026/07/02/latin-america-has-turned-trumpy-that-creates-opportunities-a4931127"
+      "url": "https://finance.yahoo.com/markets/commodities/articles/soft-jobs-data-helps-gold-161558330.html"
     },
     {
-      "title": "Rupee’s pain has a global address",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/opinion/rupees-pain-has-a-global-address/article71174647.ece"
+      "url": "https://english.khabarhub.com/2026/03/556734/"
     },
     {
-      "title": "Dollar down, stocks shine after disappointing US jobs data",
+      "title": "Copper tracks U.S. dollar swings as traders weigh interest rate outlook",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/world/dollar-down-stocks-shine-after-disappointing-us-jobs-data-6228996"
+      "url": "https://financialpost.com/commodities/copper-tracks-u-s-dollar-swings"
+    },
+    {
+      "title": "New Fed Chair Kevin Warsh stays tight-lipped on rate direction at ECB’s Sintra forum",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://cryptobriefing.com/fed-chair-warsh-ecb-sintra-forum/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
