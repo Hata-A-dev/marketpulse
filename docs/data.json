@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04 21:45 UTC",
+  "updated_at": "2026-07-05 21:47 UTC",
   "prices": {
     "sp500": {
       "price": 7483.24,
@@ -14,62 +14,66 @@
       "change_pct": 1.81
     },
     "usdjpy": {
-      "price": 161.34,
-      "change_pct": -0.74
+      "price": 161.28,
+      "change_pct": -0.11
+    },
+    "usbond": {
+      "price": 4.49,
+      "change_pct": 0.45
     },
     "btc": {
-      "price": 63239.0,
-      "change_pct": 1.11
+      "price": 62942.0,
+      "change_pct": -0.23
     }
   },
   "news": [
     {
-      "title": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
+      "title": "Trump Accounts Social Security check: $1,000 federal contribution coming at your accounts. Check eligibility, start date",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back"
+      "url": "https://economictimes.indiatimes.com/news/international/us/trump-accounts-social-security-check-1000-federal-contribution-coming-at-your-accounts-check-eligibility-start-date/articleshow/132186432.cms"
     },
     {
-      "title": "This TSX stock jumped 17% on the week and could buck its discount status on massive Alberta power centre project, analyst says",
+      "title": "Micron’s tokenized stock hits $13B trading volume in May as tokenized equities market explodes 40x",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://financialpost.com/investing/tsx-stock-jumped-17-this-week-discount"
+      "url": "https://cryptobriefing.com/micron-tokenized-stock-13b-trading-volume/"
     },
     {
-      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+      "title": "Ethereum returns to top 100 global assets as market cap climbs back above $215 billion",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html"
+      "url": "https://cryptobriefing.com/ethereum-returns-top-100-asset-status/"
     },
     {
-      "title": "'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls",
+      "title": "Nancy Guthrie Case: Man Pleads Guilty Over Ransom Messages",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls"
+      "url": "http://www.thehollywoodgossip.com/2026/07/nancy-guthrie-california-man-guilty-plea/"
     },
     {
-      "title": "Soft Jobs Data Helps Gold Rebound From $4,000 Test",
+      "title": "Gold likely to stay range-bound around $4,100/oz in H2 2026, but upside to $4,500-$5,000/oz if risks intensify: WGC",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/soft-jobs-data-helps-gold-161558330.html"
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-likely-to-stay-range-bound-around-4100oz-in-h2-2026-but-upside-to-4500-5000oz-if-risks-intensify-wgc/article71182051.ece"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "Michael Hudson: How US Slave Interests Stifled US Monetary and Banking Policy Until 1913",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/03/556734/"
+      "url": "https://www.nakedcapitalism.com/2026/07/michael-hudson-how-us-slave-interests-stifled-us-monetary-and-banking-policy-until-1913.html"
     },
     {
-      "title": "Copper tracks U.S. dollar swings as traders weigh interest rate outlook",
+      "title": "AI has torched the market for junior programmers",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://financialpost.com/commodities/copper-tracks-u-s-dollar-swings"
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
     },
     {
-      "title": "New Fed Chair Kevin Warsh stays tight-lipped on rate direction at ECB’s Sintra forum",
+      "title": "U.S. debt is a looming crisis today but was once its own revolutionary masterstroke that helped launch a global financial superpower",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-chair-warsh-ecb-sintra-forum/"
+      "url": "https://fortune.com/2026/07/04/us-debt-crisis-revolutionary-war-consolidation-alexander-hamilton-global-financial-superpower/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -142,7 +146,6 @@
     },
     "gold": {
       "dates": [
-        "5/21",
         "5/22",
         "5/26",
         "5/27",
@@ -174,7 +177,6 @@
         "7/3"
       ],
       "values": [
-        4539.8,
         4521.0,
         4500.4,
         4447.5,
@@ -208,7 +210,6 @@
     },
     "usdjpy": {
       "dates": [
-        "5/25",
         "5/26",
         "5/27",
         "5/28",
@@ -237,10 +238,10 @@
         "6/30",
         "7/1",
         "7/2",
-        "7/3"
+        "7/3",
+        "7/5"
       ],
       "values": [
-        158.95,
         158.95,
         159.24,
         159.57,
@@ -269,7 +270,8 @@
         161.92,
         162.63,
         162.54,
-        161.34
+        161.45,
+        161.28
       ]
     },
     "nasdaq": {
