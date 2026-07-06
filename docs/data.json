@@ -1,86 +1,75 @@
 {
-  "updated_at": "2026-07-05 21:47 UTC",
+  "updated_at": "2026-07-06 22:05 UTC",
   "prices": {
     "sp500": {
-      "price": 7483.24,
-      "change_pct": 0.0
+      "price": 7537.43,
+      "change_pct": 0.72
     },
     "nasdaq": {
-      "price": 25832.67,
-      "change_pct": -0.8
-    },
-    "gold": {
-      "price": 4187.3,
-      "change_pct": 1.81
+      "price": 26121.16,
+      "change_pct": 1.12
     },
     "usdjpy": {
-      "price": 161.28,
-      "change_pct": -0.11
+      "price": 162.05,
+      "change_pct": 0.37
     },
     "usbond": {
-      "price": 4.49,
-      "change_pct": 0.45
+      "price": 4.48,
+      "change_pct": -0.22
     },
     "btc": {
-      "price": 62942.0,
-      "change_pct": -0.23
+      "price": 64314.0,
+      "change_pct": 1.21
     }
   },
   "news": [
     {
-      "title": "Trump Accounts Social Security check: $1,000 federal contribution coming at your accounts. Check eligibility, start date",
+      "title": "The stock market is about to suffer a ‘snapback’ and will lose much of this year’s gains as ‘speculation is hitting extreme levels,’ BofA warns",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/trump-accounts-social-security-check-1000-federal-contribution-coming-at-your-accounts-check-eligibility-start-date/articleshow/132186432.cms"
+      "url": "https://biztoc.com/x/9f21ff2c2ed6288a"
     },
     {
-      "title": "Micron’s tokenized stock hits $13B trading volume in May as tokenized equities market explodes 40x",
-      "tag": "株式",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/micron-tokenized-stock-13b-trading-volume/"
-    },
-    {
-      "title": "Ethereum returns to top 100 global assets as market cap climbs back above $215 billion",
+      "title": "Bitcoin Is Down 53%. Is It Finally Time to Buy?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/ethereum-returns-top-100-asset-status/"
+      "url": "https://biztoc.com/x/b58d8f4ea8947334"
     },
     {
-      "title": "Nancy Guthrie Case: Man Pleads Guilty Over Ransom Messages",
+      "title": "MSTY shareholders face uncapped losses despite weekly distributions",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "http://www.thehollywoodgossip.com/2026/07/nancy-guthrie-california-man-guilty-plea/"
+      "url": "https://cryptobriefing.com/msty-etf-uncapped-losses-weekly-distributions/"
     },
     {
-      "title": "Gold likely to stay range-bound around $4,100/oz in H2 2026, but upside to $4,500-$5,000/oz if risks intensify: WGC",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-likely-to-stay-range-bound-around-4100oz-in-h2-2026-but-upside-to-4500-5000oz-if-risks-intensify-wgc/article71182051.ece"
+      "url": "https://english.khabarhub.com/2026/05/556968/"
     },
     {
-      "title": "Michael Hudson: How US Slave Interests Stifled US Monetary and Banking Policy Until 1913",
+      "title": "What to Expect in Markets This Week: SpaceX Joins Nasdaq 100 Index; Second-Quarter Results Start to Arrive",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.nakedcapitalism.com/2026/07/michael-hudson-how-us-slave-interests-stifled-us-monetary-and-banking-policy-until-1913.html"
+      "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-spacex-joins-nasdaq-100-index-second-quarter-results-start-to-arrive-spcx-12011430"
     },
     {
-      "title": "AI has torched the market for junior programmers",
+      "title": "111 Million U.S. Adults Do Not Have A Job And America Spends More Than A Trillion Dollars Per Year On A Social Safety Net For Them",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/"
+      "url": "http://theeconomiccollapseblog.com/111-million-u-s-adults-do-not-have-a-job-and-america-spends-more-than-a-trillion-dollars-per-year-on-a-social-safety-net-for-them/"
     },
     {
-      "title": "U.S. debt is a looming crisis today but was once its own revolutionary masterstroke that helped launch a global financial superpower",
+      "title": "I'm 32, unemployed, and $25K in credit card debt — now I'm considering tapping into my $50K 401(k). Is it a lifeline or a costly mistake?",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/07/04/us-debt-crisis-revolutionary-war-consolidation-alexander-hamilton-global-financial-superpower/"
+      "url": "https://biztoc.com/x/b72865beb941deab"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/20",
         "5/21",
         "5/22",
         "5/26",
@@ -109,10 +98,10 @@
         "6/29",
         "6/30",
         "7/1",
-        "7/2"
+        "7/2",
+        "7/6"
       ],
       "values": [
-        7432.97,
         7445.72,
         7473.47,
         7519.12,
@@ -141,12 +130,12 @@
         7440.43,
         7499.36,
         7483.23,
-        7483.24
+        7483.24,
+        7537.43
       ]
     },
     "gold": {
       "dates": [
-        "5/22",
         "5/26",
         "5/27",
         "5/28",
@@ -174,10 +163,9 @@
         "6/30",
         "7/1",
         "7/2",
-        "7/3"
+        "7/6"
       ],
       "values": [
-        4521.0,
         4500.4,
         4447.5,
         4499.3,
@@ -239,7 +227,7 @@
         "7/1",
         "7/2",
         "7/3",
-        "7/5"
+        "7/6"
       ],
       "values": [
         158.95,
@@ -271,12 +259,11 @@
         162.63,
         162.54,
         161.45,
-        161.28
+        162.05
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/20",
         "5/21",
         "5/22",
         "5/26",
@@ -305,10 +292,10 @@
         "6/29",
         "6/30",
         "7/1",
-        "7/2"
+        "7/2",
+        "7/6"
       ],
       "values": [
-        26270.36,
         26293.1,
         26343.97,
         26656.18,
@@ -337,7 +324,8 @@
         25820.14,
         26213.72,
         26040.03,
-        25832.67
+        25832.67,
+        26121.16
       ]
     }
   }
