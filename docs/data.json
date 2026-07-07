@@ -1,76 +1,85 @@
 {
-  "updated_at": "2026-07-06 22:05 UTC",
+  "updated_at": "2026-07-07 22:03 UTC",
   "prices": {
     "sp500": {
-      "price": 7537.43,
-      "change_pct": 0.72
+      "price": 7503.85,
+      "change_pct": -0.45
     },
     "nasdaq": {
-      "price": 26121.16,
-      "change_pct": 1.12
+      "price": 25818.69,
+      "change_pct": -1.16
+    },
+    "gold": {
+      "price": 4116.6,
+      "change_pct": -0.93
     },
     "usdjpy": {
-      "price": 162.05,
-      "change_pct": 0.37
+      "price": 162.15,
+      "change_pct": 0.43
     },
-    "usbond": {
-      "price": 4.48,
-      "change_pct": -0.22
+    "vix": {
+      "price": 16.13,
+      "change_pct": 3.6
     },
     "btc": {
-      "price": 64314.0,
-      "change_pct": 1.21
+      "price": 63319.0,
+      "change_pct": -1.06
     }
   },
   "news": [
     {
-      "title": "The stock market is about to suffer a ‘snapback’ and will lose much of this year’s gains as ‘speculation is hitting extreme levels,’ BofA warns",
+      "title": "Tech Set to Rebound as AI Leadership Faces Fresh Tests - Bloomberg.com",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/9f21ff2c2ed6288a"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184334642"
     },
     {
-      "title": "Bitcoin Is Down 53%. Is It Finally Time to Buy?",
+      "title": "S&P 500 and NASDAQ close higher as post-holiday rally lifts risk assets",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://cryptobriefing.com/sp500-nasdaq-rally-crypto-correlation/"
+    },
+    {
+      "title": "Galaxy Digital delivers first 200MW phase to CoreWeave under 15-year lease",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/b58d8f4ea8947334"
+      "url": "https://cryptobriefing.com/galaxy-digital-coreweave-200mw-helios-lease/"
     },
     {
-      "title": "MSTY shareholders face uncapped losses despite weekly distributions",
+      "title": "Strategy Knee-Caps Bitcoin Rally With $216 Million Sale",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/msty-etf-uncapped-losses-weekly-distributions/"
+      "url": "https://biztoc.com/x/60345ac1cfad93c7"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "9 ways to use points and miles for an incredible trip to Paris right now",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/05/556968/"
+      "url": "https://thepointsguy.com/travel/use-points-and-miles-for-paris/"
     },
     {
-      "title": "What to Expect in Markets This Week: SpaceX Joins Nasdaq 100 Index; Second-Quarter Results Start to Arrive",
+      "title": "Why the Taco Bell Meal for Two Is the Only Economic Indicator That Matters",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-spacex-joins-nasdaq-100-index-second-quarter-results-start-to-arrive-spcx-12011430"
+      "url": "https://www.mcsweeneys.net/articles/why-the-taco-bell-meal-for-two-is-the-only-economic-indicator-that-matters"
     },
     {
-      "title": "111 Million U.S. Adults Do Not Have A Job And America Spends More Than A Trillion Dollars Per Year On A Social Safety Net For Them",
+      "title": "Federal Reserve’s preferred inflation gauge is getting a methodology makeover, and the numbers will look better",
       "tag": "経済",
       "ago": "1日前",
-      "url": "http://theeconomiccollapseblog.com/111-million-u-s-adults-do-not-have-a-job-and-america-spends-more-than-a-trillion-dollars-per-year-on-a-social-safety-net-for-them/"
+      "url": "https://cryptobriefing.com/fed-inflation-methodology-pce-changes/"
     },
     {
-      "title": "I'm 32, unemployed, and $25K in credit card debt — now I'm considering tapping into my $50K 401(k). Is it a lifeline or a costly mistake?",
+      "title": "Fed to adjust inflation measurement, potentially influencing rate cuts this year",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/b72865beb941deab"
+      "url": "https://cryptobriefing.com/fed-to-adjust-inflation-measurement-potentially-influencing-rate-cuts-this-year/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/21",
         "5/22",
         "5/26",
         "5/27",
@@ -99,10 +108,10 @@
         "6/30",
         "7/1",
         "7/2",
-        "7/6"
+        "7/6",
+        "7/7"
       ],
       "values": [
-        7445.72,
         7473.47,
         7519.12,
         7520.36,
@@ -131,7 +140,8 @@
         7499.36,
         7483.23,
         7483.24,
-        7537.43
+        7537.43,
+        7503.85
       ]
     },
     "gold": {
@@ -163,7 +173,8 @@
         "6/30",
         "7/1",
         "7/2",
-        "7/6"
+        "7/6",
+        "7/7"
       ],
       "values": [
         4500.4,
@@ -193,12 +204,12 @@
         4022.9,
         4068.3,
         4112.7,
-        4187.3
+        4155.1,
+        4116.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/26",
         "5/27",
         "5/28",
         "5/29",
@@ -227,10 +238,10 @@
         "7/1",
         "7/2",
         "7/3",
-        "7/6"
+        "7/6",
+        "7/7"
       ],
       "values": [
-        158.95,
         159.24,
         159.57,
         159.27,
@@ -259,12 +270,12 @@
         162.63,
         162.54,
         161.45,
-        162.05
+        161.45,
+        162.13
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/21",
         "5/22",
         "5/26",
         "5/27",
@@ -293,10 +304,10 @@
         "6/30",
         "7/1",
         "7/2",
-        "7/6"
+        "7/6",
+        "7/7"
       ],
       "values": [
-        26293.1,
         26343.97,
         26656.18,
         26674.73,
@@ -325,7 +336,8 @@
         26213.72,
         26040.03,
         25832.67,
-        26121.16
+        26121.16,
+        25818.69
       ]
     }
   }
