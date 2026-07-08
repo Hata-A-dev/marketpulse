@@ -1,86 +1,89 @@
 {
-  "updated_at": "2026-07-07 22:03 UTC",
+  "updated_at": "2026-07-08 21:56 UTC",
   "prices": {
     "sp500": {
-      "price": 7503.85,
-      "change_pct": -0.45
+      "price": 7482.71,
+      "change_pct": -0.28
     },
     "nasdaq": {
-      "price": 25818.69,
-      "change_pct": -1.16
+      "price": 25870.65,
+      "change_pct": 0.2
     },
     "gold": {
-      "price": 4116.6,
-      "change_pct": -0.93
+      "price": 4086.6,
+      "change_pct": -1.42
     },
     "usdjpy": {
-      "price": 162.15,
-      "change_pct": 0.43
+      "price": 162.53,
+      "change_pct": 0.27
     },
     "vix": {
-      "price": 16.13,
-      "change_pct": 3.6
+      "price": 16.9,
+      "change_pct": 4.77
+    },
+    "usbond": {
+      "price": 4.57,
+      "change_pct": 0.88
     },
     "btc": {
-      "price": 63319.0,
-      "change_pct": -1.06
+      "price": 62143.0,
+      "change_pct": -1.82
     }
   },
   "news": [
     {
-      "title": "Tech Set to Rebound as AI Leadership Faces Fresh Tests - Bloomberg.com",
+      "title": "Figure Technology Solutions Reports Preliminary June & Q2 2026 Operating Data",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184334642"
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323736/0/en/Figure-Technology-Solutions-Reports-Preliminary-June-Q2-2026-Operating-Data.html"
     },
     {
-      "title": "S&P 500 and NASDAQ close higher as post-holiday rally lifts risk assets",
+      "title": "AI Stocks Had a Rough Day in Asia, Then the US",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/sp500-nasdaq-rally-crypto-correlation/"
+      "url": "https://www.newser.com/story/392415/ai-stocks-had-a-rough-day-in-asia-then-the-us.html"
     },
     {
-      "title": "Galaxy Digital delivers first 200MW phase to CoreWeave under 15-year lease",
+      "title": "Highflying chip stocks lose momentum as semiconductor sell-off rattles markets",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/galaxy-digital-coreweave-200mw-helios-lease/"
+      "url": "https://cryptobriefing.com/chip-stocks-lose-momentum-semiconductor-sell-off/"
     },
     {
-      "title": "Strategy Knee-Caps Bitcoin Rally With $216 Million Sale",
+      "title": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/60345ac1cfad93c7"
+      "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america"
     },
     {
-      "title": "9 ways to use points and miles for an incredible trip to Paris right now",
+      "title": "We Took the BMW X3 40d 1,000 Miles Across Australia",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://thepointsguy.com/travel/use-points-and-miles-for-paris/"
+      "url": "https://www.bmwblog.com/2026/07/07/bmw-x3-40d-xdrive-first-drive-australia/"
     },
     {
-      "title": "Why the Taco Bell Meal for Two Is the Only Economic Indicator That Matters",
+      "title": "More Tariff Pass‑Through Is in the Pipeline",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.mcsweeneys.net/articles/why-the-taco-bell-meal-for-two-is-the-only-economic-indicator-that-matters"
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/07/more-tariff-pass-through-is-in-the-pipeline/"
     },
     {
-      "title": "Federal Reserve’s preferred inflation gauge is getting a methodology makeover, and the numbers will look better",
+      "title": "Fed President Stays Optimistic as Energy Prices Fall",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-inflation-methodology-pce-changes/"
+      "url": "https://www.rigzone.com/news/wire/fed_president_stays_optimistic_as_energy_prices_fall-07-jul-2026-184079-article/"
     },
     {
-      "title": "Fed to adjust inflation measurement, potentially influencing rate cuts this year",
+      "title": "Options traders bet on Federal Reserve overestimating interest rate hikes",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-to-adjust-inflation-measurement-potentially-influencing-rate-cuts-this-year/"
+      "url": "https://cryptobriefing.com/options-traders-bet-fed-overestimating-rate-hikes/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/22",
         "5/26",
         "5/27",
         "5/28",
@@ -109,10 +112,10 @@
         "7/1",
         "7/2",
         "7/6",
-        "7/7"
+        "7/7",
+        "7/8"
       ],
       "values": [
-        7473.47,
         7519.12,
         7520.36,
         7563.63,
@@ -141,12 +144,12 @@
         7483.23,
         7483.24,
         7537.43,
-        7503.85
+        7503.85,
+        7482.71
       ]
     },
     "gold": {
       "dates": [
-        "5/26",
         "5/27",
         "5/28",
         "5/29",
@@ -174,10 +177,10 @@
         "7/1",
         "7/2",
         "7/6",
-        "7/7"
+        "7/7",
+        "7/8"
       ],
       "values": [
-        4500.4,
         4447.5,
         4499.3,
         4560.5,
@@ -205,12 +208,12 @@
         4068.3,
         4112.7,
         4155.1,
-        4116.6
+        4145.3,
+        4086.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/27",
         "5/28",
         "5/29",
         "6/1",
@@ -239,10 +242,10 @@
         "7/2",
         "7/3",
         "7/6",
-        "7/7"
+        "7/7",
+        "7/8"
       ],
       "values": [
-        159.24,
         159.57,
         159.27,
         159.35,
@@ -271,12 +274,12 @@
         162.54,
         161.45,
         161.45,
-        162.13
+        162.09,
+        162.53
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/22",
         "5/26",
         "5/27",
         "5/28",
@@ -305,10 +308,10 @@
         "7/1",
         "7/2",
         "7/6",
-        "7/7"
+        "7/7",
+        "7/8"
       ],
       "values": [
-        26343.97,
         26656.18,
         26674.73,
         26917.47,
@@ -337,7 +340,8 @@
         26040.03,
         25832.67,
         26121.16,
-        25818.69
+        25818.69,
+        25870.65
       ]
     }
   }
