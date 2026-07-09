@@ -1,90 +1,83 @@
 {
-  "updated_at": "2026-07-08 21:56 UTC",
+  "updated_at": "2026-07-09 22:12 UTC",
   "prices": {
     "sp500": {
-      "price": 7482.71,
-      "change_pct": -0.28
+      "price": 7543.64,
+      "change_pct": 0.81
     },
     "nasdaq": {
-      "price": 25870.65,
-      "change_pct": 0.2
+      "price": 26206.89,
+      "change_pct": 1.3
     },
     "gold": {
-      "price": 4086.6,
-      "change_pct": -1.42
+      "price": 4134.1,
+      "change_pct": 1.55
     },
     "usdjpy": {
-      "price": 162.53,
-      "change_pct": 0.27
+      "price": 162.38,
+      "change_pct": 0.01
     },
     "vix": {
-      "price": 16.9,
-      "change_pct": 4.77
+      "price": 15.84,
+      "change_pct": -6.27
     },
     "usbond": {
-      "price": 4.57,
-      "change_pct": 0.88
+      "price": 4.54,
+      "change_pct": -0.66
     },
     "btc": {
-      "price": 62143.0,
-      "change_pct": -1.82
+      "price": 63212.0,
+      "change_pct": 1.53
     }
   },
   "news": [
     {
-      "title": "Figure Technology Solutions Reports Preliminary June & Q2 2026 Operating Data",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/07/07/3323736/0/en/Figure-Technology-Solutions-Reports-Preliminary-June-Q2-2026-Operating-Data.html"
+      "url": "https://www.cnbc.com/2026/07/08/stock-market-today-live-updates.html"
     },
     {
-      "title": "AI Stocks Had a Rough Day in Asia, Then the US",
+      "title": "We Found 19 Well-Diversified ETFs That Pass the 5% Test",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/392415/ai-stocks-had-a-rough-day-in-asia-then-the-us.html"
+      "url": "https://www.nerdwallet.com/investing/learn/diversified-index-funds-five-percent-test#article"
     },
     {
-      "title": "Highflying chip stocks lose momentum as semiconductor sell-off rattles markets",
+      "title": "The Secret History of Polymarket – Part 1",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/chip-stocks-lose-momentum-semiconductor-sell-off/"
+      "url": "https://www.activistpost.com/the-secret-history-of-polymarket-part-1/"
     },
     {
-      "title": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
+      "title": "Bitcoin tumbles back to key $60K support level: What’s behind the sell pressure?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america"
+      "url": "https://cointelegraph.com/markets/bitcoin-tumbles-back-to-key-60k-support-level-whats-behind-the-sell-pressure"
     },
     {
-      "title": "We Took the BMW X3 40d 1,000 Miles Across Australia",
+      "title": "MiB: Lyft CEO David Risher",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.bmwblog.com/2026/07/07/bmw-x3-40d-xdrive-first-drive-australia/"
+      "url": "https://ritholtz.com/2026/07/mib-david-risher/"
     },
     {
-      "title": "More Tariff Pass‑Through Is in the Pipeline",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://libertystreeteconomics.newyorkfed.org/2026/07/more-tariff-pass-through-is-in-the-pipeline/"
+      "url": "https://english.khabarhub.com/2026/08/557581/"
     },
     {
-      "title": "Fed President Stays Optimistic as Energy Prices Fall",
+      "title": "Federal Reserve minutes reveal support for rate increases, Bitcoin drops 2.7%",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.rigzone.com/news/wire/fed_president_stays_optimistic_as_energy_prices_fall-07-jul-2026-184079-article/"
-    },
-    {
-      "title": "Options traders bet on Federal Reserve overestimating interest rate hikes",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/options-traders-bet-fed-overestimating-rate-hikes/"
+      "url": "https://cryptobriefing.com/fed-minutes-rate-hikes-bitcoin-drops/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/26",
         "5/27",
         "5/28",
         "5/29",
@@ -113,10 +106,10 @@
         "7/2",
         "7/6",
         "7/7",
-        "7/8"
+        "7/8",
+        "7/9"
       ],
       "values": [
-        7519.12,
         7520.36,
         7563.63,
         7580.06,
@@ -145,12 +138,12 @@
         7483.24,
         7537.43,
         7503.85,
-        7482.71
+        7482.71,
+        7543.64
       ]
     },
     "gold": {
       "dates": [
-        "5/27",
         "5/28",
         "5/29",
         "6/1",
@@ -178,10 +171,10 @@
         "7/2",
         "7/6",
         "7/7",
-        "7/8"
+        "7/8",
+        "7/9"
       ],
       "values": [
-        4447.5,
         4499.3,
         4560.5,
         4475.2,
@@ -209,12 +202,12 @@
         4112.7,
         4155.1,
         4145.3,
-        4086.6
+        4070.9,
+        4134.1
       ]
     },
     "usdjpy": {
       "dates": [
-        "5/28",
         "5/29",
         "6/1",
         "6/2",
@@ -243,10 +236,10 @@
         "7/3",
         "7/6",
         "7/7",
-        "7/8"
+        "7/8",
+        "7/9"
       ],
       "values": [
-        159.57,
         159.27,
         159.35,
         159.64,
@@ -275,12 +268,12 @@
         161.45,
         161.45,
         162.09,
-        162.53
+        162.36,
+        162.35
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/26",
         "5/27",
         "5/28",
         "5/29",
@@ -309,10 +302,10 @@
         "7/2",
         "7/6",
         "7/7",
-        "7/8"
+        "7/8",
+        "7/9"
       ],
       "values": [
-        26656.18,
         26674.73,
         26917.47,
         26972.62,
@@ -341,7 +334,8 @@
         25832.67,
         26121.16,
         25818.69,
-        25870.65
+        25870.65,
+        26206.89
       ]
     }
   }
