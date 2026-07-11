@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10 21:49 UTC",
+  "updated_at": "2026-07-11 21:37 UTC",
   "prices": {
     "sp500": {
       "price": 7575.39,
@@ -10,8 +10,8 @@
       "change_pct": 0.29
     },
     "gold": {
-      "price": 4128.9,
-      "change_pct": -0.04
+      "price": 4104.1,
+      "change_pct": -0.64
     },
     "usdjpy": {
       "price": 161.67,
@@ -26,52 +26,58 @@
       "change_pct": 0.66
     },
     "btc": {
-      "price": 63961.0,
-      "change_pct": 1.22
+      "price": 64311.0,
+      "change_pct": 0.29
     }
   },
   "news": [
     {
-      "title": "Live: Wall Street and European stocks rebound, ASX 200 set to flatline on opening",
+      "title": "AI Echoes the Dot-Com Market Split as Iran Threat Creeps Back",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-07-10/asx-markets-business-live-news-10-july-2026/106900270"
+      "url": "https://financialpost.com/pmn/business-pmn/ai-echoes-the-dot-com-market-split-as-iran-threat-creeps-back"
     },
     {
-      "title": "Meet the new group of stocks powering the S&P 500 higher",
+      "title": "10 Reasons to be Bearish",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/37c83832ac7abdaf"
+      "url": "https://awealthofcommonsense.com/2026/07/10-reasons-to-be-bearish/"
     },
     {
-      "title": "JPMorgan warns private blockchains pose greater risk to Bitcoin than Strategy’s massive holdings",
+      "title": "US gives Iran Saturday deadline to declare Strait of Hormuz open, with crypto toll system at the center of the standoff",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/jpmorgan-private-blockchains-bitcoin-risk/"
+      "url": "https://cryptobriefing.com/us-iran-strait-hormuz-crypto-deadline/"
     },
     {
-      "title": "Iranian Navy base in Konarak attacked as crypto markets react with sharp volatility",
+      "title": "US military options against Iran’s nuclear sites rattle crypto markets as Bitcoin faces geopolitical headwinds",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/iran-konarak-attack-crypto-market-reaction/"
+      "url": "https://cryptobriefing.com/us-military-iran-nuclear-crypto-market-impact/"
     },
     {
-      "title": "Putin rejects peace talks and signals escalation as crypto markets brace for volatility",
+      "title": "The Ledger: Investors Are Tapping World Cup Fever",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/putin-rejects-peace-talks-crypto-implications/"
+      "url": "https://www.thewrap.com/industry-news/business/world-cup-investors/"
     },
     {
-      "title": "Levi’s CEO Michelle Gass hopes to round up more sales from women",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.nbcnews.com/business/ceo-interviews/levis-ceo-michelle-gass-female-shoppers-rcna353375"
+      "url": "https://english.khabarhub.com/2026/10/557927/"
     },
     {
-      "title": "Fed saw \"upside risks\" to inflation, disagreed on rate path",
+      "title": "Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/ff67960553a8c126"
+      "url": "https://biztoc.com/x/d4da737a8d76fc94"
+    },
+    {
+      "title": "U.S. Equity Funds See Strongest Inflows In Three Weeks",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://biztoc.com/x/9fd12ffb3a36c4e1"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -203,7 +209,7 @@
         4145.3,
         4070.9,
         4130.6,
-        4128.9
+        4104.1
       ]
     },
     "usdjpy": {
