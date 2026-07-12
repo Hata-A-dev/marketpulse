@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11 21:37 UTC",
+  "updated_at": "2026-07-12 21:37 UTC",
   "prices": {
     "sp500": {
       "price": 7575.39,
@@ -9,13 +9,9 @@
       "price": 26281.61,
       "change_pct": 0.29
     },
-    "gold": {
-      "price": 4104.1,
-      "change_pct": -0.64
-    },
     "usdjpy": {
-      "price": 161.67,
-      "change_pct": -0.54
+      "price": 161.69,
+      "change_pct": -0.41
     },
     "vix": {
       "price": 15.03,
@@ -26,58 +22,58 @@
       "change_pct": 0.66
     },
     "btc": {
-      "price": 64311.0,
-      "change_pct": 0.29
+      "price": 64027.0,
+      "change_pct": 0.35
     }
   },
   "news": [
     {
-      "title": "AI Echoes the Dot-Com Market Split as Iran Threat Creeps Back",
+      "title": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/ai-echoes-the-dot-com-market-split-as-iran-threat-creeps-back"
+      "url": "https://biztoc.com/x/bbdd32994e7c348f"
     },
     {
-      "title": "10 Reasons to be Bearish",
+      "title": "Amazon Is Spending So Much on AI That Even Its Cash Isn’t Enough. Why Investors Shouldn’t Be Worried.",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://awealthofcommonsense.com/2026/07/10-reasons-to-be-bearish/"
+      "url": "https://www.barchart.com/story/news/3239670/amazon-is-spending-so-much-on-ai-that-even-its-cash-isnt-enough-why-investors-shouldnt-be-worried"
     },
     {
-      "title": "US gives Iran Saturday deadline to declare Strait of Hormuz open, with crypto toll system at the center of the standoff",
+      "title": "Iran faces US ultimatum to reopen Strait of Hormuz by Saturday, and Bitcoin is already flinching",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-iran-strait-hormuz-crypto-deadline/"
+      "url": "https://cryptobriefing.com/iran-us-ultimatum-strait-hormuz-bitcoin/"
     },
     {
-      "title": "US military options against Iran’s nuclear sites rattle crypto markets as Bitcoin faces geopolitical headwinds",
+      "title": "Trump urges US AI companies to secure their own energy for data centers",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-military-iran-nuclear-crypto-market-impact/"
+      "url": "https://cryptobriefing.com/trump-ai-companies-energy-data-centers/"
     },
     {
-      "title": "The Ledger: Investors Are Tapping World Cup Fever",
+      "title": "Robert Kiyosaki warns the 'biggest crash' in US history is nigh — millions of may lose it all. Protect your riches now",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thewrap.com/industry-news/business/world-cup-investors/"
+      "url": "https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-warns-biggest-crash-125500463.html"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "Overnight on an Oman Air Dreamliner: Heathrow to Muscat",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/10/557927/"
+      "url": "https://economondo.com/overnight-on-an-oman-air-dreamliner-heathrow-to-muscat/"
     },
     {
-      "title": "Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions",
+      "title": "Can Australia avoid the next round of the global energy crisis?",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/d4da737a8d76fc94"
+      "url": "https://www.abc.net.au/news/2026-07-12/australia-avoiding-next-round-of-the-global-energy-crisis/106902908"
     },
     {
-      "title": "U.S. Equity Funds See Strongest Inflows In Three Weeks",
+      "title": "IMF growth downgrade, Fed split and oil fears dominate week in global economy",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/9fd12ffb3a36c4e1"
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/imf-growth-downgrade-fed-split-and-oil-fears-dominate-week-in-global-economy/articleshow/132332560.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -150,7 +146,6 @@
     },
     "gold": {
       "dates": [
-        "5/29",
         "6/1",
         "6/2",
         "6/3",
@@ -181,7 +176,6 @@
         "7/10"
       ],
       "values": [
-        4560.5,
         4475.2,
         4489.1,
         4436.7,
@@ -209,12 +203,11 @@
         4145.3,
         4070.9,
         4130.6,
-        4104.1
+        4113.7
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/1",
         "6/2",
         "6/3",
         "6/4",
@@ -243,10 +236,10 @@
         "7/7",
         "7/8",
         "7/9",
-        "7/10"
+        "7/10",
+        "7/12"
       ],
       "values": [
-        159.35,
         159.64,
         159.97,
         159.94,
@@ -275,7 +268,8 @@
         162.09,
         162.36,
         162.54,
-        161.67
+        162.36,
+        161.69
       ]
     },
     "nasdaq": {
