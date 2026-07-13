@@ -1,86 +1,85 @@
 {
-  "updated_at": "2026-07-12 21:37 UTC",
+  "updated_at": "2026-07-13 21:42 UTC",
   "prices": {
     "sp500": {
-      "price": 7575.39,
-      "change_pct": 0.42
+      "price": 7515.34,
+      "change_pct": -0.79
     },
     "nasdaq": {
-      "price": 26281.61,
-      "change_pct": 0.29
+      "price": 25873.18,
+      "change_pct": -1.55
     },
     "usdjpy": {
-      "price": 161.69,
-      "change_pct": -0.41
+      "price": 162.42,
+      "change_pct": 0.04
     },
     "vix": {
-      "price": 15.03,
-      "change_pct": -5.11
+      "price": 17.16,
+      "change_pct": 14.17
     },
     "usbond": {
-      "price": 4.57,
-      "change_pct": 0.66
+      "price": 4.61,
+      "change_pct": 0.88
     },
     "btc": {
-      "price": 64027.0,
-      "change_pct": 0.35
+      "price": 64196.0,
+      "change_pct": 0.69
     }
   },
   "news": [
     {
-      "title": "Coca-Cola Is Crushing the S&P 500 and Nasdaq-100. But There's an Even Better Reason to Buy the Stock in July",
+      "title": "Is the AI Bubble About to Burst?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/bbdd32994e7c348f"
+      "url": "https://oilprice.com/Energy/Energy-General/Is-the-AI-Bubble-About-to-Burst.html"
     },
     {
-      "title": "Amazon Is Spending So Much on AI That Even Its Cash Isn’t Enough. Why Investors Shouldn’t Be Worried.",
+      "title": "The Stock Market Just Flashed a Warning Sign Seen Only One Other Time Since 1890. History Couldn't Be Any Clearer About What Happens Next",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.barchart.com/story/news/3239670/amazon-is-spending-so-much-on-ai-that-even-its-cash-isnt-enough-why-investors-shouldnt-be-worried"
+      "url": "https://biztoc.com/x/c2ea51ab266ef504"
     },
     {
-      "title": "Iran faces US ultimatum to reopen Strait of Hormuz by Saturday, and Bitcoin is already flinching",
+      "title": "Ryuk Ransomware Member Pleads Guilty Over Attacks on U.S. Organizations",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/iran-us-ultimatum-strait-hormuz-bitcoin/"
+      "url": "https://securityaffairs.com/195216/uncategorized/ryuk-ransomware-member-pleads-guilty-over-attacks-on-u-s-organizations.html"
     },
     {
-      "title": "Trump urges US AI companies to secure their own energy for data centers",
+      "title": "Eric Trump’s Bitcoin mining venture loses over $600M amid market downturn",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/trump-ai-companies-energy-data-centers/"
+      "url": "https://cryptobriefing.com/eric-trumps-bitcoin-mining-venture-loses-over-600m-amid-market-downturn/"
     },
     {
-      "title": "Robert Kiyosaki warns the 'biggest crash' in US history is nigh — millions of may lose it all. Protect your riches now",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robert-kiyosaki-warns-biggest-crash-125500463.html"
+      "url": "https://english.khabarhub.com/2026/12/558168/"
     },
     {
-      "title": "Overnight on an Oman Air Dreamliner: Heathrow to Muscat",
+      "title": "Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economondo.com/overnight-on-an-oman-air-dreamliner-heathrow-to-muscat/"
+      "url": "https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-gold-750-v4-power-supply-review"
     },
     {
-      "title": "Can Australia avoid the next round of the global energy crisis?",
+      "title": "Fed speeches, economic data may shape Clarity Act’s legislative progress",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-07-12/australia-avoiding-next-round-of-the-global-energy-crisis/106902908"
+      "url": "https://cryptobriefing.com/fed-speeches-economic-data-may-shape-clarity-acts-legislative-progress/"
     },
     {
-      "title": "IMF growth downgrade, Fed split and oil fears dominate week in global economy",
+      "title": "Traders Grapple With World That’s Good for Dollar, Bad for Bonds",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/imf-growth-downgrade-fed-split-and-oil-fears-dominate-week-in-global-economy/articleshow/132332560.cms"
+      "url": "https://financialpost.com/pmn/business-pmn/traders-grapple-with-world-thats-good-for-dollar-bad-for-bonds"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/28",
         "5/29",
         "6/1",
         "6/2",
@@ -109,10 +108,10 @@
         "7/7",
         "7/8",
         "7/9",
-        "7/10"
+        "7/10",
+        "7/13"
       ],
       "values": [
-        7563.63,
         7580.06,
         7599.96,
         7609.78,
@@ -141,7 +140,8 @@
         7503.85,
         7482.71,
         7543.64,
-        7575.39
+        7575.39,
+        7515.34
       ]
     },
     "gold": {
@@ -173,7 +173,8 @@
         "7/7",
         "7/8",
         "7/9",
-        "7/10"
+        "7/10",
+        "7/13"
       ],
       "values": [
         4475.2,
@@ -203,7 +204,8 @@
         4145.3,
         4070.9,
         4130.6,
-        4113.7
+        4104.1,
+        4008.7
       ]
     },
     "usdjpy": {
@@ -237,7 +239,7 @@
         "7/8",
         "7/9",
         "7/10",
-        "7/12"
+        "7/13"
       ],
       "values": [
         159.64,
@@ -269,12 +271,11 @@
         162.36,
         162.54,
         162.36,
-        161.69
+        162.42
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/28",
         "5/29",
         "6/1",
         "6/2",
@@ -303,10 +304,10 @@
         "7/7",
         "7/8",
         "7/9",
-        "7/10"
+        "7/10",
+        "7/13"
       ],
       "values": [
-        26917.47,
         26972.62,
         27086.81,
         27093.9,
@@ -335,7 +336,8 @@
         25818.69,
         25870.65,
         26206.89,
-        26281.61
+        26281.61,
+        25873.18
       ]
     }
   }
