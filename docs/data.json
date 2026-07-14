@@ -1,86 +1,89 @@
 {
-  "updated_at": "2026-07-13 21:42 UTC",
+  "updated_at": "2026-07-14 21:44 UTC",
   "prices": {
     "sp500": {
-      "price": 7515.34,
-      "change_pct": -0.79
+      "price": 7543.59,
+      "change_pct": 0.38
     },
     "nasdaq": {
-      "price": 25873.18,
-      "change_pct": -1.55
+      "price": 26107.01,
+      "change_pct": 0.9
+    },
+    "gold": {
+      "price": 4058.3,
+      "change_pct": 1.53
     },
     "usdjpy": {
-      "price": 162.42,
-      "change_pct": 0.04
+      "price": 162.18,
+      "change_pct": 0.19
     },
     "vix": {
-      "price": 17.16,
-      "change_pct": 14.17
+      "price": 16.5,
+      "change_pct": -3.85
     },
     "usbond": {
-      "price": 4.61,
-      "change_pct": 0.88
+      "price": 4.59,
+      "change_pct": -0.43
     },
     "btc": {
-      "price": 64196.0,
-      "change_pct": 0.69
+      "price": 64678.0,
+      "change_pct": 3.92
     }
   },
   "news": [
     {
-      "title": "Is the AI Bubble About to Burst?",
+      "title": "3 Reasons We Love BGC (BGC)",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://oilprice.com/Energy/Energy-General/Is-the-AI-Bubble-About-to-Burst.html"
+      "url": "https://biztoc.com/x/0fbc3bd24d2b34a1"
     },
     {
-      "title": "The Stock Market Just Flashed a Warning Sign Seen Only One Other Time Since 1890. History Couldn't Be Any Clearer About What Happens Next",
+      "title": "Disney exiting streaming could spur 40% rally: Wells Fargo",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/c2ea51ab266ef504"
+      "url": "https://financialpost.com/news/disney-exiting-streaming-could-spur-rally"
     },
     {
-      "title": "Ryuk Ransomware Member Pleads Guilty Over Attacks on U.S. Organizations",
+      "title": "US government deposits $288M in Bitcoin and Ether to Coinbase Prime",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://securityaffairs.com/195216/uncategorized/ryuk-ransomware-member-pleads-guilty-over-attacks-on-u-s-organizations.html"
+      "url": "https://cryptobriefing.com/us-government-288m-bitcoin-ether-coinbase-prime/"
     },
     {
-      "title": "Eric Trump’s Bitcoin mining venture loses over $600M amid market downturn",
+      "title": "Trump announces 20% toll on Strait of Hormuz cargo, sending oil prices surging",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/eric-trumps-bitcoin-mining-venture-loses-over-600m-amid-market-downturn/"
+      "url": "https://cryptobriefing.com/trump-hormuz-strait-toll-oil-crypto/"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "The 1980s cars that you've (probably) forgotten about",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/12/558168/"
+      "url": "https://www.autocar.co.uk/car-news/slideshow/1980s-cars-youve-probably-forgotten-about-1"
     },
     {
-      "title": "Cooler Master MWE Gold 750 V4 power supply review: Verified Gold efficiency with mainstream pricing",
+      "title": "25 Bridezilla Moments That Ruined Friendships, Relationships, And Invitations",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.tomshardware.com/pc-components/power-supplies/cooler-master-mwe-gold-750-v4-power-supply-review"
+      "url": "https://pleated-jeans.com/2026/07/13/worst-bridezilla-wedding-stories-reddit/"
     },
     {
-      "title": "Fed speeches, economic data may shape Clarity Act’s legislative progress",
+      "title": "Fed’s Warsh faces tough interest-rate smackdown in Congress",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-speeches-economic-data-may-shape-clarity-acts-legislative-progress/"
+      "url": "https://biztoc.com/x/1f7570178e22e8b4"
     },
     {
-      "title": "Traders Grapple With World That’s Good for Dollar, Bad for Bonds",
+      "title": "Fed Governor Waller signals potential rate hike if core inflation persists, rattling crypto markets",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/traders-grapple-with-world-thats-good-for-dollar-bad-for-bonds"
+      "url": "https://cryptobriefing.com/fed-waller-rate-hike-inflation-crypto/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "5/29",
         "6/1",
         "6/2",
         "6/3",
@@ -109,10 +112,10 @@
         "7/8",
         "7/9",
         "7/10",
-        "7/13"
+        "7/13",
+        "7/14"
       ],
       "values": [
-        7580.06,
         7599.96,
         7609.78,
         7553.68,
@@ -141,12 +144,12 @@
         7482.71,
         7543.64,
         7575.39,
-        7515.34
+        7515.34,
+        7543.59
       ]
     },
     "gold": {
       "dates": [
-        "6/1",
         "6/2",
         "6/3",
         "6/4",
@@ -174,10 +177,10 @@
         "7/8",
         "7/9",
         "7/10",
-        "7/13"
+        "7/13",
+        "7/14"
       ],
       "values": [
-        4475.2,
         4489.1,
         4436.7,
         4475.8,
@@ -205,12 +208,12 @@
         4070.9,
         4130.6,
         4104.1,
-        4008.7
+        3997.0,
+        4058.3
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/2",
         "6/3",
         "6/4",
         "6/5",
@@ -239,10 +242,10 @@
         "7/8",
         "7/9",
         "7/10",
-        "7/13"
+        "7/13",
+        "7/14"
       ],
       "values": [
-        159.64,
         159.97,
         159.94,
         159.99,
@@ -271,12 +274,12 @@
         162.36,
         162.54,
         162.36,
-        162.42
+        161.88,
+        162.18
       ]
     },
     "nasdaq": {
       "dates": [
-        "5/29",
         "6/1",
         "6/2",
         "6/3",
@@ -305,10 +308,10 @@
         "7/8",
         "7/9",
         "7/10",
-        "7/13"
+        "7/13",
+        "7/14"
       ],
       "values": [
-        26972.62,
         27086.81,
         27093.9,
         26853.98,
@@ -337,7 +340,8 @@
         25870.65,
         26206.89,
         26281.61,
-        25873.18
+        25873.18,
+        26107.01
       ]
     }
   }
