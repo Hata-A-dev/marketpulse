@@ -1,90 +1,77 @@
 {
-  "updated_at": "2026-07-14 21:44 UTC",
+  "updated_at": "2026-07-15 21:44 UTC",
   "prices": {
     "sp500": {
-      "price": 7543.59,
+      "price": 7572.4,
       "change_pct": 0.38
     },
     "nasdaq": {
-      "price": 26107.01,
-      "change_pct": 0.9
+      "price": 26269.23,
+      "change_pct": 0.62
     },
     "gold": {
-      "price": 4058.3,
-      "change_pct": 1.53
+      "price": 4066.9,
+      "change_pct": 0.14
     },
     "usdjpy": {
-      "price": 162.18,
-      "change_pct": 0.19
+      "price": 162.13,
+      "change_pct": -0.18
     },
     "vix": {
-      "price": 16.5,
-      "change_pct": -3.85
+      "price": 15.67,
+      "change_pct": -5.03
     },
     "usbond": {
-      "price": 4.59,
-      "change_pct": -0.43
+      "price": 4.55,
+      "change_pct": -0.87
     },
     "btc": {
-      "price": 64678.0,
-      "change_pct": 3.92
+      "price": 64765.0,
+      "change_pct": -0.29
     }
   },
   "news": [
     {
-      "title": "3 Reasons We Love BGC (BGC)",
+      "title": "Dow Jones, Nasdaq, US Stock Market Today Updates: Check Latest Move in Futures, Dow, S&P and Nasdaq Leads as AI Chip Stocks Jump, Crude Oil Surge, Bitcoin & Lucid Crash | Why Are Stocks Up Today",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/0fbc3bd24d2b34a1"
+      "url": "https://sundayguardianlive.com/business/dow-jones-nasdaq-us-stock-market-today-updates-check-latest-move-in-futures-dow-sp-and-nasdaq-leads-as-ai-chip-stocks-jump-crude-oil-surge-bitcoin-lucid-crash-why-are-stocks-up-today-236814/"
     },
     {
-      "title": "Disney exiting streaming could spur 40% rally: Wells Fargo",
+      "title": "Dow Ekes Out Gain as Cooler Inflation Offsets IBM Slump, Bank Earnings, Rising Middle East Tensions",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://financialpost.com/news/disney-exiting-streaming-could-spur-rally"
+      "url": "https://www.ibtimes.com.au/dow-jones-edges-volatile-trading-mixed-earnings-1872271"
     },
     {
-      "title": "US government deposits $288M in Bitcoin and Ether to Coinbase Prime",
+      "title": "IRGC Navy vows revenge for Khamenei assassination, and crypto markets are bracing for impact",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-government-288m-bitcoin-ether-coinbase-prime/"
+      "url": "https://cryptobriefing.com/irgc-revenge-vow-khamenei-crypto-markets/"
     },
     {
-      "title": "Trump announces 20% toll on Strait of Hormuz cargo, sending oil prices surging",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/trump-hormuz-strait-toll-oil-crypto/"
-    },
-    {
-      "title": "The 1980s cars that you've (probably) forgotten about",
+      "title": "Why De Beers opted to shut Venetia diamond mine",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.autocar.co.uk/car-news/slideshow/1980s-cars-youve-probably-forgotten-about-1"
+      "url": "https://freerepublic.com/focus/f-chat/4387956/posts"
     },
     {
-      "title": "25 Bridezilla Moments That Ruined Friendships, Relationships, And Invitations",
+      "title": "India-UK CETA, not quite the king's ransom expected from a landmark trade deal",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://pleated-jeans.com/2026/07/13/worst-bridezilla-wedding-stories-reddit/"
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-uk-ceta-not-quite-the-kings-ransom-expected-from-a-landmark-trade-deal/articleshow/132398530.cms"
     },
     {
-      "title": "Fed’s Warsh faces tough interest-rate smackdown in Congress",
+      "title": "S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/1f7570178e22e8b4"
-    },
-    {
-      "title": "Fed Governor Waller signals potential rate hike if core inflation persists, rattling crypto markets",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-waller-rate-hike-inflation-crypto/"
+      "url": "https://www.straitstimes.com/business/companies-markets/sp-500-and-nasdaq-end-higher-on-cool-inflation-data-solid-bank-earnings"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/1",
         "6/2",
         "6/3",
         "6/4",
@@ -113,10 +100,10 @@
         "7/9",
         "7/10",
         "7/13",
-        "7/14"
+        "7/14",
+        "7/15"
       ],
       "values": [
-        7599.96,
         7609.78,
         7553.68,
         7584.31,
@@ -145,12 +132,12 @@
         7543.64,
         7575.39,
         7515.34,
-        7543.59
+        7543.59,
+        7572.4
       ]
     },
     "gold": {
       "dates": [
-        "6/2",
         "6/3",
         "6/4",
         "6/5",
@@ -178,10 +165,10 @@
         "7/9",
         "7/10",
         "7/13",
-        "7/14"
+        "7/14",
+        "7/15"
       ],
       "values": [
-        4489.1,
         4436.7,
         4475.8,
         4337.1,
@@ -209,12 +196,12 @@
         4130.6,
         4104.1,
         3997.0,
-        4058.3
+        4061.1,
+        4066.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/3",
         "6/4",
         "6/5",
         "6/8",
@@ -243,10 +230,10 @@
         "7/9",
         "7/10",
         "7/13",
-        "7/14"
+        "7/14",
+        "7/15"
       ],
       "values": [
-        159.97,
         159.94,
         159.99,
         160.33,
@@ -275,12 +262,12 @@
         162.54,
         162.36,
         161.88,
-        162.18
+        162.43,
+        162.13
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/1",
         "6/2",
         "6/3",
         "6/4",
@@ -309,10 +296,10 @@
         "7/9",
         "7/10",
         "7/13",
-        "7/14"
+        "7/14",
+        "7/15"
       ],
       "values": [
-        27086.81,
         27093.9,
         26853.98,
         26830.96,
@@ -341,7 +328,8 @@
         26206.89,
         26281.61,
         25873.18,
-        26107.01
+        26107.01,
+        26269.23
       ]
     }
   }
