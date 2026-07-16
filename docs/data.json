@@ -1,78 +1,89 @@
 {
-  "updated_at": "2026-07-15 21:44 UTC",
+  "updated_at": "2026-07-16 21:57 UTC",
   "prices": {
     "sp500": {
-      "price": 7572.4,
-      "change_pct": 0.38
+      "price": 7533.77,
+      "change_pct": -0.51
     },
     "nasdaq": {
-      "price": 26269.23,
-      "change_pct": 0.62
+      "price": 25881.95,
+      "change_pct": -1.47
     },
     "gold": {
-      "price": 4066.9,
-      "change_pct": 0.14
+      "price": 3979.9,
+      "change_pct": -1.59
     },
     "usdjpy": {
-      "price": 162.13,
-      "change_pct": -0.18
+      "price": 162.34,
+      "change_pct": 0.09
     },
     "vix": {
-      "price": 15.67,
-      "change_pct": -5.03
+      "price": 16.73,
+      "change_pct": 6.76
     },
     "usbond": {
-      "price": 4.55,
-      "change_pct": -0.87
+      "price": 4.57,
+      "change_pct": 0.44
     },
     "btc": {
-      "price": 64765.0,
-      "change_pct": -0.29
+      "price": 64101.0,
+      "change_pct": -0.94
     }
   },
   "news": [
     {
-      "title": "Dow Jones, Nasdaq, US Stock Market Today Updates: Check Latest Move in Futures, Dow, S&P and Nasdaq Leads as AI Chip Stocks Jump, Crude Oil Surge, Bitcoin & Lucid Crash | Why Are Stocks Up Today",
+      "title": "How major US stock indexes fared Wednesday 7/15/2026",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://sundayguardianlive.com/business/dow-jones-nasdaq-us-stock-market-today-updates-check-latest-move-in-futures-dow-sp-and-nasdaq-leads-as-ai-chip-stocks-jump-crude-oil-surge-bitcoin-lucid-crash-why-are-stocks-up-today-236814/"
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-7152026-134796014"
     },
     {
-      "title": "Dow Ekes Out Gain as Cooler Inflation Offsets IBM Slump, Bank Earnings, Rising Middle East Tensions",
+      "title": "Wall St ends higher on cool inflation data, strong earnings",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.ibtimes.com.au/dow-jones-edges-volatile-trading-mixed-earnings-1872271"
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-st-ends-higher-on-cool-inflation-data-strong-earnings"
     },
     {
-      "title": "IRGC Navy vows revenge for Khamenei assassination, and crypto markets are bracing for impact",
+      "title": "CoreWeave stock faces prolonged decline amid market pressures and mounting competitive threats",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/irgc-revenge-vow-khamenei-crypto-markets/"
+      "url": "https://cryptobriefing.com/coreweave-stock-prolonged-decline-market-pressures/"
     },
     {
-      "title": "Why De Beers opted to shut Venetia diamond mine",
+      "title": "US strikes target Iranian military positions in Chabahar, rattling markets and raising Bitcoin volatility stakes",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://cryptobriefing.com/us-strikes-iran-chabahar-bitcoin-volatility/"
+    },
+    {
+      "title": "Inside COMC: The Business of Moving Millions of Cards",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://freerepublic.com/focus/f-chat/4387956/posts"
+      "url": "https://news.onmantel.com/inside-comc-the-business-of-moving-millions-of-cards/"
     },
     {
-      "title": "India-UK CETA, not quite the king's ransom expected from a landmark trade deal",
+      "title": "3 PC parts you should buy right now instead of waiting for better prices",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/india-uk-ceta-not-quite-the-kings-ransom-expected-from-a-landmark-trade-deal/articleshow/132398530.cms"
+      "url": "https://www.xda-developers.com/buy-thses-pc-parts-dont-wait-for-better-prices/"
     },
     {
-      "title": "S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings",
+      "title": "Great Southern Bancorp, Inc. Reports Preliminary Second Quarter Earnings of $1.43 Per Diluted Common Share",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.straitstimes.com/business/companies-markets/sp-500-and-nasdaq-end-higher-on-cool-inflation-data-solid-bank-earnings"
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3328158/0/en/Great-Southern-Bancorp-Inc-Reports-Preliminary-Second-Quarter-Earnings-of-1-43-Per-Diluted-Common-Share.html"
+    },
+    {
+      "title": "Iran closes Strait of Hormuz, crude prices rise amid US tensions",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-crude-prices-rise-amid-us-tensions/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/2",
         "6/3",
         "6/4",
         "6/5",
@@ -101,10 +112,10 @@
         "7/10",
         "7/13",
         "7/14",
-        "7/15"
+        "7/15",
+        "7/16"
       ],
       "values": [
-        7609.78,
         7553.68,
         7584.31,
         7383.74,
@@ -133,12 +144,12 @@
         7575.39,
         7515.34,
         7543.59,
-        7572.4
+        7572.4,
+        7533.77
       ]
     },
     "gold": {
       "dates": [
-        "6/3",
         "6/4",
         "6/5",
         "6/8",
@@ -166,10 +177,10 @@
         "7/10",
         "7/13",
         "7/14",
-        "7/15"
+        "7/15",
+        "7/16"
       ],
       "values": [
-        4436.7,
         4475.8,
         4337.1,
         4335.9,
@@ -197,12 +208,12 @@
         4104.1,
         3997.0,
         4061.1,
-        4066.9
+        4044.0,
+        3979.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/4",
         "6/5",
         "6/8",
         "6/9",
@@ -231,10 +242,10 @@
         "7/10",
         "7/13",
         "7/14",
-        "7/15"
+        "7/15",
+        "7/16"
       ],
       "values": [
-        159.94,
         159.99,
         160.33,
         160.17,
@@ -263,12 +274,12 @@
         162.36,
         161.88,
         162.43,
-        162.13
+        162.19,
+        162.34
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/2",
         "6/3",
         "6/4",
         "6/5",
@@ -297,10 +308,10 @@
         "7/10",
         "7/13",
         "7/14",
-        "7/15"
+        "7/15",
+        "7/16"
       ],
       "values": [
-        27093.9,
         26853.98,
         26830.96,
         25709.43,
@@ -329,7 +340,8 @@
         26281.61,
         25873.18,
         26107.01,
-        26269.23
+        26269.23,
+        25881.95
       ]
     }
   }
