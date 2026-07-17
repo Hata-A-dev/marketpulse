@@ -1,90 +1,89 @@
 {
-  "updated_at": "2026-07-16 21:57 UTC",
+  "updated_at": "2026-07-17 21:39 UTC",
   "prices": {
     "sp500": {
-      "price": 7533.77,
-      "change_pct": -0.51
+      "price": 7457.69,
+      "change_pct": -1.01
     },
     "nasdaq": {
-      "price": 25881.95,
-      "change_pct": -1.47
+      "price": 25520.24,
+      "change_pct": -1.4
     },
     "gold": {
-      "price": 3979.9,
-      "change_pct": -1.59
+      "price": 4023.0,
+      "change_pct": 0.94
     },
     "usdjpy": {
-      "price": 162.34,
-      "change_pct": 0.09
+      "price": 162.35,
+      "change_pct": 0.17
     },
     "vix": {
-      "price": 16.73,
-      "change_pct": 6.76
+      "price": 18.77,
+      "change_pct": 12.19
     },
     "usbond": {
-      "price": 4.57,
-      "change_pct": 0.44
+      "price": 4.54,
+      "change_pct": -0.66
     },
     "btc": {
-      "price": 64101.0,
-      "change_pct": -0.94
+      "price": 64058.0,
+      "change_pct": 0.42
     }
   },
   "news": [
     {
-      "title": "How major US stock indexes fared Wednesday 7/15/2026",
+      "title": "The U.S. stock market is looking like a rubber band ready to snap",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-7152026-134796014"
+      "url": "https://biztoc.com/x/699a8ceb9f6bb6e6"
     },
     {
-      "title": "Wall St ends higher on cool inflation data, strong earnings",
+      "title": "Targa Resources Corp. Announces Quarterly Common Dividend and Timing of Second Quarter 2026 Earnings Webcast",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-st-ends-higher-on-cool-inflation-data-strong-earnings"
+      "url": "https://www.globenewswire.com/news-release/2026/07/16/3328841/14074/en/Targa-Resources-Corp-Announces-Quarterly-Common-Dividend-and-Timing-of-Second-Quarter-2026-Earnings-Webcast.html"
     },
     {
-      "title": "CoreWeave stock faces prolonged decline amid market pressures and mounting competitive threats",
+      "title": "US fighter jets strike Iran’s Iranshahr Airport as crypto markets feel the shockwave",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/coreweave-stock-prolonged-decline-market-pressures/"
+      "url": "https://cryptobriefing.com/us-iran-strikes-crypto-market-impact-5/"
     },
     {
-      "title": "US strikes target Iranian military positions in Chabahar, rattling markets and raising Bitcoin volatility stakes",
+      "title": "Crypto.com clinches $400M investment from Citadel Securities, valuing exchange at $20B",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-strikes-iran-chabahar-bitcoin-volatility/"
+      "url": "https://nypost.com/2026/07/16/business/crypto-com-clinches-400m-investment-from-citadel-securities-valuing-exchange-at-20b/"
     },
     {
-      "title": "Inside COMC: The Business of Moving Millions of Cards",
+      "title": "Small Caps Are Beating the S&P 500 by the Widest Margin Since 2003. These ETFs Let You Ride the Rally",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://news.onmantel.com/inside-comc-the-business-of-moving-millions-of-cards/"
+      "url": "https://247wallst.com/investing/etf/2026/07/16/small-caps-are-beating-the-sp-500-by-the-widest-margin-since-2003-these-etfs-let-you-ride-the-rally/"
     },
     {
-      "title": "3 PC parts you should buy right now instead of waiting for better prices",
+      "title": "‘Goose egg!’: CNBC anchor stunned by largest US inflation decline in over 6 years — is Trump’s plan working?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.xda-developers.com/buy-thses-pc-parts-dont-wait-for-better-prices/"
+      "url": "https://finance.yahoo.com/economy/articles/goose-egg-cnbc-anchor-stunned-162000953.html"
     },
     {
-      "title": "Great Southern Bancorp, Inc. Reports Preliminary Second Quarter Earnings of $1.43 Per Diluted Common Share",
+      "title": "Federal Reserve’s Logan warns inflation not on track for 2% target",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/07/15/3328158/0/en/Great-Southern-Bancorp-Inc-Reports-Preliminary-Second-Quarter-Earnings-of-1-43-Per-Diluted-Common-Share.html"
+      "url": "https://cryptobriefing.com/fed-logan-warns-inflation-2-percent-target/"
     },
     {
-      "title": "Iran closes Strait of Hormuz, crude prices rise amid US tensions",
+      "title": "Simmons First National Corporation Reports Second Quarter Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-crude-prices-rise-amid-us-tensions/"
+      "url": "https://www.prnewswire.com/news-releases/simmons-first-national-corporation-reports-second-quarter-results-302827995.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/3",
         "6/4",
         "6/5",
         "6/8",
@@ -113,10 +112,10 @@
         "7/13",
         "7/14",
         "7/15",
-        "7/16"
+        "7/16",
+        "7/17"
       ],
       "values": [
-        7553.68,
         7584.31,
         7383.74,
         7405.73,
@@ -145,12 +144,12 @@
         7515.34,
         7543.59,
         7572.4,
-        7533.77
+        7533.77,
+        7457.69
       ]
     },
     "gold": {
       "dates": [
-        "6/4",
         "6/5",
         "6/8",
         "6/9",
@@ -178,10 +177,10 @@
         "7/13",
         "7/14",
         "7/15",
-        "7/16"
+        "7/16",
+        "7/17"
       ],
       "values": [
-        4475.8,
         4337.1,
         4335.9,
         4260.0,
@@ -209,12 +208,12 @@
         3997.0,
         4061.1,
         4044.0,
-        3979.9
+        3985.6,
+        4023.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/5",
         "6/8",
         "6/9",
         "6/10",
@@ -243,10 +242,10 @@
         "7/13",
         "7/14",
         "7/15",
-        "7/16"
+        "7/16",
+        "7/17"
       ],
       "values": [
-        159.99,
         160.33,
         160.17,
         160.38,
@@ -275,12 +274,12 @@
         161.88,
         162.43,
         162.19,
-        162.34
+        162.07,
+        162.35
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/3",
         "6/4",
         "6/5",
         "6/8",
@@ -309,10 +308,10 @@
         "7/13",
         "7/14",
         "7/15",
-        "7/16"
+        "7/16",
+        "7/17"
       ],
       "values": [
-        26853.98,
         26830.96,
         25709.43,
         25929.66,
@@ -341,7 +340,8 @@
         25873.18,
         26107.01,
         26269.23,
-        25881.95
+        25881.95,
+        25520.24
       ]
     }
   }
