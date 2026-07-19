@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 21:38 UTC",
+  "updated_at": "2026-07-19 21:39 UTC",
   "prices": {
     "sp500": {
       "price": 7457.69,
@@ -9,13 +9,9 @@
       "price": 25520.24,
       "change_pct": -1.4
     },
-    "gold": {
-      "price": 4012.7,
-      "change_pct": 0.68
-    },
     "usdjpy": {
       "price": 162.35,
-      "change_pct": 0.17
+      "change_pct": -0.02
     },
     "vix": {
       "price": 18.77,
@@ -26,58 +22,46 @@
       "change_pct": -0.66
     },
     "btc": {
-      "price": 64669.0,
-      "change_pct": 1.21
+      "price": 64380.0,
+      "change_pct": -0.64
     }
   },
   "news": [
     {
-      "title": "Wall St ends lower for the day and week as chip selloff broadens",
+      "title": "US Investors Hyper Leveraged – Margin Debt Hits Record $1,500,000,000,000 in Massive Borrowing Spree",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/world/us-stocks-wall-street-chip-market-6262051"
+      "url": "https://dailyhodl.com/2026/07/18/us-investors-hyper-leveraged-margin-debt-hits-record-1500000000000-in-massive-borrowing-spree/"
     },
     {
-      "title": "Chip stock pullback sparks worries about AI rally strength, leveraged trades",
+      "title": "America In Focus: US inflation cooled in June, but AI build-out poses latest threat",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/chip-stock-pullback-sparks-worries-about-ai-rally-strength-leveraged-trades-6261476"
+      "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-ai-c8ed0b54d80fe1bdaa5edcef671e6608"
     },
     {
-      "title": "Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook",
+      "title": "Dangerous New Android Malware Infecting Phones, Stealing Banking Credentials and Other Sensitive Data: Report",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.activistpost.com/strategy-selling-hundreds-of-millions-worth-of-bitcoin-raises-question-about-its-capital-allocation-playbook/"
+      "url": "https://dailyhodl.com/2026/07/18/dangerous-new-android-malware-infecting-phones-stealing-banking-credentials-and-other-sensitive-data-report/"
     },
     {
-      "title": "FBI Traces Malware-Infected Steam Games to 21-Year-Old in Florida",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://uk.pcmag.com/security/166209/fbi-traces-malware-infected-steam-games-to-21-year-old-in-florida"
-    },
-    {
-      "title": "Today’s News in a Nutshell",
+      "title": "France reportedly withdraws $15B in gold from US vaults amid currency shift concerns",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/17/559014/"
+      "url": "https://cryptobriefing.com/france-gold-withdrawal-us-vaults-currency-shift/"
     },
     {
-      "title": "The dollar’s demise has been predicted for 55 years. The BCG Institute says it’s still overstated",
+      "title": "Warsh believes America's $700B AI buildout will lower prices — but his colleagues warn it will fuel persistent inflation",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-demise-predicted-55-years-100000845.html"
+      "url": "https://finance.yahoo.com/economy/policy/articles/warsh-believes-americas-700b-ai-125500516.html"
     },
     {
-      "title": "BlackRock’s SGOV ETF approaches $100B mark, doubling its nearest competitor",
+      "title": "European Central Bank expected to pause rate hikes, keeps September option open",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/blackrock-sgov-etf-100-billion/"
-    },
-    {
-      "title": "Hingham Reports Second Quarter 2026 Results",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/07/17/3329272/33478/en/Hingham-Reports-Second-Quarter-2026-Results.html"
+      "url": "https://cryptobriefing.com/ecb-rate-pause-crypto-impact/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -150,7 +134,6 @@
     },
     "gold": {
       "dates": [
-        "6/5",
         "6/8",
         "6/9",
         "6/10",
@@ -181,7 +164,6 @@
         "7/17"
       ],
       "values": [
-        4337.1,
         4335.9,
         4260.0,
         4108.2,
@@ -209,12 +191,11 @@
         4061.1,
         4044.0,
         3985.6,
-        4012.7
+        4018.8
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/8",
         "6/9",
         "6/10",
         "6/11",
@@ -243,10 +224,10 @@
         "7/14",
         "7/15",
         "7/16",
-        "7/17"
+        "7/17",
+        "7/19"
       ],
       "values": [
-        160.33,
         160.17,
         160.38,
         160.53,
@@ -275,6 +256,7 @@
         162.43,
         162.19,
         162.07,
+        162.38,
         162.35
       ]
     },
