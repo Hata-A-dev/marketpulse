@@ -1,74 +1,81 @@
 {
-  "updated_at": "2026-07-19 21:39 UTC",
+  "updated_at": "2026-07-20 21:54 UTC",
   "prices": {
-    "sp500": {
-      "price": 7457.69,
-      "change_pct": -1.01
-    },
     "nasdaq": {
-      "price": 25520.24,
-      "change_pct": -1.4
+      "price": 25508.07,
+      "change_pct": -0.05
     },
     "usdjpy": {
-      "price": 162.35,
-      "change_pct": -0.02
+      "price": 162.46,
+      "change_pct": 0.05
     },
     "vix": {
-      "price": 18.77,
-      "change_pct": 12.19
+      "price": 18.65,
+      "change_pct": -0.64
     },
     "usbond": {
-      "price": 4.54,
-      "change_pct": -0.66
+      "price": 4.6,
+      "change_pct": 1.32
     },
     "btc": {
-      "price": 64380.0,
-      "change_pct": -0.64
+      "price": 65264.0,
+      "change_pct": 0.89
     }
   },
   "news": [
     {
-      "title": "US Investors Hyper Leveraged – Margin Debt Hits Record $1,500,000,000,000 in Massive Borrowing Spree",
+      "title": "Warren Buffett Looks for Value in Today’s Market But Comes Up Empty: ‘Everybody Is Preferring Gambling’",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/07/18/us-investors-hyper-leveraged-margin-debt-hits-record-1500000000000-in-massive-borrowing-spree/"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-looks-value-today-203119733.html"
     },
     {
-      "title": "America In Focus: US inflation cooled in June, but AI build-out poses latest threat",
+      "title": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here’s The Price Target",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-ai-c8ed0b54d80fe1bdaa5edcef671e6608"
+      "url": "https://247wallst.com/investing/2026/07/19/wall-street-is-warming-to-marvell-after-its-xconn-acquisition-heres-the-price-target/"
     },
     {
-      "title": "Dangerous New Android Malware Infecting Phones, Stealing Banking Credentials and Other Sensitive Data: Report",
+      "title": "Bitania Expands Beyond P2P With New No-KYC Crypto-to-Crypto Exchange",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/07/18/dangerous-new-android-malware-infecting-phones-stealing-banking-credentials-and-other-sensitive-data-report/"
+      "url": "https://zycrypto.com/bitania-expands-beyond-p2p-with-new-no-kyc-crypto-to-crypto-exchange/"
     },
     {
-      "title": "France reportedly withdraws $15B in gold from US vaults amid currency shift concerns",
+      "title": "Average Illinois Resident Carried $54,100 in Household Debt Last Year",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://dailyhodl.com/2026/07/19/average-illinois-resident-carried-54100-in-household-debt-last-year/"
+    },
+    {
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/france-gold-withdrawal-us-vaults-currency-shift/"
+      "url": "https://english.khabarhub.com/2026/19/559301/"
     },
     {
-      "title": "Warsh believes America's $700B AI buildout will lower prices — but his colleagues warn it will fuel persistent inflation",
+      "title": "Treasuries are amplifying market selloffs and Bitcoin is paying the price",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/economy/policy/articles/warsh-believes-americas-700b-ai-125500516.html"
+      "url": "https://cryptoslate.com/treasuries-are-amplifying-market-selloffs-and-bitcoin-is-paying-the-price/"
     },
     {
-      "title": "European Central Bank expected to pause rate hikes, keeps September option open",
+      "title": "What Are Mineral Rights? The Complete Guide to Owning, Leasing and Selling Them",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/ecb-rate-pause-crypto-impact/"
+      "url": "https://oilprice.com/Energy/Energy-General/What-Are-Mineral-Rights-The-Complete-Guide-to-Owning-Leasing-and-Selling-Them.html"
+    },
+    {
+      "title": "Federal Reserve Chairman Kevin Warsh agrees inflation fight continues",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://cryptobriefing.com/fed-chair-warsh-inflation-fight-crypto-impact/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/4",
         "6/5",
         "6/8",
         "6/9",
@@ -97,10 +104,10 @@
         "7/14",
         "7/15",
         "7/16",
-        "7/17"
+        "7/17",
+        "7/20"
       ],
       "values": [
-        7584.31,
         7383.74,
         7405.73,
         7386.65,
@@ -129,7 +136,8 @@
         7543.59,
         7572.4,
         7533.77,
-        7457.69
+        7457.69,
+        7443.28
       ]
     },
     "gold": {
@@ -161,7 +169,8 @@
         "7/14",
         "7/15",
         "7/16",
-        "7/17"
+        "7/17",
+        "7/20"
       ],
       "values": [
         4335.9,
@@ -191,7 +200,8 @@
         4061.1,
         4044.0,
         3985.6,
-        4018.8
+        4012.7,
+        4011.8
       ]
     },
     "usdjpy": {
@@ -225,7 +235,7 @@
         "7/15",
         "7/16",
         "7/17",
-        "7/19"
+        "7/20"
       ],
       "values": [
         160.17,
@@ -257,12 +267,11 @@
         162.19,
         162.07,
         162.38,
-        162.35
+        162.47
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/4",
         "6/5",
         "6/8",
         "6/9",
@@ -291,10 +300,10 @@
         "7/14",
         "7/15",
         "7/16",
-        "7/17"
+        "7/17",
+        "7/20"
       ],
       "values": [
-        26830.96,
         25709.43,
         25929.66,
         25678.82,
@@ -323,7 +332,8 @@
         26107.01,
         26269.23,
         25881.95,
-        25520.24
+        25520.24,
+        25508.07
       ]
     }
   }
