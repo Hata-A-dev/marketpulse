@@ -1,82 +1,83 @@
 {
-  "updated_at": "2026-07-20 21:54 UTC",
+  "updated_at": "2026-07-21 21:52 UTC",
   "prices": {
+    "sp500": {
+      "price": 7509.2,
+      "change_pct": 0.89
+    },
     "nasdaq": {
-      "price": 25508.07,
-      "change_pct": -0.05
+      "price": 25837.21,
+      "change_pct": 1.29
+    },
+    "gold": {
+      "price": 4082.2,
+      "change_pct": 1.79
     },
     "usdjpy": {
-      "price": 162.46,
-      "change_pct": 0.05
+      "price": 163.14,
+      "change_pct": 0.39
     },
     "vix": {
-      "price": 18.65,
-      "change_pct": -0.64
+      "price": 17.05,
+      "change_pct": -8.58
     },
     "usbond": {
-      "price": 4.6,
-      "change_pct": 1.32
+      "price": 4.63,
+      "change_pct": 0.65
     },
     "btc": {
-      "price": 65264.0,
-      "change_pct": 0.89
+      "price": 66337.0,
+      "change_pct": 1.7
     }
   },
   "news": [
     {
-      "title": "Warren Buffett Looks for Value in Today’s Market But Comes Up Empty: ‘Everybody Is Preferring Gambling’",
+      "title": "The Dubious Rags to Riches Promise of Trump Accounts",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-looks-value-today-203119733.html"
+      "url": "https://www.factcheck.org/2026/07/the-dubious-rags-to-riches-promise-of-trump-accounts/"
     },
     {
-      "title": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here’s The Price Target",
+      "title": "US Stocks Rebound From Selloff as Nvidia, Other Chipmakers Rise - Bloomberg.com",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://247wallst.com/investing/2026/07/19/wall-street-is-warming-to-marvell-after-its-xconn-acquisition-heres-the-price-target/"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184530530"
     },
     {
-      "title": "Bitania Expands Beyond P2P With New No-KYC Crypto-to-Crypto Exchange",
+      "title": "Michael Saylor’s Bitcoin Treasury Company Strategy Goes Fourth Consecutive Week Without Buying Any BTC",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/bitania-expands-beyond-p2p-with-new-no-kyc-crypto-to-crypto-exchange/"
+      "url": "https://dailyhodl.com/2026/07/20/michael-saylors-bitcoin-treasury-company-strategy-goes-fourth-consecutive-week-without-buying-any-btc/"
     },
     {
-      "title": "Average Illinois Resident Carried $54,100 in Household Debt Last Year",
+      "title": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/07/19/average-illinois-resident-carried-54100-in-household-debt-last-year/"
+      "url": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "Sensex today | Stock Market Highlights: Sensex drops 442 pts to end at 77,708, Nifty closes below 24,240; Axis Bank, HDFC Bank fall most",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/19/559301/"
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-20th-july-2026/article71241122.ece"
     },
     {
-      "title": "Treasuries are amplifying market selloffs and Bitcoin is paying the price",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://cryptoslate.com/treasuries-are-amplifying-market-selloffs-and-bitcoin-is-paying-the-price/"
-    },
-    {
-      "title": "What Are Mineral Rights? The Complete Guide to Owning, Leasing and Selling Them",
+      "title": "Mission Bancorp Surpasses $2.0 Billion in Total Assets, Second Quarter Earnings of $8.2 Million and Annual Loan and Deposit Growth of 12.9% and 7.6%.",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://oilprice.com/Energy/Energy-General/What-Are-Mineral-Rights-The-Complete-Guide-to-Owning-Leasing-and-Selling-Them.html"
+      "url": "https://www.prnewswire.com/news-releases/mission-bancorp-surpasses-2-0-billion-in-total-assets-second-quarter-earnings-of-8-2-million-and-annual-loan-and-deposit-growth-of-12-9-and-7-6-302829961.html"
     },
     {
-      "title": "Federal Reserve Chairman Kevin Warsh agrees inflation fight continues",
+      "title": "Farmers & Merchants Bancorp (FMCB) Reports Record Quarterly Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-chair-warsh-inflation-fight-crypto-impact/"
+      "url": "https://www.globenewswire.com/news-release/2026/07/20/3330118/0/en/Farmers-Merchants-Bancorp-FMCB-Reports-Record-Quarterly-Results.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/5",
         "6/8",
         "6/9",
         "6/10",
@@ -105,10 +106,10 @@
         "7/15",
         "7/16",
         "7/17",
-        "7/20"
+        "7/20",
+        "7/21"
       ],
       "values": [
-        7383.74,
         7405.73,
         7386.65,
         7266.99,
@@ -137,12 +138,12 @@
         7572.4,
         7533.77,
         7457.69,
-        7443.28
+        7443.28,
+        7509.2
       ]
     },
     "gold": {
       "dates": [
-        "6/8",
         "6/9",
         "6/10",
         "6/11",
@@ -170,10 +171,10 @@
         "7/15",
         "7/16",
         "7/17",
-        "7/20"
+        "7/20",
+        "7/21"
       ],
       "values": [
-        4335.9,
         4260.0,
         4108.2,
         4090.3,
@@ -201,12 +202,12 @@
         4044.0,
         3985.6,
         4012.7,
-        4011.8
+        4010.3,
+        4082.2
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/9",
         "6/10",
         "6/11",
         "6/12",
@@ -235,10 +236,10 @@
         "7/15",
         "7/16",
         "7/17",
-        "7/20"
+        "7/20",
+        "7/21"
       ],
       "values": [
-        160.17,
         160.38,
         160.53,
         160.13,
@@ -267,12 +268,12 @@
         162.19,
         162.07,
         162.38,
-        162.47
+        162.51,
+        163.14
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/5",
         "6/8",
         "6/9",
         "6/10",
@@ -301,10 +302,10 @@
         "7/15",
         "7/16",
         "7/17",
-        "7/20"
+        "7/20",
+        "7/21"
       ],
       "values": [
-        25709.43,
         25929.66,
         25678.82,
         25169.5,
@@ -333,7 +334,8 @@
         26269.23,
         25881.95,
         25520.24,
-        25508.07
+        25508.07,
+        25837.21
       ]
     }
   }
