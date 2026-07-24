@@ -1,84 +1,89 @@
 {
-  "updated_at": "2026-07-23 21:54 UTC",
+  "updated_at": "2026-07-24 21:52 UTC",
   "prices": {
     "sp500": {
-      "price": 7408.3,
-      "change_pct": -1.21
+      "price": 7411.98,
+      "change_pct": 0.05
     },
     "nasdaq": {
-      "price": 25137.69,
-      "change_pct": -2.15
+      "price": 24975.82,
+      "change_pct": -0.64
     },
     "gold": {
-      "price": 4052.3,
-      "change_pct": -2.28
+      "price": 4055.7,
+      "change_pct": 0.22
     },
     "usdjpy": {
-      "price": 163.74,
-      "change_pct": 0.34
+      "price": 163.79,
+      "change_pct": 0.44
     },
     "vix": {
-      "price": 18.7,
-      "change_pct": 12.38
+      "price": 18.58,
+      "change_pct": -0.64
     },
     "usbond": {
-      "price": 4.7,
-      "change_pct": 0.86
+      "price": 4.68,
+      "change_pct": -0.43
     },
     "btc": {
-      "price": 65084.0,
-      "change_pct": -1.54
+      "price": 64076.0,
+      "change_pct": -1.49
     }
   },
   "news": [
     {
-      "title": "Oil prices surge past $95 as US-Iran strikes intensify",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq sell off as rising oil prices, bond yields, and AI capex weigh - Yahoo Finance",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://punchng.com/oil-prices-surge-past-95-as-us-iran-strikes-intensify/"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184618274"
     },
     {
-      "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
+      "title": "Stocks Drop as Oil Hits Highest Price Since May",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets"
+      "url": "https://www.newser.com/story/393407/stocks-drop-as-oil-hits-highest-price-since-may.html"
     },
     {
-      "title": "S&P launches blockchain fundamentals index for digital assets",
+      "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/sp-launches-blockchain-fundamentals-index-digital-assets"
+      "url": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal"
     },
     {
-      "title": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+      "title": "3 Prominent Crypto Figures Propose A “Winning” Strategy For Ethereum‬",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss"
+      "url": "https://zycrypto.com/3-prominent-crypto-figures-propose-a-winning-strategy-for-ethereum/"
     },
     {
-      "title": "Demand for critical minerals fuels conflict but could help resource-rich nations, WTO says",
+      "title": "Bessent just ran into a problem he cannot talk down",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://abcnews.com/US/wireStory/demand-critical-minerals-fuels-conflict-resource-rich-nations-134996741"
+      "url": "https://www.thestreet.com/economy/bessent-just-ran-into-a-problem-he-cannot-talk-down"
     },
     {
-      "title": "Just how far house prices could fall: Expert reveals why Sydney and Melbourne could spark a nationwide 'flu' in the real estate market",
-      "tag": "経済",
+      "title": "How Corporate Finance Took the Fun—and the Values—Out of Ben & Jerry’s",
+      "tag": "金",
       "ago": "1日前",
-      "url": "https://www.dailymail.com/news/article-15995161/real-estate-price-fall-australia-flu-tom-panos.html"
+      "url": "https://msmagazine.com/2026/07/23/ben-and-jerrys-ice-cream-magnum/"
     },
     {
-      "title": "SOUTHERN MISSOURI BANCORP REPORTS PRELIMINARY RESULTS FOR FOURTH QUARTER OF FISCAL 2026; DECLARES QUARTERLY DIVIDEND OF $0.27 PER COMMON SHARE; CONFERENCE CALL SCHEDULED FOR THURSDAY, JULY 23, AT 9:30 AM CENTRAL TIME",
+      "title": "SouthState Bank Corporation Reports Second Quarter 2026 Results, Declares an Increase in the Quarterly Cash Dividend",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/07/22/3331772/19601/en/SOUTHERN-MISSOURI-BANCORP-REPORTS-PRELIMINARY-RESULTS-FOR-FOURTH-QUARTER-OF-FISCAL-2026-DECLARES-QUARTERLY-DIVIDEND-OF-0-27-PER-COMMON-SHARE-CONFERENCE-CALL-SCHEDULED-FOR-THURSDAY-.html"
+      "url": "https://www.prnewswire.com/news-releases/southstate-bank-corporation-reports-second-quarter-2026-results-declares-an-increase-in-the-quarterly-cash-dividend-302833694.html"
+    },
+    {
+      "title": "Dollar Rises as Intensifying Iran War Lifts Rate Hike Bets",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://financialpost.com/pmn/business-pmn/dollar-rises-as-intensifying-iran-war-lifts-rate-hike-bets"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/10",
         "6/11",
         "6/12",
         "6/15",
@@ -107,10 +112,10 @@
         "7/20",
         "7/21",
         "7/22",
-        "7/23"
+        "7/23",
+        "7/24"
       ],
       "values": [
-        7266.99,
         7394.3,
         7431.46,
         7554.29,
@@ -139,12 +144,12 @@
         7443.28,
         7509.2,
         7498.96,
-        7408.3
+        7408.3,
+        7411.98
       ]
     },
     "gold": {
       "dates": [
-        "6/11",
         "6/12",
         "6/15",
         "6/16",
@@ -172,10 +177,10 @@
         "7/20",
         "7/21",
         "7/22",
-        "7/23"
+        "7/23",
+        "7/24"
       ],
       "values": [
-        4090.3,
         4215.0,
         4328.0,
         4330.9,
@@ -203,12 +208,12 @@
         4010.3,
         4071.1,
         4146.9,
-        4052.3
+        4046.6,
+        4055.7
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/12",
         "6/15",
         "6/16",
         "6/17",
@@ -237,10 +242,10 @@
         "7/20",
         "7/21",
         "7/22",
-        "7/23"
+        "7/23",
+        "7/24"
       ],
       "values": [
-        160.13,
         159.96,
         160.23,
         160.42,
@@ -269,12 +274,12 @@
         162.51,
         162.49,
         163.19,
-        163.74
+        163.08,
+        163.79
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/10",
         "6/11",
         "6/12",
         "6/15",
@@ -303,10 +308,10 @@
         "7/20",
         "7/21",
         "7/22",
-        "7/23"
+        "7/23",
+        "7/24"
       ],
       "values": [
-        25169.5,
         25809.66,
         25888.84,
         26683.94,
@@ -335,7 +340,8 @@
         25508.07,
         25837.21,
         25690.9,
-        25137.69
+        25137.69,
+        24975.82
       ]
     }
   }
