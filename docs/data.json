@@ -1,83 +1,75 @@
 {
-  "updated_at": "2026-07-24 21:52 UTC",
+  "updated_at": "2026-07-25 21:42 UTC",
   "prices": {
     "sp500": {
-      "price": 7411.98,
-      "change_pct": 0.05
+      "price": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "price": 24975.82,
-      "change_pct": -0.64
+      "price": NaN,
+      "change_pct": NaN
     },
     "gold": {
-      "price": 4055.7,
-      "change_pct": 0.22
+      "price": 4067.6,
+      "change_pct": 0.52
     },
     "usdjpy": {
       "price": 163.79,
       "change_pct": 0.44
     },
-    "vix": {
-      "price": 18.58,
-      "change_pct": -0.64
-    },
-    "usbond": {
-      "price": 4.68,
-      "change_pct": -0.43
-    },
     "btc": {
-      "price": 64076.0,
-      "change_pct": -1.49
+      "price": 64300.0,
+      "change_pct": 0.32
     }
   },
   "news": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq sell off as rising oil prices, bond yields, and AI capex weigh - Yahoo Finance",
+      "title": "Chip Stock Sell-off Puts Downward Pressure on Broader Market",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184618274"
+      "url": "https://biztoc.com/x/d8291b87baf5994a"
     },
     {
-      "title": "Stocks Drop as Oil Hits Highest Price Since May",
+      "title": "3 Reasons UAA is Risky and 1 Stock to Buy Instead",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/393407/stocks-drop-as-oil-hits-highest-price-since-may.html"
+      "url": "https://biztoc.com/x/9a059f8929ea0011"
     },
     {
-      "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
+      "title": "Brewery uses solar bitcoin rig to make beer and cover power bills",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal"
+      "url": "https://www.abc.net.au/news/2026-07-25/bitcoin-mine-generates-heat-to-produce-beer/106831374"
     },
     {
-      "title": "3 Prominent Crypto Figures Propose A “Winning” Strategy For Ethereum‬",
+      "title": "FBI used Google cookies, 500 food orders and a Monero seed phrase to identify Steam malware funder",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/3-prominent-crypto-figures-propose-a-winning-strategy-for-ethereum/"
+      "url": "https://cryptoslate.com/fbi-used-google-cookies-500-food-orders-and-a-monero-seed-phrase-to-identify-steam-malware-funder/"
     },
     {
-      "title": "Bessent just ran into a problem he cannot talk down",
+      "title": "Do Investors See an ‘Odyssey’ Bump?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/economy/bessent-just-ran-into-a-problem-he-cannot-talk-down"
+      "url": "https://www.thewrap.com/industry-news/business/the-odyssey-business-effect-theaters-studios/"
     },
     {
-      "title": "How Corporate Finance Took the Fun—and the Values—Out of Ben & Jerry’s",
+      "title": "$4,000 Gold Is Changing Lives Across Central Asia",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://msmagazine.com/2026/07/23/ben-and-jerrys-ice-cream-magnum/"
+      "url": "https://oilprice.com/Metals/Gold/4000-Gold-Is-Changing-Lives-Across-Central-Asia.html"
     },
     {
-      "title": "SouthState Bank Corporation Reports Second Quarter 2026 Results, Declares an Increase in the Quarterly Cash Dividend",
+      "title": "Mixed day for global equities as oil prices retreat",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/southstate-bank-corporation-reports-second-quarter-2026-results-declares-an-increase-in-the-quarterly-cash-dividend-302833694.html"
+      "url": "https://www.channelnewsasia.com/world/oil-prices-us-stocks-wall-street-market-6277261"
     },
     {
-      "title": "Dollar Rises as Intensifying Iran War Lifts Rate Hike Bets",
+      "title": "METROCITY BANKSHARES, INC. REPORTS EARNINGS FOR SECOND QUARTER 2026",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://financialpost.com/pmn/business-pmn/dollar-rises-as-intensifying-iran-war-lifts-rate-hike-bets"
+      "url": "https://www.prnewswire.com/news-releases/metrocity-bankshares-inc-reports-earnings-for-second-quarter-2026-302834227.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -145,7 +137,7 @@
         7509.2,
         7498.96,
         7408.3,
-        7411.98
+        NaN
       ]
     },
     "gold": {
@@ -209,7 +201,7 @@
         4071.1,
         4146.9,
         4046.6,
-        4055.7
+        4067.6
       ]
     },
     "usdjpy": {
@@ -341,7 +333,7 @@
         25837.21,
         25690.9,
         25137.69,
-        24975.82
+        NaN
       ]
     }
   }
