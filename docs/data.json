@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25 21:42 UTC",
+  "updated_at": "2026-07-26 21:46 UTC",
   "prices": {
     "sp500": {
       "price": NaN,
@@ -9,67 +9,63 @@
       "price": NaN,
       "change_pct": NaN
     },
-    "gold": {
-      "price": 4067.6,
-      "change_pct": 0.52
-    },
     "usdjpy": {
-      "price": 163.79,
-      "change_pct": 0.44
+      "price": 163.65,
+      "change_pct": -0.11
     },
     "btc": {
-      "price": 64300.0,
-      "change_pct": 0.32
+      "price": 64768.0,
+      "change_pct": 0.71
     }
   },
   "news": [
     {
-      "title": "Chip Stock Sell-off Puts Downward Pressure on Broader Market",
+      "title": "Top 3 US Stock Market Stories From This Week",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/d8291b87baf5994a"
+      "url": "https://beincrypto.com/top-us-stock-market-news-this-week/"
     },
     {
-      "title": "3 Reasons UAA is Risky and 1 Stock to Buy Instead",
+      "title": "The ‘Trump Trade’ is turning into a loser in the stock market",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/9a059f8929ea0011"
+      "url": "https://fortune.com/2026/07/25/trump-trade-stock-market-returns-iran-war-inflation-supply-shock-tariffs/"
     },
     {
-      "title": "Brewery uses solar bitcoin rig to make beer and cover power bills",
+      "title": "Houthi rebels attack Saudi oil tankers, sending Brent crude past $100 and testing Bitcoin’s safe-haven narrative",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-07-25/bitcoin-mine-generates-heat-to-produce-beer/106831374"
+      "url": "https://cryptobriefing.com/houthi-attacks-saudi-oil-bitcoin-impact/"
     },
     {
-      "title": "FBI used Google cookies, 500 food orders and a Monero seed phrase to identify Steam malware funder",
+      "title": "Apple Sued by Customers Who Lost Combined $1.8 Million Through Fake Bitcoin Wallet in App Store",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/fbi-used-google-cookies-500-food-orders-and-a-monero-seed-phrase-to-identify-steam-malware-funder/"
+      "url": "https://www.macrumors.com/2026/07/25/apple-app-store-fake-bitcoin-wallet-lawsuit/"
     },
     {
-      "title": "Do Investors See an ‘Odyssey’ Bump?",
+      "title": "Why Conversations Are the New Digital Gold",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thewrap.com/industry-news/business/the-odyssey-business-effect-theaters-studios/"
+      "url": "https://bradenkelley.com/2026/07/conversational-intelligence-digital-gold/"
     },
     {
-      "title": "$4,000 Gold Is Changing Lives Across Central Asia",
+      "title": "The Soundcore Liberty 5 Pro series has a mind-blowing feature you have to hear to believe",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://oilprice.com/Metals/Gold/4000-Gold-Is-Changing-Lives-Across-Central-Asia.html"
+      "url": "https://www.androidcentral.com/accessories/earbuds/soundcore-liberty-5-pro-and-liberty-5-pro-max-review"
     },
     {
-      "title": "Mixed day for global equities as oil prices retreat",
+      "title": "Central banks brace for $100 oil inflation impact",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/world/oil-prices-us-stocks-wall-street-market-6277261"
+      "url": "https://cryptobriefing.com/central-banks-brace-for-100-oil-inflation-impact/"
     },
     {
-      "title": "METROCITY BANKSHARES, INC. REPORTS EARNINGS FOR SECOND QUARTER 2026",
+      "title": "Forget Gold: For Retirees, This TIPS ETF Fights Inflation Better",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/metrocity-bankshares-inc-reports-earnings-for-second-quarter-2026-302834227.html"
+      "url": "https://247wallst.com/investing/2026/07/25/forget-gold-for-retirees-this-tips-etf-fights-inflation-better/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -142,7 +138,6 @@
     },
     "gold": {
       "dates": [
-        "6/12",
         "6/15",
         "6/16",
         "6/17",
@@ -173,7 +168,6 @@
         "7/24"
       ],
       "values": [
-        4215.0,
         4328.0,
         4330.9,
         4358.9,
@@ -201,12 +195,11 @@
         4071.1,
         4146.9,
         4046.6,
-        4067.6
+        4070.8
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/15",
         "6/16",
         "6/17",
         "6/18",
@@ -235,10 +228,10 @@
         "7/21",
         "7/22",
         "7/23",
-        "7/24"
+        "7/24",
+        "7/26"
       ],
       "values": [
-        159.96,
         160.23,
         160.42,
         160.6,
@@ -267,7 +260,8 @@
         162.49,
         163.19,
         163.08,
-        163.79
+        163.83,
+        163.65
       ]
     },
     "nasdaq": {
