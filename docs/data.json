@@ -1,78 +1,85 @@
 {
-  "updated_at": "2026-07-26 21:46 UTC",
+  "updated_at": "2026-07-27 21:54 UTC",
   "prices": {
     "sp500": {
-      "price": NaN,
-      "change_pct": NaN
+      "price": 7413.18,
+      "change_pct": 0.02
     },
     "nasdaq": {
-      "price": NaN,
-      "change_pct": NaN
+      "price": 24932.08,
+      "change_pct": -0.18
     },
     "usdjpy": {
-      "price": 163.65,
-      "change_pct": -0.11
+      "price": 163.7,
+      "change_pct": -0.08
+    },
+    "vix": {
+      "price": 18.67,
+      "change_pct": 0.48
+    },
+    "usbond": {
+      "price": 4.64,
+      "change_pct": -0.85
     },
     "btc": {
-      "price": 64768.0,
-      "change_pct": 0.71
+      "price": 64794.0,
+      "change_pct": -0.84
     }
   },
   "news": [
     {
-      "title": "Top 3 US Stock Market Stories From This Week",
+      "title": "Big Tech earnings slam into a market in revolt over AI spending",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://beincrypto.com/top-us-stock-market-news-this-week/"
+      "url": "https://fortune.com/2026/07/26/big-tech-earnings-meta-microsoft-apple-amazon-market-revolt-ai-spending/"
     },
     {
-      "title": "The ‘Trump Trade’ is turning into a loser in the stock market",
+      "title": "Piper Sandler names 5 software stocks cutting AI token costs",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/07/25/trump-trade-stock-market-returns-iran-war-inflation-supply-shock-tariffs/"
+      "url": "https://www.thestreet.com/investing/stocks/piper-sandler-software-stocks-ai-token-costs-mongodb-snowflake"
     },
     {
-      "title": "Houthi rebels attack Saudi oil tankers, sending Brent crude past $100 and testing Bitcoin’s safe-haven narrative",
+      "title": "Crypto exchanges to collect tax residency, ID details of users under new CBDT framework",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/houthi-attacks-saudi-oil-bitcoin-impact/"
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/crypto-exchanges-to-collect-tax-residency-id-details-of-users-under-new-cbdt-framework/articleshow/132646381.cms"
     },
     {
-      "title": "Apple Sued by Customers Who Lost Combined $1.8 Million Through Fake Bitcoin Wallet in App Store",
+      "title": "Up to $5,000 Per Person Incoming After AI Firm Accused of Exposing 480,000 People in Data Breach",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.macrumors.com/2026/07/25/apple-app-store-fake-bitcoin-wallet-lawsuit/"
+      "url": "https://dailyhodl.com/2026/07/26/up-to-5000-per-person-incoming-after-ai-firm-accused-of-exposing-480000-people-in-data-breach"
     },
     {
-      "title": "Why Conversations Are the New Digital Gold",
+      "title": "‘We are committed to ensuring financial stability’",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://bradenkelley.com/2026/07/conversational-intelligence-digital-gold/"
+      "url": "https://www.thehindubusinessline.com/money-and-banking/we-are-committed-to-ensuring-financial-stability/article71270328.ece"
     },
     {
-      "title": "The Soundcore Liberty 5 Pro series has a mind-blowing feature you have to hear to believe",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.androidcentral.com/accessories/earbuds/soundcore-liberty-5-pro-and-liberty-5-pro-max-review"
+      "url": "https://english.khabarhub.com/2026/26/560336/"
     },
     {
-      "title": "Central banks brace for $100 oil inflation impact",
+      "title": "Will the Fed raise interest rates at Kevin Warsh’s second meeting? - Financial Times",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/central-banks-brace-for-100-oil-inflation-impact/"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184708784"
     },
     {
-      "title": "Forget Gold: For Retirees, This TIPS ETF Fights Inflation Better",
+      "title": "Bond traders see over 33% chance of Federal Reserve rate hike this week",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://247wallst.com/investing/2026/07/25/forget-gold-for-retirees-this-tips-etf-fights-inflation-better/"
+      "url": "https://cryptobriefing.com/fed-rate-hike-odds-crypto-impact/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/11",
         "6/12",
         "6/15",
         "6/16",
@@ -101,10 +108,10 @@
         "7/21",
         "7/22",
         "7/23",
-        "7/24"
+        "7/24",
+        "7/27"
       ],
       "values": [
-        7394.3,
         7431.46,
         7554.29,
         7511.35,
@@ -133,7 +140,8 @@
         7509.2,
         7498.96,
         7408.3,
-        NaN
+        7411.98,
+        7413.18
       ]
     },
     "gold": {
@@ -165,7 +173,8 @@
         "7/21",
         "7/22",
         "7/23",
-        "7/24"
+        "7/24",
+        "7/27"
       ],
       "values": [
         4328.0,
@@ -195,7 +204,8 @@
         4071.1,
         4146.9,
         4046.6,
-        4070.8
+        4067.6,
+        4078.6
       ]
     },
     "usdjpy": {
@@ -229,7 +239,7 @@
         "7/22",
         "7/23",
         "7/24",
-        "7/26"
+        "7/27"
       ],
       "values": [
         160.23,
@@ -261,12 +271,11 @@
         163.19,
         163.08,
         163.83,
-        163.65
+        163.7
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/11",
         "6/12",
         "6/15",
         "6/16",
@@ -295,10 +304,10 @@
         "7/21",
         "7/22",
         "7/23",
-        "7/24"
+        "7/24",
+        "7/27"
       ],
       "values": [
-        25809.66,
         25888.84,
         26683.94,
         26376.34,
@@ -327,7 +336,8 @@
         25837.21,
         25690.9,
         25137.69,
-        NaN
+        24975.82,
+        24932.08
       ]
     }
   }
