@@ -1,79 +1,77 @@
 {
-  "updated_at": "2026-07-27 21:54 UTC",
+  "updated_at": "2026-07-28 21:53 UTC",
   "prices": {
     "sp500": {
-      "price": 7413.18,
-      "change_pct": 0.02
+      "price": 7428.78,
+      "change_pct": 0.21
     },
     "nasdaq": {
-      "price": 24932.08,
-      "change_pct": -0.18
+      "price": 24876.91,
+      "change_pct": -0.22
+    },
+    "gold": {
+      "price": 4028.8,
+      "change_pct": -1.12
     },
     "usdjpy": {
-      "price": 163.7,
-      "change_pct": -0.08
+      "price": 163.8,
+      "change_pct": 0.12
     },
     "vix": {
-      "price": 18.67,
-      "change_pct": 0.48
+      "price": 18.21,
+      "change_pct": -2.46
     },
     "usbond": {
-      "price": 4.64,
-      "change_pct": -0.85
+      "price": 4.6,
+      "change_pct": -0.86
     },
     "btc": {
-      "price": 64794.0,
-      "change_pct": -0.84
+      "price": 63940.0,
+      "change_pct": 0.34
     }
   },
   "news": [
     {
-      "title": "Big Tech earnings slam into a market in revolt over AI spending",
+      "title": "Stock Market Today: Dow rises, but S&P 500 and Nasdaq are dragged lower by weakness in chips and tech stocks; Treasury yields and oil prices fall; investors",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/07/26/big-tech-earnings-meta-microsoft-apple-amazon-market-revolt-ai-spending/"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184726602"
     },
     {
-      "title": "Piper Sandler names 5 software stocks cutting AI token costs",
-      "tag": "株式",
-      "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/stocks/piper-sandler-software-stocks-ai-token-costs-mongodb-snowflake"
-    },
-    {
-      "title": "Crypto exchanges to collect tax residency, ID details of users under new CBDT framework",
+      "title": "Three customers sue Apple after fake wallet app wipes out their Bitcoin",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/economy/finance/crypto-exchanges-to-collect-tax-residency-id-details-of-users-under-new-cbdt-framework/articleshow/132646381.cms"
+      "url": "https://9to5mac.com/2026/07/27/three-customers-sue-apple-after-fake-wallet-app-wipes-out-their-bitcoin/"
     },
     {
-      "title": "Up to $5,000 Per Person Incoming After AI Firm Accused of Exposing 480,000 People in Data Breach",
+      "title": "Metaplanet reports 250,000 Japanese retail shareholders amid bear market",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/07/26/up-to-5000-per-person-incoming-after-ai-firm-accused-of-exposing-480000-people-in-data-breach"
+      "url": "https://cryptobriefing.com/metaplanet-250000-shareholders-bear-market/"
     },
     {
-      "title": "‘We are committed to ensuring financial stability’",
+      "title": "The U.S. Is Walking Into Iran’s Escalation Trap",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/we-are-committed-to-ensuring-financial-stability/article71270328.ece"
+      "url": "https://oilprice.com/Geopolitics/Middle-East/The-US-Is-Walking-Into-Irans-Escalation-Trap.html"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "The Truth About the US Treasury Market",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/26/560336/"
+      "url": "https://www.activistpost.com/the-truth-about-the-us-treasury-market/"
     },
     {
-      "title": "Will the Fed raise interest rates at Kevin Warsh’s second meeting? - Financial Times",
+      "title": "What would a rate hike signal about the new Fed chief's MO? - Axios",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184708784"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184726896"
     },
     {
-      "title": "Bond traders see over 33% chance of Federal Reserve rate hike this week",
+      "title": "RICHMOND MUTUAL BANCORPORATION, INC. ANNOUNCES 2026 SECOND QUARTER FINANCIAL RESULTS",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-rate-hike-odds-crypto-impact/"
+      "url": "https://www.prnewswire.com/news-releases/richmond-mutual-bancorporation-inc-announces-2026-second-quarter-financial-results-302835676.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -108,8 +106,8 @@
         "7/21",
         "7/22",
         "7/23",
-        "7/24",
-        "7/27"
+        "7/27",
+        "7/28"
       ],
       "values": [
         7431.46,
@@ -140,13 +138,12 @@
         7509.2,
         7498.96,
         7408.3,
-        7411.98,
-        7413.18
+        7413.18,
+        7428.78
       ]
     },
     "gold": {
       "dates": [
-        "6/15",
         "6/16",
         "6/17",
         "6/18",
@@ -174,10 +171,10 @@
         "7/22",
         "7/23",
         "7/24",
-        "7/27"
+        "7/27",
+        "7/28"
       ],
       "values": [
-        4328.0,
         4330.9,
         4358.9,
         4224.1,
@@ -205,12 +202,12 @@
         4146.9,
         4046.6,
         4067.6,
-        4078.6
+        4074.5,
+        4028.8
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/16",
         "6/17",
         "6/18",
         "6/19",
@@ -239,10 +236,10 @@
         "7/22",
         "7/23",
         "7/24",
-        "7/27"
+        "7/27",
+        "7/28"
       ],
       "values": [
-        160.23,
         160.42,
         160.6,
         161.29,
@@ -271,12 +268,12 @@
         163.19,
         163.08,
         163.83,
-        163.7
+        163.61,
+        163.8
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/12",
         "6/15",
         "6/16",
         "6/17",
@@ -305,10 +302,10 @@
         "7/22",
         "7/23",
         "7/24",
-        "7/27"
+        "7/27",
+        "7/28"
       ],
       "values": [
-        25888.84,
         26683.94,
         26376.34,
         26021.66,
@@ -337,7 +334,8 @@
         25690.9,
         25137.69,
         24975.82,
-        24932.08
+        24932.08,
+        24876.91
       ]
     }
   }
