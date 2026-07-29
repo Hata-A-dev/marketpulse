@@ -1,148 +1,88 @@
 {
-  "updated_at": "2026-07-28 21:53 UTC",
+  "updated_at": "2026-07-29 21:44 UTC",
   "prices": {
     "sp500": {
-      "price": 7428.78,
-      "change_pct": 0.21
+      "price": 7316.15,
+      "change_pct": -1.52
     },
     "nasdaq": {
-      "price": 24876.91,
-      "change_pct": -0.22
+      "price": 24442.94,
+      "change_pct": -1.74
     },
     "gold": {
-      "price": 4028.8,
-      "change_pct": -1.12
+      "price": 4126.0,
+      "change_pct": 2.22
     },
     "usdjpy": {
-      "price": 163.8,
-      "change_pct": 0.12
+      "price": 163.39,
+      "change_pct": -0.23
     },
     "vix": {
-      "price": 18.21,
-      "change_pct": -2.46
+      "price": 20.66,
+      "change_pct": 13.45
     },
     "usbond": {
-      "price": 4.6,
-      "change_pct": -0.86
+      "price": 4.62,
+      "change_pct": 0.43
     },
     "btc": {
-      "price": 63940.0,
-      "change_pct": 0.34
+      "price": 63495.0,
+      "change_pct": -0.59
     }
   },
   "news": [
     {
-      "title": "Stock Market Today: Dow rises, but S&P 500 and Nasdaq are dragged lower by weakness in chips and tech stocks; Treasury yields and oil prices fall; investors",
+      "title": "Nasdaq-100 slides into correction as global chip and memory stocks sell off - NBC News",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184726602"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184740302"
     },
     {
-      "title": "Three customers sue Apple after fake wallet app wipes out their Bitcoin",
+      "title": "Wall Street's Move Away From AI Accelerates",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://www.newser.com/story/393676/wall-streets-move-away-from-ai-accelerates.html"
+    },
+    {
+      "title": "Hoskinson Says Cardano Could Unlock Bitcoin’s Next Major Growth Opportunity",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://9to5mac.com/2026/07/27/three-customers-sue-apple-after-fake-wallet-app-wipes-out-their-bitcoin/"
+      "url": "https://zycrypto.com/hoskinson-says-cardano-could-unlock-bitcoins-next-major-growth-opportunity/"
     },
     {
-      "title": "Metaplanet reports 250,000 Japanese retail shareholders amid bear market",
+      "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/metaplanet-250000-shareholders-bear-market/"
+      "url": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps"
     },
     {
-      "title": "The U.S. Is Walking Into Iran’s Escalation Trap",
+      "title": "First Quantum Minerals Reports Second Quarter 2026 Results",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/The-US-Is-Walking-Into-Irans-Escalation-Trap.html"
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334806/0/en/First-Quantum-Minerals-Reports-Second-Quarter-2026-Results.html"
     },
     {
-      "title": "The Truth About the US Treasury Market",
+      "title": "Ghana allocates $429M to boost foreign-exchange reserves through gold purchases",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.activistpost.com/the-truth-about-the-us-treasury-market/"
+      "url": "https://cryptobriefing.com/ghana-429m-gold-reserves-allocation/"
     },
     {
-      "title": "What would a rate hike signal about the new Fed chief's MO? - Axios",
+      "title": "PREVIEW: Fed seen holding rates steady",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184726896"
+      "url": "https://biztoc.com/x/3cf18ede3fbf15b2"
     },
     {
-      "title": "RICHMOND MUTUAL BANCORPORATION, INC. ANNOUNCES 2026 SECOND QUARTER FINANCIAL RESULTS",
+      "title": "Sound Financial Bancorp, Inc. Q2 2026 Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/richmond-mutual-bancorporation-inc-announces-2026-second-quarter-financial-results-302835676.html"
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334845/20398/en/Sound-Financial-Bancorp-Inc-Q2-2026-Results.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "6/12",
-        "6/15",
-        "6/16",
-        "6/17",
-        "6/18",
-        "6/22",
-        "6/23",
-        "6/24",
-        "6/25",
-        "6/26",
-        "6/29",
-        "6/30",
-        "7/1",
-        "7/2",
-        "7/6",
-        "7/7",
-        "7/8",
-        "7/9",
-        "7/10",
-        "7/13",
-        "7/14",
-        "7/15",
-        "7/16",
-        "7/17",
-        "7/20",
-        "7/21",
-        "7/22",
-        "7/23",
-        "7/27",
-        "7/28"
-      ],
-      "values": [
-        7431.46,
-        7554.29,
-        7511.35,
-        7420.1,
-        7500.58,
-        7472.79,
-        7365.46,
-        7358.22,
-        7357.49,
-        7354.02,
-        7440.43,
-        7499.36,
-        7483.23,
-        7483.24,
-        7537.43,
-        7503.85,
-        7482.71,
-        7543.64,
-        7575.39,
-        7515.34,
-        7543.59,
-        7572.4,
-        7533.77,
-        7457.69,
-        7443.28,
-        7509.2,
-        7498.96,
-        7408.3,
-        7413.18,
-        7428.78
-      ]
-    },
-    "gold": {
       "dates": [
         "6/16",
         "6/17",
@@ -172,10 +112,75 @@
         "7/23",
         "7/24",
         "7/27",
-        "7/28"
+        "7/28",
+        "7/29"
       ],
       "values": [
-        4330.9,
+        7511.35,
+        7420.1,
+        7500.58,
+        7472.79,
+        7365.46,
+        7358.22,
+        7357.49,
+        7354.02,
+        7440.43,
+        7499.36,
+        7483.23,
+        7483.24,
+        7537.43,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15
+      ]
+    },
+    "gold": {
+      "dates": [
+        "6/17",
+        "6/18",
+        "6/22",
+        "6/23",
+        "6/24",
+        "6/25",
+        "6/26",
+        "6/29",
+        "6/30",
+        "7/1",
+        "7/2",
+        "7/6",
+        "7/7",
+        "7/8",
+        "7/9",
+        "7/10",
+        "7/13",
+        "7/14",
+        "7/15",
+        "7/16",
+        "7/17",
+        "7/20",
+        "7/21",
+        "7/22",
+        "7/23",
+        "7/24",
+        "7/27",
+        "7/28",
+        "7/29"
+      ],
+      "values": [
         4358.9,
         4224.1,
         4181.9,
@@ -203,12 +208,12 @@
         4046.6,
         4067.6,
         4074.5,
-        4028.8
+        4036.3,
+        4126.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/17",
         "6/18",
         "6/19",
         "6/22",
@@ -237,10 +242,10 @@
         "7/23",
         "7/24",
         "7/27",
-        "7/28"
+        "7/28",
+        "7/29"
       ],
       "values": [
-        160.42,
         160.6,
         161.29,
         161.43,
@@ -269,12 +274,12 @@
         163.08,
         163.83,
         163.61,
-        163.8
+        163.77,
+        163.39
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/15",
         "6/16",
         "6/17",
         "6/18",
@@ -303,10 +308,10 @@
         "7/23",
         "7/24",
         "7/27",
-        "7/28"
+        "7/28",
+        "7/29"
       ],
       "values": [
-        26683.94,
         26376.34,
         26021.66,
         26517.93,
@@ -335,7 +340,8 @@
         25137.69,
         24975.82,
         24932.08,
-        24876.91
+        24876.91,
+        24442.94
       ]
     }
   }
