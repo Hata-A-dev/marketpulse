@@ -1,90 +1,89 @@
 {
-  "updated_at": "2026-07-29 21:44 UTC",
+  "updated_at": "2026-07-30 21:56 UTC",
   "prices": {
     "sp500": {
-      "price": 7316.15,
-      "change_pct": -1.52
+      "price": 7437.63,
+      "change_pct": 1.66
     },
     "nasdaq": {
-      "price": 24442.94,
-      "change_pct": -1.74
+      "price": 25122.18,
+      "change_pct": 2.78
     },
     "gold": {
-      "price": 4126.0,
-      "change_pct": 2.22
+      "price": 4162.8,
+      "change_pct": 3.17
     },
     "usdjpy": {
-      "price": 163.39,
-      "change_pct": -0.23
+      "price": 159.59,
+      "change_pct": -2.61
     },
     "vix": {
-      "price": 20.66,
-      "change_pct": 13.45
+      "price": 17.09,
+      "change_pct": -17.28
     },
     "usbond": {
-      "price": 4.62,
-      "change_pct": 0.43
+      "price": 4.66,
+      "change_pct": 0.87
     },
     "btc": {
-      "price": 63495.0,
-      "change_pct": -0.59
+      "price": 64660.0,
+      "change_pct": 1.18
     }
   },
   "news": [
     {
-      "title": "Nasdaq-100 slides into correction as global chip and memory stocks sell off - NBC News",
+      "title": "Dow drops over 1,100 points as sinking tech stocks combine with jumping oil prices to drag markets down",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184740302"
+      "url": "https://fortune.com/2026/07/29/dow-drops-over-1100-points-as-sinking-tech-stocks-combine-with-jumping-oil-prices-to-drag-markets-down/"
     },
     {
-      "title": "Wall Street's Move Away From AI Accelerates",
+      "title": "Dow Dives 1.1K Points After Fed Decision",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/393676/wall-streets-move-away-from-ai-accelerates.html"
+      "url": "https://www.newser.com/story/393746/dow-dives-11k-points-after-fed-decision.html"
     },
     {
-      "title": "Hoskinson Says Cardano Could Unlock Bitcoin’s Next Major Growth Opportunity",
+      "title": "Robinhood posts record quarter as crypto revenue slides 38%",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/hoskinson-says-cardano-could-unlock-bitcoins-next-major-growth-opportunity/"
+      "url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides"
     },
     {
-      "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
+      "title": "Robinhood posts record quarter, but crypto revenue slides 38%",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps"
+      "url": "https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides"
     },
     {
-      "title": "First Quantum Minerals Reports Second Quarter 2026 Results",
+      "title": "Trump Announces Another Renovation Project in the Middle of a War",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334806/0/en/First-Quantum-Minerals-Reports-Second-Quarter-2026-Results.html"
+      "url": "https://newrepublic.com/post/213703/trump-renovation-dulles-airport"
     },
     {
-      "title": "Ghana allocates $429M to boost foreign-exchange reserves through gold purchases",
+      "title": "Austerity Breeds Financial Protectionism",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/ghana-429m-gold-reserves-allocation/"
+      "url": "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/"
     },
     {
-      "title": "PREVIEW: Fed seen holding rates steady",
+      "title": "Fed Holds Rates Steady but Three Officials Vote for Increase - WSJ",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/3cf18ede3fbf15b2"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184755886"
     },
     {
-      "title": "Sound Financial Bancorp, Inc. Q2 2026 Results",
+      "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334845/20398/en/Sound-Financial-Bancorp-Inc-Q2-2026-Results.html"
+      "url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/16",
         "6/17",
         "6/18",
         "6/22",
@@ -113,10 +112,10 @@
         "7/24",
         "7/27",
         "7/28",
-        "7/29"
+        "7/29",
+        "7/30"
       ],
       "values": [
-        7511.35,
         7420.1,
         7500.58,
         7472.79,
@@ -145,12 +144,12 @@
         7411.98,
         7413.18,
         7428.78,
-        7316.15
+        7316.15,
+        7437.63
       ]
     },
     "gold": {
       "dates": [
-        "6/17",
         "6/18",
         "6/22",
         "6/23",
@@ -178,10 +177,10 @@
         "7/24",
         "7/27",
         "7/28",
-        "7/29"
+        "7/29",
+        "7/30"
       ],
       "values": [
-        4358.9,
         4224.1,
         4181.9,
         4129.9,
@@ -209,12 +208,12 @@
         4067.6,
         4074.5,
         4036.3,
-        4126.0
+        4034.7,
+        4162.8
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/18",
         "6/19",
         "6/22",
         "6/23",
@@ -243,10 +242,10 @@
         "7/24",
         "7/27",
         "7/28",
-        "7/29"
+        "7/29",
+        "7/30"
       ],
       "values": [
-        160.6,
         161.29,
         161.43,
         161.57,
@@ -275,12 +274,12 @@
         163.83,
         163.61,
         163.77,
-        163.39
+        163.86,
+        159.62
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/16",
         "6/17",
         "6/18",
         "6/22",
@@ -309,10 +308,10 @@
         "7/24",
         "7/27",
         "7/28",
-        "7/29"
+        "7/29",
+        "7/30"
       ],
       "values": [
-        26376.34,
         26021.66,
         26517.93,
         26166.6,
@@ -341,7 +340,8 @@
         24975.82,
         24932.08,
         24876.91,
-        24442.94
+        24442.94,
+        25122.18
       ]
     }
   }
