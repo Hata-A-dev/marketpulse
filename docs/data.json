@@ -1,90 +1,83 @@
 {
-  "updated_at": "2026-07-30 21:56 UTC",
+  "updated_at": "2026-07-31 21:54 UTC",
   "prices": {
     "sp500": {
-      "price": 7437.63,
-      "change_pct": 1.66
+      "price": 7489.72,
+      "change_pct": 0.7
     },
     "nasdaq": {
-      "price": 25122.18,
-      "change_pct": 2.78
+      "price": 25373.85,
+      "change_pct": 1.0
     },
     "gold": {
-      "price": 4162.8,
-      "change_pct": 3.17
+      "price": 4098.6,
+      "change_pct": -0.04
     },
     "usdjpy": {
-      "price": 159.59,
-      "change_pct": -2.61
+      "price": 157.4,
+      "change_pct": -1.74
     },
     "vix": {
-      "price": 17.09,
-      "change_pct": -17.28
+      "price": 15.99,
+      "change_pct": -6.44
     },
     "usbond": {
-      "price": 4.66,
-      "change_pct": 0.87
+      "price": 4.74,
+      "change_pct": 1.72
     },
     "btc": {
-      "price": 64660.0,
-      "change_pct": 1.18
+      "price": 62931.0,
+      "change_pct": -2.77
     }
   },
   "news": [
     {
-      "title": "Dow drops over 1,100 points as sinking tech stocks combine with jumping oil prices to drag markets down",
+      "title": "Live: US stocks lift and ASX 200 set to follow",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/07/29/dow-drops-over-1100-points-as-sinking-tech-stocks-combine-with-jumping-oil-prices-to-drag-markets-down/"
+      "url": "https://www.abc.net.au/news/2026-07-31/asx-markets-business-live-news-31-july-2026/104556762"
     },
     {
-      "title": "Dow Dives 1.1K Points After Fed Decision",
+      "title": "Wynn Resorts Takes Over #488 Spot From Universal Health Services",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/393746/dow-dives-11k-points-after-fed-decision.html"
+      "url": "https://www.nasdaq.com/articles/wynn-resorts-takes-over-488-spot-universal-health-services"
     },
     {
-      "title": "Robinhood posts record quarter as crypto revenue slides 38%",
+      "title": "Robinhood CEO says event markets are the firm’s fastest-growing unit",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides"
+      "url": "https://financialpost.com/fp-finance/cryptocurrency/robinhood-ceo-says-event-markets-fastest-growing-unit"
     },
     {
-      "title": "Robinhood posts record quarter, but crypto revenue slides 38%",
+      "title": "Bitcoin struggles to turn US GDP miss into bullish catalyst as strong spending backs Fed caution",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides"
+      "url": "https://cryptoslate.com/bitcoin-struggles-to-turn-us-gdp-miss-into-bullish-catalyst-as-strong-spending-backs-fed-caution/"
     },
     {
-      "title": "Trump Announces Another Renovation Project in the Middle of a War",
+      "title": "Council charges couples 'Noosa tax' to marry by the beach",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://newrepublic.com/post/213703/trump-renovation-dulles-airport"
+      "url": "https://www.abc.net.au/news/2026-07-31/couples-claim-council-charging-noosa-tax-for-beach-weddings/106948582"
     },
     {
-      "title": "Austerity Breeds Financial Protectionism",
+      "title": "This history of currencies suggests the US dollar’s dominance may fade – but it will happen slowly",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://theloop.ecpr.eu/who-the-welfare-state-protects-shapes-a-countrys-financial-openness/"
+      "url": "https://theconversation.com/this-history-of-currencies-suggests-the-us-dollars-dominance-may-fade-but-it-will-happen-slowly-287572"
     },
     {
-      "title": "Fed Holds Rates Steady but Three Officials Vote for Increase - WSJ",
+      "title": "Wall Street ends sharply higher, lifted by soaring Microsoft",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184755886"
-    },
-    {
-      "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html"
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-sharply-higher-lifted-by-soaring-microsoft"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/17",
         "6/18",
         "6/22",
         "6/23",
@@ -113,10 +106,10 @@
         "7/27",
         "7/28",
         "7/29",
-        "7/30"
+        "7/30",
+        "7/31"
       ],
       "values": [
-        7420.1,
         7500.58,
         7472.79,
         7365.46,
@@ -145,12 +138,12 @@
         7413.18,
         7428.78,
         7316.15,
-        7437.63
+        7437.63,
+        7489.72
       ]
     },
     "gold": {
       "dates": [
-        "6/18",
         "6/22",
         "6/23",
         "6/24",
@@ -178,10 +171,10 @@
         "7/27",
         "7/28",
         "7/29",
-        "7/30"
+        "7/30",
+        "7/31"
       ],
       "values": [
-        4224.1,
         4181.9,
         4129.9,
         3990.3,
@@ -209,13 +202,12 @@
         4074.5,
         4036.3,
         4034.7,
-        4162.8
+        4100.1,
+        4098.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/19",
-        "6/22",
         "6/23",
         "6/24",
         "6/25",
@@ -243,11 +235,11 @@
         "7/27",
         "7/28",
         "7/29",
-        "7/30"
+        "7/30",
+        "7/31",
+        "8/1"
       ],
       "values": [
-        161.29,
-        161.43,
         161.57,
         161.6,
         161.76,
@@ -275,12 +267,13 @@
         163.61,
         163.77,
         163.86,
-        159.62
+        163.3,
+        160.18,
+        157.4
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/17",
         "6/18",
         "6/22",
         "6/23",
@@ -309,10 +302,10 @@
         "7/27",
         "7/28",
         "7/29",
-        "7/30"
+        "7/30",
+        "7/31"
       ],
       "values": [
-        26021.66,
         26517.93,
         26166.6,
         25587.04,
@@ -341,7 +334,8 @@
         24932.08,
         24876.91,
         24442.94,
-        25122.18
+        25122.18,
+        25373.85
       ]
     }
   }
