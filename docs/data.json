@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 21:54 UTC",
+  "updated_at": "2026-08-01 21:42 UTC",
   "prices": {
     "sp500": {
       "price": 7489.72,
@@ -10,8 +10,8 @@
       "change_pct": 1.0
     },
     "gold": {
-      "price": 4098.6,
-      "change_pct": -0.04
+      "price": 4049.1,
+      "change_pct": -1.24
     },
     "usdjpy": {
       "price": 157.4,
@@ -26,52 +26,52 @@
       "change_pct": 1.72
     },
     "btc": {
-      "price": 62931.0,
-      "change_pct": -2.77
+      "price": 62720.0,
+      "change_pct": -0.15
     }
   },
   "news": [
     {
-      "title": "Live: US stocks lift and ASX 200 set to follow",
+      "title": "Stock Market Today: Dow Slips; Bond Selloff Picks Up; Apple, Roblox in Focus — Live Updates - WSJ",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-07-31/asx-markets-business-live-news-31-july-2026/104556762"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184794030"
     },
     {
-      "title": "Wynn Resorts Takes Over #488 Spot From Universal Health Services",
+      "title": "ADI Global Distribution to replace Hertz in S&P 600 at open on 8/5",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.nasdaq.com/articles/wynn-resorts-takes-over-488-spot-universal-health-services"
+      "url": "https://www.thefly.com/adig"
     },
     {
-      "title": "Robinhood CEO says event markets are the firm’s fastest-growing unit",
+      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://financialpost.com/fp-finance/cryptocurrency/robinhood-ceo-says-event-markets-fastest-growing-unit"
+      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/"
     },
     {
-      "title": "Bitcoin struggles to turn US GDP miss into bullish catalyst as strong spending backs Fed caution",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://cryptoslate.com/bitcoin-struggles-to-turn-us-gdp-miss-into-bullish-catalyst-as-strong-spending-backs-fed-caution/"
-    },
-    {
-      "title": "Council charges couples 'Noosa tax' to marry by the beach",
+      "title": "'Granite City' Aberdeen once boasted Britain's biggest concentration of millionaires...now the former boom town is being abandoned by BP in a fresh setback",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-07-31/couples-claim-council-charging-noosa-tax-for-beach-weddings/106948582"
+      "url": "https://www.dailymail.com/news/article-16019093/Granite-City-Aberdeen-former-boom-town-BP-abandoned.html"
     },
     {
-      "title": "This history of currencies suggests the US dollar’s dominance may fade – but it will happen slowly",
+      "title": "End of an area as BP logo to vanish from the North Sea after sixty years",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://theconversation.com/this-history-of-currencies-suggests-the-us-dollars-dominance-may-fade-but-it-will-happen-slowly-287572"
+      "url": "https://www.dailymail.com/news/article-16020599/End-area-BP-logo-vanish-North-Sea-sixty-years.html"
     },
     {
-      "title": "Wall Street ends sharply higher, lifted by soaring Microsoft",
+      "title": "US Treasury yield curve twist suggests potential Fed rate hike pause",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-sharply-higher-lifted-by-soaring-microsoft"
+      "url": "https://cryptobriefing.com/us-treasury-yield-curve-twist-suggests-potential-fed-rate-hike-pause/"
+    },
+    {
+      "title": "Fed dissenters warn inflation could become entrenched without monetary policy tightening now",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://biztoc.com/x/80b542f11e23e185"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -203,7 +203,7 @@
         4036.3,
         4034.7,
         4100.1,
-        4098.6
+        4049.1
       ]
     },
     "usdjpy": {
