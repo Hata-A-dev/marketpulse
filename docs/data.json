@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01 21:42 UTC",
+  "updated_at": "2026-08-02 21:42 UTC",
   "prices": {
     "sp500": {
       "price": 7489.72,
@@ -9,13 +9,9 @@
       "price": 25373.85,
       "change_pct": 1.0
     },
-    "gold": {
-      "price": 4049.1,
-      "change_pct": -1.24
-    },
     "usdjpy": {
-      "price": 157.4,
-      "change_pct": -1.74
+      "price": 157.45,
+      "change_pct": -1.7
     },
     "vix": {
       "price": 15.99,
@@ -26,52 +22,58 @@
       "change_pct": 1.72
     },
     "btc": {
-      "price": 62720.0,
-      "change_pct": -0.15
+      "price": 63555.0,
+      "change_pct": 1.26
     }
   },
   "news": [
     {
-      "title": "Stock Market Today: Dow Slips; Bond Selloff Picks Up; Apple, Roblox in Focus — Live Updates - WSJ",
+      "title": "The Momentum Crash: Is It Over?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184794030"
+      "url": "https://realinvestmentadvice.com/resources/blog/the-momentum-crash-is-it-over/"
     },
     {
-      "title": "ADI Global Distribution to replace Hertz in S&P 600 at open on 8/5",
+      "title": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.thefly.com/adig"
+      "url": "https://biztoc.com/x/874c83a09ce59ea3"
     },
     {
-      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
+      "title": "Analyst Confirms Bitcoin’s Golden Cross as BTC Holds Above $62,000 Support; Is a Breakout Coming?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/"
+      "url": "https://zycrypto.com/analyst-confirms-bitcoins-golden-cross-as-btc-holds-above-62000-support-is-a-breakout-coming/"
     },
     {
-      "title": "'Granite City' Aberdeen once boasted Britain's biggest concentration of millionaires...now the former boom town is being abandoned by BP in a fresh setback",
+      "title": "Russia Passes Landmark Crypto Law, Setting State-Run Rails for Sanctioned Trade",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://www.activistpost.com/russia-passes-landmark-crypto-law-setting-state-run-rails-for-sanctioned-trade/"
+    },
+    {
+      "title": "Economic Digest: A Snapshot of Nepal’s Business News",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.dailymail.com/news/article-16019093/Granite-City-Aberdeen-former-boom-town-BP-abandoned.html"
+      "url": "https://english.khabarhub.com/2026/01/561286/"
     },
     {
-      "title": "End of an area as BP logo to vanish from the North Sea after sixty years",
+      "title": "Dollar Finds Support on Higher T-Note Yields",
       "tag": "金",
-      "ago": "1日前",
-      "url": "https://www.dailymail.com/news/article-16020599/End-area-BP-logo-vanish-North-Sea-sixty-years.html"
+      "ago": "2日前",
+      "url": "https://www.barchart.com/story/news/3583741/dollar-finds-support-on-higher-t-note-yields"
     },
     {
-      "title": "US Treasury yield curve twist suggests potential Fed rate hike pause",
+      "title": "America In Focus: US economy expands at sluggish pace, mortgage rate hit the highest level in a year",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-treasury-yield-curve-twist-suggests-potential-fed-rate-hike-pause/"
+      "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-fed-mortgage-5d007b238c423f27ced307ea145400f4"
     },
     {
-      "title": "Fed dissenters warn inflation could become entrenched without monetary policy tightening now",
+      "title": "If the Fed trusts this single 2.2% metric, Bitcoin could break $65.3k and ignite a path to $68k",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/80b542f11e23e185"
+      "url": "https://cryptoslate.com/?p=551376"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -203,7 +205,7 @@
         4036.3,
         4034.7,
         4100.1,
-        4049.1
+        4107.0
       ]
     },
     "usdjpy": {
@@ -237,7 +239,7 @@
         "7/29",
         "7/30",
         "7/31",
-        "8/1"
+        "8/2"
       ],
       "values": [
         161.57,
@@ -269,7 +271,7 @@
         163.86,
         163.3,
         160.18,
-        157.4
+        157.45
       ]
     },
     "nasdaq": {
