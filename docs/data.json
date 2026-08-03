@@ -1,86 +1,79 @@
 {
-  "updated_at": "2026-08-02 21:42 UTC",
+  "updated_at": "2026-08-03 21:56 UTC",
   "prices": {
     "sp500": {
-      "price": 7489.72,
-      "change_pct": 0.7
+      "price": 7600.5,
+      "change_pct": 1.48
     },
     "nasdaq": {
-      "price": 25373.85,
-      "change_pct": 1.0
+      "price": 25913.9,
+      "change_pct": 2.13
     },
     "usdjpy": {
-      "price": 157.45,
-      "change_pct": -1.7
+      "price": 157.18,
+      "change_pct": -1.87
     },
     "vix": {
-      "price": 15.99,
-      "change_pct": -6.44
+      "price": 15.86,
+      "change_pct": -0.81
     },
     "usbond": {
-      "price": 4.74,
-      "change_pct": 1.72
+      "price": 4.69,
+      "change_pct": -1.05
     },
     "btc": {
-      "price": 63555.0,
-      "change_pct": 1.26
+      "price": 63522.0,
+      "change_pct": 0.06
     }
   },
   "news": [
     {
-      "title": "The Momentum Crash: Is It Over?",
+      "title": "If I Could Tell Every Investor 1 Thing About Building Lasting Wealth in the Stock Market, It's This",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://realinvestmentadvice.com/resources/blog/the-momentum-crash-is-it-over/"
+      "url": "https://biztoc.com/x/8bd31d07fd3334b7"
     },
     {
-      "title": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates",
+      "title": "I'm 35 and just started earning a decent salary for the first time...how can I take $150k a year and turn it into a net worth of a million?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/874c83a09ce59ea3"
+      "url": "https://www.dailymail.com/yourmoney/article-15644393/high-salary-big-goals-make-one-million-dollars.html"
     },
     {
-      "title": "Analyst Confirms Bitcoin’s Golden Cross as BTC Holds Above $62,000 Support; Is a Breakout Coming?",
+      "title": "Coldcard Wallet Attack Losses Approach $89 Million",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/analyst-confirms-bitcoins-golden-cross-as-btc-holds-above-62000-support-is-a-breakout-coming/"
+      "url": "https://www.pymnts.com/cybersecurity/2026/coldcard-wallet-attack-losses-approach-89-million/"
     },
     {
-      "title": "Russia Passes Landmark Crypto Law, Setting State-Run Rails for Sanctioned Trade",
+      "title": "Bitcoin Price Prediction: What Price Will BTC Hit in August?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.activistpost.com/russia-passes-landmark-crypto-law-setting-state-run-rails-for-sanctioned-trade/"
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/02/bitcoin-price-prediction-what-price-will-btc-hit-in-august/"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal’s Business News",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/01/561286/"
+      "url": "https://english.khabarhub.com/2026/02/561492/"
     },
     {
-      "title": "Dollar Finds Support on Higher T-Note Yields",
+      "title": "Trump’s legal loophole around the Supreme Court is keeping inflation alive – and trapping Bitcoin in the Fed’s crosshairs",
       "tag": "金",
-      "ago": "2日前",
-      "url": "https://www.barchart.com/story/news/3583741/dollar-finds-support-on-higher-t-note-yields"
+      "ago": "1日前",
+      "url": "https://cryptoslate.com/trumps-legal-loophole-around-the-supreme-court-is-keeping-inflation-alive-and-trapping-bitcoin-in-the-feds-crosshairs/"
     },
     {
-      "title": "America In Focus: US economy expands at sluggish pace, mortgage rate hit the highest level in a year",
+      "title": "'Are you kidding me?' Ex-Trump aide blasts economic 'slap in the face'",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://apnews.com/article/inflation-economy-iran-trump-unemployment-fed-mortgage-5d007b238c423f27ced307ea145400f4"
-    },
-    {
-      "title": "If the Fed trusts this single 2.2% metric, Bitcoin could break $65.3k and ignite a path to $68k",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://cryptoslate.com/?p=551376"
+      "url": "https://www.rawstory.com/trump-economy-2677647705/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/18",
         "6/22",
         "6/23",
         "6/24",
@@ -109,10 +102,10 @@
         "7/28",
         "7/29",
         "7/30",
-        "7/31"
+        "7/31",
+        "8/3"
       ],
       "values": [
-        7500.58,
         7472.79,
         7365.46,
         7358.22,
@@ -141,12 +134,12 @@
         7428.78,
         7316.15,
         7437.63,
-        7489.72
+        7489.72,
+        7600.5
       ]
     },
     "gold": {
       "dates": [
-        "6/22",
         "6/23",
         "6/24",
         "6/25",
@@ -174,10 +167,10 @@
         "7/28",
         "7/29",
         "7/30",
-        "7/31"
+        "7/31",
+        "8/3"
       ],
       "values": [
-        4181.9,
         4129.9,
         3990.3,
         4030.5,
@@ -205,7 +198,8 @@
         4036.3,
         4034.7,
         4100.1,
-        4107.0
+        4049.1,
+        4110.9
       ]
     },
     "usdjpy": {
@@ -239,7 +233,7 @@
         "7/29",
         "7/30",
         "7/31",
-        "8/2"
+        "8/3"
       ],
       "values": [
         161.57,
@@ -271,12 +265,11 @@
         163.86,
         163.3,
         160.18,
-        157.45
+        157.18
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/18",
         "6/22",
         "6/23",
         "6/24",
@@ -305,10 +298,10 @@
         "7/28",
         "7/29",
         "7/30",
-        "7/31"
+        "7/31",
+        "8/3"
       ],
       "values": [
-        26517.93,
         26166.6,
         25587.04,
         25476.64,
@@ -337,7 +330,8 @@
         24876.91,
         24442.94,
         25122.18,
-        25373.85
+        25373.85,
+        25913.9
       ]
     }
   }
