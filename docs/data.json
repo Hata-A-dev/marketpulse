@@ -1,80 +1,89 @@
 {
-  "updated_at": "2026-08-03 21:56 UTC",
+  "updated_at": "2026-08-04 22:02 UTC",
   "prices": {
     "sp500": {
-      "price": 7600.5,
-      "change_pct": 1.48
+      "price": 7736.52,
+      "change_pct": 1.79
     },
     "nasdaq": {
-      "price": 25913.9,
-      "change_pct": 2.13
+      "price": 26584.99,
+      "change_pct": 2.59
+    },
+    "gold": {
+      "price": 4134.2,
+      "change_pct": 2.49
     },
     "usdjpy": {
-      "price": 157.18,
-      "change_pct": -1.87
+      "price": 157.71,
+      "change_pct": 0.08
     },
     "vix": {
-      "price": 15.86,
-      "change_pct": -0.81
+      "price": 16.5,
+      "change_pct": 4.04
     },
     "usbond": {
-      "price": 4.69,
-      "change_pct": -1.05
+      "price": 4.63,
+      "change_pct": -1.28
     },
     "btc": {
-      "price": 63522.0,
-      "change_pct": 0.06
+      "price": 64115.0,
+      "change_pct": 1.03
     }
   },
   "news": [
     {
-      "title": "If I Could Tell Every Investor 1 Thing About Building Lasting Wealth in the Stock Market, It's This",
+      "title": "Falling oil prices help calm worries about inflation, and Wall Street rallies - apnews.com",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/8bd31d07fd3334b7"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184833552"
     },
     {
-      "title": "I'm 35 and just started earning a decent salary for the first time...how can I take $150k a year and turn it into a net worth of a million?",
+      "title": "Wall Street rallies to kick off August on Iran talks optimism - reuters.com",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.dailymail.com/yourmoney/article-15644393/high-salary-big-goals-make-one-million-dollars.html"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184833348"
     },
     {
-      "title": "Coldcard Wallet Attack Losses Approach $89 Million",
+      "title": "FBI Agent Arrested After Allegedly Looting Up to $1,000,000 in Crypto From ‘Adversarial’ Wallets",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.pymnts.com/cybersecurity/2026/coldcard-wallet-attack-losses-approach-89-million/"
+      "url": "https://dailyhodl.com/2026/08/03/fbi-agent-arrested-after-allegedly-looting-up-to-1000000-in-crypto-from-adversarial-wallets/"
     },
     {
-      "title": "Bitcoin Price Prediction: What Price Will BTC Hit in August?",
+      "title": "Michael Saylor’s Strategy Resumes Bitcoin Sales, Hawking $105,000,000 Worth of BTC",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/02/bitcoin-price-prediction-what-price-will-btc-hit-in-august/"
+      "url": "https://dailyhodl.com/2026/08/03/michael-saylors-strategy-resumes-bitcoin-sales-hawking-105000000-worth-of-btc/"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "Advantage Does Not Equal Victory | Sinification: July 2026",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/02/561492/"
+      "url": "https://sinocism.com/p/advantage-does-not-equal-victory"
     },
     {
-      "title": "Trump’s legal loophole around the Supreme Court is keeping inflation alive – and trapping Bitcoin in the Fed’s crosshairs",
+      "title": "Finding The Right Speech Therapy Support Starts With Understanding Your Options",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/trumps-legal-loophole-around-the-supreme-court-is-keeping-inflation-alive-and-trapping-bitcoin-in-the-feds-crosshairs/"
+      "url": "https://addicted2success.com/change-your-mindest/understanding-speech-therapy-support-options/"
     },
     {
-      "title": "'Are you kidding me?' Ex-Trump aide blasts economic 'slap in the face'",
+      "title": "TETRA TECHNOLOGIES, INC. REPORTS STRONG SECOND-QUARTER 2026 RESULTS",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.rawstory.com/trump-economy-2677647705/"
+      "url": "https://www.prnewswire.com/news-releases/tetra-technologies-inc-reports-strong-second-quarter-2026-results-302841679.html"
+    },
+    {
+      "title": "Oil slides as Trump delays Iran strikes, signals peace talks",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://biztoc.com/x/3eabf32457c9860d"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/22",
         "6/23",
         "6/24",
         "6/25",
@@ -103,10 +112,10 @@
         "7/29",
         "7/30",
         "7/31",
-        "8/3"
+        "8/3",
+        "8/4"
       ],
       "values": [
-        7472.79,
         7365.46,
         7358.22,
         7357.49,
@@ -135,12 +144,12 @@
         7316.15,
         7437.63,
         7489.72,
-        7600.5
+        7600.5,
+        7736.52
       ]
     },
     "gold": {
       "dates": [
-        "6/23",
         "6/24",
         "6/25",
         "6/26",
@@ -168,10 +177,10 @@
         "7/29",
         "7/30",
         "7/31",
-        "8/3"
+        "8/3",
+        "8/4"
       ],
       "values": [
-        4129.9,
         3990.3,
         4030.5,
         4078.7,
@@ -199,12 +208,12 @@
         4034.7,
         4100.1,
         4049.1,
-        4110.9
+        4033.7,
+        4134.2
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/23",
         "6/24",
         "6/25",
         "6/26",
@@ -233,10 +242,10 @@
         "7/29",
         "7/30",
         "7/31",
-        "8/3"
+        "8/3",
+        "8/4"
       ],
       "values": [
-        161.57,
         161.6,
         161.76,
         161.8,
@@ -265,12 +274,12 @@
         163.86,
         163.3,
         160.18,
-        157.18
+        157.58,
+        157.74
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/22",
         "6/23",
         "6/24",
         "6/25",
@@ -299,10 +308,10 @@
         "7/29",
         "7/30",
         "7/31",
-        "8/3"
+        "8/3",
+        "8/4"
       ],
       "values": [
-        26166.6,
         25587.04,
         25476.64,
         25358.6,
@@ -331,7 +340,8 @@
         24442.94,
         25122.18,
         25373.85,
-        25913.9
+        25913.9,
+        26584.99
       ]
     }
   }
