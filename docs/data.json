@@ -1,90 +1,83 @@
 {
-  "updated_at": "2026-08-04 22:02 UTC",
+  "updated_at": "2026-08-05 22:03 UTC",
   "prices": {
     "sp500": {
-      "price": 7736.52,
-      "change_pct": 1.79
+      "price": 7723.55,
+      "change_pct": -0.17
     },
     "nasdaq": {
-      "price": 26584.99,
-      "change_pct": 2.59
+      "price": 26363.44,
+      "change_pct": -0.83
     },
     "gold": {
-      "price": 4134.2,
-      "change_pct": 2.49
+      "price": 4308.0,
+      "change_pct": 5.19
     },
     "usdjpy": {
-      "price": 157.71,
-      "change_pct": 0.08
+      "price": 157.67,
+      "change_pct": 0.09
     },
     "vix": {
-      "price": 16.5,
-      "change_pct": 4.04
+      "price": 15.81,
+      "change_pct": -4.18
     },
     "usbond": {
-      "price": 4.63,
-      "change_pct": -1.28
+      "price": 4.62,
+      "change_pct": -0.22
     },
     "btc": {
-      "price": 64115.0,
-      "change_pct": 1.03
+      "price": 64601.0,
+      "change_pct": 0.85
     }
   },
   "news": [
     {
-      "title": "Falling oil prices help calm worries about inflation, and Wall Street rallies - apnews.com",
+      "title": "Palantir Leads the Way as Wall Street Hits New Records",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184833552"
+      "url": "https://www.newser.com/story/394077/palantir-leads-the-way-as-wall-street-hits-new-records.html"
     },
     {
-      "title": "Wall Street rallies to kick off August on Iran talks optimism - reuters.com",
+      "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184833348"
+      "url": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html"
     },
     {
-      "title": "FBI Agent Arrested After Allegedly Looting Up to $1,000,000 in Crypto From ‘Adversarial’ Wallets",
+      "title": "Trump-Linked Bitcoin Venture Reached $2.5 Million Settlement Over Improperly Obtained Loan Allegation",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/08/03/fbi-agent-arrested-after-allegedly-looting-up-to-1000000-in-crypto-from-adversarial-wallets/"
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/04/trump-linked-bitcoin-venture-reached-25-million-settlement-over-improperly-obtained-loan-allegation/"
     },
     {
-      "title": "Michael Saylor’s Strategy Resumes Bitcoin Sales, Hawking $105,000,000 Worth of BTC",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/08/03/michael-saylors-strategy-resumes-bitcoin-sales-hawking-105000000-worth-of-btc/"
-    },
-    {
-      "title": "Advantage Does Not Equal Victory | Sinification: July 2026",
+      "title": "Declining imports compress US trade deficit in June",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://sinocism.com/p/advantage-does-not-equal-victory"
+      "url": "https://finance.yahoo.com/economy/policy/articles/declining-imports-compress-us-trade-143811299.html"
     },
     {
-      "title": "Finding The Right Speech Therapy Support Starts With Understanding Your Options",
+      "title": "America’s Cosmic Bet on AI",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://addicted2success.com/change-your-mindest/understanding-speech-therapy-support-options/"
+      "url": "http://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/"
     },
     {
-      "title": "TETRA TECHNOLOGIES, INC. REPORTS STRONG SECOND-QUARTER 2026 RESULTS",
+      "title": "Fighting Gravity in Tokyo",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/tetra-technologies-inc-reports-strong-second-quarter-2026-results-302841679.html"
+      "url": "https://dailyreckoning.com/fighting-gravity-in-tokyo/"
     },
     {
-      "title": "Oil slides as Trump delays Iran strikes, signals peace talks",
+      "title": "Live: ASX to rise after Trump official says deal with Iran may happen 'tomorrow'",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/3eabf32457c9860d"
+      "url": "https://www.abc.net.au/news/2026-08-05/asx-markets-business-live-news/106997660"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/23",
         "6/24",
         "6/25",
         "6/26",
@@ -113,10 +106,10 @@
         "7/30",
         "7/31",
         "8/3",
-        "8/4"
+        "8/4",
+        "8/5"
       ],
       "values": [
-        7365.46,
         7358.22,
         7357.49,
         7354.02,
@@ -145,12 +138,12 @@
         7437.63,
         7489.72,
         7600.5,
-        7736.52
+        7736.52,
+        7723.55
       ]
     },
     "gold": {
       "dates": [
-        "6/24",
         "6/25",
         "6/26",
         "6/29",
@@ -178,10 +171,10 @@
         "7/30",
         "7/31",
         "8/3",
-        "8/4"
+        "8/4",
+        "8/5"
       ],
       "values": [
-        3990.3,
         4030.5,
         4078.7,
         4022.3,
@@ -209,12 +202,12 @@
         4100.1,
         4049.1,
         4033.7,
-        4134.2
+        4095.4,
+        4308.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/24",
         "6/25",
         "6/26",
         "6/29",
@@ -243,10 +236,10 @@
         "7/30",
         "7/31",
         "8/3",
-        "8/4"
+        "8/4",
+        "8/5"
       ],
       "values": [
-        161.6,
         161.76,
         161.8,
         161.79,
@@ -275,12 +268,12 @@
         163.3,
         160.18,
         157.58,
-        157.74
+        157.53,
+        157.67
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/23",
         "6/24",
         "6/25",
         "6/26",
@@ -309,10 +302,10 @@
         "7/30",
         "7/31",
         "8/3",
-        "8/4"
+        "8/4",
+        "8/5"
       ],
       "values": [
-        25587.04,
         25476.64,
         25358.6,
         25297.62,
@@ -341,7 +334,8 @@
         25122.18,
         25373.85,
         25913.9,
-        26584.99
+        26584.99,
+        26363.44
       ]
     }
   }
