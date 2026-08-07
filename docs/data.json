@@ -1,84 +1,86 @@
 {
-  "updated_at": "2026-08-05 22:03 UTC",
+  "updated_at": "2026-08-07 00:58 UTC",
   "prices": {
     "sp500": {
-      "price": 7723.55,
-      "change_pct": -0.17
+      "price": 7709.96,
+      "change_pct": -0.18
     },
     "nasdaq": {
-      "price": 26363.44,
-      "change_pct": -0.83
+      "price": 26348.35,
+      "change_pct": -0.06
     },
     "gold": {
-      "price": 4308.0,
-      "change_pct": 5.19
+      "price": 4292.3,
+      "change_pct": 1.1
     },
     "usdjpy": {
-      "price": 157.67,
-      "change_pct": 0.09
+      "price": 158.52,
+      "change_pct": 0.58
     },
     "vix": {
-      "price": 15.81,
-      "change_pct": -4.18
+      "price": 15.15,
+      "change_pct": -4.17
     },
     "usbond": {
-      "price": 4.62,
-      "change_pct": -0.22
+      "price": 4.67,
+      "change_pct": 1.08
     },
-    "btc": {
-      "price": 64601.0,
-      "change_pct": 0.85
-    }
+    "btc": {}
   },
   "news": [
     {
-      "title": "Palantir Leads the Way as Wall Street Hits New Records",
+      "title": "Michael Burry sends loud signal to stock market investors",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/394077/palantir-leads-the-way-as-wall-street-hits-new-records.html"
+      "url": "https://biztoc.com/x/fea5d84a9d600e14"
     },
     {
-      "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/08/04/michael-burry-bets-against-rally-we-are-near-a-major-top.html"
+      "url": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html"
     },
     {
-      "title": "Trump-Linked Bitcoin Venture Reached $2.5 Million Settlement Over Improperly Obtained Loan Allegation",
+      "title": "Putin signs law regulating crypto exchanges, bans domestic crypto payments",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/04/trump-linked-bitcoin-venture-reached-25-million-settlement-over-improperly-obtained-loan-allegation/"
+      "url": "https://cryptobriefing.com/putin-signs-law-regulating-crypto-exchanges-bans-domestic-crypto-payments/"
     },
     {
-      "title": "Declining imports compress US trade deficit in June",
+      "title": "FBI agent accused of stealing $1 million in crypto — and he even consulted ChatGPT on how to leave the country",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://www.techradar.com/pro/fbi-agent-accused-of-stealing-usd1-million-in-crypto-and-he-even-consulted-chatgpt-on-how-to-leave-the-country"
+    },
+    {
+      "title": "THE PRECIOUS METALS EXTINCTION EVENT: When the Last Door Closes for the Middle Class",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/economy/policy/articles/declining-imports-compress-us-trade-143811299.html"
+      "url": "https://www.activistpost.com/the-precious-metals-extinction-event-when-the-last-door-closes-for-the-middle-class/"
     },
     {
-      "title": "America’s Cosmic Bet on AI",
+      "title": "The idea of the ‘company man’ was forged decades ago. Its problems still haunt leaders today",
       "tag": "金",
       "ago": "1日前",
-      "url": "http://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/"
+      "url": "https://theconversation.com/the-idea-of-the-company-man-was-forged-decades-ago-its-problems-still-haunt-leaders-today-288731"
     },
     {
-      "title": "Fighting Gravity in Tokyo",
+      "title": "Gold Extends Gain as Hormuz Deal Progress Lowers Rate-Hike Odds",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://dailyreckoning.com/fighting-gravity-in-tokyo/"
+      "url": "https://financialpost.com/pmn/business-pmn/gold-extends-gain-as-hormuz-deal-progress-lowers-rate-hike-odds"
     },
     {
-      "title": "Live: ASX to rise after Trump official says deal with Iran may happen 'tomorrow'",
+      "title": "Fed’s Daly: Tariff-driven inflation pressures showing signs of easing",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-08-05/asx-markets-business-live-news/106997660"
+      "url": "https://cryptobriefing.com/feds-daly-tariff-driven-inflation-pressures-showing-signs-of-easing/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/24",
         "6/25",
         "6/26",
         "6/29",
@@ -107,10 +109,10 @@
         "7/31",
         "8/3",
         "8/4",
-        "8/5"
+        "8/5",
+        "8/6"
       ],
       "values": [
-        7358.22,
         7357.49,
         7354.02,
         7440.43,
@@ -139,12 +141,12 @@
         7489.72,
         7600.5,
         7736.52,
-        7723.55
+        7723.55,
+        7709.96
       ]
     },
     "gold": {
       "dates": [
-        "6/25",
         "6/26",
         "6/29",
         "6/30",
@@ -172,10 +174,10 @@
         "7/31",
         "8/3",
         "8/4",
-        "8/5"
+        "8/5",
+        "8/6"
       ],
       "values": [
-        4030.5,
         4078.7,
         4022.3,
         4022.9,
@@ -203,13 +205,12 @@
         4049.1,
         4033.7,
         4095.4,
-        4308.0
+        4245.8,
+        4292.3
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/25",
-        "6/26",
         "6/29",
         "6/30",
         "7/1",
@@ -237,11 +238,11 @@
         "7/31",
         "8/3",
         "8/4",
-        "8/5"
+        "8/5",
+        "8/6",
+        "8/7"
       ],
       "values": [
-        161.76,
-        161.8,
         161.79,
         161.92,
         162.63,
@@ -269,12 +270,13 @@
         160.18,
         157.58,
         157.53,
-        157.67
+        157.69,
+        157.6,
+        158.52
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/24",
         "6/25",
         "6/26",
         "6/29",
@@ -303,10 +305,10 @@
         "7/31",
         "8/3",
         "8/4",
-        "8/5"
+        "8/5",
+        "8/6"
       ],
       "values": [
-        25476.64,
         25358.6,
         25297.62,
         25820.14,
@@ -335,7 +337,8 @@
         25373.85,
         25913.9,
         26584.99,
-        26363.44
+        26363.44,
+        26348.35
       ]
     }
   }
