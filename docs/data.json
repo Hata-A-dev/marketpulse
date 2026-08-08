@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07 21:26 UTC",
+  "updated_at": "2026-08-08 21:17 UTC",
   "prices": {
     "sp500": {
       "price": 7757.64,
@@ -10,8 +10,8 @@
       "change_pct": 1.3
     },
     "gold": {
-      "price": 4401.3,
-      "change_pct": 3.76
+      "price": 4340.7,
+      "change_pct": 2.33
     },
     "usdjpy": {
       "price": 157.74,
@@ -26,46 +26,52 @@
       "change_pct": -0.21
     },
     "btc": {
-      "price": 64950.0,
-      "change_pct": 1.07
+      "price": 64990.0,
+      "change_pct": 0.17
     }
   },
   "news": [
     {
-      "title": "Wheaton Precious Metals Announces Second Quarter 2026 Results and Record Year-to-Date Production, Revenue, Earnings and Cash Flow",
+      "title": "Inflation data to test record-setting US stocks, Fed rate views",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/wheaton-precious-metals-announces-second-quarter-2026-results-and-record-year-to-date-production-revenue-earnings-and-cash-flow-302845435.html"
+      "url": "https://biztoc.com/x/b46143a871b2ae69"
     },
     {
-      "title": "Stocks Edge Lower as Oil Prices Resume Rise",
+      "title": "Stocks Jump After Jobs Report",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/394221/stocks-edge-lower-as-oil-prices-resume-rise.html"
+      "url": "https://www.newser.com/story/394300/stocks-jump-after-jobs-report.html"
     },
     {
-      "title": "Ethics deal may force Trump to sell crypto holdings, impacting market",
+      "title": "Bitcoin’s $65K recovery shows its growing immunity to bad news as ETFs and whales buy $2 billion",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/ethics-deal-may-force-trump-to-sell-crypto-holdings-impacting-market/"
+      "url": "https://cryptoslate.com/bitcoins-65k-recovery-shows-its-growing-immunity-to-bad-news-as-etfs-and-whales-buy-2-billion/"
     },
     {
-      "title": "Google says hackers are calling financial firm employees to hack and extort victims | TechCrunch",
+      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/"
+      "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html"
     },
     {
-      "title": "ICF Reports Second Quarter 2026 Results",
+      "title": "The 'bear-hug' American investors smothering London's biggest and best companies | The National",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/icf-reports-second-quarter-2026-results-302845321.html"
+      "url": "https://www.thenationalnews.com/business/uk/2026/08/07/american-investors-uk-companies-london/"
     },
     {
-      "title": "Mercer International Inc. Reports Second Quarter 2026 Results",
+      "title": "US labour market sheds jobs in July as labour force participation slumps",
+      "tag": "金",
+      "ago": "1日前",
+      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps"
+    },
+    {
+      "title": "Trump revives bid to fire Fed Gov. Lisa Cook after Supreme Court setback",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.globenewswire.com/news-release/2026/08/06/3340823/10647/en/Mercer-International-Inc-Reports-Second-Quarter-2026-Results.html"
+      "url": "https://nypost.com/2026/08/07/business/trump-revives-bid-to-fire-fed-gov-lisa-cook-after-supreme-court-setback/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -197,7 +203,7 @@
         4095.4,
         4245.8,
         4242.0,
-        4401.3
+        4340.7
       ]
     },
     "usdjpy": {
