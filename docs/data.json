@@ -1,86 +1,89 @@
 {
-  "updated_at": "2026-08-10 21:29 UTC",
+  "updated_at": "2026-08-11 21:33 UTC",
   "prices": {
     "sp500": {
-      "price": 7753.11,
-      "change_pct": -0.06
-    },
-    "nasdaq": {
-      "price": 26605.36,
+      "price": 7728.2,
       "change_pct": -0.32
     },
+    "nasdaq": {
+      "price": 26445.45,
+      "change_pct": -0.6
+    },
+    "gold": {
+      "price": 4427.8,
+      "change_pct": 1.51
+    },
     "usdjpy": {
-      "price": 159.24,
-      "change_pct": 0.52
-    },
-    "vix": {
-      "price": 15.46,
-      "change_pct": 3.76
-    },
-    "usbond": {
-      "price": 4.7,
+      "price": 159.25,
       "change_pct": 0.86
     },
+    "vix": {
+      "price": 15.28,
+      "change_pct": -1.16
+    },
+    "usbond": {
+      "price": 4.68,
+      "change_pct": -0.43
+    },
     "btc": {
-      "price": 64056.0,
-      "change_pct": -1.22
+      "price": 63591.0,
+      "change_pct": -0.5
     }
   },
   "news": [
     {
-      "title": "Billionaire investor shorting SpaceX says one possible fix won't work",
+      "title": "Global stocks mixed while oil prices jump on Hormuz",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/stocks/spcx-spacex-andersen-capital-management-ceo-peter-andersen-says-tesla-spacex-merger-would-make-situation-more-confusing"
+      "url": "https://www.channelnewsasia.com/world/stocks-mixed-market-oil-prices-hormuz-6310596"
     },
     {
-      "title": "UnitedHealth (UNH) Commits $4M to Tennessee Health Hub Expansion",
+      "title": "Berkshire Hathaway Beats Profit Forecasts",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-commits-4m-tennessee-181302253.html"
+      "url": "https://www.newser.com/story/394404/berkshire-hathaway-beats-profit-forecasts.html"
     },
     {
-      "title": "Senate advances CLARITY Act, Bitcoin price outlook slightly optimistic",
+      "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/senate-advances-clarity-act-bitcoin-price-outlook-slightly-optimistic/"
+      "url": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown"
     },
     {
-      "title": "Michael Saylor Says Bitcoin Doesn’t Need CLARITY Act as Crypto Bill Postponed; Is America Risking Its Digital Asset Hub Position to Asia?",
+      "title": "Crypto Stocks Suffer as Investors Send AI Soaring",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/michael-saylor-says-bitcoin-doesnt-need-clarity-act-as-crypto-bill-postponed-is-america-risking-its-digital-asset-hub-position-to-asia/"
+      "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-stocks-suffer-as-investors-send-ai-soaring/"
     },
     {
-      "title": "Gold and silver begin their move",
+      "title": "The American Empire Was Built on Sand and is Facing a Tsunami",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://freerepublic.com/focus/f-news/4391198/posts"
+      "url": "https://www.globalresearch.ca/american-empire-built-sand-facing-tsunami/5936262"
     },
     {
-      "title": "Jamie Dimon warns US dollar could lose reserve currency status in 25 years",
+      "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/jamie-dimon-warns-us-dollar-could-lose-reserve-currency-status-in-25-years/"
+      "url": "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may"
     },
     {
-      "title": "Yen Unlikely to Repeat 2024 Summer Surge as U.S. Rates Stay High",
+      "title": "Bitcoin traders assess macroeconomic factors for future outlook",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://newsonjapan.com/article/150306.php"
+      "url": "https://cryptobriefing.com/bitcoin-traders-macro-factors-outlook/"
     },
     {
-      "title": "Trump’s $100 billion tariff refund going to big names despite Americans paying higher prices. Can you still get a cut?",
+      "title": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-100-billion-tariff-refund-111500641.html"
+      "url": "https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "6/29",
         "6/30",
         "7/1",
         "7/2",
@@ -109,10 +112,10 @@
         "8/5",
         "8/6",
         "8/7",
-        "8/10"
+        "8/10",
+        "8/11"
       ],
       "values": [
-        7440.43,
         7499.36,
         7483.23,
         7483.24,
@@ -141,12 +144,12 @@
         7723.55,
         7709.96,
         7757.64,
-        7753.11
+        7753.11,
+        7728.2
       ]
     },
     "gold": {
       "dates": [
-        "6/30",
         "7/1",
         "7/2",
         "7/6",
@@ -174,10 +177,10 @@
         "8/5",
         "8/6",
         "8/7",
-        "8/10"
+        "8/10",
+        "8/11"
       ],
       "values": [
-        4022.9,
         4068.3,
         4112.7,
         4155.1,
@@ -205,12 +208,12 @@
         4245.8,
         4242.0,
         4340.7,
-        4448.6
+        4361.8,
+        4427.8
       ]
     },
     "usdjpy": {
       "dates": [
-        "6/30",
         "7/1",
         "7/2",
         "7/3",
@@ -239,10 +242,10 @@
         "8/5",
         "8/6",
         "8/7",
-        "8/10"
+        "8/10",
+        "8/11"
       ],
       "values": [
-        161.92,
         162.63,
         162.54,
         161.45,
@@ -271,12 +274,12 @@
         157.69,
         157.6,
         158.41,
-        159.24
+        157.89,
+        159.25
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/29",
         "6/30",
         "7/1",
         "7/2",
@@ -305,10 +308,10 @@
         "8/5",
         "8/6",
         "8/7",
-        "8/10"
+        "8/10",
+        "8/11"
       ],
       "values": [
-        25820.14,
         26213.72,
         26040.03,
         25832.67,
@@ -337,7 +340,8 @@
         26363.44,
         26348.35,
         26690.62,
-        26605.36
+        26605.36,
+        26445.45
       ]
     }
   }
