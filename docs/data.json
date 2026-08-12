@@ -1,89 +1,85 @@
 {
-  "updated_at": "2026-08-11 21:33 UTC",
+  "updated_at": "2026-08-12 21:32 UTC",
   "prices": {
     "sp500": {
-      "price": 7728.2,
-      "change_pct": -0.32
+      "price": 7748.5,
+      "change_pct": 0.26
     },
     "nasdaq": {
-      "price": 26445.45,
-      "change_pct": -0.6
+      "price": 26588.49,
+      "change_pct": 0.54
     },
     "gold": {
-      "price": 4427.8,
-      "change_pct": 1.51
+      "price": 4469.0,
+      "change_pct": 1.96
     },
     "usdjpy": {
-      "price": 159.25,
-      "change_pct": 0.86
+      "price": 159.42,
+      "change_pct": 0.16
     },
     "vix": {
-      "price": 15.28,
-      "change_pct": -1.16
+      "price": 14.55,
+      "change_pct": -4.78
     },
     "usbond": {
       "price": 4.68,
-      "change_pct": -0.43
+      "change_pct": 0.0
     },
     "btc": {
-      "price": 63591.0,
-      "change_pct": -0.5
+      "price": 63428.0,
+      "change_pct": -0.2
     }
   },
   "news": [
     {
-      "title": "Global stocks mixed while oil prices jump on Hormuz",
+      "title": "Wall St inches lower as tech drags, US-Iran peace optimism fades - Reuters",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/world/stocks-mixed-market-oil-prices-hormuz-6310596"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184931520"
     },
     {
-      "title": "Berkshire Hathaway Beats Profit Forecasts",
+      "title": "CoreWeave stock pops 8% as revenue doubles on accelerating AI infrastructure demand",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/394404/berkshire-hathaway-beats-profit-forecasts.html"
+      "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html"
     },
     {
-      "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
+      "title": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown"
+      "url": "https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss"
     },
     {
-      "title": "Crypto Stocks Suffer as Investors Send AI Soaring",
+      "title": "Trump’s media and crypto firm just posted a $238 million quarterly loss—here’s where those losses came from",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-stocks-suffer-as-investors-send-ai-soaring/"
+      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-media-crypto-firm-just-181627531.html"
     },
     {
-      "title": "The American Empire Was Built on Sand and is Facing a Tsunami",
+      "title": "Franco-Nevada Reports Q2 2026 Results",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globalresearch.ca/american-empire-built-sand-facing-tsunami/5936262"
+      "url": "https://www.prnewswire.com/news-releases/franco-nevada-reports-q2-2026-results-302848909.html"
     },
     {
-      "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
+      "title": "Gold Nears Two-Month High Ahead of Wednesday's CPI Report",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may"
+      "url": "https://oilprice.com/Metals/Gold/Gold-Nears-Two-Month-High-Ahead-of-Wednesdays-CPI-Report.html"
     },
     {
-      "title": "Bitcoin traders assess macroeconomic factors for future outlook",
+      "title": "Fed’s Hammack says multiple rate hikes may be needed to tame inflation",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/bitcoin-traders-macro-factors-outlook/"
-    },
-    {
-      "title": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html"
+      "url": "https://biztoc.com/x/568430a1a240b542"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
+        "6/26",
+        "6/29",
         "6/30",
         "7/1",
         "7/2",
@@ -98,24 +94,24 @@
         "7/16",
         "7/17",
         "7/20",
-        "7/21",
-        "7/22",
         "7/23",
         "7/24",
         "7/27",
         "7/28",
         "7/29",
         "7/30",
-        "7/31",
         "8/3",
         "8/4",
         "8/5",
         "8/6",
         "8/7",
         "8/10",
-        "8/11"
+        "8/11",
+        "8/12"
       ],
       "values": [
+        7354.02,
+        7440.43,
         7499.36,
         7483.23,
         7483.24,
@@ -130,27 +126,24 @@
         7533.77,
         7457.69,
         7443.28,
-        7509.2,
-        7498.96,
         7408.3,
         7411.98,
         7413.18,
         7428.78,
         7316.15,
         7437.63,
-        7489.72,
         7600.5,
         7736.52,
         7723.55,
         7709.96,
         7757.64,
         7753.11,
-        7728.2
+        7728.2,
+        7748.5
       ]
     },
     "gold": {
       "dates": [
-        "7/1",
         "7/2",
         "7/6",
         "7/7",
@@ -178,10 +171,10 @@
         "8/6",
         "8/7",
         "8/10",
-        "8/11"
+        "8/11",
+        "8/12"
       ],
       "values": [
-        4068.3,
         4112.7,
         4155.1,
         4145.3,
@@ -209,12 +202,12 @@
         4242.0,
         4340.7,
         4361.8,
-        4427.8
+        4383.0,
+        4469.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/1",
         "7/2",
         "7/3",
         "7/6",
@@ -243,10 +236,10 @@
         "8/6",
         "8/7",
         "8/10",
-        "8/11"
+        "8/11",
+        "8/12"
       ],
       "values": [
-        162.63,
         162.54,
         161.45,
         161.45,
@@ -275,11 +268,14 @@
         157.6,
         158.41,
         157.89,
-        159.25
+        159.16,
+        159.42
       ]
     },
     "nasdaq": {
       "dates": [
+        "6/26",
+        "6/29",
         "6/30",
         "7/1",
         "7/2",
@@ -294,24 +290,24 @@
         "7/16",
         "7/17",
         "7/20",
-        "7/21",
-        "7/22",
         "7/23",
         "7/24",
         "7/27",
         "7/28",
         "7/29",
         "7/30",
-        "7/31",
         "8/3",
         "8/4",
         "8/5",
         "8/6",
         "8/7",
         "8/10",
-        "8/11"
+        "8/11",
+        "8/12"
       ],
       "values": [
+        25297.62,
+        25820.14,
         26213.72,
         26040.03,
         25832.67,
@@ -326,22 +322,20 @@
         25881.95,
         25520.24,
         25508.07,
-        25837.21,
-        25690.9,
         25137.69,
         24975.82,
         24932.08,
         24876.91,
         24442.94,
         25122.18,
-        25373.85,
         25913.9,
         26584.99,
         26363.44,
         26348.35,
         26690.62,
         26605.36,
-        26445.45
+        26445.45,
+        26588.49
       ]
     }
   }
