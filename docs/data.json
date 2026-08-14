@@ -1,84 +1,83 @@
 {
-  "updated_at": "2026-08-13 21:32 UTC",
+  "updated_at": "2026-08-14 21:13 UTC",
   "prices": {
     "sp500": {
-      "price": 7798.99,
-      "change_pct": 0.65
+      "price": 7785.76,
+      "change_pct": -0.17
     },
     "nasdaq": {
-      "price": 26803.03,
-      "change_pct": 0.81
+      "price": 26729.16,
+      "change_pct": -0.28
     },
     "gold": {
-      "price": 4407.1,
-      "change_pct": -0.04
+      "price": 4432.0,
+      "change_pct": 1.57
     },
     "usdjpy": {
-      "price": 159.44,
-      "change_pct": 0.11
+      "price": 159.3,
+      "change_pct": -0.02
     },
     "vix": {
-      "price": 14.63,
-      "change_pct": 0.55
+      "price": 14.25,
+      "change_pct": -2.6
     },
     "usbond": {
-      "price": 4.64,
-      "change_pct": -0.85
+      "price": 4.7,
+      "change_pct": 1.29
     },
     "btc": {
-      "price": 63399.0,
-      "change_pct": -0.0
+      "price": 62840.0,
+      "change_pct": -0.89
     }
   },
   "news": [
     {
-      "title": "US stocks: S&P 500 ends higher as CoreWeave results fuel AI optimism",
+      "title": "Stock market today: S&P 500 notches record high, Nasdaq rallies after soft inflation data - Yahoo Finance",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-coreweave-results-fuel-ai-optimism/articleshow/133192806.cms"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184962231"
     },
     {
-      "title": "Resideo Announces Record Second Quarter 2026 Financial Results; Initiates Standalone 2026 Outlook",
+      "title": "Stocks Hit New Record as Wholesale Inflation Eases",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/resideo-announces-record-second-quarter-2026-financial-results-initiates-standalone-2026-outlook-302850103.html"
+      "url": "https://www.newser.com/story/394625/stocks-hit-new-record-as-wholesale-inflation-eases.html"
     },
     {
-      "title": "Russia picks Bitcoin, Ethereum and USDT for public trading as retail faces $58,000 cap",
+      "title": "The Bitcoin Risk Inside Trump Media—And Why FTX Is Part Of The Warning",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/russia-picks-bitcoin-ethereum-and-usdt-for-public-trading-as-retail-faces-58000-cap/"
+      "url": "https://www.forbes.com/sites/tylerroush/2026/08/13/the-bitcoin-risk-inside-trump-media-and-why-ftx-is-part-of-the-warning/"
     },
     {
-      "title": "The Altcoin Season Index Is Still Below 50: What Needs to Happen Before Altseason Begins?",
+      "title": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/altcoins/altcoin-season-index-still-below-50/"
+      "url": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools"
     },
     {
-      "title": "Revived NT mine to join Australia's modern gold rush",
+      "title": "America Is About to Hit $40 Trillion in Debt: Prepare for the Economic Squeeze Before It Gets Worse",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-08-13/nt-mount-bundy-mine-revival-amid-high-gold-prices/107029606"
+      "url": "https://offgridsurvival.com/america-is-about-to-hit-40-trillion-in-debt-prepare-for-the-economic-squeeze-before-it-gets-worse/"
     },
     {
-      "title": "How to trade gold prices as Fed rate hike and inflation odds shifts",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html"
-    },
-    {
-      "title": "AI Stocks Stop S&P 500's Slide",
+      "title": "METALLA REPORTS RECORD FINANCIAL RESULTS FOR THE SECOND QUARTER OF 2026 AND PROVIDES ASSET UPDATES",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/394556/ai-stocks-stop-sp-500s-slide.html"
+      "url": "https://www.prnewswire.com/news-releases/metalla-reports-record-financial-results-for-the-second-quarter-of-2026-and-provides-asset-updates-302851300.html"
+    },
+    {
+      "title": "US stocks: S&P 500 notches record-high close as rate-hike worries ease",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-notches-record-high-close-as-rate-hike-worries-ease/articleshow/133223873.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/2",
         "7/6",
         "7/7",
         "7/8",
@@ -107,10 +106,10 @@
         "8/10",
         "8/11",
         "8/12",
-        "8/13"
+        "8/13",
+        "8/14"
       ],
       "values": [
-        7483.24,
         7537.43,
         7503.85,
         7482.71,
@@ -139,7 +138,8 @@
         7753.11,
         7728.2,
         7748.5,
-        7798.99
+        7798.99,
+        7785.76
       ]
     },
     "gold": {
@@ -172,7 +172,8 @@
         "8/10",
         "8/11",
         "8/12",
-        "8/13"
+        "8/13",
+        "8/14"
       ],
       "values": [
         4155.1,
@@ -203,13 +204,12 @@
         4361.8,
         4383.0,
         4408.9,
-        4407.1
+        4363.6,
+        4432.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/3",
-        "7/6",
         "7/7",
         "7/8",
         "7/9",
@@ -237,11 +237,11 @@
         "8/10",
         "8/11",
         "8/12",
-        "8/13"
+        "8/13",
+        "8/14",
+        "8/15"
       ],
       "values": [
-        161.45,
-        161.45,
         162.09,
         162.36,
         162.54,
@@ -269,12 +269,13 @@
         157.89,
         159.16,
         159.26,
-        159.46
+        159.33,
+        159.43,
+        159.3
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/2",
         "7/6",
         "7/7",
         "7/8",
@@ -303,10 +304,10 @@
         "8/10",
         "8/11",
         "8/12",
-        "8/13"
+        "8/13",
+        "8/14"
       ],
       "values": [
-        25832.67,
         26121.16,
         25818.69,
         25870.65,
@@ -335,7 +336,8 @@
         26605.36,
         26445.45,
         26588.49,
-        26803.03
+        26803.03,
+        26729.16
       ]
     }
   }
