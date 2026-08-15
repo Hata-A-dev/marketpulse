@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 21:13 UTC",
+  "updated_at": "2026-08-15 21:10 UTC",
   "prices": {
     "sp500": {
       "price": 7785.76,
@@ -10,12 +10,12 @@
       "change_pct": -0.28
     },
     "gold": {
-      "price": 4432.0,
-      "change_pct": 1.57
+      "price": 4380.4,
+      "change_pct": 0.39
     },
     "usdjpy": {
       "price": 159.3,
-      "change_pct": -0.02
+      "change_pct": -0.08
     },
     "vix": {
       "price": 14.25,
@@ -26,52 +26,58 @@
       "change_pct": 1.29
     },
     "btc": {
-      "price": 62840.0,
-      "change_pct": -0.89
+      "price": 63026.0,
+      "change_pct": 0.08
     }
   },
   "news": [
     {
-      "title": "Stock market today: S&P 500 notches record high, Nasdaq rallies after soft inflation data - Yahoo Finance",
+      "title": "Stocks Slip After Retail Report",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184962231"
+      "url": "https://www.newser.com/story/394688/stocks-slip-after-retail-report.html"
     },
     {
-      "title": "Stocks Hit New Record as Wholesale Inflation Eases",
+      "title": "How Often Should You Check Your Portfolio?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/394625/stocks-hit-new-record-as-wholesale-inflation-eases.html"
+      "url": "https://awealthofcommonsense.com/2026/08/how-often-should-you-check-your-portfolio/"
     },
     {
-      "title": "The Bitcoin Risk Inside Trump Media—And Why FTX Is Part Of The Warning",
+      "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/08/13/the-bitcoin-risk-inside-trump-media-and-why-ftx-is-part-of-the-warning/"
+      "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin"
     },
     {
-      "title": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
+      "title": "Strive CEO Matt Cole critiques MSCI index framework for ignoring Bitcoin treasuries",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools"
+      "url": "https://cryptobriefing.com/strive-ceo-cole-critiques-msci-bitcoin-treasury/"
     },
     {
-      "title": "America Is About to Hit $40 Trillion in Debt: Prepare for the Economic Squeeze Before It Gets Worse",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://offgridsurvival.com/america-is-about-to-hit-40-trillion-in-debt-prepare-for-the-economic-squeeze-before-it-gets-worse/"
+      "url": "https://english.khabarhub.com/2026/14/563201/"
     },
     {
-      "title": "METALLA REPORTS RECORD FINANCIAL RESULTS FOR THE SECOND QUARTER OF 2026 AND PROVIDES ASSET UPDATES",
-      "tag": "経済",
+      "title": "The worst White House press secretary of all time",
+      "tag": "金",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/metalla-reports-record-financial-results-for-the-second-quarter-of-2026-and-provides-asset-updates-302851300.html"
+      "url": "https://www.salon.com/2026/08/14/the-worst-white-house-press-secretary-of-all-time/"
     },
     {
-      "title": "US stocks: S&P 500 notches record-high close as rate-hike worries ease",
+      "title": "Fed’s Goolsbee encouraged by inflation cooling but wants more proof before calling it done",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-notches-record-high-close-as-rate-hike-worries-ease/articleshow/133223873.cms"
+      "url": "https://cryptobriefing.com/goolsbee-encouraged-inflation-cooling-fed/"
+    },
+    {
+      "title": "Nikkei Extends Rally as TOPIX Hits Fresh High",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://newsonjapan.com/article/150368.php"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -205,7 +211,7 @@
         4383.0,
         4408.9,
         4363.6,
-        4432.0
+        4380.4
       ]
     },
     "usdjpy": {
