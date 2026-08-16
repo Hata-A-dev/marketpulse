@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 21:10 UTC",
+  "updated_at": "2026-08-16 21:08 UTC",
   "prices": {
     "sp500": {
       "price": 7785.76,
@@ -9,13 +9,9 @@
       "price": 26729.16,
       "change_pct": -0.28
     },
-    "gold": {
-      "price": 4380.4,
-      "change_pct": 0.39
-    },
     "usdjpy": {
-      "price": 159.3,
-      "change_pct": -0.08
+      "price": 159.28,
+      "change_pct": -0.09
     },
     "vix": {
       "price": 14.25,
@@ -26,64 +22,67 @@
       "change_pct": 1.29
     },
     "btc": {
-      "price": 63026.0,
-      "change_pct": 0.08
+      "price": 62998.0,
+      "change_pct": -0.04
     }
   },
   "news": [
     {
-      "title": "Stocks Slip After Retail Report",
+      "title": "These 3 ETFs Pay More Than a Rental Property With No Tenants, No Repairs, and No Mortgage",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/394688/stocks-slip-after-retail-report.html"
+      "url": "https://247wallst.com/investing/2026/08/15/these-3-etfs-pay-more-than-a-rental-property-with-no-tenants-no-repairs-and-no-mortgage/"
     },
     {
-      "title": "How Often Should You Check Your Portfolio?",
+      "title": "xStocks dominates tokenized stock deposits into DeFi with 58% share",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://awealthofcommonsense.com/2026/08/how-often-should-you-check-your-portfolio/"
+      "url": "https://cryptobriefing.com/xstocks-dominates-tokenized-stock-defi-deposits/"
     },
     {
-      "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
+      "title": "Billionaire Jack Dorsey: Bitcoin Could Reach $1 Million By 2030, Here’s Why It’s a Big Deal",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin"
+      "url": "https://zycrypto.com/billionaire-jack-dorsey-bitcoin-could-reach-1-million-by-2030-heres-why-its-a-big-deal/"
     },
     {
-      "title": "Strive CEO Matt Cole critiques MSCI index framework for ignoring Bitcoin treasuries",
+      "title": "3,803,750 Americans Warned After Hackers Hit Software Firm – Names, Social Security Numbers, Health Records and More at Risk",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/strive-ceo-cole-critiques-msci-bitcoin-treasury/"
+      "url": "https://dailyhodl.com/2026/08/15/3803750-americans-warned-after-hackers-hit-software-firm-names-social-security-numbers-health-records-and-more-at-risk/"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "The Anti-AI ETF Is Here, and Its Biggest Holdings Are Engines, Trucks and Air Conditioners",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/14/563201/"
+      "url": "https://247wallst.com/investing/etf/2026/08/15/the-anti-ai-etf-is-here-and-its-biggest-holdings-are-engines-trucks-and-air-conditioners/"
     },
     {
-      "title": "The worst White House press secretary of all time",
+      "title": "'Ultimate crash': Peter Schiff calls US stocks a 'ticking time bomb' — but is he right? Protect your wealth now",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.salon.com/2026/08/14/the-worst-white-house-press-secretary-of-all-time/"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ultimate-crash-peter-schiff-calls-114500834.html"
     },
     {
-      "title": "Fed’s Goolsbee encouraged by inflation cooling but wants more proof before calling it done",
+      "title": "XRP nears 52-week low amid regulatory uncertainty and market sell-off",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/goolsbee-encouraged-inflation-cooling-fed/"
+      "url": "https://cryptobriefing.com/xrp-nears-52-week-low-amid-regulatory-uncertainty-and-market-sell-off/"
     },
     {
-      "title": "Nikkei Extends Rally as TOPIX Hits Fresh High",
+      "title": "Jim Cramer reveals 6 AI stocks to watch in 2026",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://newsonjapan.com/article/150368.php"
+      "url": "https://www.thestreet.com/investing/stocks/jim-cramer-names-six-stocks-nvidia-coreweave-nebius-ai-data-center-trade"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
+        "6/30",
+        "7/1",
+        "7/2",
         "7/6",
         "7/7",
         "7/8",
@@ -95,15 +94,12 @@
         "7/16",
         "7/17",
         "7/20",
-        "7/21",
-        "7/22",
         "7/23",
         "7/24",
         "7/27",
         "7/28",
         "7/29",
         "7/30",
-        "7/31",
         "8/3",
         "8/4",
         "8/5",
@@ -116,6 +112,9 @@
         "8/14"
       ],
       "values": [
+        7499.36,
+        7483.23,
+        7483.24,
         7537.43,
         7503.85,
         7482.71,
@@ -127,15 +126,12 @@
         7533.77,
         7457.69,
         7443.28,
-        7509.2,
-        7498.96,
         7408.3,
         7411.98,
         7413.18,
         7428.78,
         7316.15,
         7437.63,
-        7489.72,
         7600.5,
         7736.52,
         7723.55,
@@ -150,7 +146,6 @@
     },
     "gold": {
       "dates": [
-        "7/6",
         "7/7",
         "7/8",
         "7/9",
@@ -182,7 +177,6 @@
         "8/14"
       ],
       "values": [
-        4155.1,
         4145.3,
         4070.9,
         4130.6,
@@ -211,7 +205,7 @@
         4383.0,
         4408.9,
         4363.6,
-        4380.4
+        4437.3
       ]
     },
     "usdjpy": {
@@ -245,7 +239,7 @@
         "8/12",
         "8/13",
         "8/14",
-        "8/15"
+        "8/16"
       ],
       "values": [
         162.09,
@@ -277,11 +271,14 @@
         159.26,
         159.33,
         159.43,
-        159.3
+        159.28
       ]
     },
     "nasdaq": {
       "dates": [
+        "6/30",
+        "7/1",
+        "7/2",
         "7/6",
         "7/7",
         "7/8",
@@ -293,15 +290,12 @@
         "7/16",
         "7/17",
         "7/20",
-        "7/21",
-        "7/22",
         "7/23",
         "7/24",
         "7/27",
         "7/28",
         "7/29",
         "7/30",
-        "7/31",
         "8/3",
         "8/4",
         "8/5",
@@ -314,6 +308,9 @@
         "8/14"
       ],
       "values": [
+        26213.72,
+        26040.03,
+        25832.67,
         26121.16,
         25818.69,
         25870.65,
@@ -325,15 +322,12 @@
         25881.95,
         25520.24,
         25508.07,
-        25837.21,
-        25690.9,
         25137.69,
         24975.82,
         24932.08,
         24876.91,
         24442.94,
         25122.18,
-        25373.85,
         25913.9,
         26584.99,
         26363.44,
