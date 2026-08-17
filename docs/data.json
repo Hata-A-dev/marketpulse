@@ -1,150 +1,84 @@
 {
-  "updated_at": "2026-08-16 21:08 UTC",
+  "updated_at": "2026-08-17 21:14 UTC",
   "prices": {
     "sp500": {
-      "price": 7785.76,
-      "change_pct": -0.17
+      "price": 7745.06,
+      "change_pct": -0.52
     },
     "nasdaq": {
-      "price": 26729.16,
-      "change_pct": -0.28
+      "price": 26644.91,
+      "change_pct": -0.32
     },
     "usdjpy": {
-      "price": 159.28,
-      "change_pct": -0.09
+      "price": 159.4,
+      "change_pct": -0.02
     },
     "vix": {
-      "price": 14.25,
-      "change_pct": -2.6
+      "price": 15.19,
+      "change_pct": 6.6
     },
     "usbond": {
-      "price": 4.7,
-      "change_pct": 1.29
+      "price": 4.72,
+      "change_pct": 0.43
     },
     "btc": {
-      "price": 62998.0,
-      "change_pct": -0.04
+      "price": 64328.0,
+      "change_pct": 2.4
     }
   },
   "news": [
     {
-      "title": "These 3 ETFs Pay More Than a Rental Property With No Tenants, No Repairs, and No Mortgage",
+      "title": "An Estate Can Pick Its Own Valuation Date. Here’s the Six-Month Do-Over That Cuts the Tax Bill When Markets Fall",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://247wallst.com/investing/2026/08/15/these-3-etfs-pay-more-than-a-rental-property-with-no-tenants-no-repairs-and-no-mortgage/"
+      "url": "https://247wallst.com/personal-finance/2026/08/16/an-estate-can-pick-its-own-valuation-date-heres-the-six-month-do-over-that-cuts-the-tax-bill-when-markets-fall/"
     },
     {
-      "title": "xStocks dominates tokenized stock deposits into DeFi with 58% share",
+      "title": "Stock-Market Calm Masks Fast Shifting Investor Sentiment - Bloomberg.com",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/xstocks-dominates-tokenized-stock-defi-deposits/"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185004384"
     },
     {
-      "title": "Billionaire Jack Dorsey: Bitcoin Could Reach $1 Million By 2030, Here’s Why It’s a Big Deal",
+      "title": "Wall Street Banks Duking It Out With Crypto Bros Over Key Bill",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/billionaire-jack-dorsey-bitcoin-could-reach-1-million-by-2030-heres-why-its-a-big-deal/"
+      "url": "https://dailycaller.com/2026/08/16/banking-industry-could-threaten-passage-of-trump-backed-crypto-bill"
     },
     {
-      "title": "3,803,750 Americans Warned After Hackers Hit Software Firm – Names, Social Security Numbers, Health Records and More at Risk",
+      "title": "Scammers Orchestrate Elaborate Fraud Scheme, Drains $45,158 From Michigan Woman",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/08/15/3803750-americans-warned-after-hackers-hit-software-firm-names-social-security-numbers-health-records-and-more-at-risk/"
+      "url": "https://dailyhodl.com/2026/08/16/scammers-orchestrate-elaborate-fraud-scheme-drains-45158-from-michigan-woman/"
     },
     {
-      "title": "The Anti-AI ETF Is Here, and Its Biggest Holdings Are Engines, Trucks and Air Conditioners",
+      "title": "Daniel Moss warns of rising economic shocks and inflation pressures",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://247wallst.com/investing/etf/2026/08/15/the-anti-ai-etf-is-here-and-its-biggest-holdings-are-engines-trucks-and-air-conditioners/"
+      "url": "https://cryptobriefing.com/daniel-moss-warns-of-rising-economic-shocks-and-inflation-pressures/"
     },
     {
-      "title": "'Ultimate crash': Peter Schiff calls US stocks a 'ticking time bomb' — but is he right? Protect your wealth now",
+      "title": "'A serious mistake': Moody's Analytics economist says the Fed is putting the economy at risk with its silence",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ultimate-crash-peter-schiff-calls-114500834.html"
+      "url": "https://finance.yahoo.com/economy/policy/articles/serious-mistake-moodys-analytics-economist-125500943.html"
     },
     {
-      "title": "XRP nears 52-week low amid regulatory uncertainty and market sell-off",
+      "title": "4 Reasons This Could Be the Most Important Week of August for Bitcoin and XRP",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/xrp-nears-52-week-low-amid-regulatory-uncertainty-and-market-sell-off/"
+      "url": "https://beincrypto.com/4-reasons-bitcoin-xrp-august-week/"
     },
     {
-      "title": "Jim Cramer reveals 6 AI stocks to watch in 2026",
+      "title": "Why most homeowners don’t need to lose sleep over negative equity",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/stocks/jim-cramer-names-six-stocks-nvidia-coreweave-nebius-ai-data-center-trade"
+      "url": "https://theconversation.com/why-most-homeowners-dont-need-to-lose-sleep-over-negative-equity-289591"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "6/30",
-        "7/1",
-        "7/2",
-        "7/6",
-        "7/7",
-        "7/8",
-        "7/9",
-        "7/10",
-        "7/13",
-        "7/14",
-        "7/15",
-        "7/16",
-        "7/17",
-        "7/20",
-        "7/23",
-        "7/24",
-        "7/27",
-        "7/28",
-        "7/29",
-        "7/30",
-        "8/3",
-        "8/4",
-        "8/5",
-        "8/6",
-        "8/7",
-        "8/10",
-        "8/11",
-        "8/12",
-        "8/13",
-        "8/14"
-      ],
-      "values": [
-        7499.36,
-        7483.23,
-        7483.24,
-        7537.43,
-        7503.85,
-        7482.71,
-        7543.64,
-        7575.39,
-        7515.34,
-        7543.59,
-        7572.4,
-        7533.77,
-        7457.69,
-        7443.28,
-        7408.3,
-        7411.98,
-        7413.18,
-        7428.78,
-        7316.15,
-        7437.63,
-        7600.5,
-        7736.52,
-        7723.55,
-        7709.96,
-        7757.64,
-        7753.11,
-        7728.2,
-        7748.5,
-        7798.99,
-        7785.76
-      ]
-    },
-    "gold": {
       "dates": [
         "7/7",
         "7/8",
@@ -174,10 +108,75 @@
         "8/11",
         "8/12",
         "8/13",
-        "8/14"
+        "8/14",
+        "8/17"
       ],
       "values": [
-        4145.3,
+        7503.85,
+        7482.71,
+        7543.64,
+        7575.39,
+        7515.34,
+        7543.59,
+        7572.4,
+        7533.77,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06
+      ]
+    },
+    "gold": {
+      "dates": [
+        "7/8",
+        "7/9",
+        "7/10",
+        "7/13",
+        "7/14",
+        "7/15",
+        "7/16",
+        "7/17",
+        "7/20",
+        "7/21",
+        "7/22",
+        "7/23",
+        "7/24",
+        "7/27",
+        "7/28",
+        "7/29",
+        "7/30",
+        "7/31",
+        "8/3",
+        "8/4",
+        "8/5",
+        "8/6",
+        "8/7",
+        "8/10",
+        "8/11",
+        "8/12",
+        "8/13",
+        "8/14",
+        "8/17"
+      ],
+      "values": [
         4070.9,
         4130.6,
         4104.1,
@@ -205,7 +204,8 @@
         4383.0,
         4408.9,
         4363.6,
-        4437.3
+        4380.4,
+        4473.1
       ]
     },
     "usdjpy": {
@@ -239,7 +239,7 @@
         "8/12",
         "8/13",
         "8/14",
-        "8/16"
+        "8/17"
       ],
       "values": [
         162.09,
@@ -271,15 +271,11 @@
         159.26,
         159.33,
         159.43,
-        159.28
+        159.4
       ]
     },
     "nasdaq": {
       "dates": [
-        "6/30",
-        "7/1",
-        "7/2",
-        "7/6",
         "7/7",
         "7/8",
         "7/9",
@@ -290,12 +286,15 @@
         "7/16",
         "7/17",
         "7/20",
+        "7/21",
+        "7/22",
         "7/23",
         "7/24",
         "7/27",
         "7/28",
         "7/29",
         "7/30",
+        "7/31",
         "8/3",
         "8/4",
         "8/5",
@@ -305,13 +304,10 @@
         "8/11",
         "8/12",
         "8/13",
-        "8/14"
+        "8/14",
+        "8/17"
       ],
       "values": [
-        26213.72,
-        26040.03,
-        25832.67,
-        26121.16,
         25818.69,
         25870.65,
         26206.89,
@@ -322,12 +318,15 @@
         25881.95,
         25520.24,
         25508.07,
+        25837.21,
+        25690.9,
         25137.69,
         24975.82,
         24932.08,
         24876.91,
         24442.94,
         25122.18,
+        25373.85,
         25913.9,
         26584.99,
         26363.44,
@@ -337,7 +336,8 @@
         26445.45,
         26588.49,
         26803.03,
-        26729.16
+        26729.16,
+        26644.91
       ]
     }
   }
