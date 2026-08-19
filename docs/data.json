@@ -1,90 +1,77 @@
 {
-  "updated_at": "2026-08-18 21:11 UTC",
+  "updated_at": "2026-08-19 21:14 UTC",
   "prices": {
     "sp500": {
-      "price": 7691.76,
-      "change_pct": -0.69
+      "price": 7707.98,
+      "change_pct": 0.21
     },
     "nasdaq": {
-      "price": 26289.71,
-      "change_pct": -1.33
+      "price": 26331.09,
+      "change_pct": 0.16
     },
     "gold": {
-      "price": 4389.5,
-      "change_pct": -0.64
+      "price": 4580.7,
+      "change_pct": 4.92
     },
     "usdjpy": {
-      "price": 159.59,
-      "change_pct": 0.23
+      "price": 158.09,
+      "change_pct": -0.78
     },
     "vix": {
-      "price": 15.84,
-      "change_pct": 4.28
+      "price": 14.89,
+      "change_pct": -6.0
     },
     "usbond": {
-      "price": 4.71,
-      "change_pct": -0.21
+      "price": 4.65,
+      "change_pct": -1.27
     },
     "btc": {
-      "price": 64597.0,
-      "change_pct": 0.14
+      "price": 69403.0,
+      "change_pct": 7.3
     }
   },
   "news": [
     {
-      "title": "US stocks: US market slips as oil prices rise, retail results awaited",
+      "title": "Madison Square Garden Entertainment (MSGE) Is Up 11.61% in One Week: What You Should Know",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-slips-as-oil-prices-rise-retail-results-awaited/articleshow/133306298.cms"
+      "url": "https://www.nasdaq.com/articles/madison-square-garden-entertainment-msge-1161-one-week-what-you-should-know"
     },
     {
-      "title": "How rich do you need to be to buy a professional sports team?",
+      "title": "Sinking AI stocks pull Wall Street further from its record",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://sports.yahoo.com/nba/article/how-rich-do-you-need-to-be-to-buy-a-professional-sports-team-191916084.html"
+      "url": "https://wirehub.medianewsgroup.com/2026/08/18/sinking-ai-stocks-pull-wall-street-further-from-its-record/"
     },
     {
-      "title": "U.S. Treasury Department Seeks Public Comment on Implementation of GENIUS Act Stablecoin Legislation",
+      "title": "SEC and CFTC boost crypto oversight with unprecedented collaboration",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/08/17/u-s-treasury-department-seeks-public-comment-on-implementation-of-genius-act-stablecoin-legislation/"
+      "url": "https://cryptobriefing.com/sec-and-cftc-boost-crypto-oversight-with-unprecedented-collaboration/"
     },
     {
-      "title": "Spot Bitcoin and Ethereum ETFs: The difference between owning the coin and the fund",
+      "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/spot-bitcoin-etfs-200144120.html"
+      "url": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware"
     },
     {
-      "title": "JPMorgan warns a brutal grocery shock could hit boomers, as USDA says prices may jump 12.3%. Is your nest egg ready?",
+      "title": "With the national debt nearing $40 trillion, Bank of America has a warning for bond investors",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/economy/articles/jpmorgan-warns-brutal-grocery-shock-173000391.html"
+      "url": "https://finance.yahoo.com/economy/policy/articles/national-debt-nearing-40-trillion-191211352.html"
     },
     {
-      "title": "CZ Warns Millionaires May Soon Be Unable to Afford a Single Bitcoin",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/bitcoin/cz-warns-millionaires-may-soon-be-unable-to-afford-a-single-bitcoin/"
-    },
-    {
-      "title": "What happens if property prices drop 20pc? Ask New Zealand or Canada",
+      "title": "Wealthy Buyers Are Disguising Housing Market’s True Health—Here’s How",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-08-18/what-happens-if-property-prices-fall-20-per-cent-ask-nz-canada/107045250"
-    },
-    {
-      "title": "AI-driven borrowing by tech firms pushes US Treasury yields above 5%: Bloomberg",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/ai-driven-borrowing-by-tech-firms-pushes-us-treasury-yields-above-5-bloomberg/"
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/18/wealthy-buyers-are-disguising-housing-markets-true-health-heres-how/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/8",
         "7/9",
         "7/10",
         "7/13",
@@ -113,10 +100,10 @@
         "8/13",
         "8/14",
         "8/17",
-        "8/18"
+        "8/18",
+        "8/19"
       ],
       "values": [
-        7482.71,
         7543.64,
         7575.39,
         7515.34,
@@ -145,12 +132,12 @@
         7798.99,
         7785.76,
         7745.06,
-        7691.76
+        7691.76,
+        7707.98
       ]
     },
     "gold": {
       "dates": [
-        "7/9",
         "7/10",
         "7/13",
         "7/14",
@@ -178,10 +165,10 @@
         "8/13",
         "8/14",
         "8/17",
-        "8/18"
+        "8/18",
+        "8/19"
       ],
       "values": [
-        4130.6,
         4104.1,
         3997.0,
         4061.1,
@@ -209,12 +196,12 @@
         4363.6,
         4380.4,
         4417.8,
-        4389.5
+        4366.0,
+        4580.7
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/8",
         "7/9",
         "7/10",
         "7/13",
@@ -243,10 +230,10 @@
         "8/13",
         "8/14",
         "8/17",
-        "8/18"
+        "8/18",
+        "8/19"
       ],
       "values": [
-        162.36,
         162.54,
         162.36,
         161.88,
@@ -275,15 +262,12 @@
         159.33,
         159.43,
         159.22,
-        159.59
+        159.34,
+        158.09
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/2",
-        "7/6",
-        "7/7",
-        "7/8",
         "7/9",
         "7/10",
         "7/13",
@@ -292,12 +276,15 @@
         "7/16",
         "7/17",
         "7/20",
+        "7/21",
+        "7/22",
         "7/23",
         "7/24",
         "7/27",
         "7/28",
         "7/29",
         "7/30",
+        "7/31",
         "8/3",
         "8/4",
         "8/5",
@@ -309,13 +296,10 @@
         "8/13",
         "8/14",
         "8/17",
-        "8/18"
+        "8/18",
+        "8/19"
       ],
       "values": [
-        25832.67,
-        26121.16,
-        25818.69,
-        25870.65,
         26206.89,
         26281.61,
         25873.18,
@@ -324,12 +308,15 @@
         25881.95,
         25520.24,
         25508.07,
+        25837.21,
+        25690.9,
         25137.69,
         24975.82,
         24932.08,
         24876.91,
         24442.94,
         25122.18,
+        25373.85,
         25913.9,
         26584.99,
         26363.44,
@@ -341,7 +328,8 @@
         26803.03,
         26729.16,
         26644.91,
-        26289.71
+        26289.71,
+        26331.09
       ]
     }
   }
