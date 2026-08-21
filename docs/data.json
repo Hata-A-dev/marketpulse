@@ -1,105 +1,98 @@
 {
-  "updated_at": "2026-08-20 21:16 UTC",
+  "updated_at": "2026-08-21 21:12 UTC",
   "prices": {
     "sp500": {
-      "price": 7641.16,
-      "change_pct": -0.87
+      "price": 7674.37,
+      "change_pct": 0.43
     },
     "nasdaq": {
-      "price": 26067.17,
-      "change_pct": -1.0
+      "price": 26180.46,
+      "change_pct": 0.43
     },
     "gold": {
-      "price": 4575.1,
-      "change_pct": 1.91
+      "price": 4661.6,
+      "change_pct": 3.22
     },
     "usdjpy": {
-      "price": 159.05,
-      "change_pct": -0.31
+      "price": 158.86,
+      "change_pct": 0.37
     },
     "vix": {
-      "price": 16.01,
-      "change_pct": 7.52
+      "price": 15.13,
+      "change_pct": -5.5
     },
     "usbond": {
-      "price": 4.7,
-      "change_pct": 1.08
+      "price": 4.74,
+      "change_pct": 0.85
     },
     "btc": {
-      "price": 72812.0,
-      "change_pct": 5.12
+      "price": 77681.0,
+      "change_pct": 6.36
     }
   },
   "news": [
     {
-      "title": "Stocks Rise After Profit Reports, Treasury Department's Move",
+      "title": "Walmart's Worst Day in 4 Years Helps Drive Broader Stock Drop",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/394951/stocks-rise-after-profit-reports-treasury-departments-move.html"
+      "url": "https://www.newser.com/story/395021/walmarts-worst-day-in-4-years-helps-drive-broader-stock-drop.html"
     },
     {
-      "title": "The Market Is in a Bubble. Why I’m Focusing on Quantum Computing Stocks Now",
+      "title": "Dow falls 700 points as Treasury’s bond buyback plan fails to calm markets",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/43e5f11bba5278b8"
+      "url": "https://cryptobriefing.com/dow-falls-treasury-buyback-plan-fails/"
     },
     {
-      "title": "Strive’s Bitcoin holdings increase by $69M as Bitcoin rises $3,400",
+      "title": "Bitcoin breaks above 200-day moving average for first time since November",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/strive-bitcoin-holdings-increase-69m/"
+      "url": "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average"
     },
     {
-      "title": "US codifies GENIUS Act, establishes Bitcoin reserve under Trump",
+      "title": "Binance opens crypto trading to AI agents with user-set controls",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-codifies-genius-act-establishes-bitcoin-reserve-under-trump/"
+      "url": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls"
     },
     {
-      "title": "CFTC Prepares to Draft Rules for Trading Compute Derivatives Contracts",
+      "title": "URGENT: Interest Rates SQUEEZING – I Know Why!",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.pymnts.com/legal/2026/cftc-prepares-to-draft-rules-for-trading-compute-derivatives-contracts/"
+      "url": "https://www.shtfplan.com/headline-news/urgent-interest-rates-squeezing-i-know-why"
     },
     {
-      "title": "SandboxAQ Makes AQCat Generally Available on Claude for High-Throughput Catalyst Screening",
+      "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/sandboxaq-makes-aqcat-generally-available-on-claude-for-high-throughput-catalyst-screening-302855491.html"
+      "url": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan"
     },
     {
-      "title": "Many US Fed policymakers back interest rate hikes if inflation stays high",
+      "title": "The U.S. Bond Crisis Highlights a Deeper Fiscal Rot",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/635ecde8ff775d53"
-    },
-    {
-      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html"
+      "url": "http://foreignpolicy.com/2026/08/20/us-bond-crisis-treasury-bessent-trump-national-debt/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/7",
-        "7/8",
-        "7/9",
-        "7/10",
         "7/13",
         "7/14",
         "7/15",
         "7/16",
         "7/17",
         "7/20",
+        "7/21",
+        "7/22",
         "7/23",
         "7/24",
         "7/27",
         "7/28",
         "7/29",
         "7/30",
+        "7/31",
         "8/3",
         "8/4",
         "8/5",
@@ -113,25 +106,25 @@
         "8/17",
         "8/18",
         "8/19",
-        "8/20"
+        "8/20",
+        "8/21"
       ],
       "values": [
-        7503.85,
-        7482.71,
-        7543.64,
-        7575.39,
         7515.34,
         7543.59,
         7572.4,
         7533.77,
         7457.69,
         7443.28,
+        7509.2,
+        7498.96,
         7408.3,
         7411.98,
         7413.18,
         7428.78,
         7316.15,
         7437.63,
+        7489.72,
         7600.5,
         7736.52,
         7723.55,
@@ -145,7 +138,8 @@
         7745.06,
         7691.76,
         7707.98,
-        7641.16
+        7641.16,
+        7674.37
       ]
     },
     "gold": {
@@ -178,7 +172,8 @@
         "8/17",
         "8/18",
         "8/19",
-        "8/20"
+        "8/20",
+        "8/21"
       ],
       "values": [
         3997.0,
@@ -209,12 +204,12 @@
         4417.8,
         4366.0,
         4489.4,
-        4575.1
+        4516.3,
+        4661.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/10",
         "7/13",
         "7/14",
         "7/15",
@@ -243,10 +238,10 @@
         "8/17",
         "8/18",
         "8/19",
-        "8/20"
+        "8/20",
+        "8/21"
       ],
       "values": [
-        162.36,
         161.88,
         162.43,
         162.19,
@@ -275,27 +270,27 @@
         159.22,
         159.34,
         159.55,
-        159.05
+        158.28,
+        158.86
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/7",
-        "7/8",
-        "7/9",
-        "7/10",
         "7/13",
         "7/14",
         "7/15",
         "7/16",
         "7/17",
         "7/20",
+        "7/21",
+        "7/22",
         "7/23",
         "7/24",
         "7/27",
         "7/28",
         "7/29",
         "7/30",
+        "7/31",
         "8/3",
         "8/4",
         "8/5",
@@ -309,25 +304,25 @@
         "8/17",
         "8/18",
         "8/19",
-        "8/20"
+        "8/20",
+        "8/21"
       ],
       "values": [
-        25818.69,
-        25870.65,
-        26206.89,
-        26281.61,
         25873.18,
         26107.01,
         26269.23,
         25881.95,
         25520.24,
         25508.07,
+        25837.21,
+        25690.9,
         25137.69,
         24975.82,
         24932.08,
         24876.91,
         24442.94,
         25122.18,
+        25373.85,
         25913.9,
         26584.99,
         26363.44,
@@ -341,7 +336,8 @@
         26644.91,
         26289.71,
         26331.09,
-        26067.17
+        26067.17,
+        26180.46
       ]
     }
   }
