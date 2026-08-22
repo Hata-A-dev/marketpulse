@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 21:12 UTC",
+  "updated_at": "2026-08-22 21:10 UTC",
   "prices": {
     "sp500": {
       "price": 7674.37,
@@ -10,12 +10,12 @@
       "change_pct": 0.43
     },
     "gold": {
-      "price": 4661.6,
-      "change_pct": 3.22
+      "price": 4624.1,
+      "change_pct": 2.39
     },
     "usdjpy": {
-      "price": 158.86,
-      "change_pct": 0.37
+      "price": 158.94,
+      "change_pct": 0.42
     },
     "vix": {
       "price": 15.13,
@@ -26,52 +26,46 @@
       "change_pct": 0.85
     },
     "btc": {
-      "price": 77681.0,
-      "change_pct": 6.36
+      "price": 77137.0,
+      "change_pct": -1.53
     }
   },
   "news": [
     {
-      "title": "Walmart's Worst Day in 4 Years Helps Drive Broader Stock Drop",
+      "title": "US stocks: US market rises on the day but falls for the week; bond yields and Iran in focus",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/395021/walmarts-worst-day-in-4-years-helps-drive-broader-stock-drop.html"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-on-the-day-but-falls-for-the-week-bond-yields-and-iran-in-focus/articleshow/133413493.cms"
     },
     {
-      "title": "Dow falls 700 points as Treasury’s bond buyback plan fails to calm markets",
-      "tag": "株式",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/dow-falls-treasury-buyback-plan-fails/"
-    },
-    {
-      "title": "Bitcoin breaks above 200-day moving average for first time since November",
+      "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average"
+      "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis"
     },
     {
-      "title": "Binance opens crypto trading to AI agents with user-set controls",
+      "title": "Bitcoin seeks support near $77K as gold approaches highs",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls"
+      "url": "https://cryptobriefing.com/bitcoin-support-77k-gold-approaches-highs/"
     },
     {
-      "title": "URGENT: Interest Rates SQUEEZING – I Know Why!",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.shtfplan.com/headline-news/urgent-interest-rates-squeezing-i-know-why"
+      "url": "https://english.khabarhub.com/2026/21/564137/"
     },
     {
-      "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan"
-    },
-    {
-      "title": "The U.S. Bond Crisis Highlights a Deeper Fiscal Rot",
+      "title": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
       "tag": "経済",
       "ago": "1日前",
-      "url": "http://foreignpolicy.com/2026/08/20/us-bond-crisis-treasury-bessent-trump-national-debt/"
+      "url": "https://biztoc.com/x/2da9e91010739e11"
+    },
+    {
+      "title": "Surging Yields Will Hurt Banks — Just Not Equally",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/08/21/surging-yields-will-hurt-banks---just-not-equally/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -205,7 +199,7 @@
         4366.0,
         4489.4,
         4516.3,
-        4661.6
+        4624.1
       ]
     },
     "usdjpy": {
@@ -271,7 +265,7 @@
         159.34,
         159.55,
         158.28,
-        158.86
+        158.94
       ]
     },
     "nasdaq": {
