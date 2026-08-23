@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 21:10 UTC",
+  "updated_at": "2026-08-23 21:09 UTC",
   "prices": {
     "sp500": {
       "price": 7674.37,
@@ -9,13 +9,9 @@
       "price": 26180.46,
       "change_pct": 0.43
     },
-    "gold": {
-      "price": 4624.1,
-      "change_pct": 2.39
-    },
     "usdjpy": {
-      "price": 158.94,
-      "change_pct": 0.42
+      "price": 158.97,
+      "change_pct": 0.06
     },
     "vix": {
       "price": 15.13,
@@ -26,46 +22,52 @@
       "change_pct": 0.85
     },
     "btc": {
-      "price": 77137.0,
-      "change_pct": -1.53
+      "price": 77634.0,
+      "change_pct": 0.71
     }
   },
   "news": [
     {
-      "title": "US stocks: US market rises on the day but falls for the week; bond yields and Iran in focus",
+      "title": "Citi Predicts Up to 410% Rally for These 2 ‘Strong Buy’ Stocks",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-on-the-day-but-falls-for-the-week-bond-yields-and-iran-in-focus/articleshow/133413493.cms"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-predicts-410-rally-2-180500861.html"
     },
     {
-      "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+      "title": "Nvidia Stock Trades at a Reasonable Valuation With Ample Growth Headroom",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://www.barchart.com/story/news/3987301/nvidia-stock-trades-at-a-reasonable-valuation-with-ample-growth-headroom"
+    },
+    {
+      "title": "Eric Trump denies any plans for launching cryptocurrency, calls claims fraudulent",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis"
+      "url": "https://cryptobriefing.com/eric-trump-denies-crypto-launch-fraud/"
     },
     {
-      "title": "Bitcoin seeks support near $77K as gold approaches highs",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/bitcoin-support-77k-gold-approaches-highs/"
-    },
-    {
-      "title": "Today’s News in a Nutshell",
+      "title": "‘The U.S. is not the only game in town anymore’ — Treasury debt faces more competition from higher-yielding bonds overseas than in recent decades",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/21/564137/"
+      "url": "https://fortune.com/2026/08/22/us-debt-competition-higher-yielding-bonds-overseas-treasury-rates/"
     },
     {
-      "title": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
-      "tag": "経済",
+      "title": "Michael Hudson and Steve Keen: The Federal Reserve, the Constitution, and the End of US Hegemony",
+      "tag": "金",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/2da9e91010739e11"
+      "url": "https://www.nakedcapitalism.com/2026/08/michael-hudson-and-steve-keen-the-federal-reserve-the-constitution-and-the-end-of-us-hegemony.html"
     },
     {
-      "title": "Surging Yields Will Hurt Banks — Just Not Equally",
+      "title": "The Week Investors Forced Uncle Sam To Confront Government’s Debt Addiction",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/08/21/surging-yields-will-hurt-banks---just-not-equally/"
+      "url": "https://dailycaller.com/2026/08/22/scott-bessent-investors-treasurys-federal-debt"
+    },
+    {
+      "title": "Ethereum hits new all-time high, surpassing its 2021 peak on Coinbase",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://cryptobriefing.com/ethereum-new-all-time-high-coinbase/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -138,7 +140,6 @@
     },
     "gold": {
       "dates": [
-        "7/13",
         "7/14",
         "7/15",
         "7/16",
@@ -170,7 +171,6 @@
         "8/21"
       ],
       "values": [
-        3997.0,
         4061.1,
         4044.0,
         3985.6,
@@ -199,12 +199,11 @@
         4366.0,
         4489.4,
         4516.3,
-        4624.1
+        4680.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/13",
         "7/14",
         "7/15",
         "7/16",
@@ -233,10 +232,10 @@
         "8/18",
         "8/19",
         "8/20",
-        "8/21"
+        "8/21",
+        "8/23"
       ],
       "values": [
-        161.88,
         162.43,
         162.19,
         162.07,
@@ -265,7 +264,8 @@
         159.34,
         159.55,
         158.28,
-        158.94
+        158.88,
+        158.97
       ]
     },
     "nasdaq": {
