@@ -1,80 +1,85 @@
 {
-  "updated_at": "2026-08-23 21:09 UTC",
+  "updated_at": "2026-08-24 21:17 UTC",
   "prices": {
     "sp500": {
-      "price": 7674.37,
-      "change_pct": 0.43
+      "price": 7652.86,
+      "change_pct": -0.28
     },
     "nasdaq": {
-      "price": 26180.46,
-      "change_pct": 0.43
+      "price": 25980.19,
+      "change_pct": -0.76
     },
     "usdjpy": {
-      "price": 158.97,
-      "change_pct": 0.06
+      "price": 159.01,
+      "change_pct": 0.08
     },
     "vix": {
-      "price": 15.13,
-      "change_pct": -5.5
+      "price": 15.85,
+      "change_pct": 4.76
     },
     "usbond": {
-      "price": 4.74,
-      "change_pct": 0.85
+      "price": 4.7,
+      "change_pct": -0.84
     },
     "btc": {
-      "price": 77634.0,
-      "change_pct": 0.71
+      "price": 78930.0,
+      "change_pct": 1.51
     }
   },
   "news": [
     {
-      "title": "Citi Predicts Up to 410% Rally for These 2 ‘Strong Buy’ Stocks",
+      "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-predicts-410-rally-2-180500861.html"
+      "url": "https://biztoc.com/x/94f6a7e2d17160a3"
     },
     {
-      "title": "Nvidia Stock Trades at a Reasonable Valuation With Ample Growth Headroom",
+      "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next. - Yahoo Finance",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.barchart.com/story/news/3987301/nvidia-stock-trades-at-a-reasonable-valuation-with-ample-growth-headroom"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185120106"
     },
     {
-      "title": "Eric Trump denies any plans for launching cryptocurrency, calls claims fraudulent",
+      "title": "Former The O.C. actor on crusade to take down 'stupid' cryptocurrency",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/eric-trump-denies-crypto-launch-fraud/"
+      "url": "https://www.abc.net.au/news/2026-08-24/ben-mckenzie-cryptocurrency-bitcoin-documentary-oc-star/107062012"
     },
     {
-      "title": "‘The U.S. is not the only game in town anymore’ — Treasury debt faces more competition from higher-yielding bonds overseas than in recent decades",
+      "title": "SEC unveils crypto regulation framework, impacting Bitcoin outlook",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://cryptobriefing.com/sec-unveils-crypto-regulation-framework-impacting-bitcoin-outlook/"
+    },
+    {
+      "title": "NVIDIA Becomes A Buyer Of Last Resort For Its Own GPUs By Earmarking $7 Billion For Poolside, Just As Sam Altman Admits He Was Wrong On The AI Timeline",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/08/22/us-debt-competition-higher-yielding-bonds-overseas-treasury-rates/"
+      "url": "https://wccftech.com/nvidia-becomes-a-buyer-of-last-resort-for-its-own-gpus-by-earmarking-7-billion-for-poolside-just-as-sam-altman-admits-he-was-wrong-on-the-ai-timeline/"
     },
     {
-      "title": "Michael Hudson and Steve Keen: The Federal Reserve, the Constitution, and the End of US Hegemony",
+      "title": "US dollar hits historic 2M rials as Iranian currency suffers dramatic collapse",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.nakedcapitalism.com/2026/08/michael-hudson-and-steve-keen-the-federal-reserve-the-constitution-and-the-end-of-us-hegemony.html"
+      "url": "https://cryptobriefing.com/us-dollar-hits-2-million-iranian-rials/"
     },
     {
-      "title": "The Week Investors Forced Uncle Sam To Confront Government’s Debt Addiction",
+      "title": "Central bankers fear dollar-based stablecoins threaten monetary sovereignty",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://dailycaller.com/2026/08/22/scott-bessent-investors-treasurys-federal-debt"
+      "url": "https://cryptobriefing.com/central-bankers-stablecoins-monetary-sovereignty/"
     },
     {
-      "title": "Ethereum hits new all-time high, surpassing its 2021 peak on Coinbase",
+      "title": "Kevin Warsh seeks to calm investors amid economic strain",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/ethereum-new-all-time-high-coinbase/"
+      "url": "https://cryptobriefing.com/warsh-calm-investors-economic-strain/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/13",
         "7/14",
         "7/15",
         "7/16",
@@ -103,10 +108,10 @@
         "8/18",
         "8/19",
         "8/20",
-        "8/21"
+        "8/21",
+        "8/24"
       ],
       "values": [
-        7515.34,
         7543.59,
         7572.4,
         7533.77,
@@ -135,12 +140,12 @@
         7691.76,
         7707.98,
         7641.16,
-        7674.37
+        7674.37,
+        7652.86
       ]
     },
     "gold": {
       "dates": [
-        "7/14",
         "7/15",
         "7/16",
         "7/17",
@@ -168,10 +173,10 @@
         "8/18",
         "8/19",
         "8/20",
-        "8/21"
+        "8/21",
+        "8/24"
       ],
       "values": [
-        4061.1,
         4044.0,
         3985.6,
         4012.7,
@@ -199,7 +204,8 @@
         4366.0,
         4489.4,
         4516.3,
-        4680.6
+        4624.1,
+        4710.0
       ]
     },
     "usdjpy": {
@@ -233,7 +239,7 @@
         "8/19",
         "8/20",
         "8/21",
-        "8/23"
+        "8/24"
       ],
       "values": [
         162.43,
@@ -265,12 +271,11 @@
         159.55,
         158.28,
         158.88,
-        158.97
+        159.01
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/13",
         "7/14",
         "7/15",
         "7/16",
@@ -299,10 +304,10 @@
         "8/18",
         "8/19",
         "8/20",
-        "8/21"
+        "8/21",
+        "8/24"
       ],
       "values": [
-        25873.18,
         26107.01,
         26269.23,
         25881.95,
@@ -331,7 +336,8 @@
         26289.71,
         26331.09,
         26067.17,
-        26180.46
+        26180.46,
+        25980.19
       ]
     }
   }
