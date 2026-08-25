@@ -1,86 +1,83 @@
 {
-  "updated_at": "2026-08-24 21:17 UTC",
+  "updated_at": "2026-08-25 21:15 UTC",
   "prices": {
     "sp500": {
-      "price": 7652.86,
-      "change_pct": -0.28
+      "price": 7677.28,
+      "change_pct": 0.32
     },
     "nasdaq": {
-      "price": 25980.19,
-      "change_pct": -0.76
+      "price": 26151.3,
+      "change_pct": 0.66
+    },
+    "gold": {
+      "price": 4715.9,
+      "change_pct": 1.62
     },
     "usdjpy": {
-      "price": 159.01,
-      "change_pct": 0.08
+      "price": 159.19,
+      "change_pct": 0.18
     },
     "vix": {
-      "price": 15.85,
-      "change_pct": 4.76
+      "price": 15.45,
+      "change_pct": -2.52
     },
     "usbond": {
-      "price": 4.7,
-      "change_pct": -0.84
+      "price": 4.64,
+      "change_pct": -1.28
     },
     "btc": {
-      "price": 78930.0,
-      "change_pct": 1.51
+      "price": 78200.0,
+      "change_pct": -0.97
     }
   },
   "news": [
     {
-      "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
+      "title": "Bitcoin outperforms stocks and gold, approaches $80,000",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/94f6a7e2d17160a3"
+      "url": "https://cryptobriefing.com/bitcoin-outperforms-stocks-gold-80k/"
     },
     {
-      "title": "The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next. - Yahoo Finance",
+      "title": "Oil prices fall as Bessent outlines new steps to punish Iran",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185120106"
+      "url": "https://www.channelnewsasia.com/world/oil-prices-iran-sanctions-us-stocks-market-6338596"
     },
     {
-      "title": "Former The O.C. actor on crusade to take down 'stupid' cryptocurrency",
+      "title": "“Don’t Bet Against Me — We’re Gonna Win This Fight,” Hoskinson Sends Fiery Warning to Cardano Skeptics",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-08-24/ben-mckenzie-cryptocurrency-bitcoin-documentary-oc-star/107062012"
+      "url": "https://zycrypto.com/dont-bet-against-me-were-gonna-win-this-fight-hoskinson-sends-fiery-warning-to-cardano-skeptics/"
     },
     {
-      "title": "SEC unveils crypto regulation framework, impacting Bitcoin outlook",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://cryptobriefing.com/sec-unveils-crypto-regulation-framework-impacting-bitcoin-outlook/"
-    },
-    {
-      "title": "NVIDIA Becomes A Buyer Of Last Resort For Its Own GPUs By Earmarking $7 Billion For Poolside, Just As Sam Altman Admits He Was Wrong On The AI Timeline",
+      "title": "Canadian stocks whipsaw after U.S. trade talks break down",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://wccftech.com/nvidia-becomes-a-buyer-of-last-resort-for-its-own-gpus-by-earmarking-7-billion-for-poolside-just-as-sam-altman-admits-he-was-wrong-on-the-ai-timeline/"
+      "url": "https://financialpost.com/investing/canadian-stocks-whipsaw-trade-talks-break-down"
     },
     {
-      "title": "US dollar hits historic 2M rials as Iranian currency suffers dramatic collapse",
+      "title": "John Mearsheimer asks: Is Strangling Iran Going To Succeed?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-dollar-hits-2-million-iranian-rials/"
+      "url": "https://www.antiwar.com/blog/2026/08/24/john-mearsheimer-asks-is-strangling-iran-going-to-succeed/"
     },
     {
-      "title": "Central bankers fear dollar-based stablecoins threaten monetary sovereignty",
+      "title": "US stocks today: S&P 500, Nasdaq decline as tech sector falls, US prepares to impose more Iran sanctions",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/central-bankers-stablecoins-monetary-sovereignty/"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-decline-as-tech-sector-falls-us-prepares-to-impose-more-iran-sanctions/articleshow/133478615.cms"
     },
     {
-      "title": "Kevin Warsh seeks to calm investors amid economic strain",
+      "title": "How Trump's new trade war with Canada affects everything from building new homes to dog jackets",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/warsh-calm-investors-economic-strain/"
+      "url": "https://www.businessinsider.com/new-tariffs-trade-war-us-canada-economy-2026-8#article"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/14",
         "7/15",
         "7/16",
         "7/17",
@@ -109,10 +106,10 @@
         "8/19",
         "8/20",
         "8/21",
-        "8/24"
+        "8/24",
+        "8/25"
       ],
       "values": [
-        7543.59,
         7572.4,
         7533.77,
         7457.69,
@@ -141,12 +138,12 @@
         7707.98,
         7641.16,
         7674.37,
-        7652.86
+        7652.86,
+        7677.28
       ]
     },
     "gold": {
       "dates": [
-        "7/15",
         "7/16",
         "7/17",
         "7/20",
@@ -174,10 +171,10 @@
         "8/19",
         "8/20",
         "8/21",
-        "8/24"
+        "8/24",
+        "8/25"
       ],
       "values": [
-        4044.0,
         3985.6,
         4012.7,
         4010.3,
@@ -205,12 +202,12 @@
         4489.4,
         4516.3,
         4624.1,
-        4710.0
+        4640.8,
+        4715.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/14",
         "7/15",
         "7/16",
         "7/17",
@@ -239,10 +236,10 @@
         "8/19",
         "8/20",
         "8/21",
-        "8/24"
+        "8/24",
+        "8/25"
       ],
       "values": [
-        162.43,
         162.19,
         162.07,
         162.38,
@@ -271,12 +268,12 @@
         159.55,
         158.28,
         158.88,
-        159.01
+        158.9,
+        159.2
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/14",
         "7/15",
         "7/16",
         "7/17",
@@ -305,10 +302,10 @@
         "8/19",
         "8/20",
         "8/21",
-        "8/24"
+        "8/24",
+        "8/25"
       ],
       "values": [
-        26107.01,
         26269.23,
         25881.95,
         25520.24,
@@ -337,7 +334,8 @@
         26331.09,
         26067.17,
         26180.46,
-        25980.19
+        25980.19,
+        26151.3
       ]
     }
   }
