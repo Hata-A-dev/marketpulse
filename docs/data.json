@@ -1,215 +1,85 @@
 {
-  "updated_at": "2026-08-27 00:19 UTC",
+  "updated_at": "2026-08-28 04:59 UTC",
   "prices": {
     "sp500": {
-      "price": 7675.7,
-      "change_pct": -0.02
+      "price": 7730.99,
+      "change_pct": 0.72
     },
     "nasdaq": {
-      "price": 26130.2,
-      "change_pct": -0.08
+      "price": 26541.35,
+      "change_pct": 1.57
     },
     "gold": {
-      "price": 4673.8,
-      "change_pct": 0.77
+      "price": 4633.4,
+      "change_pct": 0.51
     },
     "usdjpy": {
-      "price": 159.14,
-      "change_pct": -0.05
+      "price": 159.5,
+      "change_pct": 0.15
     },
     "vix": {
-      "price": 15.21,
-      "change_pct": -1.55
+      "price": 14.51,
+      "change_pct": -4.6
     },
     "usbond": {
-      "price": 4.66,
-      "change_pct": 0.43
+      "price": 4.67,
+      "change_pct": 0.21
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "title": "If You're Worried About a Correction, History Says This Portfolio Move Has Never Once Failed",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/bc28c308c67a4fac"
+      "url": "https://biztoc.com/x/7662d9d46ee7b15f"
     },
     {
-      "title": "Cleveland-Cliffs (CLF) Laps the Stock Market: Here's Why",
+      "title": "Nifty eyes positive opening as Asian markets rise after Nvidia results",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/8251b52c60833904"
+      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-eyes-positive-opening-as-asian-markets-rise-after-nvidia-results-126082700120_1.html"
     },
     {
-      "title": "A frequency-guided multi-scale decomposition and patch transformer for multivariate cryptocurrency time-series forecasting",
+      "title": "Asian stocks gain for third day as Nvidia earnings beat estimates",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.nature.com/articles/s41598-026-66760-2.pdf"
+      "url": "https://www.business-standard.com/markets/news/asian-stocks-gain-for-third-day-as-nvidia-earnings-beat-estimates-126082700093_1.html"
     },
     {
-      "title": "Stock market today: Live updates",
+      "title": "Texas-Based Genetic Testing Company Breached, Exposing Data of 2.8 Million People Nationwide",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html"
+      "url": "https://dailyhodl.com/2026/08/26/texas-based-genetic-testing-company-breached-exposing-data-of-2-8-million-people-nationwide/"
     },
     {
-      "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
+      "title": "Gold and silver price today, 27 Aug: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade"
+      "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-27-aug-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11787792063248.html"
     },
     {
-      "title": "Here's why America's debt binge should worry Australians",
+      "title": "Markets today: Wall Street flat ahead of Nvidia results; ASX waits on Qantas, Wesfarmers results",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-08-26/us-government-debt-bond-market-sell-off-explainer/107076348"
+      "url": "https://www.smh.com.au/business/markets/asx-set-for-flat-start-as-wall-street-dips-nvidia-qantas-results-ahead-20260827-p60rx8.html"
     },
     {
-      "title": "Federal Reserve’s Barkin warns rising debt may deter investors from buying US bonds",
+      "title": "Gold prices up Rs 1,300/10 grams; silver rebounds Rs 3,400/kg as falling oil eases rate cut bets. Buy, sell or hold?",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-barkin-warns-rising-debt-deter-investors/"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-up-rs-1300/10-grams-silver-rebounds-rs-3400/kg-as-falling-oil-eases-rate-cut-bets-buy-sell-or-hold/articleshow/133555304.cms"
     },
     {
-      "title": "NOAH HOLDINGS LIMITED ANNOUNCES UNAUDITED FINANCIAL RESULTS FOR THE SECOND QUARTER OF 2026",
+      "title": "Jim Chalmers said he'd slain Australia's inflation dragon. Two years later, it's breathing fire over household budgets - and ordinary Aussies are paying a brutal price",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/noah-holdings-limited-announces-unaudited-financial-results-for-the-second-quarter-of-2026-302859517.html"
+      "url": "https://www.dailymail.com/news/article-16082961/jim-chalmers-inflation-australia.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "7/16",
-        "7/17",
-        "7/20",
-        "7/21",
-        "7/22",
-        "7/23",
-        "7/24",
-        "7/27",
-        "7/28",
-        "7/29",
-        "7/30",
-        "7/31",
-        "8/3",
-        "8/4",
-        "8/5",
-        "8/6",
-        "8/7",
-        "8/10",
-        "8/11",
-        "8/12",
-        "8/13",
-        "8/14",
-        "8/17",
-        "8/18",
-        "8/19",
-        "8/20",
-        "8/21",
-        "8/24",
-        "8/25",
-        "8/26"
-      ],
-      "values": [
-        7533.77,
-        7457.69,
-        7443.28,
-        7509.2,
-        7498.96,
-        7408.3,
-        7411.98,
-        7413.18,
-        7428.78,
-        7316.15,
-        7437.63,
-        7489.72,
-        7600.5,
-        7736.52,
-        7723.55,
-        7709.96,
-        7757.64,
-        7753.11,
-        7728.2,
-        7748.5,
-        7798.99,
-        7785.76,
-        7745.06,
-        7691.76,
-        7707.98,
-        7641.16,
-        7674.37,
-        7652.86,
-        7677.28,
-        7675.7
-      ]
-    },
-    "gold": {
-      "dates": [
-        "7/17",
-        "7/20",
-        "7/21",
-        "7/22",
-        "7/23",
-        "7/24",
-        "7/27",
-        "7/28",
-        "7/29",
-        "7/30",
-        "7/31",
-        "8/3",
-        "8/4",
-        "8/5",
-        "8/6",
-        "8/7",
-        "8/10",
-        "8/11",
-        "8/12",
-        "8/13",
-        "8/14",
-        "8/17",
-        "8/18",
-        "8/19",
-        "8/20",
-        "8/21",
-        "8/24",
-        "8/25",
-        "8/26"
-      ],
-      "values": [
-        4012.7,
-        4010.3,
-        4071.1,
-        4146.9,
-        4046.6,
-        4067.6,
-        4074.5,
-        4036.3,
-        4034.7,
-        4100.1,
-        4049.1,
-        4033.7,
-        4095.4,
-        4245.8,
-        4242.0,
-        4340.7,
-        4361.8,
-        4383.0,
-        4408.9,
-        4363.6,
-        4380.4,
-        4417.8,
-        4366.0,
-        4489.4,
-        4516.3,
-        4624.1,
-        4640.8,
-        4638.1,
-        4673.8
-      ]
-    },
-    "usdjpy": {
       "dates": [
         "7/17",
         "7/20",
@@ -243,7 +113,138 @@
         "8/27"
       ],
       "values": [
-        162.38,
+        7457.69,
+        7443.28,
+        7509.2,
+        7498.96,
+        7408.3,
+        7411.98,
+        7413.18,
+        7428.78,
+        7316.15,
+        7437.63,
+        7489.72,
+        7600.5,
+        7736.52,
+        7723.55,
+        7709.96,
+        7757.64,
+        7753.11,
+        7728.2,
+        7748.5,
+        7798.99,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99
+      ]
+    },
+    "gold": {
+      "dates": [
+        "7/20",
+        "7/21",
+        "7/22",
+        "7/23",
+        "7/24",
+        "7/27",
+        "7/28",
+        "7/29",
+        "7/30",
+        "7/31",
+        "8/3",
+        "8/4",
+        "8/5",
+        "8/6",
+        "8/7",
+        "8/10",
+        "8/11",
+        "8/12",
+        "8/13",
+        "8/14",
+        "8/17",
+        "8/18",
+        "8/19",
+        "8/20",
+        "8/21",
+        "8/24",
+        "8/25",
+        "8/26",
+        "8/27",
+        "8/28"
+      ],
+      "values": [
+        4010.3,
+        4071.1,
+        4146.9,
+        4046.6,
+        4067.6,
+        4074.5,
+        4036.3,
+        4034.7,
+        4100.1,
+        4049.1,
+        4033.7,
+        4095.4,
+        4245.8,
+        4242.0,
+        4340.7,
+        4361.8,
+        4383.0,
+        4408.9,
+        4363.6,
+        4380.4,
+        4417.8,
+        4366.0,
+        4489.4,
+        4516.3,
+        4624.1,
+        4640.8,
+        4638.1,
+        4598.2,
+        4609.7,
+        4633.4
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "7/20",
+        "7/21",
+        "7/22",
+        "7/23",
+        "7/24",
+        "7/27",
+        "7/28",
+        "7/29",
+        "7/30",
+        "7/31",
+        "8/3",
+        "8/4",
+        "8/5",
+        "8/6",
+        "8/7",
+        "8/10",
+        "8/11",
+        "8/12",
+        "8/13",
+        "8/14",
+        "8/17",
+        "8/18",
+        "8/19",
+        "8/20",
+        "8/21",
+        "8/24",
+        "8/25",
+        "8/26",
+        "8/27",
+        "8/28"
+      ],
+      "values": [
         162.51,
         162.49,
         163.19,
@@ -272,12 +273,12 @@
         158.9,
         159.14,
         159.22,
-        159.14
+        159.26,
+        159.5
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/16",
         "7/17",
         "7/20",
         "7/21",
@@ -306,10 +307,10 @@
         "8/21",
         "8/24",
         "8/25",
-        "8/26"
+        "8/26",
+        "8/27"
       ],
       "values": [
-        25881.95,
         25520.24,
         25508.07,
         25837.21,
@@ -338,7 +339,8 @@
         26180.46,
         25980.19,
         26151.3,
-        26130.2
+        26130.2,
+        26541.35
       ]
     }
   }
