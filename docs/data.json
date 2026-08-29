@@ -1,87 +1,80 @@
 {
-  "updated_at": "2026-08-28 04:59 UTC",
+  "updated_at": "2026-08-29 02:55 UTC",
   "prices": {
     "sp500": {
-      "price": 7730.99,
-      "change_pct": 0.72
+      "price": 7711.76,
+      "change_pct": -0.25
     },
     "nasdaq": {
-      "price": 26541.35,
-      "change_pct": 1.57
+      "price": 26402.42,
+      "change_pct": -0.52
     },
     "gold": {
-      "price": 4633.4,
-      "change_pct": 0.51
+      "price": 4504.1,
+      "change_pct": -2.29
     },
     "usdjpy": {
-      "price": 159.5,
-      "change_pct": 0.15
+      "price": 160.04,
+      "change_pct": 0.49
     },
     "vix": {
-      "price": 14.51,
-      "change_pct": -4.6
+      "price": 14.43,
+      "change_pct": -0.55
     },
     "usbond": {
-      "price": 4.67,
-      "change_pct": 0.21
+      "price": 4.72,
+      "change_pct": 1.07
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "If You're Worried About a Correction, History Says This Portfolio Move Has Never Once Failed",
+      "title": "Stocks to watch: Wipro, Hero MotoCorp, HDFC Bank, Tata Motors PV & more",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/7662d9d46ee7b15f"
+      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-august-28-wipro-hero-motocorp-hdfc-bank-tata-motors-pv-more-126082800094_1.html"
     },
     {
-      "title": "Nifty eyes positive opening as Asian markets rise after Nvidia results",
+      "title": "Stock Market LIVE: GIFT Nifty signals tepid open; Asia mkts mixed; US Fed Chair's speech in focus",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-eyes-positive-opening-as-asian-markets-rise-after-nvidia-results-126082700120_1.html"
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-august-28-nse-bse-sensex-today-nifty50-gift-nifty-tempsens-instruments-share-price-126082800087_1.html"
     },
     {
-      "title": "Asian stocks gain for third day as Nvidia earnings beat estimates",
+      "title": "US Treasury Secretary Scott Bessent launches ‘Operation Economic Outcast’ targeting Iran, urges G7 allies to enforce sanctions",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/markets/news/asian-stocks-gain-for-third-day-as-nvidia-earnings-beat-estimates-126082700093_1.html"
+      "url": "https://cryptobriefing.com/treasury-bessent-g20-iran-sanctions/"
     },
     {
-      "title": "Texas-Based Genetic Testing Company Breached, Exposing Data of 2.8 Million People Nationwide",
+      "title": "CRPx0 hacking service for dummies claims victim count more than quintupled",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/08/26/texas-based-genetic-testing-company-breached-exposing-data-of-2-8-million-people-nationwide/"
+      "url": "https://www.theregister.com/cyber-crime/2026/08/27/crpx0-hacking-service-for-dummies-claims-victim-count-more-than-quintupled/5293097"
     },
     {
-      "title": "Gold and silver price today, 27 Aug: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
+      "title": "'Booming' gold mining, gas fracking key in plan to reverse NT's $11b debt",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-27-aug-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11787792063248.html"
+      "url": "https://www.abc.net.au/news/2026-08-28/nt-treasurer-bill-yan-says-mining-and-gas-improving-economy-debt/107084880"
     },
     {
-      "title": "Markets today: Wall Street flat ahead of Nvidia results; ASX waits on Qantas, Wesfarmers results",
+      "title": "Bitcoin vs. Gold: Is the World Finally Ready to Replace Gold with BTC?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.smh.com.au/business/markets/asx-set-for-flat-start-as-wall-street-dips-nvidia-qantas-results-ahead-20260827-p60rx8.html"
+      "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-vs-gold-is-the-world-finally-ready-to-replace-gold-with-btc/"
     },
     {
-      "title": "Gold prices up Rs 1,300/10 grams; silver rebounds Rs 3,400/kg as falling oil eases rate cut bets. Buy, sell or hold?",
+      "title": "Japan and US intervention slows yen’s decline, faces long-term challenges",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-up-rs-1300/10-grams-silver-rebounds-rs-3400/kg-as-falling-oil-eases-rate-cut-bets-buy-sell-or-hold/articleshow/133555304.cms"
-    },
-    {
-      "title": "Jim Chalmers said he'd slain Australia's inflation dragon. Two years later, it's breathing fire over household budgets - and ordinary Aussies are paying a brutal price",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.dailymail.com/news/article-16082961/jim-chalmers-inflation-australia.html"
+      "url": "https://cryptobriefing.com/japan-us-yen-intervention-challenges/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/17",
         "7/20",
         "7/21",
         "7/22",
@@ -110,10 +103,10 @@
         "8/24",
         "8/25",
         "8/26",
-        "8/27"
+        "8/27",
+        "8/28"
       ],
       "values": [
-        7457.69,
         7443.28,
         7509.2,
         7498.96,
@@ -142,7 +135,8 @@
         7652.86,
         7677.28,
         7675.7,
-        7730.99
+        7730.99,
+        7711.76
       ]
     },
     "gold": {
@@ -208,7 +202,7 @@
         4638.1,
         4598.2,
         4609.7,
-        4633.4
+        4504.1
       ]
     },
     "usdjpy": {
@@ -274,12 +268,11 @@
         159.14,
         159.22,
         159.26,
-        159.5
+        160.04
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/17",
         "7/20",
         "7/21",
         "7/22",
@@ -308,10 +301,10 @@
         "8/24",
         "8/25",
         "8/26",
-        "8/27"
+        "8/27",
+        "8/28"
       ],
       "values": [
-        25520.24,
         25508.07,
         25837.21,
         25690.9,
@@ -340,7 +333,8 @@
         25980.19,
         26151.3,
         26130.2,
-        26541.35
+        26541.35,
+        26402.42
       ]
     }
   }
