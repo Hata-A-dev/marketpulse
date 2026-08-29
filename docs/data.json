@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29 02:55 UTC",
+  "updated_at": "2026-08-29 22:52 UTC",
   "prices": {
     "sp500": {
       "price": 7711.76,
@@ -10,8 +10,8 @@
       "change_pct": -0.52
     },
     "gold": {
-      "price": 4504.1,
-      "change_pct": -2.29
+      "price": NaN,
+      "change_pct": NaN
     },
     "usdjpy": {
       "price": 160.04,
@@ -29,46 +29,52 @@
   },
   "news": [
     {
-      "title": "Stocks to watch: Wipro, Hero MotoCorp, HDFC Bank, Tata Motors PV & more",
+      "title": "Bull Market or Bear Market: The Real Difference Is What You Do Next",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-august-28-wipro-hero-motocorp-hdfc-bank-tata-motors-pv-more-126082800094_1.html"
+      "url": "https://biztoc.com/x/f91ee4a735b16205"
     },
     {
-      "title": "Stock Market LIVE: GIFT Nifty signals tepid open; Asia mkts mixed; US Fed Chair's speech in focus",
+      "title": "PayPal Stock Plunges as Stripe Abandons $50 Billion Takeover Bid",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/markets/news/stock-market-live-august-28-nse-bse-sensex-today-nifty50-gift-nifty-tempsens-instruments-share-price-126082800087_1.html"
+      "url": "https://www.iphoneincanada.ca/2026/08/28/paypal-stock-plunges-as-stripe-abandons-50-billion-takeover-bid/"
     },
     {
-      "title": "US Treasury Secretary Scott Bessent launches ‘Operation Economic Outcast’ targeting Iran, urges G7 allies to enforce sanctions",
+      "title": "Berlin is being blackmailed by hackers, mayor says",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/treasury-bessent-g20-iran-sanctions/"
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo"
     },
     {
-      "title": "CRPx0 hacking service for dummies claims victim count more than quintupled",
+      "title": "Market Analyst Eyes $200,000 Bitcoin Target As Monthly Chart Flashes Bullish Signal",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.theregister.com/cyber-crime/2026/08/27/crpx0-hacking-service-for-dummies-claims-victim-count-more-than-quintupled/5293097"
+      "url": "https://zycrypto.com/market-analyst-eyes-200000-bitcoin-target-as-monthly-chart-flashes-bullish-signal/"
     },
     {
-      "title": "'Booming' gold mining, gas fracking key in plan to reverse NT's $11b debt",
+      "title": "Stock traders warm up to Warsh as volatility index touches year-to-date low",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-08-28/nt-treasurer-bill-yan-says-mining-and-gas-improving-economy-debt/107084880"
+      "url": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html"
     },
     {
-      "title": "Bitcoin vs. Gold: Is the World Finally Ready to Replace Gold with BTC?",
+      "title": "Fed Chair Kevin Warsh triggers a $488 million crypto liquidation cascade as rate-hike expectations rise",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-vs-gold-is-the-world-finally-ready-to-replace-gold-with-btc/"
+      "url": "https://cryptoslate.com/fed-chair-kevin-warsh-triggers-a-488-million-crypto-liquidation-cascade-as-rate-hike-expectations-rise/"
     },
     {
-      "title": "Japan and US intervention slows yen’s decline, faces long-term challenges",
+      "title": "Fed Chair Warsh not ruling out interest rate hike amid inflation concerns",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/japan-us-yen-intervention-challenges/"
+      "url": "https://www.pbs.org/newshour/show/fed-chair-warsh-not-ruling-out-interest-rate-hike-amid-inflation-concerns"
+    },
+    {
+      "title": "Fed chair Warsh signals ‘work to do’ on high US inflation",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.digitaljournal.com/article/fed-chair-warsh-signals-work-to-do-on-high-us-inflation/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -202,7 +208,7 @@
         4638.1,
         4598.2,
         4609.7,
-        4504.1
+        NaN
       ]
     },
     "usdjpy": {
