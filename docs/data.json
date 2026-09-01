@@ -1,81 +1,78 @@
 {
-  "updated_at": "2026-08-30 22:58 UTC",
+  "updated_at": "2026-09-01 00:09 UTC",
   "prices": {
     "sp500": {
-      "price": 7711.76,
-      "change_pct": -0.25
+      "price": 7686.14,
+      "change_pct": -0.33
     },
     "nasdaq": {
-      "price": 26402.42,
-      "change_pct": -0.52
-    },
-    "gold": {
-      "price": 4508.6,
-      "change_pct": 0.68
-    },
-    "usdjpy": {
-      "price": 160.12,
-      "change_pct": 0.5
+      "price": 26370.89,
+      "change_pct": -0.12
     },
     "vix": {
-      "price": 14.43,
-      "change_pct": -0.55
+      "price": 14.92,
+      "change_pct": 3.4
     },
     "usbond": {
-      "price": 4.72,
-      "change_pct": 1.07
+      "price": 4.76,
+      "change_pct": 0.85
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Apple Was Always 1 Step Behind in AI. In Chipmaking, It’s Now 1 Step Ahead.",
+      "title": "Jim Cramer reveals his 20% rule for winning stocks",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.barchart.com/story/news/4340050/apple-was-always-1-step-behind-in-ai-in-chipmaking-its-now-1-step-ahead"
+      "url": "https://www.thestreet.com/investing/stocks/jim-cramer-reveals-20-percent-rule-for-winning-stocks"
     },
     {
-      "title": "Jim Cramer sends blunt message to investors picking single stocks",
+      "title": "Ripple Is Now Brokering Wall Street Equities. Where Does XRP Fit?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/stocks/jim-cramer-on-pepsico-pep-stock-gas-prices-dividend"
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/30/ripple-is-now-brokering-wall-street-equities-where-does-xrp-fit/"
     },
     {
-      "title": "Coinbase CEO Says Crypto Is 'Updating the Financial System' as Trump Pushes CLARITY Act",
+      "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-says-crypto-updating-170042095.html"
+      "url": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest"
     },
     {
-      "title": "Bitcoin Reclaims Major Levels Signaling 80% Confirmation of Market Bottom, According to Analyst",
+      "title": "Dormant Crypto Wallets Begin Moving Millions in Bitcoin",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/08/29/bitcoin-reclaims-major-levels-signaling-80-confirmation-of-market-bottom-according-to-analyst/"
+      "url": "https://www.pymnts.com/cryptocurrency/2026/dormant-crypto-wallets-begin-moving-millions-in-bitcoin/"
     },
     {
-      "title": "Five investor choices that matter now",
+      "title": "‘There’s a shroud over this market’: Jim Cramer warns stocks face a tougher road — here’s how to prepare",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/portfolio/big-story/five-investor-choices-that-matter-now/article71399437.ece"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/shroud-over-market-jim-cramer-121500547.html"
     },
     {
-      "title": "Onto Innovation Stock: AI’s Next Bottleneck Is Yield (NYSE:ONTO)",
+      "title": "Trump says $465K in savings makes you 'rich.' Financial experts warn it falls short — how much do you actually need?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://wordupnews.com/business/onto-innovation-stock-ais-next-bottleneck-is-yield-nyseonto/"
+      "url": "https://finance.yahoo.com/markets/articles/trump-says-465k-savings-makes-110500861.html"
     },
     {
-      "title": "Warsh at Jackson Hole: 8 key takeaways",
+      "title": "Oil rises on Iran tensions, US stock futures dip amid Fed rate hike signals",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/8e769045e50490ed"
+      "url": "https://cryptobriefing.com/oil-rises-on-iran-tensions-us-stock-futures-dip-amid-fed-rate-hike-signals/"
+    },
+    {
+      "title": "Live: ASX set to slip as Wall Street slides on inflation worries",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.abc.net.au/news/2026-08-31/asx-markets-business-live-news-wall-street-slides/107095734"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/20",
         "7/21",
         "7/22",
         "7/23",
@@ -104,10 +101,10 @@
         "8/25",
         "8/26",
         "8/27",
-        "8/28"
+        "8/28",
+        "8/31"
       ],
       "values": [
-        7443.28,
         7509.2,
         7498.96,
         7408.3,
@@ -136,12 +133,12 @@
         7677.28,
         7675.7,
         7730.99,
-        7711.76
+        7711.76,
+        7686.14
       ]
     },
     "gold": {
       "dates": [
-        "7/21",
         "7/22",
         "7/23",
         "7/24",
@@ -170,10 +167,9 @@
         "8/26",
         "8/27",
         "8/28",
-        "8/30"
+        "8/31"
       ],
       "values": [
-        4071.1,
         4146.9,
         4046.6,
         4067.6,
@@ -202,76 +198,10 @@
         4598.2,
         4609.7,
         4478.1,
-        4508.7
+        4499.7
       ]
     },
     "usdjpy": {
-      "dates": [
-        "7/21",
-        "7/22",
-        "7/23",
-        "7/24",
-        "7/27",
-        "7/28",
-        "7/29",
-        "7/30",
-        "7/31",
-        "8/3",
-        "8/4",
-        "8/5",
-        "8/6",
-        "8/7",
-        "8/10",
-        "8/11",
-        "8/12",
-        "8/13",
-        "8/14",
-        "8/17",
-        "8/18",
-        "8/19",
-        "8/20",
-        "8/21",
-        "8/24",
-        "8/25",
-        "8/26",
-        "8/27",
-        "8/28",
-        "8/30"
-      ],
-      "values": [
-        162.49,
-        163.19,
-        163.08,
-        163.83,
-        163.61,
-        163.77,
-        163.86,
-        163.3,
-        160.18,
-        157.58,
-        157.53,
-        157.69,
-        157.6,
-        158.41,
-        157.89,
-        159.16,
-        159.26,
-        159.33,
-        159.43,
-        159.22,
-        159.34,
-        159.55,
-        158.28,
-        158.88,
-        158.9,
-        159.14,
-        159.22,
-        159.26,
-        159.32,
-        160.11
-      ]
-    },
-    "nasdaq": {
       "dates": [
         "7/20",
         "7/21",
@@ -305,7 +235,72 @@
         "8/28"
       ],
       "values": [
-        25508.07,
+        162.51,
+        162.49,
+        163.19,
+        163.08,
+        163.83,
+        163.61,
+        163.77,
+        163.86,
+        163.3,
+        160.18,
+        157.58,
+        157.53,
+        157.69,
+        157.6,
+        158.41,
+        157.89,
+        159.16,
+        159.26,
+        159.33,
+        159.43,
+        159.22,
+        159.34,
+        159.55,
+        158.28,
+        158.88,
+        158.9,
+        159.14,
+        159.22,
+        159.26,
+        159.32
+      ]
+    },
+    "nasdaq": {
+      "dates": [
+        "7/21",
+        "7/22",
+        "7/23",
+        "7/24",
+        "7/27",
+        "7/28",
+        "7/29",
+        "7/30",
+        "7/31",
+        "8/3",
+        "8/4",
+        "8/5",
+        "8/6",
+        "8/7",
+        "8/10",
+        "8/11",
+        "8/12",
+        "8/13",
+        "8/14",
+        "8/17",
+        "8/18",
+        "8/19",
+        "8/20",
+        "8/21",
+        "8/24",
+        "8/25",
+        "8/26",
+        "8/27",
+        "8/28",
+        "8/31"
+      ],
+      "values": [
         25837.21,
         25690.9,
         25137.69,
@@ -334,7 +329,8 @@
         26151.3,
         26130.2,
         26541.35,
-        26402.42
+        26402.42,
+        26370.89
       ]
     }
   }
