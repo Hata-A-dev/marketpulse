@@ -1,78 +1,83 @@
 {
-  "updated_at": "2026-09-02 22:53 UTC",
+  "updated_at": "2026-09-03 22:52 UTC",
   "prices": {
     "sp500": {
-      "price": 7666.6,
-      "change_pct": 0.46
+      "price": 7747.71,
+      "change_pct": 1.06
     },
     "nasdaq": {
-      "price": 26217.83,
-      "change_pct": 0.45
+      "price": 26584.06,
+      "change_pct": 1.4
     },
     "gold": {
-      "price": 4431.1,
-      "change_pct": 1.91
+      "price": 4522.4,
+      "change_pct": 3.58
     },
     "usdjpy": {
-      "price": 158.76,
-      "change_pct": -0.62
+      "price": 156.0,
+      "change_pct": -2.62
     },
     "vix": {
-      "price": 15.2,
-      "change_pct": -6.98
+      "price": 14.32,
+      "change_pct": -5.79
     },
     "usbond": {
-      "price": 4.8,
-      "change_pct": 0.0
+      "price": 4.76,
+      "change_pct": -0.83
     },
     "btc": {
-      "price": 77024.0,
-      "change_pct": -0.49
+      "price": 81086.0,
+      "change_pct": 4.9
     }
   },
   "news": [
     {
-      "title": "Wall Street ends lower as higher yields, rising oil prices mark shaky start to September - Yahoo Finance",
-      "tag": "株式",
-      "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185356308"
-    },
-    {
       "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html"
+      "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html"
     },
     {
-      "title": "Analyst Explains the Real Reason BTC Is Stuck at $77,000 and Predicts a Rebound to $100k by October",
+      "title": "Stock Market Today, Sept. 2: Dell Helps Stocks Edge Higher Despite Geopolitical Tensions",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://biztoc.com/x/15a56992a4ed3ce6"
+    },
+    {
+      "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/analyst-explains-the-real-reason-btc-is-stuck-at-77000-and-predicts-a-rebound-to-100k-by-october/"
+      "url": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas"
     },
     {
-      "title": "Health Institute Issues Red Alert Over Potentially Lethal Trump Ecstasy Pills",
+      "title": "Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/09/01/health-institute-issues-red-alert-over-potentially-lethal-trump-ecstasy-pills/"
+      "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only"
     },
     {
-      "title": "Why bond yields are rising and why everyone should care",
+      "title": "Trump's brand new $1 gold coin breaks the internet as staggering price revealed",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://abcnews.com/Business/wireStory/bond-yields-rising-care-136126488"
+      "url": "https://freerepublic.com/focus/f-chat/4394005/posts"
     },
     {
-      "title": "All Bubbles End in Deflation",
+      "title": "ICF to Present at the 2026 Jefferies Global Industrials Conference",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://dailyreckoning.com/all-bubbles-end-in-deflation/"
+      "url": "https://www.prnewswire.com/news-releases/icf-to-present-at-the-2026-jefferies-global-industrials-conference-302867882.html"
+    },
+    {
+      "title": "BofA says the coming jobs report is just an appetizer for the next Fed meeting",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.businessinsider.com/august-jobs-report-interest-rates-fed-meeting-bond-yields-economy-2026-9"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/23",
         "7/24",
         "7/27",
         "7/28",
@@ -101,10 +106,10 @@
         "8/28",
         "8/31",
         "9/1",
-        "9/2"
+        "9/2",
+        "9/3"
       ],
       "values": [
-        7408.3,
         7411.98,
         7413.18,
         7428.78,
@@ -133,12 +138,12 @@
         7711.76,
         7686.14,
         7631.47,
-        7666.6
+        7666.6,
+        7747.71
       ]
     },
     "gold": {
       "dates": [
-        "7/24",
         "7/27",
         "7/28",
         "7/29",
@@ -166,10 +171,10 @@
         "8/28",
         "8/31",
         "9/1",
-        "9/2"
+        "9/2",
+        "9/3"
       ],
       "values": [
-        4067.6,
         4074.5,
         4036.3,
         4034.7,
@@ -197,12 +202,12 @@
         4478.1,
         4431.1,
         4348.0,
-        4431.1
+        4366.3,
+        4522.4
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/23",
         "7/24",
         "7/27",
         "7/28",
@@ -231,10 +236,10 @@
         "8/28",
         "8/31",
         "9/1",
-        "9/2"
+        "9/2",
+        "9/3"
       ],
       "values": [
-        163.08,
         163.83,
         163.61,
         163.77,
@@ -263,12 +268,12 @@
         159.32,
         160.12,
         159.75,
-        158.76
+        160.2,
+        156.0
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/23",
         "7/24",
         "7/27",
         "7/28",
@@ -297,10 +302,10 @@
         "8/28",
         "8/31",
         "9/1",
-        "9/2"
+        "9/2",
+        "9/3"
       ],
       "values": [
-        25137.69,
         24975.82,
         24932.08,
         24876.91,
@@ -329,7 +334,8 @@
         26402.42,
         26370.89,
         26099.77,
-        26217.83
+        26217.83,
+        26584.06
       ]
     }
   }
