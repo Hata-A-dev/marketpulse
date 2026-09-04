@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-09-03 22:52 UTC",
+  "updated_at": "2026-09-04 22:36 UTC",
   "prices": {
     "sp500": {
-      "price": 7747.71,
-      "change_pct": 1.06
+      "price": 7718.6,
+      "change_pct": -0.38
     },
     "nasdaq": {
-      "price": 26584.06,
-      "change_pct": 1.4
+      "price": 26506.99,
+      "change_pct": -0.29
     },
     "gold": {
-      "price": 4522.4,
-      "change_pct": 3.58
+      "price": 4477.2,
+      "change_pct": -0.32
     },
     "usdjpy": {
-      "price": 156.0,
-      "change_pct": -2.62
+      "price": 156.22,
+      "change_pct": -1.7
     },
     "vix": {
-      "price": 14.32,
-      "change_pct": -5.79
+      "price": 14.53,
+      "change_pct": 1.47
     },
     "usbond": {
-      "price": 4.76,
-      "change_pct": -0.83
+      "price": 4.78,
+      "change_pct": 0.42
     },
     "btc": {
-      "price": 81086.0,
-      "change_pct": 4.9
+      "price": 79721.0,
+      "change_pct": -1.91
     }
   },
   "news": [
@@ -35,50 +35,49 @@
       "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html"
+      "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html"
     },
     {
-      "title": "Stock Market Today, Sept. 2: Dell Helps Stocks Edge Higher Despite Geopolitical Tensions",
+      "title": "Tech Stocks Lead Rally on Wall Street",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/15a56992a4ed3ce6"
+      "url": "https://www.newser.com/story/395851/tech-stocks-lead-rally-on-wall-street.html"
     },
     {
-      "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
+      "title": "Crypto market cap surges $135B in 24 hours, Bitcoin nears $81K",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas"
+      "url": "https://cryptobriefing.com/crypto-market-cap-surges-135b-in-24-hours-bitcoin-nears-81k/"
     },
     {
-      "title": "Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
+      "title": "This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only"
+      "url": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings/"
     },
     {
-      "title": "Trump's brand new $1 gold coin breaks the internet as staggering price revealed",
+      "title": "The Vicious Cycle Trump May Restart",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://freerepublic.com/focus/f-chat/4394005/posts"
+      "url": "https://www.theatlantic.com/newsletters/2026/09/venezuela-trump-oil-cycle/688516/"
     },
     {
-      "title": "ICF to Present at the 2026 Jefferies Global Industrials Conference",
+      "title": "Small Rolexes Are Making Big Money on the Secondary Watch Market",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/icf-to-present-at-the-2026-jefferies-global-industrials-conference-302867882.html"
+      "url": "http://robbreport.com/style/watch-collector/small-rolexes-secondary-watch-market-1238618287/"
     },
     {
-      "title": "BofA says the coming jobs report is just an appetizer for the next Fed meeting",
+      "title": "Breitbart Business Digest: Welcome to the Hard-Hat Goldilocks Economy",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.businessinsider.com/august-jobs-report-interest-rates-fed-meeting-bond-yields-economy-2026-9"
+      "url": "https://www.breitbart.com/economy/2026/09/03/breitbart-business-digest-welcome-to-the-hard-hat-goldilocks-economy/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/24",
         "7/27",
         "7/28",
         "7/29",
@@ -107,10 +106,10 @@
         "8/31",
         "9/1",
         "9/2",
-        "9/3"
+        "9/3",
+        "9/4"
       ],
       "values": [
-        7411.98,
         7413.18,
         7428.78,
         7316.15,
@@ -139,7 +138,8 @@
         7686.14,
         7631.47,
         7666.6,
-        7747.71
+        7747.71,
+        7718.6
       ]
     },
     "gold": {
@@ -172,7 +172,8 @@
         "8/31",
         "9/1",
         "9/2",
-        "9/3"
+        "9/3",
+        "9/4"
       ],
       "values": [
         4074.5,
@@ -203,12 +204,12 @@
         4431.1,
         4348.0,
         4366.3,
-        4522.4
+        4491.7,
+        4477.2
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/24",
         "7/27",
         "7/28",
         "7/29",
@@ -237,10 +238,10 @@
         "8/31",
         "9/1",
         "9/2",
-        "9/3"
+        "9/3",
+        "9/4"
       ],
       "values": [
-        163.83,
         163.61,
         163.77,
         163.86,
@@ -269,12 +270,12 @@
         160.12,
         159.75,
         160.2,
-        156.0
+        158.92,
+        156.22
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/24",
         "7/27",
         "7/28",
         "7/29",
@@ -303,10 +304,10 @@
         "8/31",
         "9/1",
         "9/2",
-        "9/3"
+        "9/3",
+        "9/4"
       ],
       "values": [
-        24975.82,
         24932.08,
         24876.91,
         24442.94,
@@ -335,7 +336,8 @@
         26370.89,
         26099.77,
         26217.83,
-        26584.06
+        26584.06,
+        26506.99
       ]
     }
   }
