@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04 22:36 UTC",
+  "updated_at": "2026-09-05 22:25 UTC",
   "prices": {
     "sp500": {
       "price": 7718.6,
@@ -10,8 +10,8 @@
       "change_pct": -0.29
     },
     "gold": {
-      "price": 4477.2,
-      "change_pct": -0.32
+      "price": 4429.8,
+      "change_pct": -1.38
     },
     "usdjpy": {
       "price": 156.22,
@@ -26,52 +26,58 @@
       "change_pct": 0.42
     },
     "btc": {
-      "price": 79721.0,
-      "change_pct": -1.91
+      "price": 79851.0,
+      "change_pct": 0.22
     }
   },
   "news": [
     {
-      "title": "Stock market today: Live updates",
+      "title": "Dipped More Than Broader Market Today",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html"
+      "url": "https://biztoc.com/x/a087deda8e6e510e"
     },
     {
-      "title": "Tech Stocks Lead Rally on Wall Street",
+      "title": "This TSX stock was a top gainer with products less vulnerable to U.S. tariffs",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/395851/tech-stocks-lead-rally-on-wall-street.html"
+      "url": "https://financialpost.com/investing/this-tsx-stock-top-gainer-less-vulnerable-tariffs"
     },
     {
-      "title": "Crypto market cap surges $135B in 24 hours, Bitcoin nears $81K",
+      "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/crypto-market-cap-surges-135b-in-24-hours-bitcoin-nears-81k/"
+      "url": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes"
     },
     {
-      "title": "This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings",
+      "title": "Bitcoin is trading more like an ‘amplified version of gold’ again, but the four-year cycle theory threatens further declines",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings/"
+      "url": "https://biztoc.com/x/faeeb409eb722aab"
     },
     {
-      "title": "The Vicious Cycle Trump May Restart",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.theatlantic.com/newsletters/2026/09/venezuela-trump-oil-cycle/688516/"
+      "url": "https://english.khabarhub.com/2026/04/566431/"
     },
     {
-      "title": "Small Rolexes Are Making Big Money on the Secondary Watch Market",
+      "title": "Moonlighter 2: The Endless Vault review – a pleasant bout of number go up that’s most remarkable for how much of an improvement it is",
       "tag": "金",
       "ago": "1日前",
-      "url": "http://robbreport.com/style/watch-collector/small-rolexes-secondary-watch-market-1238618287/"
+      "url": "https://www.rockpapershotgun.com/moonlighter-2-the-endless-vault-review-a-pleasant-bout-of-number-go-up-thats-most-remarkable-for-how-much-of-an-improvement-it-is"
     },
     {
-      "title": "Breitbart Business Digest: Welcome to the Hard-Hat Goldilocks Economy",
+      "title": "August Jobs Report Blows Past Forecasts, Putting a September Fed Rate Hike Back on the Table",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.breitbart.com/economy/2026/09/03/breitbart-business-digest-welcome-to-the-hard-hat-goldilocks-economy/"
+      "url": "https://freerepublic.com/focus/f-news/4394266/posts"
+    },
+    {
+      "title": "Trump Threatens to Halt Trade Following News That US Trade Deficit Grew in July",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "http://wwd.com/sourcing-journal/trade/trump-us-trade-deficit-july-federal-reserve-tariffs-1239199217/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -205,7 +211,7 @@
         4348.0,
         4366.3,
         4491.7,
-        4477.2
+        4429.8
       ]
     },
     "usdjpy": {
