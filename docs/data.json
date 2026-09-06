@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 22:25 UTC",
+  "updated_at": "2026-09-06 22:30 UTC",
   "prices": {
     "sp500": {
       "price": 7718.6,
@@ -10,12 +10,12 @@
       "change_pct": -0.29
     },
     "gold": {
-      "price": 4429.8,
-      "change_pct": -1.38
+      "price": 4476.6,
+      "change_pct": 1.06
     },
     "usdjpy": {
-      "price": 156.22,
-      "change_pct": -1.7
+      "price": 156.26,
+      "change_pct": 0.39
     },
     "vix": {
       "price": 14.53,
@@ -26,58 +26,58 @@
       "change_pct": 0.42
     },
     "btc": {
-      "price": 79851.0,
-      "change_pct": 0.22
+      "price": 79828.0,
+      "change_pct": 0.01
     }
   },
   "news": [
     {
-      "title": "Dipped More Than Broader Market Today",
+      "title": "Nike removed from S&P 100 after 75% stock drop wipes $230 billion in market value",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/a087deda8e6e510e"
+      "url": "https://cryptobriefing.com/nike-removed-sp100-stock-crash/"
     },
     {
-      "title": "This TSX stock was a top gainer with products less vulnerable to U.S. tariffs",
+      "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://financialpost.com/investing/this-tsx-stock-top-gainer-less-vulnerable-tariffs"
+      "url": "https://biztoc.com/x/61da26957c219b6b"
     },
     {
-      "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
+      "title": "Texas Gold Scam Drains Over $250,000,000 From Elderly Victims: Report",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes"
+      "url": "https://dailyhodl.com/2026/09/05/texas-gold-scam-drains-over-250000000-from-elderly-victims-report/"
     },
     {
-      "title": "Bitcoin is trading more like an ‘amplified version of gold’ again, but the four-year cycle theory threatens further declines",
+      "title": "Crypto market adds $14B in under 24 hours as total cap nears $2.83 trillion",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/faeeb409eb722aab"
+      "url": "https://cryptobriefing.com/crypto-market-adds-14b-24-hours/"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "Venezuela’s Debt: Who Owes What to Whom Under US Neocolonial Tutelage?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/04/566431/"
+      "url": "https://www.globalresearch.ca/venezuelas-debt-us-neocolonial-tutelage/5939139"
     },
     {
-      "title": "Moonlighter 2: The Endless Vault review – a pleasant bout of number go up that’s most remarkable for how much of an improvement it is",
+      "title": "Weekend reading: are bonds discounting a robot revolution?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.rockpapershotgun.com/moonlighter-2-the-endless-vault-review-a-pleasant-bout-of-number-go-up-thats-most-remarkable-for-how-much-of-an-improvement-it-is"
+      "url": "https://monevator.com/weekend-reading-are-bonds-discounting-a-robot-revolution/"
     },
     {
-      "title": "August Jobs Report Blows Past Forecasts, Putting a September Fed Rate Hike Back on the Table",
+      "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://freerepublic.com/focus/f-news/4394266/posts"
+      "url": "https://biztoc.com/x/52e773bf8c4678a7"
     },
     {
-      "title": "Trump Threatens to Halt Trade Following News That US Trade Deficit Grew in July",
+      "title": "The Equity Blueprint: How homeowners are navigating the rate lock",
       "tag": "経済",
       "ago": "1日前",
-      "url": "http://wwd.com/sourcing-journal/trade/trump-us-trade-deficit-july-federal-reserve-tariffs-1239199217/"
+      "url": "https://slot.medianewsgroup.com/?p=1649522"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -150,7 +150,6 @@
     },
     "gold": {
       "dates": [
-        "7/27",
         "7/28",
         "7/29",
         "7/30",
@@ -179,10 +178,10 @@
         "9/1",
         "9/2",
         "9/3",
-        "9/4"
+        "9/4",
+        "9/6"
       ],
       "values": [
-        4074.5,
         4036.3,
         4034.7,
         4100.1,
@@ -211,12 +210,12 @@
         4348.0,
         4366.3,
         4491.7,
-        4429.8
+        4429.8,
+        4476.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/27",
         "7/28",
         "7/29",
         "7/30",
@@ -245,10 +244,10 @@
         "9/1",
         "9/2",
         "9/3",
-        "9/4"
+        "9/4",
+        "9/6"
       ],
       "values": [
-        163.61,
         163.77,
         163.86,
         163.3,
@@ -277,7 +276,8 @@
         159.75,
         160.2,
         158.92,
-        156.22
+        155.66,
+        156.27
       ]
     },
     "nasdaq": {
