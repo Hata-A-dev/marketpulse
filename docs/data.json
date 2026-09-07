@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06 22:30 UTC",
+  "updated_at": "2026-09-07 23:06 UTC",
   "prices": {
     "sp500": {
       "price": 7718.6,
@@ -10,74 +10,74 @@
       "change_pct": -0.29
     },
     "gold": {
-      "price": 4476.6,
-      "change_pct": 1.06
+      "price": 4453.2,
+      "change_pct": 0.53
     },
     "usdjpy": {
-      "price": 156.26,
-      "change_pct": 0.39
+      "price": 154.09,
+      "change_pct": -1.35
     },
     "vix": {
-      "price": 14.53,
-      "change_pct": 1.47
+      "price": 15.3,
+      "change_pct": 5.3
     },
     "usbond": {
       "price": 4.78,
       "change_pct": 0.42
     },
     "btc": {
-      "price": 79828.0,
-      "change_pct": 0.01
+      "price": 79009.0,
+      "change_pct": -1.67
     }
   },
   "news": [
     {
-      "title": "Nike removed from S&P 100 after 75% stock drop wipes $230 billion in market value",
+      "title": "Nike’s Walk on the Woke Side Just Cost the Company Its Place in the S&P 100",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/nike-removed-sp100-stock-crash/"
+      "url": "https://legalinsurrection.com/2026/09/nikes-walk-on-the-woke-side-just-cost-the-company-its-place-in-the-sp-100/"
     },
     {
-      "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
+      "title": "Meet the Dirt Cheap 6.4%-Yielding Dividend Stock That's Beating the Market in 2026",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/61da26957c219b6b"
+      "url": "https://biztoc.com/x/3df7e9833f736e4e"
     },
     {
-      "title": "Texas Gold Scam Drains Over $250,000,000 From Elderly Victims: Report",
+      "title": "'Rich Dad Poor Dad' author touts 10-year-old investment amid '$1.2 billion' debt",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/09/05/texas-gold-scam-drains-over-250000000-from-elderly-victims-report/"
+      "url": "https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-touts-10-year-old-investment-amid-1-2-billion-debt"
     },
     {
-      "title": "Crypto market adds $14B in under 24 hours as total cap nears $2.83 trillion",
+      "title": "Orionx halts withdrawals ahead of permanent shutdown after $7M custody shortfall",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/crypto-market-adds-14b-24-hours/"
+      "url": "https://cryptobriefing.com/orionx-halts-withdrawals-permanent-shutdown/"
     },
     {
-      "title": "Venezuela’s Debt: Who Owes What to Whom Under US Neocolonial Tutelage?",
+      "title": "As heists become more common and more violent across Europe, Irish museums are taking note",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globalresearch.ca/venezuelas-debt-us-neocolonial-tutelage/5939139"
+      "url": "https://www.thejournal.ie/irish-museums-security-heists-europe-7151375-Sep2026/"
     },
     {
-      "title": "Weekend reading: are bonds discounting a robot revolution?",
+      "title": "U.S. debt is even worse than it seems, and rising Treasury yields are now an ‘all-hands-on-deck situation,’ top economist warns",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://monevator.com/weekend-reading-are-bonds-discounting-a-robot-revolution/"
+      "url": "https://fortune.com/2026/09/06/us-debt-demand-warning-treasury-long-term-yields-deficit-bond-investors/"
     },
     {
-      "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+      "title": "JD Vance Says Trump 'Cares a Lot' About Interest Rates Because He Wants Americans to Afford a Home: 'Would Be Nice' to Have Fed's Help",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/52e773bf8c4678a7"
+      "url": "https://finance.yahoo.com/economy/policy/articles/jd-vance-says-trump-cares-223010655.html"
     },
     {
-      "title": "The Equity Blueprint: How homeowners are navigating the rate lock",
+      "title": "Bitcoin’s faces a weird new macro reality as the Fed turns off the tap and Treasury opens the floodgates",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://slot.medianewsgroup.com/?p=1649522"
+      "url": "https://cryptoslate.com/bitcoin-uncertain-the-fed-and-treasury-are-pulling-the-bond-market-in-opposite-directions/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -179,7 +179,7 @@
         "9/2",
         "9/3",
         "9/4",
-        "9/6"
+        "9/7"
       ],
       "values": [
         4036.3,
@@ -211,12 +211,11 @@
         4366.3,
         4491.7,
         4429.8,
-        4476.6
+        4453.2
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/28",
         "7/29",
         "7/30",
         "7/31",
@@ -245,10 +244,10 @@
         "9/2",
         "9/3",
         "9/4",
-        "9/6"
+        "9/7",
+        "9/8"
       ],
       "values": [
-        163.77,
         163.86,
         163.3,
         160.18,
@@ -277,7 +276,8 @@
         160.2,
         158.92,
         155.66,
-        156.27
+        156.2,
+        154.09
       ]
     },
     "nasdaq": {
