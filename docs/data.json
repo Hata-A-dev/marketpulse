@@ -1,90 +1,85 @@
 {
-  "updated_at": "2026-09-07 23:06 UTC",
+  "updated_at": "2026-09-08 23:02 UTC",
   "prices": {
     "sp500": {
-      "price": 7718.6,
-      "change_pct": -0.38
+      "price": 7673.52,
+      "change_pct": -0.58
     },
     "nasdaq": {
-      "price": 26506.99,
-      "change_pct": -0.29
-    },
-    "gold": {
-      "price": 4453.2,
-      "change_pct": 0.53
+      "price": 26421.41,
+      "change_pct": -0.32
     },
     "usdjpy": {
-      "price": 154.09,
-      "change_pct": -1.35
+      "price": 153.67,
+      "change_pct": -0.12
     },
     "vix": {
-      "price": 15.3,
-      "change_pct": 5.3
+      "price": 15.72,
+      "change_pct": 2.75
     },
     "usbond": {
-      "price": 4.78,
-      "change_pct": 0.42
+      "price": 4.81,
+      "change_pct": 0.63
     },
     "btc": {
-      "price": 79009.0,
-      "change_pct": -1.67
+      "price": 78557.0,
+      "change_pct": -0.71
     }
   },
   "news": [
     {
-      "title": "Nike’s Walk on the Woke Side Just Cost the Company Its Place in the S&P 100",
+      "title": "Stock market Tuesday: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://legalinsurrection.com/2026/09/nikes-walk-on-the-woke-side-just-cost-the-company-its-place-in-the-sp-100/"
+      "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html"
     },
     {
-      "title": "Meet the Dirt Cheap 6.4%-Yielding Dividend Stock That's Beating the Market in 2026",
+      "title": "Could This Vanguard Growth ETF Be a No-Brainer Buy for Long-Term Investors?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/3df7e9833f736e4e"
+      "url": "https://biztoc.com/x/31ccd28b3a42c3d1"
     },
     {
-      "title": "'Rich Dad Poor Dad' author touts 10-year-old investment amid '$1.2 billion' debt",
+      "title": "Two Factors Could Break Bitcoin (BTC) out of Range Trading As Chances of Fed Rate Hike Next Week Hover Around 60%: CoinShares",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/crypto/markets/rich-dad-poor-dad-author-touts-10-year-old-investment-amid-1-2-billion-debt"
+      "url": "https://dailyhodl.com/2026/09/07/two-factors-could-break-bitcoin-btc-out-of-range-trading-as-chances-of-fed-rate-hike-next-week-hover-around-60-coinshares/"
     },
     {
-      "title": "Orionx halts withdrawals ahead of permanent shutdown after $7M custody shortfall",
+      "title": "Hackers steal $320M in bitcoin from Liquid Network, return most of it after patch",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/orionx-halts-withdrawals-permanent-shutdown/"
+      "url": "https://siliconangle.com/2026/09/07/hackers-steal-320m-in-bitcoin-from-liquid-network-return-most-of-it-after-patch/"
     },
     {
-      "title": "As heists become more common and more violent across Europe, Irish museums are taking note",
+      "title": "Bond market rout puts global economy on financial crisis 'trajectory'",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thejournal.ie/irish-museums-security-heists-europe-7151375-Sep2026/"
+      "url": "https://www.abc.net.au/news/2026-09-08/bond-markets-interest-rates-mounting-risk-global-economic-crisis/107123348"
     },
     {
-      "title": "U.S. debt is even worse than it seems, and rising Treasury yields are now an ‘all-hands-on-deck situation,’ top economist warns",
+      "title": "Cathie Wood buys $3.5 million of surging tech stock",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/09/06/us-debt-demand-warning-treasury-long-term-yields-deficit-bond-investors/"
+      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-3-5-million-of-surging-tech-stock"
     },
     {
-      "title": "JD Vance Says Trump 'Cares a Lot' About Interest Rates Because He Wants Americans to Afford a Home: 'Would Be Nice' to Have Fed's Help",
+      "title": "Rising Oil Prices and Inflation Risks Put Markets on Edge as MoneySimpler Expands Free AI Automated Trading",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/economy/policy/articles/jd-vance-says-trump-cares-223010655.html"
+      "url": "https://financialpost.com/globe-newswire/rising-oil-prices-and-inflation-risks-put-markets-on-edge-as-moneysimpler-expands-free-ai-automated-trading"
     },
     {
-      "title": "Bitcoin’s faces a weird new macro reality as the Fed turns off the tap and Treasury opens the floodgates",
+      "title": "Strong jobs just triggered a hawkish UBS reversal that could pressure Bitcoin through December",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/bitcoin-uncertain-the-fed-and-treasury-are-pulling-the-bond-market-in-opposite-directions/"
+      "url": "https://cryptoslate.com/strong-jobs-just-triggered-a-hawkish-ubs-reversal-that-could-pressure-bitcoin-through-december/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/27",
         "7/28",
         "7/29",
         "7/30",
@@ -113,10 +108,10 @@
         "9/1",
         "9/2",
         "9/3",
-        "9/4"
+        "9/4",
+        "9/8"
       ],
       "values": [
-        7413.18,
         7428.78,
         7316.15,
         7437.63,
@@ -145,12 +140,12 @@
         7631.47,
         7666.6,
         7747.71,
-        7718.6
+        7718.6,
+        7673.52
       ]
     },
     "gold": {
       "dates": [
-        "7/28",
         "7/29",
         "7/30",
         "7/31",
@@ -179,10 +174,9 @@
         "9/2",
         "9/3",
         "9/4",
-        "9/7"
+        "9/8"
       ],
       "values": [
-        4036.3,
         4034.7,
         4100.1,
         4049.1,
@@ -211,12 +205,11 @@
         4366.3,
         4491.7,
         4429.8,
-        4453.2
+        4396.4
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/29",
         "7/30",
         "7/31",
         "8/3",
@@ -245,10 +238,10 @@
         "9/3",
         "9/4",
         "9/7",
-        "9/8"
+        "9/8",
+        "9/9"
       ],
       "values": [
-        163.86,
         163.3,
         160.18,
         157.58,
@@ -277,12 +270,12 @@
         158.92,
         155.66,
         156.2,
-        154.09
+        153.85,
+        153.68
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/27",
         "7/28",
         "7/29",
         "7/30",
@@ -311,10 +304,10 @@
         "9/1",
         "9/2",
         "9/3",
-        "9/4"
+        "9/4",
+        "9/8"
       ],
       "values": [
-        24932.08,
         24876.91,
         24442.94,
         25122.18,
@@ -343,7 +336,8 @@
         26099.77,
         26217.83,
         26584.06,
-        26506.99
+        26506.99,
+        26421.41
       ]
     }
   }
