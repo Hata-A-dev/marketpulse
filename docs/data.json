@@ -1,86 +1,89 @@
 {
-  "updated_at": "2026-09-08 23:02 UTC",
+  "updated_at": "2026-09-09 22:48 UTC",
   "prices": {
     "sp500": {
-      "price": 7673.52,
-      "change_pct": -0.58
+      "price": 7636.36,
+      "change_pct": -0.48
     },
     "nasdaq": {
-      "price": 26421.41,
-      "change_pct": -0.32
+      "price": 26253.34,
+      "change_pct": -0.64
+    },
+    "gold": {
+      "price": 4445.0,
+      "change_pct": 1.16
     },
     "usdjpy": {
-      "price": 153.67,
-      "change_pct": -0.12
+      "price": 153.35,
+      "change_pct": -0.32
     },
     "vix": {
-      "price": 15.72,
-      "change_pct": 2.75
+      "price": 16.46,
+      "change_pct": 4.71
     },
     "usbond": {
-      "price": 4.81,
-      "change_pct": 0.63
+      "price": 4.84,
+      "change_pct": 0.62
     },
     "btc": {
-      "price": 78557.0,
-      "change_pct": -0.71
+      "price": 78025.0,
+      "change_pct": -0.53
     }
   },
   "news": [
     {
-      "title": "Stock market Tuesday: Live updates",
+      "title": "Trump Approval Rating Falls Despite Stock Market Gains - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/07/stock-market-tuesday-live-updates.html"
+      "url": "https://biztoc.com/x/f293c76b036d4a12"
     },
     {
-      "title": "Could This Vanguard Growth ETF Be a No-Brainer Buy for Long-Term Investors?",
+      "title": "Why Tilray Brands, Inc. (TLRY) Dipped More Than Broader Market Today",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/31ccd28b3a42c3d1"
+      "url": "https://biztoc.com/x/002dc10e23057d5d"
     },
     {
-      "title": "Two Factors Could Break Bitcoin (BTC) out of Range Trading As Chances of Fed Rate Hike Next Week Hover Around 60%: CoinShares",
+      "title": "Singaporean Malone Lam pleads guilty over role in US$260m cryptocurrency theft ring",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/09/07/two-factors-could-break-bitcoin-btc-out-of-range-trading-as-chances-of-fed-rate-hike-next-week-hover-around-60-coinshares/"
+      "url": "https://www.channelnewsasia.com/world/malone-lam-pleads-guilty-260m-crypto-heist-6370726"
     },
     {
-      "title": "Hackers steal $320M in bitcoin from Liquid Network, return most of it after patch",
+      "title": "New York town weighs crypto mining and AI data center ban",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://siliconangle.com/2026/09/07/hackers-steal-320m-in-bitcoin-from-liquid-network-return-most-of-it-after-patch/"
+      "url": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban"
     },
     {
-      "title": "Bond market rout puts global economy on financial crisis 'trajectory'",
+      "title": "Diesel prices just smashed a 2022 record, but it's not only trucks that are taking a hit. What it means for your wallet",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-09-08/bond-markets-interest-rates-mounting-risk-global-economic-crisis/107123348"
+      "url": "https://finance.yahoo.com/energy/articles/diesel-prices-just-smashed-2022-151500785.html"
     },
     {
-      "title": "Cathie Wood buys $3.5 million of surging tech stock",
+      "title": "For long-term wealth creation, patience and compounding matter more than timing: Baldev Prakash of SBI Caps",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-3-5-million-of-surging-tech-stock"
+      "url": "https://www.thehindubusinessline.com/money-and-banking/for-long-term-wealth-creation-patience-and-compounding-matter-more-than-timing-baldev-prakash-of-sbi-caps/article71423185.ece"
     },
     {
-      "title": "Rising Oil Prices and Inflation Risks Put Markets on Edge as MoneySimpler Expands Free AI Automated Trading",
+      "title": "Gundlach calls for 50 basis point Fed rate hike amid rising US yields",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://financialpost.com/globe-newswire/rising-oil-prices-and-inflation-risks-put-markets-on-edge-as-moneysimpler-expands-free-ai-automated-trading"
+      "url": "https://cryptobriefing.com/gundlach-calls-for-50-basis-point-fed-rate-hike-amid-rising-us-yields/"
     },
     {
-      "title": "Strong jobs just triggered a hawkish UBS reversal that could pressure Bitcoin through December",
+      "title": "Boston Scientific Drops After Revealing Cyberattack's Toll",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/strong-jobs-just-triggered-a-hawkish-ubs-reversal-that-could-pressure-bitcoin-through-december/"
+      "url": "https://www.newser.com/story/396101/boston-scientific-drops-after-revealing-cyberattacks-toll.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/28",
         "7/29",
         "7/30",
         "7/31",
@@ -109,10 +112,10 @@
         "9/2",
         "9/3",
         "9/4",
-        "9/8"
+        "9/8",
+        "9/9"
       ],
       "values": [
-        7428.78,
         7316.15,
         7437.63,
         7489.72,
@@ -141,12 +144,12 @@
         7666.6,
         7747.71,
         7718.6,
-        7673.52
+        7673.52,
+        7636.36
       ]
     },
     "gold": {
       "dates": [
-        "7/29",
         "7/30",
         "7/31",
         "8/3",
@@ -174,10 +177,10 @@
         "9/2",
         "9/3",
         "9/4",
-        "9/8"
+        "9/8",
+        "9/9"
       ],
       "values": [
-        4034.7,
         4100.1,
         4049.1,
         4033.7,
@@ -205,7 +208,8 @@
         4366.3,
         4491.7,
         4429.8,
-        4396.4
+        4393.9,
+        4445.0
       ]
     },
     "usdjpy": {
@@ -271,12 +275,11 @@
         155.66,
         156.2,
         153.85,
-        153.68
+        153.35
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/28",
         "7/29",
         "7/30",
         "7/31",
@@ -305,10 +308,10 @@
         "9/2",
         "9/3",
         "9/4",
-        "9/8"
+        "9/8",
+        "9/9"
       ],
       "values": [
-        24876.91,
         24442.94,
         25122.18,
         25373.85,
@@ -337,7 +340,8 @@
         26217.83,
         26584.06,
         26506.99,
-        26421.41
+        26421.41,
+        26253.34
       ]
     }
   }
