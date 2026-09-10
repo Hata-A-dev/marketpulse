@@ -1,90 +1,83 @@
 {
-  "updated_at": "2026-09-09 22:48 UTC",
+  "updated_at": "2026-09-10 22:49 UTC",
   "prices": {
     "sp500": {
-      "price": 7636.36,
-      "change_pct": -0.48
+      "price": 7591.7,
+      "change_pct": -0.58
     },
     "nasdaq": {
-      "price": 26253.34,
-      "change_pct": -0.64
+      "price": 26081.72,
+      "change_pct": -0.65
     },
     "gold": {
-      "price": 4445.0,
-      "change_pct": 1.16
+      "price": 4357.2,
+      "change_pct": -1.33
     },
     "usdjpy": {
-      "price": 153.35,
-      "change_pct": -0.32
+      "price": 154.39,
+      "change_pct": 0.59
     },
     "vix": {
-      "price": 16.46,
-      "change_pct": 4.71
+      "price": 17.84,
+      "change_pct": 8.38
     },
     "usbond": {
-      "price": 4.84,
-      "change_pct": 0.62
+      "price": 4.94,
+      "change_pct": 2.07
     },
     "btc": {
-      "price": 78025.0,
-      "change_pct": -0.53
+      "price": 76948.0,
+      "change_pct": -1.68
     }
   },
   "news": [
     {
-      "title": "Trump Approval Rating Falls Despite Stock Market Gains - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+      "title": "$100 oil isn't turning Cramer bearish on stocks. Here are 3 reasons why",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/f293c76b036d4a12"
+      "url": "https://www.cnbc.com/2026/09/09/oil-not-turning-cramer-bearish-on-stocks-why.html"
     },
     {
-      "title": "Why Tilray Brands, Inc. (TLRY) Dipped More Than Broader Market Today",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/002dc10e23057d5d"
+      "url": "https://www.cnbc.com/2026/09/09/stock-market-today-live-updates.html"
     },
     {
-      "title": "Singaporean Malone Lam pleads guilty over role in US$260m cryptocurrency theft ring",
+      "title": "Malone Lam pleads guilty to $245M Bitcoin theft and lavish spending",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/world/malone-lam-pleads-guilty-260m-crypto-heist-6370726"
+      "url": "https://cryptobriefing.com/malone-lam-guilty-245m-bitcoin-theft/"
     },
     {
-      "title": "New York town weighs crypto mining and AI data center ban",
+      "title": "Kansas Resident Admits To Draining Over $30,000 From Multiple Bank Accounts in Maine",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban"
+      "url": "https://dailyhodl.com/2026/09/09/kansas-resident-admits-to-draining-over-30000-from-multiple-bank-accounts-in-maine/"
     },
     {
-      "title": "Diesel prices just smashed a 2022 record, but it's not only trucks that are taking a hit. What it means for your wallet",
+      "title": "The Commodity Bull Market Just Entered a Dangerous New Phase",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/energy/articles/diesel-prices-just-smashed-2022-151500785.html"
+      "url": "https://oilprice.com/Energy/Energy-General/The-Commodity-Bull-Market-Just-Entered-a-Dangerous-New-Phase.html"
     },
     {
-      "title": "For long-term wealth creation, patience and compounding matter more than timing: Baldev Prakash of SBI Caps",
+      "title": "Bitcoin traders bet borrowed money on a rally as oil surges ahead of Friday’s inflation test",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/for-long-term-wealth-creation-patience-and-compounding-matter-more-than-timing-baldev-prakash-of-sbi-caps/article71423185.ece"
+      "url": "https://cryptoslate.com/bitcoin-traders-bet-borrowed-money-on-a-rally-as-oil-surges-ahead-of-fridays-inflation-test/"
     },
     {
-      "title": "Gundlach calls for 50 basis point Fed rate hike amid rising US yields",
+      "title": "Breitbart Business Digest: The Blue-Collar Boom Inside Anthropic’s AI Model",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/gundlach-calls-for-50-basis-point-fed-rate-hike-amid-rising-us-yields/"
-    },
-    {
-      "title": "Boston Scientific Drops After Revealing Cyberattack's Toll",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.newser.com/story/396101/boston-scientific-drops-after-revealing-cyberattacks-toll.html"
+      "url": "https://www.breitbart.com/economy/2026/09/09/breitbart-business-digest-the-blue-collar-boom-inside-anthropics-ai-model/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/29",
         "7/30",
         "7/31",
         "8/3",
@@ -113,10 +106,10 @@
         "9/3",
         "9/4",
         "9/8",
-        "9/9"
+        "9/9",
+        "9/10"
       ],
       "values": [
-        7316.15,
         7437.63,
         7489.72,
         7600.5,
@@ -145,12 +138,12 @@
         7747.71,
         7718.6,
         7673.52,
-        7636.36
+        7636.36,
+        7591.7
       ]
     },
     "gold": {
       "dates": [
-        "7/30",
         "7/31",
         "8/3",
         "8/4",
@@ -178,10 +171,10 @@
         "9/3",
         "9/4",
         "9/8",
-        "9/9"
+        "9/9",
+        "9/10"
       ],
       "values": [
-        4100.1,
         4049.1,
         4033.7,
         4095.4,
@@ -209,12 +202,12 @@
         4491.7,
         4429.8,
         4393.9,
-        4445.0
+        4416.0,
+        4357.2
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/30",
         "7/31",
         "8/3",
         "8/4",
@@ -243,10 +236,10 @@
         "9/4",
         "9/7",
         "9/8",
-        "9/9"
+        "9/9",
+        "9/10"
       ],
       "values": [
-        163.3,
         160.18,
         157.58,
         157.53,
@@ -275,12 +268,12 @@
         155.66,
         156.2,
         153.85,
-        153.35
+        153.48,
+        154.39
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/29",
         "7/30",
         "7/31",
         "8/3",
@@ -309,10 +302,10 @@
         "9/3",
         "9/4",
         "9/8",
-        "9/9"
+        "9/9",
+        "9/10"
       ],
       "values": [
-        24442.94,
         25122.18,
         25373.85,
         25913.9,
@@ -341,7 +334,8 @@
         26584.06,
         26506.99,
         26421.41,
-        26253.34
+        26253.34,
+        26081.72
       ]
     }
   }
