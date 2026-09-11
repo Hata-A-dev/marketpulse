@@ -1,84 +1,89 @@
 {
-  "updated_at": "2026-09-10 22:49 UTC",
+  "updated_at": "2026-09-11 22:51 UTC",
   "prices": {
     "sp500": {
-      "price": 7591.7,
-      "change_pct": -0.58
+      "price": 7656.98,
+      "change_pct": 0.86
     },
     "nasdaq": {
-      "price": 26081.72,
-      "change_pct": -0.65
+      "price": 26333.04,
+      "change_pct": 0.96
     },
     "gold": {
-      "price": 4357.2,
-      "change_pct": -1.33
+      "price": 4390.0,
+      "change_pct": 0.58
     },
     "usdjpy": {
-      "price": 154.39,
-      "change_pct": 0.59
+      "price": 153.55,
+      "change_pct": -0.01
     },
     "vix": {
-      "price": 17.84,
-      "change_pct": 8.38
+      "price": 15.84,
+      "change_pct": -11.21
     },
     "usbond": {
-      "price": 4.94,
-      "change_pct": 2.07
+      "price": 4.97,
+      "change_pct": 0.61
     },
     "btc": {
-      "price": 76948.0,
-      "change_pct": -1.68
+      "price": 77037.0,
+      "change_pct": 0.61
     }
   },
   "news": [
     {
-      "title": "$100 oil isn't turning Cramer bearish on stocks. Here are 3 reasons why",
+      "title": "Nike shareholders reject transparency proposal as faith-based firm questions DEI commitments",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/09/oil-not-turning-cramer-bearish-on-stocks-why.html"
+      "url": "https://www.foxnews.com/outkick-sports/nike-shareholders-reject-transparency-proposal-faith-based-firm-questions-dei-commitments"
     },
     {
       "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/09/stock-market-today-live-updates.html"
+      "url": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html"
     },
     {
-      "title": "Malone Lam pleads guilty to $245M Bitcoin theft and lavish spending",
+      "title": "Glassnode analysts: Bitcoin needs to clear $86,000 as weak spot demand threatens its rally",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/malone-lam-guilty-245m-bitcoin-theft/"
+      "url": "https://www.notebookcheck.net/Glassnode-analysts-Bitcoin-needs-to-clear-86-000-as-weak-spot-demand-threatens-its-rally.1396049.0.html"
     },
     {
-      "title": "Kansas Resident Admits To Draining Over $30,000 From Multiple Bank Accounts in Maine",
+      "title": "Wyoming Bank Shuts Down Systems, Limits Account Access After Cybersecurity Incident",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/09/09/kansas-resident-admits-to-draining-over-30000-from-multiple-bank-accounts-in-maine/"
+      "url": "https://dailyhodl.com/2026/09/10/wyoming-bank-shuts-down-systems-limits-account-access-after-cybersecurity-incident/"
     },
     {
-      "title": "The Commodity Bull Market Just Entered a Dangerous New Phase",
+      "title": "Focus should be on price stability as supply shocks rise, says BIS chief Pablo Hernández de Cos",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Commodity-Bull-Market-Just-Entered-a-Dangerous-New-Phase.html"
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/focus-should-be-on-price-stability-as-supply-shocks-rise-says-bis-chief-pablo-hernndez-de-cos/articleshow/134027416.cms"
     },
     {
-      "title": "Bitcoin traders bet borrowed money on a rally as oil surges ahead of Friday’s inflation test",
+      "title": "$100M YouTube Lawyer Reveals How to Protect Your Channel in 2026 | 145",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/bitcoin-traders-bet-borrowed-money-on-a-rally-as-oil-surges-ahead-of-fridays-inflation-test/"
+      "url": "https://nathanbarry.com/100m-youtube-lawyer-reveals-how-to-protect-your-channel-in-2026-145/"
     },
     {
-      "title": "Breitbart Business Digest: The Blue-Collar Boom Inside Anthropic’s AI Model",
+      "title": "Trump keeps telling voters he doesn’t care much about affordability",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.breitbart.com/economy/2026/09/09/breitbart-business-digest-the-blue-collar-boom-inside-anthropics-ai-model/"
+      "url": "https://www.vox.com/politics/502567/trump-iran-gas-prices-republican-midterm-convention"
+    },
+    {
+      "title": "What a Fed rate hike actually means for the U.S. economy and inflation",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://biztoc.com/x/4f915730f461e576"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "7/30",
         "7/31",
         "8/3",
         "8/4",
@@ -107,10 +112,10 @@
         "9/4",
         "9/8",
         "9/9",
-        "9/10"
+        "9/10",
+        "9/11"
       ],
       "values": [
-        7437.63,
         7489.72,
         7600.5,
         7736.52,
@@ -139,12 +144,12 @@
         7718.6,
         7673.52,
         7636.36,
-        7591.7
+        7591.7,
+        7656.98
       ]
     },
     "gold": {
       "dates": [
-        "7/31",
         "8/3",
         "8/4",
         "8/5",
@@ -172,10 +177,10 @@
         "9/4",
         "9/8",
         "9/9",
-        "9/10"
+        "9/10",
+        "9/11"
       ],
       "values": [
-        4049.1,
         4033.7,
         4095.4,
         4245.8,
@@ -203,12 +208,12 @@
         4429.8,
         4393.9,
         4416.0,
-        4357.2
+        4364.5,
+        4390.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "7/31",
         "8/3",
         "8/4",
         "8/5",
@@ -237,10 +242,10 @@
         "9/7",
         "9/8",
         "9/9",
-        "9/10"
+        "9/10",
+        "9/11"
       ],
       "values": [
-        160.18,
         157.58,
         157.53,
         157.69,
@@ -269,12 +274,12 @@
         156.2,
         153.85,
         153.48,
-        154.39
+        153.57,
+        153.55
       ]
     },
     "nasdaq": {
       "dates": [
-        "7/30",
         "7/31",
         "8/3",
         "8/4",
@@ -303,10 +308,10 @@
         "9/4",
         "9/8",
         "9/9",
-        "9/10"
+        "9/10",
+        "9/11"
       ],
       "values": [
-        25122.18,
         25373.85,
         25913.9,
         26584.99,
@@ -335,7 +340,8 @@
         26506.99,
         26421.41,
         26253.34,
-        26081.72
+        26081.72,
+        26333.04
       ]
     }
   }
