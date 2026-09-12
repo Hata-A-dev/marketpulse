@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 22:51 UTC",
+  "updated_at": "2026-09-12 22:41 UTC",
   "prices": {
     "sp500": {
       "price": 7656.98,
@@ -10,8 +10,8 @@
       "change_pct": 0.96
     },
     "gold": {
-      "price": 4390.0,
-      "change_pct": 0.58
+      "price": 4366.2,
+      "change_pct": 0.04
     },
     "usdjpy": {
       "price": 153.55,
@@ -26,58 +26,52 @@
       "change_pct": 0.61
     },
     "btc": {
-      "price": 77037.0,
-      "change_pct": 0.61
+      "price": 77193.0,
+      "change_pct": 0.02
     }
   },
   "news": [
     {
-      "title": "Nike shareholders reject transparency proposal as faith-based firm questions DEI commitments",
+      "title": "Cramer’s week ahead: Falling oil could help stocks but Fed is the next big test",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.foxnews.com/outkick-sports/nike-shareholders-reject-transparency-proposal-faith-based-firm-questions-dei-commitments"
+      "url": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html"
     },
     {
-      "title": "Stock market today: Live updates",
+      "title": "How major US stock indexes fared Friday 9/11/2026",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html"
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-9112026-136375931"
     },
     {
-      "title": "Glassnode analysts: Bitcoin needs to clear $86,000 as weak spot demand threatens its rally",
+      "title": "1 Popular Cryptocurrency Cathie Wood of Ark Invest Sees Soaring in Value by 1,490%",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.notebookcheck.net/Glassnode-analysts-Bitcoin-needs-to-clear-86-000-as-weak-spot-demand-threatens-its-rally.1396049.0.html"
+      "url": "https://biztoc.com/x/a5ac8c82ef3974b0"
     },
     {
-      "title": "Wyoming Bank Shuts Down Systems, Limits Account Access After Cybersecurity Incident",
+      "title": "Coinbase CEO sees Bitcoin at $400,000, but first it has to clear $81,000",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/09/10/wyoming-bank-shuts-down-systems-limits-account-access-after-cybersecurity-incident/"
+      "url": "https://cryptoslate.com/coinbase-ceo-sees-bitcoin-at-400000-but-first-it-has-to-clear-81000/"
     },
     {
-      "title": "Focus should be on price stability as supply shocks rise, says BIS chief Pablo Hernández de Cos",
+      "title": "Self Custody Is Dead. Long Live Self Custody",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/focus-should-be-on-price-stability-as-supply-shocks-rise-says-bis-chief-pablo-hernndez-de-cos/articleshow/134027416.cms"
+      "url": "https://activistpost.com/self-custody-is-dead-long-live-self-custody/"
     },
     {
-      "title": "$100M YouTube Lawyer Reveals How to Protect Your Channel in 2026 | 145",
+      "title": "Is gold really a hedge against inflation?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://nathanbarry.com/100m-youtube-lawyer-reveals-how-to-protect-your-channel-in-2026-145/"
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/is-gold-a-hedge-against-inflation-174122603.html"
     },
     {
-      "title": "Trump keeps telling voters he doesn’t care much about affordability",
+      "title": "August was brutal for consumers. September could be worse",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.vox.com/politics/502567/trump-iran-gas-prices-republican-midterm-convention"
-    },
-    {
-      "title": "What a Fed rate hike actually means for the U.S. economy and inflation",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://biztoc.com/x/4f915730f461e576"
+      "url": "https://www.salon.com/2026/09/11/august-was-brutal-for-consumers-september-could-be-worse/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -209,7 +203,7 @@
         4393.9,
         4416.0,
         4364.5,
-        4390.0
+        4366.2
       ]
     },
     "usdjpy": {
