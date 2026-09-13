@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 22:41 UTC",
+  "updated_at": "2026-09-13 22:42 UTC",
   "prices": {
     "sp500": {
       "price": 7656.98,
@@ -10,12 +10,12 @@
       "change_pct": 0.96
     },
     "gold": {
-      "price": 4366.2,
-      "change_pct": 0.04
+      "price": 4376.6,
+      "change_pct": 0.24
     },
     "usdjpy": {
-      "price": 153.55,
-      "change_pct": -0.01
+      "price": 153.73,
+      "change_pct": -0.49
     },
     "vix": {
       "price": 15.84,
@@ -26,52 +26,52 @@
       "change_pct": 0.61
     },
     "btc": {
-      "price": 77193.0,
-      "change_pct": 0.02
+      "price": 76716.0,
+      "change_pct": -0.72
     }
   },
   "news": [
     {
-      "title": "Cramer’s week ahead: Falling oil could help stocks but Fed is the next big test",
+      "title": "X Layer’s xStocks assets near $100M market cap in under three months",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html"
+      "url": "https://cryptobriefing.com/x-layer-xstocks-100m-market-cap/"
     },
     {
-      "title": "How major US stock indexes fared Friday 9/11/2026",
+      "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-9112026-136375931"
+      "url": "https://biztoc.com/x/bc3ecc6dff1c92ae"
     },
     {
-      "title": "1 Popular Cryptocurrency Cathie Wood of Ark Invest Sees Soaring in Value by 1,490%",
+      "title": "Block, Inc (XYZ)’s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/a5ac8c82ef3974b0"
+      "url": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html"
     },
     {
-      "title": "Coinbase CEO sees Bitcoin at $400,000, but first it has to clear $81,000",
+      "title": "$1.2 Trillion DOGE Giveaway to Every American? Here’s the Jaw-Dropping Proposal From Dogecoin Co-Founder",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/coinbase-ceo-sees-bitcoin-at-400000-but-first-it-has-to-clear-81000/"
+      "url": "https://zycrypto.com/1-2-trillion-doge-giveaway-to-every-american-heres-the-jaw-dropping-proposal-from-dogecoin-co-founder/"
     },
     {
-      "title": "Self Custody Is Dead. Long Live Self Custody",
+      "title": "Where the Great Depression Hit America Hardest, Mapped",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://activistpost.com/self-custody-is-dead-long-live-self-custody/"
+      "url": "https://www.mentalfloss.com/money/where-great-depression-hit-america-hardest-mapped"
     },
     {
-      "title": "Is gold really a hedge against inflation?",
+      "title": "‘It is important to allow markets to give their natural signal’",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/is-gold-a-hedge-against-inflation-174122603.html"
+      "url": "https://www.thehindubusinessline.com/portfolio/big-story/it-is-important-to-allow-markets-to-give-their-natural-signal/article71459285.ece"
     },
     {
-      "title": "August was brutal for consumers. September could be worse",
+      "title": "Saudi Pipeline Attacked, Diesel at $6: The Fuel Crisis That Could Upend Economy",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.salon.com/2026/09/11/august-was-brutal-for-consumers-september-could-be-worse/"
+      "url": "https://offgridsurvival.com/saudi-pipeline-attacked-diesel-at-6-the-fuel-crisis-that-could-upend-economy/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -172,7 +172,8 @@
         "9/8",
         "9/9",
         "9/10",
-        "9/11"
+        "9/11",
+        "9/13"
       ],
       "values": [
         4033.7,
@@ -203,12 +204,12 @@
         4393.9,
         4416.0,
         4364.5,
-        4366.2
+        4366.2,
+        4376.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/3",
         "8/4",
         "8/5",
         "8/6",
@@ -237,10 +238,10 @@
         "9/8",
         "9/9",
         "9/10",
-        "9/11"
+        "9/11",
+        "9/13"
       ],
       "values": [
-        157.58,
         157.53,
         157.69,
         157.6,
@@ -269,7 +270,8 @@
         153.85,
         153.48,
         153.57,
-        153.55
+        154.48,
+        153.76
       ]
     },
     "nasdaq": {
