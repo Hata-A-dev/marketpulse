@@ -1,86 +1,89 @@
 {
-  "updated_at": "2026-09-14 23:33 UTC",
+  "updated_at": "2026-09-15 23:15 UTC",
   "prices": {
     "sp500": {
-      "price": 7619.98,
-      "change_pct": -0.48
+      "price": 7585.73,
+      "change_pct": -0.45
     },
     "nasdaq": {
-      "price": 26186.41,
-      "change_pct": -0.56
+      "price": 25981.57,
+      "change_pct": -0.78
+    },
+    "gold": {
+      "price": 4325.8,
+      "change_pct": -0.6
     },
     "usdjpy": {
-      "price": 154.43,
-      "change_pct": 0.66
+      "price": 155.19,
+      "change_pct": 0.52
     },
     "vix": {
-      "price": 17.1,
-      "change_pct": 7.95
+      "price": 17.2,
+      "change_pct": 0.58
     },
     "usbond": {
-      "price": 4.96,
-      "change_pct": -0.2
+      "price": 5.0,
+      "change_pct": 0.81
     },
     "btc": {
-      "price": 78303.0,
-      "change_pct": 1.91
+      "price": 75842.0,
+      "change_pct": -2.97
     }
   },
   "news": [
     {
-      "title": "Stocks are in a late-stage bubble and poised to crash 21% next year, while Treasury yields above 5% will signal a new era of tight money, analysts say",
+      "title": "Jim Cramer explains why the stock market avoided a dramatic sell-off on AI concerns",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/a505731d591b6672"
+      "url": "https://www.cnbc.com/2026/09/14/jim-cramer-wall-street-monday-rebound.html"
     },
     {
-      "title": "Stock futures today: Live updates",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html"
+      "url": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html"
     },
     {
-      "title": "Symbiosis recovers 15 BTC after Bitcoin Bridge exploit, offers attacker 20% bounty",
+      "title": "Pakistan’s Crypto Pitch: “Come Build Here” as Virtual Assets Act Moves Forward",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/symbiosis-bitcoin-bridge-exploit-bounty-recovery/"
+      "url": "https://activistpost.com/pakistans-crypto-pitch-come-build-here-as-virtual-assets-act-moves-forward/"
     },
     {
-      "title": "10-Year-Old Bitcoin Holdings Stir as Whale Moves 1,260 BTC With 12,000% Gain",
+      "title": "17 State Attorneys General Put the Clarity Act in Their Crosshairs After Senators Release New Version of Crypto Bill",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/10-year-old-bitcoin-holdings-stir-as-whale-moves-1260-btc-with-12000-gain/"
+      "url": "https://dailyhodl.com/2026/09/14/17-state-attorneys-general-put-the-clarity-act-in-their-crosshairs-after-senators-release-new-version-of-crypto-bill/"
     },
     {
-      "title": "Bessent is doubling down with weekly bank sanctions",
+      "title": "Cosmos Health Plans Tokenized IP Financing for CCX0722",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/economy/bessent-is-doubling-down-with-weekly-bank-sanctions"
+      "url": "https://www.stocktitan.net/news/COSM/cosmos-health-moves-to-tokenize-ccx0722-intellectual-property-in-qvg8um09gyhg.html"
     },
     {
-      "title": "All that glitters... in jewellers’ IPO boom",
+      "title": " Y! Sports Biz: Political football season",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/specials/corporate-file/all-that-glitters-in-jewellers-ipo-boom/article71463582.ece"
+      "url": "https://sports.yahoo.com/articles/y-sports-biz-political-football-153712590.html"
     },
     {
-      "title": "Shares skid in Asia as oil rises, rate hikes loom",
+      "title": "$100 Oil Puts Central Banks Back on Inflation Alert",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/shares-skid-in-asia-oil-rises-rate-hikes-loom-6382051"
+      "url": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Central-Banks-Back-on-Inflation-Alert.html"
     },
     {
-      "title": "Bitcoin Faces 87% Fed Hike Odds Wednesday: Will Treasury Save the Rally?",
+      "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://beincrypto.com/bitcoin-fed-rate-hike-odds-wednesday/"
+      "url": "https://lufkindailynews.com/news_reuters/business/wall-street-ends-down-calls-for-ai-slowdown-pummel-chipmakers/article_53eefe50-8f73-5cc8-8805-edb706159931.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/3",
         "8/4",
         "8/5",
         "8/6",
@@ -109,10 +112,10 @@
         "9/9",
         "9/10",
         "9/11",
-        "9/14"
+        "9/14",
+        "9/15"
       ],
       "values": [
-        7600.5,
         7736.52,
         7723.55,
         7709.96,
@@ -141,12 +144,12 @@
         7636.36,
         7591.7,
         7656.98,
-        7619.98
+        7619.98,
+        7585.73
       ]
     },
     "gold": {
       "dates": [
-        "8/4",
         "8/5",
         "8/6",
         "8/7",
@@ -174,43 +177,43 @@
         "9/9",
         "9/10",
         "9/11",
-        "9/14"
+        "9/14",
+        "9/15"
       ],
       "values": [
-        4095.4,
-        4245.8,
-        4242.0,
-        4340.7,
-        4361.8,
-        4383.0,
+        4305.2,
+        4299.6,
+        4399.7,
+        4419.7,
+        4441.1,
+        4467.5,
+        4420.4,
+        4437.3,
+        4473.7,
+        4420.6,
+        4545.3,
+        4571.4,
+        4680.6,
+        4697.8,
+        4694.5,
+        4653.3,
+        4664.0,
+        4529.9,
+        4481.5,
+        4396.4,
+        4414.6,
+        4539.9,
+        4476.6,
+        4439.0,
+        4460.7,
+        4407.3,
         4408.9,
-        4363.6,
-        4380.4,
-        4417.8,
-        4366.0,
-        4489.4,
-        4516.3,
-        4624.1,
-        4640.8,
-        4638.1,
-        4598.2,
-        4609.7,
-        4478.1,
-        4431.1,
-        4348.0,
-        4366.3,
-        4491.7,
-        4429.8,
-        4393.9,
-        4416.0,
-        4364.5,
-        4408.9,
-        4329.8
+        4351.9,
+        4325.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/5",
         "8/6",
         "8/7",
         "8/10",
@@ -239,10 +242,10 @@
         "9/10",
         "9/11",
         "9/14",
-        "9/15"
+        "9/15",
+        "9/16"
       ],
       "values": [
-        157.69,
         157.6,
         158.41,
         157.89,
@@ -271,12 +274,12 @@
         153.57,
         154.48,
         153.42,
-        154.43
+        154.38,
+        155.19
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/3",
         "8/4",
         "8/5",
         "8/6",
@@ -305,10 +308,10 @@
         "9/9",
         "9/10",
         "9/11",
-        "9/14"
+        "9/14",
+        "9/15"
       ],
       "values": [
-        25913.9,
         26584.99,
         26363.44,
         26348.35,
@@ -337,7 +340,8 @@
         26253.34,
         26081.72,
         26333.04,
-        26186.41
+        26186.41,
+        25981.57
       ]
     }
   }
