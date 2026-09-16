@@ -1,90 +1,83 @@
 {
-  "updated_at": "2026-09-15 23:15 UTC",
+  "updated_at": "2026-09-16 23:19 UTC",
   "prices": {
     "sp500": {
-      "price": 7585.73,
+      "price": 7551.81,
       "change_pct": -0.45
     },
     "nasdaq": {
-      "price": 25981.57,
-      "change_pct": -0.78
+      "price": 25978.42,
+      "change_pct": -0.01
     },
     "gold": {
-      "price": 4325.8,
-      "change_pct": -0.6
+      "price": 4302.3,
+      "change_pct": -0.7
     },
     "usdjpy": {
-      "price": 155.19,
-      "change_pct": 0.52
-    },
-    "vix": {
-      "price": 17.2,
+      "price": 156.17,
       "change_pct": 0.58
     },
+    "vix": {
+      "price": 17.71,
+      "change_pct": 2.97
+    },
     "usbond": {
-      "price": 5.0,
-      "change_pct": 0.81
+      "price": 5.01,
+      "change_pct": 0.2
     },
     "btc": {
-      "price": 75842.0,
-      "change_pct": -2.97
+      "price": 75983.0,
+      "change_pct": 0.49
     }
   },
   "news": [
     {
-      "title": "Jim Cramer explains why the stock market avoided a dramatic sell-off on AI concerns",
+      "title": "Falls More Steeply Than Broader Market: What Investors Need to Know",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/14/jim-cramer-wall-street-monday-rebound.html"
+      "url": "https://biztoc.com/x/47a4a5bd5fbbb619"
     },
     {
       "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html"
+      "url": "https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html"
     },
     {
-      "title": "Pakistan’s Crypto Pitch: “Come Build Here” as Virtual Assets Act Moves Forward",
+      "title": "Crypto industry’s effort to reshape US financial system stalls after bipartisan Senate opposition",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://activistpost.com/pakistans-crypto-pitch-come-build-here-as-virtual-assets-act-moves-forward/"
+      "url": "https://cryptobriefing.com/crypto-clarity-act-fails-senate-vote/"
     },
     {
-      "title": "17 State Attorneys General Put the Clarity Act in Their Crosshairs After Senators Release New Version of Crypto Bill",
+      "title": "Why is the far-right embracing crypto?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/09/14/17-state-attorneys-general-put-the-clarity-act-in-their-crosshairs-after-senators-release-new-version-of-crypto-bill/"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto"
     },
     {
-      "title": "Cosmos Health Plans Tokenized IP Financing for CCX0722",
+      "title": "Kalshi’s AI Compute Price Tracker Reportedly Pulled Over National Security Concerns",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.stocktitan.net/news/COSM/cosmos-health-moves-to-tokenize-ccx0722-intellectual-property-in-qvg8um09gyhg.html"
+      "url": "https://gizmodo.com/kalshis-ai-compute-price-tracker-reportedly-pulled-over-national-security-concerns-2000812005"
     },
     {
-      "title": " Y! Sports Biz: Political football season",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://sports.yahoo.com/articles/y-sports-biz-political-football-153712590.html"
+      "url": "https://english.khabarhub.com/2026/15/567935/"
     },
     {
-      "title": "$100 Oil Puts Central Banks Back on Inflation Alert",
+      "title": "Iran war driving up inflation for Americans, CBO report says",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Central-Banks-Back-on-Inflation-Alert.html"
-    },
-    {
-      "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://lufkindailynews.com/news_reuters/business/wall-street-ends-down-calls-for-ai-slowdown-pummel-chipmakers/article_53eefe50-8f73-5cc8-8805-edb706159931.html"
+      "url": "https://freerepublic.com/focus/f-news/4395671/posts"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/4",
         "8/5",
         "8/6",
         "8/7",
@@ -113,10 +106,10 @@
         "9/10",
         "9/11",
         "9/14",
-        "9/15"
+        "9/15",
+        "9/16"
       ],
       "values": [
-        7736.52,
         7723.55,
         7709.96,
         7757.64,
@@ -145,12 +138,12 @@
         7591.7,
         7656.98,
         7619.98,
-        7585.73
+        7585.73,
+        7551.81
       ]
     },
     "gold": {
       "dates": [
-        "8/5",
         "8/6",
         "8/7",
         "8/10",
@@ -178,10 +171,10 @@
         "9/10",
         "9/11",
         "9/14",
-        "9/15"
+        "9/15",
+        "9/16"
       ],
       "values": [
-        4305.2,
         4299.6,
         4399.7,
         4419.7,
@@ -209,12 +202,12 @@
         4407.3,
         4408.9,
         4351.9,
-        4325.9
+        4332.8,
+        4302.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/6",
         "8/7",
         "8/10",
         "8/11",
@@ -243,10 +236,10 @@
         "9/11",
         "9/14",
         "9/15",
-        "9/16"
+        "9/16",
+        "9/17"
       ],
       "values": [
-        157.6,
         158.41,
         157.89,
         159.16,
@@ -275,12 +268,12 @@
         154.48,
         153.42,
         154.38,
-        155.19
+        155.27,
+        156.17
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/4",
         "8/5",
         "8/6",
         "8/7",
@@ -309,10 +302,10 @@
         "9/10",
         "9/11",
         "9/14",
-        "9/15"
+        "9/15",
+        "9/16"
       ],
       "values": [
-        26584.99,
         26363.44,
         26348.35,
         26690.62,
@@ -341,7 +334,8 @@
         26081.72,
         26333.04,
         26186.41,
-        25981.57
+        25981.57,
+        25978.42
       ]
     }
   }
