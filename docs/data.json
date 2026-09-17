@@ -1,84 +1,89 @@
 {
-  "updated_at": "2026-09-16 23:19 UTC",
+  "updated_at": "2026-09-17 23:11 UTC",
   "prices": {
     "sp500": {
-      "price": 7551.81,
-      "change_pct": -0.45
+      "price": 7637.76,
+      "change_pct": 1.14
     },
     "nasdaq": {
-      "price": 25978.42,
-      "change_pct": -0.01
+      "price": 26418.3,
+      "change_pct": 1.69
     },
     "gold": {
-      "price": 4302.3,
-      "change_pct": -0.7
+      "price": 4380.6,
+      "change_pct": -0.16
     },
     "usdjpy": {
-      "price": 156.17,
-      "change_pct": 0.58
+      "price": 155.9,
+      "change_pct": -0.07
     },
     "vix": {
-      "price": 17.71,
-      "change_pct": 2.97
+      "price": 15.44,
+      "change_pct": -12.82
     },
     "usbond": {
-      "price": 5.01,
-      "change_pct": 0.2
+      "price": 4.95,
+      "change_pct": -1.2
     },
     "btc": {
-      "price": 75983.0,
-      "change_pct": 0.49
+      "price": 76390.0,
+      "change_pct": 0.32
     }
   },
   "news": [
     {
-      "title": "Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "title": "Jim Cramer warns that buying stocks now means 'fighting the Federal Reserve'",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/47a4a5bd5fbbb619"
+      "url": "https://www.cnbc.com/2026/09/16/jim-cramer-federal-reserve-rate-hike.html"
     },
     {
       "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html"
+      "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html"
     },
     {
-      "title": "Crypto industry’s effort to reshape US financial system stalls after bipartisan Senate opposition",
+      "title": "Trump appointees push for stricter crypto oversight amid dimming legislation hopes",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/crypto-clarity-act-fails-senate-vote/"
+      "url": "https://cryptobriefing.com/trump-appointees-push-for-stricter-crypto-oversight-amid-dimming-legislation/"
     },
     {
-      "title": "Why is the far-right embracing crypto?",
+      "title": "Dollar rises after Fed hikes rates in bid to counter inflation",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dollar-rises-after-fed-hikes-rates-in-bid-to-counter-inflation/articleshow/134296325.cms"
     },
     {
-      "title": "Kalshi’s AI Compute Price Tracker Reportedly Pulled Over National Security Concerns",
+      "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://gizmodo.com/kalshis-ai-compute-price-tracker-reportedly-pulled-over-national-security-concerns-2000812005"
+      "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "The White Whale: A Tale of Toil and Freedom",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/15/567935/"
+      "url": "https://crimethinc.com/2026/09/16/the-white-whale-a-tale-of-toil-and-freedom"
     },
     {
-      "title": "Iran war driving up inflation for Americans, CBO report says",
+      "title": "Hong Kong Monetary Authority raises interest rates, tracking Fed move",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://freerepublic.com/focus/f-news/4395671/posts"
+      "url": "https://www.channelnewsasia.com/business/hong-kong-monetary-authority-raises-interest-rates-tracking-fed-move-6390456"
+    },
+    {
+      "title": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.aljazeera.com/news/2026/9/16/what-to-know-about-us-federal-reserves-first-interest-rate-hike-in-3-years"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/5",
         "8/6",
         "8/7",
         "8/10",
@@ -107,10 +112,10 @@
         "9/11",
         "9/14",
         "9/15",
-        "9/16"
+        "9/16",
+        "9/17"
       ],
       "values": [
-        7723.55,
         7709.96,
         7757.64,
         7753.11,
@@ -139,12 +144,12 @@
         7656.98,
         7619.98,
         7585.73,
-        7551.81
+        7551.81,
+        7637.76
       ]
     },
     "gold": {
       "dates": [
-        "8/6",
         "8/7",
         "8/10",
         "8/11",
@@ -172,10 +177,10 @@
         "9/11",
         "9/14",
         "9/15",
-        "9/16"
+        "9/16",
+        "9/17"
       ],
       "values": [
-        4299.6,
         4399.7,
         4419.7,
         4441.1,
@@ -203,12 +208,12 @@
         4408.9,
         4351.9,
         4332.8,
-        4302.9
+        4387.5,
+        4380.7
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/7",
         "8/10",
         "8/11",
         "8/12",
@@ -237,10 +242,10 @@
         "9/14",
         "9/15",
         "9/16",
-        "9/17"
+        "9/17",
+        "9/18"
       ],
       "values": [
-        158.41,
         157.89,
         159.16,
         159.26,
@@ -269,12 +274,12 @@
         153.42,
         154.38,
         155.27,
-        156.17
+        156.01,
+        155.91
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/5",
         "8/6",
         "8/7",
         "8/10",
@@ -303,10 +308,10 @@
         "9/11",
         "9/14",
         "9/15",
-        "9/16"
+        "9/16",
+        "9/17"
       ],
       "values": [
-        26363.44,
         26348.35,
         26690.62,
         26605.36,
@@ -335,7 +340,8 @@
         26333.04,
         26186.41,
         25981.57,
-        25978.42
+        25978.43,
+        26418.3
       ]
     }
   }
