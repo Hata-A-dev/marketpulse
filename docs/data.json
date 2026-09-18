@@ -1,90 +1,89 @@
 {
-  "updated_at": "2026-09-17 23:11 UTC",
+  "updated_at": "2026-09-18 22:53 UTC",
   "prices": {
     "sp500": {
-      "price": 7637.76,
-      "change_pct": 1.14
+      "price": 7650.5,
+      "change_pct": 0.17
     },
     "nasdaq": {
-      "price": 26418.3,
-      "change_pct": 1.69
+      "price": 26522.54,
+      "change_pct": 0.39
     },
     "gold": {
-      "price": 4380.6,
-      "change_pct": -0.16
+      "price": 4415.9,
+      "change_pct": 0.37
     },
     "usdjpy": {
-      "price": 155.9,
-      "change_pct": -0.07
+      "price": 156.85,
+      "change_pct": 0.54
     },
     "vix": {
-      "price": 15.44,
-      "change_pct": -12.82
+      "price": 14.81,
+      "change_pct": -4.08
     },
     "usbond": {
-      "price": 4.95,
-      "change_pct": -1.2
+      "price": 5.0,
+      "change_pct": 1.01
     },
     "btc": {
-      "price": 76390.0,
-      "change_pct": 0.32
+      "price": 81095.0,
+      "change_pct": 6.14
     }
   },
   "news": [
     {
-      "title": "Jim Cramer warns that buying stocks now means 'fighting the Federal Reserve'",
+      "title": "Stocks and bonds rally after Fed hikes rates and oil prices fall - NBC News",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/16/jim-cramer-federal-reserve-rate-hike.html"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185685060"
     },
     {
-      "title": "Stock market today: Live updates",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq rise as tech rallies; Treasury yields ease as stocks recover from Fed-sparked selloff - MarketWatch",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185684550"
     },
     {
-      "title": "Trump appointees push for stricter crypto oversight amid dimming legislation hopes",
+      "title": "Billionaire Stanley Druckenmiller Abruptly Dumps $61,000,000 of AI Infrastructure Asset, Boosts Stake In Amazon by More Than 1,000%",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/trump-appointees-push-for-stricter-crypto-oversight-amid-dimming-legislation/"
+      "url": "https://dailyhodl.com/2026/09/17/billionaire-stanley-druckenmiller-abruptly-dumps-61000000-of-ai-infrastructure-asset-boosts-stake-in-amazon-by-more-than-1000/"
     },
     {
-      "title": "Dollar rises after Fed hikes rates in bid to counter inflation",
+      "title": "Senate rejection of crypto bill dims Bitcoin’s $200K outlook by 2026",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dollar-rises-after-fed-hikes-rates-in-bid-to-counter-inflation/articleshow/134296325.cms"
+      "url": "https://cryptobriefing.com/senate-rejection-of-crypto-bill-dims-bitcoins-200k-outlook-by-2026/"
     },
     {
-      "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
+      "title": "13 people arrested after being caught stealing $250K of chicken from semi-trailer, officials say",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right"
+      "url": "https://freerepublic.com/focus/f-chat/4395941/posts"
     },
     {
-      "title": "The White Whale: A Tale of Toil and Freedom",
+      "title": "US stocks today: US stocks rebound as tech rally gains momentum on easing oil, yields",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://crimethinc.com/2026/09/16/the-white-whale-a-tale-of-toil-and-freedom"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-rebound-as-tech-rally-gains-momentum-on-easing-oil-yields/articleshow/134320980.cms"
     },
     {
-      "title": "Hong Kong Monetary Authority raises interest rates, tracking Fed move",
+      "title": "Bank of England keeps rates at 4% as inflation looms",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/hong-kong-monetary-authority-raises-interest-rates-tracking-fed-move-6390456"
+      "url": "https://www.qatar-tribune.com/article/254527/business/bank-of-england-keeps-rates-at-4-as-inflation-looms"
     },
     {
-      "title": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
+      "title": "HDB ALERT: HAGENS BERMAN, NATIONAL TRIAL ATTORNEYS, Encourages HDFC Bank Limited (NYSE: HDB) Investors to Contact its Legal Team Regarding Securities Fraud Class Action Lawsuit",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.aljazeera.com/news/2026/9/16/what-to-know-about-us-federal-reserves-first-interest-rate-hike-in-3-years"
+      "url": "https://www.prnewswire.com/news-releases/hdb-alert-hagens-berman-national-trial-attorneys-encourages-hdfc-bank-limited-nyse-hdb-investors-to-contact-its-legal-team-regarding-securities-fraud-class-action-lawsuit-302882631.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/6",
         "8/7",
         "8/10",
         "8/11",
@@ -113,10 +112,10 @@
         "9/14",
         "9/15",
         "9/16",
-        "9/17"
+        "9/17",
+        "9/18"
       ],
       "values": [
-        7709.96,
         7757.64,
         7753.11,
         7728.2,
@@ -145,12 +144,12 @@
         7619.98,
         7585.73,
         7551.81,
-        7637.76
+        7637.76,
+        7650.5
       ]
     },
     "gold": {
       "dates": [
-        "8/7",
         "8/10",
         "8/11",
         "8/12",
@@ -178,10 +177,10 @@
         "9/14",
         "9/15",
         "9/16",
-        "9/17"
+        "9/17",
+        "9/18"
       ],
       "values": [
-        4399.7,
         4419.7,
         4441.1,
         4467.5,
@@ -209,7 +208,8 @@
         4351.9,
         4332.8,
         4387.5,
-        4380.7
+        4399.7,
+        4415.9
       ]
     },
     "usdjpy": {
@@ -275,12 +275,11 @@
         154.38,
         155.27,
         156.01,
-        155.91
+        156.85
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/6",
         "8/7",
         "8/10",
         "8/11",
@@ -309,10 +308,10 @@
         "9/14",
         "9/15",
         "9/16",
-        "9/17"
+        "9/17",
+        "9/18"
       ],
       "values": [
-        26348.35,
         26690.62,
         26605.36,
         26445.45,
@@ -341,7 +340,8 @@
         26186.41,
         25981.57,
         25978.43,
-        26418.3
+        26418.3,
+        26522.54
       ]
     }
   }
