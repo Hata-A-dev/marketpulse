@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18 22:53 UTC",
+  "updated_at": "2026-09-19 22:32 UTC",
   "prices": {
     "sp500": {
       "price": 7650.5,
@@ -10,12 +10,12 @@
       "change_pct": 0.39
     },
     "gold": {
-      "price": 4415.9,
-      "change_pct": 0.37
+      "price": 4424.9,
+      "change_pct": 0.57
     },
     "usdjpy": {
       "price": 156.85,
-      "change_pct": 0.54
+      "change_pct": 0.46
     },
     "vix": {
       "price": 14.81,
@@ -26,58 +26,52 @@
       "change_pct": 1.01
     },
     "btc": {
-      "price": 81095.0,
-      "change_pct": 6.14
+      "price": 81070.0,
+      "change_pct": 0.21
     }
   },
   "news": [
     {
-      "title": "Stocks and bonds rally after Fed hikes rates and oil prices fall - NBC News",
+      "title": "Ottawa’s ‘mega deduction’ tax write-off could boost these TSX stocks, analysts say",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185685060"
+      "url": "https://financialpost.com/investing/tax-write-off-boost-tsx-stocks"
     },
     {
-      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq rise as tech rallies; Treasury yields ease as stocks recover from Fed-sparked selloff - MarketWatch",
+      "title": "Wall Street drifts lower as bond yields rise and oil prices swing",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185684550"
+      "url": "https://www.boston25news.com/news/business/asian-shares-mostly/ESN55GTH7Q2URFSOW3YA2KFXBA/"
     },
     {
-      "title": "Billionaire Stanley Druckenmiller Abruptly Dumps $61,000,000 of AI Infrastructure Asset, Boosts Stake In Amazon by More Than 1,000%",
+      "title": "US stocks today: US stocks slip as higher Treasury yields weigh on sentiment",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/09/17/billionaire-stanley-druckenmiller-abruptly-dumps-61000000-of-ai-infrastructure-asset-boosts-stake-in-amazon-by-more-than-1000/"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-mixed-as-oil-takes-a-pause/articleshow/134343677.cms"
     },
     {
-      "title": "Senate rejection of crypto bill dims Bitcoin’s $200K outlook by 2026",
+      "title": "Heavy Bitcoin ETF Hedging Could Fuel Bigger Rally Than Gold: Walter Bloomberg",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/senate-rejection-of-crypto-bill-dims-bitcoins-200k-outlook-by-2026/"
+      "url": "https://zycrypto.com/heavy-bitcoin-etf-hedging-could-fuel-bigger-rally-than-gold-walter-bloomberg/"
     },
     {
-      "title": "13 people arrested after being caught stealing $250K of chicken from semi-trailer, officials say",
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://freerepublic.com/focus/f-chat/4395941/posts"
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"
     },
     {
-      "title": "US stocks today: US stocks rebound as tech rally gains momentum on easing oil, yields",
+      "title": "Mr. Robot’s Ecoin Comes to Life Via Wall Street’s New Blockchain",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-rebound-as-tech-rally-gains-momentum-on-easing-oil-yields/articleshow/134320980.cms"
+      "url": "https://gizmodo.com/mr-robots-ecoin-comes-to-life-via-wall-streets-new-blockchain-2000813297"
     },
     {
-      "title": "Bank of England keeps rates at 4% as inflation looms",
+      "title": "Trump’s Latest Trade Threat Would Throw America Into A Massive Recession",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.qatar-tribune.com/article/254527/business/bank-of-england-keeps-rates-at-4-as-inflation-looms"
-    },
-    {
-      "title": "HDB ALERT: HAGENS BERMAN, NATIONAL TRIAL ATTORNEYS, Encourages HDFC Bank Limited (NYSE: HDB) Investors to Contact its Legal Team Regarding Securities Fraud Class Action Lawsuit",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/hdb-alert-hagens-berman-national-trial-attorneys-encourages-hdfc-bank-limited-nyse-hdb-investors-to-contact-its-legal-team-regarding-securities-fraud-class-action-lawsuit-302882631.html"
+      "url": "https://www.huffpost.com/entry/trump-trade-threat-recession_n_6aac5984e4b05a5eaee47873"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -209,12 +203,11 @@
         4332.8,
         4387.5,
         4399.7,
-        4415.9
+        4424.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/10",
         "8/11",
         "8/12",
         "8/13",
@@ -243,10 +236,10 @@
         "9/15",
         "9/16",
         "9/17",
-        "9/18"
+        "9/18",
+        "9/19"
       ],
       "values": [
-        157.89,
         159.16,
         159.26,
         159.33,
@@ -275,6 +268,7 @@
         154.38,
         155.27,
         156.01,
+        156.13,
         156.85
       ]
     },
