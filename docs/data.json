@@ -1,90 +1,85 @@
 {
-  "updated_at": "2026-09-20 22:46 UTC",
+  "updated_at": "2026-09-21 23:42 UTC",
   "prices": {
     "sp500": {
-      "price": 7650.5,
-      "change_pct": 0.17
+      "price": 7764.7,
+      "change_pct": 1.49
     },
     "nasdaq": {
-      "price": 26522.54,
-      "change_pct": 0.39
-    },
-    "gold": {
-      "price": 4414.1,
-      "change_pct": -0.24
+      "price": 27122.09,
+      "change_pct": 2.26
     },
     "usdjpy": {
-      "price": 156.98,
-      "change_pct": 0.54
+      "price": 157.35,
+      "change_pct": 0.19
     },
     "vix": {
-      "price": 14.81,
-      "change_pct": -4.08
+      "price": 14.87,
+      "change_pct": 0.41
     },
     "usbond": {
-      "price": 5.0,
-      "change_pct": 1.01
+      "price": 4.96,
+      "change_pct": -0.8
     },
     "btc": {
-      "price": 81171.0,
-      "change_pct": -0.08
+      "price": 86445.0,
+      "change_pct": 6.53
     }
   },
   "news": [
     {
-      "title": "America has more 401(k) millionaires than ever before. But if you've been left behind, these are the secrets to transforming your wealth",
+      "title": "US stock futures edge higher as traders brace for high-stakes China talks",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.dailymail.com/yourmoney/article-16130651/america-401k-millionaires-wealth-secrets.html"
+      "url": "https://cryptobriefing.com/us-stock-futures-rise-china-trade-talks/"
     },
     {
-      "title": "Treasury yields are blowing up CBO forecasts, and experts who downplayed US debt fears are worried - Fortune",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185709548"
+      "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html"
     },
     {
-      "title": "Cathie Wood sends bullish Bitcoin response to 'dead cat' warning",
+      "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/81dd9899cd6f424b"
+      "url": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express"
     },
     {
-      "title": "Shark Tank Star Kevin O’Leary Sets $1 Million Bitcoin Target — But There’s One Quantum Computing Hurdle",
+      "title": "Coinbase CEO Reveals Why Bitcoin Could Rise To $400,000 By 2030",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/shark-tank-star-kevin-oleary-sets-1-million-bitcoin-target-but-theres-one-quantum-computing-hurdle/"
+      "url": "https://zycrypto.com/coinbase-ceo-reveals-why-bitcoin-could-rise-to-400000-by-2030/"
     },
     {
-      "title": "Living near a Costco may increase your home value — but it depends on where you live",
+      "title": "The Amazon does not need new masters",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.realtor.com/news/trends/living-near-costco-home-value/"
+      "url": "https://theecologist.org/2026/sep/21/amazon-does-not-need-new-masters"
     },
     {
-      "title": "Mitt Romney warned a billionaire tax triggers demand for 2 assets — now California decides. Get in before the super-rich",
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 20, 2026",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/economy/policy/articles/mitt-romney-warned-billionaire-tax-122500287.html"
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-20-2026/"
     },
     {
-      "title": "XRP ETFs Have Been Frozen at $1.71 Billion. When Will Inflows Reach $2 Billion?",
+      "title": "Bitcoin Holds $80K Range as Traders Price in 90% Odds of September Rate Hike",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/19/xrp-etfs-have-been-frozen-at-1-71-billion-when-will-inflows-reach-2-billion/"
+      "url": "https://zycrypto.com/bitcoin-holds-80k-range-as-traders-price-in-90-odds-of-september-rate-hike/"
     },
     {
-      "title": "Ultimate betrayal: A hand-picked Trump appointee just blew up his agenda",
+      "title": "Federal Reserve raises rates for first time since 2023, putting corporate treasurers back to work",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/25e9348a24494340"
+      "url": "https://cryptobriefing.com/fed-rate-hike-2026-corporate-treasurers-investments/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/7",
         "8/10",
         "8/11",
         "8/12",
@@ -113,10 +108,10 @@
         "9/15",
         "9/16",
         "9/17",
-        "9/18"
+        "9/18",
+        "9/21"
       ],
       "values": [
-        7757.64,
         7753.11,
         7728.2,
         7748.5,
@@ -145,12 +140,12 @@
         7585.73,
         7551.81,
         7637.76,
-        7650.5
+        7650.5,
+        7764.7
       ]
     },
     "gold": {
       "dates": [
-        "8/10",
         "8/11",
         "8/12",
         "8/13",
@@ -179,10 +174,9 @@
         "9/16",
         "9/17",
         "9/18",
-        "9/20"
+        "9/21"
       ],
       "values": [
-        4419.7,
         4441.1,
         4467.5,
         4420.4,
@@ -211,12 +205,11 @@
         4387.5,
         4399.7,
         4424.9,
-        4414.1
+        4395.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/11",
         "8/12",
         "8/13",
         "8/14",
@@ -245,10 +238,10 @@
         "9/16",
         "9/17",
         "9/18",
-        "9/20"
+        "9/21",
+        "9/22"
       ],
       "values": [
-        159.16,
         159.26,
         159.33,
         159.43,
@@ -277,12 +270,12 @@
         155.27,
         156.01,
         156.13,
-        156.98
+        157.05,
+        157.34
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/7",
         "8/10",
         "8/11",
         "8/12",
@@ -311,10 +304,10 @@
         "9/15",
         "9/16",
         "9/17",
-        "9/18"
+        "9/18",
+        "9/21"
       ],
       "values": [
-        26690.62,
         26605.36,
         26445.45,
         26588.49,
@@ -343,7 +336,8 @@
         25981.57,
         25978.43,
         26418.3,
-        26522.54
+        26522.54,
+        27122.09
       ]
     }
   }
