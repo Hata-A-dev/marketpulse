@@ -1,86 +1,83 @@
 {
-  "updated_at": "2026-09-21 23:42 UTC",
+  "updated_at": "2026-09-22 23:20 UTC",
   "prices": {
     "sp500": {
-      "price": 7764.7,
-      "change_pct": 1.49
+      "price": 7764.64,
+      "change_pct": -0.0
     },
     "nasdaq": {
-      "price": 27122.09,
-      "change_pct": 2.26
+      "price": 27244.28,
+      "change_pct": 0.45
+    },
+    "gold": {
+      "price": 4402.2,
+      "change_pct": 0.42
     },
     "usdjpy": {
-      "price": 157.35,
-      "change_pct": 0.19
+      "price": 157.44,
+      "change_pct": 0.04
     },
     "vix": {
-      "price": 14.87,
-      "change_pct": 0.41
+      "price": 14.21,
+      "change_pct": -4.44
     },
     "usbond": {
-      "price": 4.96,
-      "change_pct": -0.8
+      "price": 4.97,
+      "change_pct": 0.2
     },
     "btc": {
-      "price": 86445.0,
-      "change_pct": 6.53
+      "price": 86313.0,
+      "change_pct": -0.33
     }
   },
   "news": [
     {
-      "title": "US stock futures edge higher as traders brace for high-stakes China talks",
+      "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-stock-futures-rise-china-trade-talks/"
+      "url": "https://biztoc.com/x/6857e1701a1fbec2"
     },
     {
-      "title": "Stock market today: Live updates",
-      "tag": "株式",
-      "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html"
-    },
-    {
-      "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
+      "title": "Hackers are hiding malware on blockchains that are nearly impossible to take down, and unrestricted AI models have pushed these attacks up 440%",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express"
+      "url": "https://www.techradar.com/pro/hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unrestricted-ai-models-have-pushed-these-attacks-up-440"
     },
     {
-      "title": "Coinbase CEO Reveals Why Bitcoin Could Rise To $400,000 By 2030",
+      "title": "Why Do So Many People Still Oppose Bitcoin as the Ultimate Inflation Escape?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/coinbase-ceo-reveals-why-bitcoin-could-rise-to-400000-by-2030/"
+      "url": "https://zycrypto.com/why-do-so-many-people-still-oppose-bitcoin-as-the-ultimate-inflation-escape/"
     },
     {
-      "title": "The Amazon does not need new masters",
+      "title": "Gold price today: Why gold fell to $4,350 as stronger dollar and 88% Fed rate hike odds weigh on bullion",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://theecologist.org/2026/sep/21/amazon-does-not-need-new-masters"
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-today-september-21-why-gold-fell-to-4350-as-stronger-dollar-and-88-fed-rate-hike-odds-weigh-on-bullion/articleshow/134395304.cms"
     },
     {
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 20, 2026",
+      "title": "Tim Cook warned of a ‘hundred-year flood’ striking tech giants — and now Apple is raising prices. What it means for you",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-20-2026/"
+      "url": "https://finance.yahoo.com/technology/articles/tim-cook-warned-hundred-flood-145500897.html"
     },
     {
-      "title": "Bitcoin Holds $80K Range as Traders Price in 90% Odds of September Rate Hike",
+      "title": "Michael Saylor’s Strategy Bought 950 More Bitcoin as the Price Surged Past $85,000",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://zycrypto.com/bitcoin-holds-80k-range-as-traders-price-in-90-odds-of-september-rate-hike/"
+      "url": "https://thoughtcatalog.com/jeremy-london/2026/09/michael-saylors-strategy-bought-950-more-bitcoin-as-the-price-surged-past-85000/"
     },
     {
-      "title": "Federal Reserve raises rates for first time since 2023, putting corporate treasurers back to work",
+      "title": "Breitbart Business Digest: The Fed's Secular Accelerationist Stance",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-rate-hike-2026-corporate-treasurers-investments/"
+      "url": "https://www.breitbart.com/economy/2026/09/21/breitbart-business-digest-the-feds-secular-acelerationist-stance/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/10",
         "8/11",
         "8/12",
         "8/13",
@@ -109,10 +106,10 @@
         "9/16",
         "9/17",
         "9/18",
-        "9/21"
+        "9/21",
+        "9/22"
       ],
       "values": [
-        7753.11,
         7728.2,
         7748.5,
         7798.99,
@@ -141,12 +138,12 @@
         7551.81,
         7637.76,
         7650.5,
-        7764.7
+        7764.7,
+        7764.64
       ]
     },
     "gold": {
       "dates": [
-        "8/11",
         "8/12",
         "8/13",
         "8/14",
@@ -174,10 +171,10 @@
         "9/16",
         "9/17",
         "9/18",
-        "9/21"
+        "9/21",
+        "9/22"
       ],
       "values": [
-        4441.1,
         4467.5,
         4420.4,
         4437.3,
@@ -205,12 +202,12 @@
         4387.5,
         4399.7,
         4424.9,
-        4395.9
+        4383.9,
+        4402.2
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/12",
         "8/13",
         "8/14",
         "8/17",
@@ -239,10 +236,10 @@
         "9/17",
         "9/18",
         "9/21",
-        "9/22"
+        "9/22",
+        "9/23"
       ],
       "values": [
-        159.26,
         159.33,
         159.43,
         159.22,
@@ -271,12 +268,12 @@
         156.01,
         156.13,
         157.05,
-        157.34
+        157.37,
+        157.44
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/10",
         "8/11",
         "8/12",
         "8/13",
@@ -305,10 +302,10 @@
         "9/16",
         "9/17",
         "9/18",
-        "9/21"
+        "9/21",
+        "9/22"
       ],
       "values": [
-        26605.36,
         26445.45,
         26588.49,
         26803.03,
@@ -337,7 +334,8 @@
         25978.43,
         26418.3,
         26522.54,
-        27122.09
+        27122.09,
+        27244.28
       ]
     }
   }
