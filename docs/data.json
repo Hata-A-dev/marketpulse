@@ -1,77 +1,67 @@
 {
-  "updated_at": "2026-09-22 23:20 UTC",
+  "updated_at": "2026-09-23 23:15 UTC",
   "prices": {
-    "sp500": {
-      "price": 7764.64,
-      "change_pct": -0.0
-    },
-    "nasdaq": {
-      "price": 27244.28,
-      "change_pct": 0.45
-    },
     "gold": {
-      "price": 4402.2,
-      "change_pct": 0.42
+      "price": 4325.7,
+      "change_pct": -1.16
     },
     "usdjpy": {
-      "price": 157.44,
-      "change_pct": 0.04
-    },
-    "vix": {
-      "price": 14.21,
-      "change_pct": -4.44
-    },
-    "usbond": {
-      "price": 4.97,
-      "change_pct": 0.2
+      "price": 158.24,
+      "change_pct": 0.5
     },
     "btc": {
-      "price": 86313.0,
-      "change_pct": -0.33
+      "price": 84478.0,
+      "change_pct": -1.97
     }
   },
   "news": [
     {
-      "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
+      "title": "VTI’s 3,000 Extra Stocks Cost Holders $393,400 Per $500,000 Over the Past Decade",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/6857e1701a1fbec2"
+      "url": "https://biztoc.com/x/8d26f7abc7ea8292"
     },
     {
-      "title": "Hackers are hiding malware on blockchains that are nearly impossible to take down, and unrestricted AI models have pushed these attacks up 440%",
+      "title": "Stock market today: Live updates",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://www.cnbc.com/2026/09/22/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "Republican senator calls for probe into US presidents’ sons, citing crypto ventures",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.techradar.com/pro/hackers-are-hiding-malware-on-blockchains-that-are-nearly-impossible-to-take-down-and-unrestricted-ai-models-have-pushed-these-attacks-up-440"
+      "url": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business"
     },
     {
-      "title": "Why Do So Many People Still Oppose Bitcoin as the Ultimate Inflation Escape?",
+      "title": "Bitcoin price today: How did BTC USD hit $86,000 after $999 million Bitcoin ETF inflow defied Fed rate hike and CLARITY act failure?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/why-do-so-many-people-still-oppose-bitcoin-as-the-ultimate-inflation-escape/"
+      "url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-price-today-how-did-btc-usd-hit-86000-after-999-million-bitcoin-etf-inflow-defied-fed-rate-hike-and-clarity-act-failure/articleshow/134420082.cms"
     },
     {
-      "title": "Gold price today: Why gold fell to $4,350 as stronger dollar and 88% Fed rate hike odds weigh on bullion",
+      "title": "Kentucky Mom Thought a Caramel Apple Would Cost $7. Then She Saw the Receipt",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-today-september-21-why-gold-fell-to-4350-as-stronger-dollar-and-88-fed-rate-hike-odds-weigh-on-bullion/articleshow/134395304.cms"
+      "url": "https://www.today.com/food/trends/caramel-apple-17-dollars-kentucky-viral-facebook-sweet-oaks-bakery-rcna599262"
     },
     {
-      "title": "Tim Cook warned of a ‘hundred-year flood’ striking tech giants — and now Apple is raising prices. What it means for you",
+      "title": "The dining room boom: The numbers behind Dallas’ million-dollar restaurant gold rush",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/technology/articles/tim-cook-warned-hundred-flood-145500897.html"
+      "url": "http://www.dallasobserver.com/food-drink/dallas-restaurant-gold-rush-inside-the-million-dollar-boom-40714577/"
     },
     {
-      "title": "Michael Saylor’s Strategy Bought 950 More Bitcoin as the Price Surged Past $85,000",
+      "title": "How homebuyers can ‘rate-proof’ their budgets in a volatile mortgage market",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://thoughtcatalog.com/jeremy-london/2026/09/michael-saylors-strategy-bought-950-more-bitcoin-as-the-price-surged-past-85000/"
+      "url": "https://www.realtor.com/news/trends/homebuyers-mortgage-rate-proof-budget-volatile-market-report-2026/"
     },
     {
-      "title": "Breitbart Business Digest: The Fed's Secular Accelerationist Stance",
+      "title": "Breitbart Business Digest: Who’s the Boss of the Bond Market?",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.breitbart.com/economy/2026/09/21/breitbart-business-digest-the-feds-secular-acelerationist-stance/"
+      "url": "https://www.breitbart.com/economy/2026/09/22/breitbart-business-digest-whos-the-boss-of-the-bond-market/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -107,7 +97,7 @@
         "9/17",
         "9/18",
         "9/21",
-        "9/22"
+        "9/23"
       ],
       "values": [
         7728.2,
@@ -139,12 +129,11 @@
         7637.76,
         7650.5,
         7764.7,
-        7764.64
+        7706.03
       ]
     },
     "gold": {
       "dates": [
-        "8/12",
         "8/13",
         "8/14",
         "8/17",
@@ -172,10 +161,10 @@
         "9/17",
         "9/18",
         "9/21",
-        "9/22"
+        "9/22",
+        "9/23"
       ],
       "values": [
-        4467.5,
         4420.4,
         4437.3,
         4473.7,
@@ -203,12 +192,12 @@
         4399.7,
         4424.9,
         4383.9,
-        4402.2
+        4376.4,
+        4325.7
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/13",
         "8/14",
         "8/17",
         "8/18",
@@ -237,10 +226,10 @@
         "9/18",
         "9/21",
         "9/22",
-        "9/23"
+        "9/23",
+        "9/24"
       ],
       "values": [
-        159.33,
         159.43,
         159.22,
         159.34,
@@ -269,7 +258,8 @@
         156.13,
         157.05,
         157.37,
-        157.44
+        157.46,
+        158.24
       ]
     },
     "nasdaq": {
@@ -303,7 +293,7 @@
         "9/17",
         "9/18",
         "9/21",
-        "9/22"
+        "9/23"
       ],
       "values": [
         26445.45,
@@ -335,7 +325,7 @@
         26418.3,
         26522.54,
         27122.09,
-        27244.28
+        26936.04
       ]
     }
   }
