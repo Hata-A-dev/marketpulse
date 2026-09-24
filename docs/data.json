@@ -1,74 +1,83 @@
 {
-  "updated_at": "2026-09-23 23:15 UTC",
+  "updated_at": "2026-09-24 23:36 UTC",
   "prices": {
+    "sp500": {
+      "price": 7704.13,
+      "change_pct": -0.02
+    },
+    "nasdaq": {
+      "price": 26939.37,
+      "change_pct": 0.01
+    },
     "gold": {
-      "price": 4325.7,
-      "change_pct": -1.16
+      "price": 4307.5,
+      "change_pct": -0.25
     },
     "usdjpy": {
-      "price": 158.24,
-      "change_pct": 0.5
+      "price": 158.81,
+      "change_pct": 0.35
+    },
+    "vix": {
+      "price": 15.67,
+      "change_pct": 3.23
+    },
+    "usbond": {
+      "price": 5.16,
+      "change_pct": 0.98
     },
     "btc": {
-      "price": 84478.0,
-      "change_pct": -1.97
+      "price": 84436.0,
+      "change_pct": 0.06
     }
   },
   "news": [
     {
-      "title": "VTI’s 3,000 Extra Stocks Cost Holders $393,400 Per $500,000 Over the Past Decade",
+      "title": "Trading Day: US yields cross 5% threshold​",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/8d26f7abc7ea8292"
+      "url": "https://www.channelnewsasia.com/business/trading-day-us-yields-cross-5-threshold-6406461"
     },
     {
-      "title": "Stock market today: Live updates",
+      "title": "How major US stock indexes fared Wednesday 9/23/2026",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/22/stock-market-today-live-updates.html"
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9232026-136697299"
     },
     {
-      "title": "Republican senator calls for probe into US presidents’ sons, citing crypto ventures",
+      "title": "Love Island Winner Davide Sanclimenti’s Girlfriend Was Jailed for 18 Months",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business"
+      "url": "https://thoughtcatalog.com/january-nelson/2026/09/love-island-winner-davide-sanclimentis-girlfriend-was-jailed-for-18-months/"
     },
     {
-      "title": "Bitcoin price today: How did BTC USD hit $86,000 after $999 million Bitcoin ETF inflow defied Fed rate hike and CLARITY act failure?",
+      "title": "US considers promoting dollar-backed crypto stablecoins globally",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-price-today-how-did-btc-usd-hit-86000-after-999-million-bitcoin-etf-inflow-defied-fed-rate-hike-and-clarity-act-failure/articleshow/134420082.cms"
+      "url": "https://cryptobriefing.com/us-considers-promoting-dollar-backed-crypto-stablecoins-globally/"
     },
     {
-      "title": "Kentucky Mom Thought a Caramel Apple Would Cost $7. Then She Saw the Receipt",
+      "title": "Fair case for rupee to appreciate from current levels: RBI's Poonam Gupta",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.today.com/food/trends/caramel-apple-17-dollars-kentucky-viral-facebook-sweet-oaks-bakery-rcna599262"
+      "url": "https://www.business-standard.com/economy/news/fair-case-for-rupee-to-appreciate-from-current-levels-rbi-s-poonam-gupta-126092301493_1.html"
     },
     {
-      "title": "The dining room boom: The numbers behind Dallas’ million-dollar restaurant gold rush",
+      "title": "The hidden opportunity beyond the S&P 500’s mega-caps",
       "tag": "金",
       "ago": "1日前",
-      "url": "http://www.dallasobserver.com/food-drink/dallas-restaurant-gold-rush-inside-the-million-dollar-boom-40714577/"
+      "url": "https://www.thestreet.com/investing/the-hidden-opportunity-beyond-the-sp-500s-mega-caps"
     },
     {
-      "title": "How homebuyers can ‘rate-proof’ their budgets in a volatile mortgage market",
+      "title": "Breitbart Business Digest: What Today’s Treasury Sell-Off Is Telling Us",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.realtor.com/news/trends/homebuyers-mortgage-rate-proof-budget-volatile-market-report-2026/"
-    },
-    {
-      "title": "Breitbart Business Digest: Who’s the Boss of the Bond Market?",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.breitbart.com/economy/2026/09/22/breitbart-business-digest-whos-the-boss-of-the-bond-market/"
+      "url": "https://www.breitbart.com/economy/2026/09/23/breitbart-business-digest-what-todays-treasury-sell-off-is-telling-us/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/11",
         "8/12",
         "8/13",
         "8/14",
@@ -97,10 +106,10 @@
         "9/17",
         "9/18",
         "9/21",
-        "9/23"
+        "9/23",
+        "9/24"
       ],
       "values": [
-        7728.2,
         7748.5,
         7798.99,
         7785.76,
@@ -129,12 +138,12 @@
         7637.76,
         7650.5,
         7764.7,
-        7706.03
+        7706.03,
+        7704.13
       ]
     },
     "gold": {
       "dates": [
-        "8/13",
         "8/14",
         "8/17",
         "8/18",
@@ -162,10 +171,10 @@
         "9/18",
         "9/21",
         "9/22",
-        "9/23"
+        "9/23",
+        "9/24"
       ],
       "values": [
-        4420.4,
         4437.3,
         4473.7,
         4420.6,
@@ -193,12 +202,12 @@
         4424.9,
         4383.9,
         4376.4,
-        4325.7
+        4318.4,
+        4307.5
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/14",
         "8/17",
         "8/18",
         "8/19",
@@ -227,10 +236,10 @@
         "9/21",
         "9/22",
         "9/23",
-        "9/24"
+        "9/24",
+        "9/25"
       ],
       "values": [
-        159.43,
         159.22,
         159.34,
         159.55,
@@ -259,12 +268,12 @@
         157.05,
         157.37,
         157.46,
-        158.24
+        158.26,
+        158.81
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/11",
         "8/12",
         "8/13",
         "8/14",
@@ -293,10 +302,10 @@
         "9/17",
         "9/18",
         "9/21",
-        "9/23"
+        "9/23",
+        "9/24"
       ],
       "values": [
-        26445.45,
         26588.49,
         26803.03,
         26729.16,
@@ -325,7 +334,8 @@
         26418.3,
         26522.54,
         27122.09,
-        26936.04
+        26936.04,
+        26939.37
       ]
     }
   }
