@@ -1,148 +1,88 @@
 {
-  "updated_at": "2026-09-24 23:36 UTC",
+  "updated_at": "2026-09-25 23:40 UTC",
   "prices": {
     "sp500": {
-      "price": 7704.13,
-      "change_pct": -0.02
+      "price": 7743.41,
+      "change_pct": 0.51
     },
     "nasdaq": {
-      "price": 26939.37,
-      "change_pct": 0.01
+      "price": 27068.72,
+      "change_pct": 0.48
     },
     "gold": {
-      "price": 4307.5,
-      "change_pct": -0.25
+      "price": 4320.5,
+      "change_pct": 0.52
     },
     "usdjpy": {
-      "price": 158.81,
-      "change_pct": 0.35
+      "price": 157.18,
+      "change_pct": -0.68
     },
     "vix": {
-      "price": 15.67,
-      "change_pct": 3.23
+      "price": 14.87,
+      "change_pct": -5.11
     },
     "usbond": {
-      "price": 5.16,
-      "change_pct": 0.98
+      "price": 5.18,
+      "change_pct": 0.39
     },
     "btc": {
-      "price": 84436.0,
-      "change_pct": 0.06
+      "price": 84068.0,
+      "change_pct": -0.37
     }
   },
   "news": [
     {
-      "title": "Trading Day: US yields cross 5% threshold​",
+      "title": "The Market Looks Expensive. This ETF Pays a 11.86% Yield While You Wait for It to Come Down",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/trading-day-us-yields-cross-5-threshold-6406461"
+      "url": "https://biztoc.com/x/8260c5ca581b6199"
     },
     {
-      "title": "How major US stock indexes fared Wednesday 9/23/2026",
+      "title": "Wall Street Banks Finance Both Sides Of America’s AI Race With China",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9232026-136697299"
+      "url": "https://dailycaller.com/2026/09/24/wall-street-banks-finance-both-sides-of-americas-ai-race-with-china"
     },
     {
-      "title": "Love Island Winner Davide Sanclimenti’s Girlfriend Was Jailed for 18 Months",
+      "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://thoughtcatalog.com/january-nelson/2026/09/love-island-winner-davide-sanclimentis-girlfriend-was-jailed-for-18-months/"
+      "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express"
     },
     {
-      "title": "US considers promoting dollar-backed crypto stablecoins globally",
+      "title": "Ryuk Member Karen Vardanyan Sentenced to Two Years in U.S. Prison",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-considers-promoting-dollar-backed-crypto-stablecoins-globally/"
+      "url": "https://securityaffairs.com/199692/cyber-crime/ryuk-member-karen-vardanyan-sentenced-to-two-years-in-u-s-prison.html"
     },
     {
-      "title": "Fair case for rupee to appreciate from current levels: RBI's Poonam Gupta",
+      "title": "Why bond yields are rising and why everyone should care",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/economy/news/fair-case-for-rupee-to-appreciate-from-current-levels-rbi-s-poonam-gupta-126092301493_1.html"
+      "url": "https://abcnews.com/Business/wireStory/bond-yields-rising-care-136733852"
     },
     {
-      "title": "The hidden opportunity beyond the S&P 500’s mega-caps",
+      "title": "Samsung Galaxy S26 FE review: false economy",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thestreet.com/investing/the-hidden-opportunity-beyond-the-sp-500s-mega-caps"
+      "url": "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s26-fe-review"
     },
     {
-      "title": "Breitbart Business Digest: What Today’s Treasury Sell-Off Is Telling Us",
+      "title": "Global bond selloff rolls on, US 30-year yield at highest since 2004",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.breitbart.com/economy/2026/09/23/breitbart-business-digest-what-todays-treasury-sell-off-is-telling-us/"
+      "url": "https://www.straitstimes.com/business/economy/global-bond-selloff-rolls-on-us-30-year-yield-at-highest-since-2004"
+    },
+    {
+      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "8/12",
-        "8/13",
-        "8/14",
-        "8/17",
-        "8/18",
-        "8/19",
-        "8/20",
-        "8/21",
-        "8/24",
-        "8/25",
-        "8/26",
-        "8/27",
-        "8/28",
-        "8/31",
-        "9/1",
-        "9/2",
-        "9/3",
-        "9/4",
-        "9/8",
-        "9/9",
-        "9/10",
-        "9/11",
-        "9/14",
-        "9/15",
-        "9/16",
-        "9/17",
-        "9/18",
-        "9/21",
-        "9/23",
-        "9/24"
-      ],
-      "values": [
-        7748.5,
-        7798.99,
-        7785.76,
-        7745.06,
-        7691.76,
-        7707.98,
-        7641.16,
-        7674.37,
-        7652.86,
-        7677.28,
-        7675.7,
-        7730.99,
-        7711.76,
-        7686.14,
-        7631.47,
-        7666.6,
-        7747.71,
-        7718.6,
-        7673.52,
-        7636.36,
-        7591.7,
-        7656.98,
-        7619.98,
-        7585.73,
-        7551.81,
-        7637.76,
-        7650.5,
-        7764.7,
-        7706.03,
-        7704.13
-      ]
-    },
-    "gold": {
       "dates": [
         "8/14",
         "8/17",
@@ -172,10 +112,75 @@
         "9/21",
         "9/22",
         "9/23",
-        "9/24"
+        "9/24",
+        "9/25"
       ],
       "values": [
-        4437.3,
+        7785.76,
+        7745.06,
+        7691.76,
+        7707.98,
+        7641.16,
+        7674.37,
+        7652.86,
+        7677.28,
+        7675.7,
+        7730.99,
+        7711.76,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41
+      ]
+    },
+    "gold": {
+      "dates": [
+        "8/17",
+        "8/18",
+        "8/19",
+        "8/20",
+        "8/21",
+        "8/24",
+        "8/25",
+        "8/26",
+        "8/27",
+        "8/28",
+        "8/31",
+        "9/1",
+        "9/2",
+        "9/3",
+        "9/4",
+        "9/8",
+        "9/9",
+        "9/10",
+        "9/11",
+        "9/14",
+        "9/15",
+        "9/16",
+        "9/17",
+        "9/18",
+        "9/21",
+        "9/22",
+        "9/23",
+        "9/24",
+        "9/25"
+      ],
+      "values": [
         4473.7,
         4420.6,
         4545.3,
@@ -203,7 +208,8 @@
         4383.9,
         4376.4,
         4318.4,
-        4307.5
+        4298.0,
+        4320.5
       ]
     },
     "usdjpy": {
@@ -269,13 +275,11 @@
         157.37,
         157.46,
         158.26,
-        158.81
+        157.18
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/12",
-        "8/13",
         "8/14",
         "8/17",
         "8/18",
@@ -302,12 +306,12 @@
         "9/17",
         "9/18",
         "9/21",
+        "9/22",
         "9/23",
-        "9/24"
+        "9/24",
+        "9/25"
       ],
       "values": [
-        26588.49,
-        26803.03,
         26729.16,
         26644.91,
         26289.71,
@@ -334,8 +338,10 @@
         26418.3,
         26522.54,
         27122.09,
+        27244.28,
         26936.04,
-        26939.37
+        26939.37,
+        27068.72
       ]
     }
   }
