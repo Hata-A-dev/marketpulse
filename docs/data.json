@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 23:40 UTC",
+  "updated_at": "2026-09-26 23:13 UTC",
   "prices": {
     "sp500": {
       "price": 7743.41,
@@ -10,12 +10,12 @@
       "change_pct": 0.48
     },
     "gold": {
-      "price": 4320.5,
-      "change_pct": 0.52
+      "price": 4321.2,
+      "change_pct": 0.54
     },
     "usdjpy": {
       "price": 157.18,
-      "change_pct": -0.68
+      "change_pct": -1.03
     },
     "vix": {
       "price": 14.87,
@@ -26,58 +26,58 @@
       "change_pct": 0.39
     },
     "btc": {
-      "price": 84068.0,
-      "change_pct": -0.37
+      "price": 84318.0,
+      "change_pct": 0.34
     }
   },
   "news": [
     {
-      "title": "The Market Looks Expensive. This ETF Pays a 11.86% Yield While You Wait for It to Come Down",
+      "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies - Reuters",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/8260c5ca581b6199"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185863712"
     },
     {
-      "title": "Wall Street Banks Finance Both Sides Of America’s AI Race With China",
+      "title": "Wall Street rises as Microsoft and AI stocks rally",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://dailycaller.com/2026/09/24/wall-street-banks-finance-both-sides-of-americas-ai-race-with-china"
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-higher-as-investors-buy-ai-stocks-microsoft-rallies"
     },
     {
-      "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
+      "title": "Tesla’s Bitcoin Holdings Near $1 Billion As BTC Rally Adds $122 Million",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express"
+      "url": "https://zycrypto.com/teslas-bitcoin-holdings-near-1-billion-as-btc-rally-adds-122-million/"
     },
     {
-      "title": "Ryuk Member Karen Vardanyan Sentenced to Two Years in U.S. Prison",
+      "title": "Bitcoin survives a 5.2% Treasury shock as traders slash $1.7 billion in leverage",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://securityaffairs.com/199692/cyber-crime/ryuk-member-karen-vardanyan-sentenced-to-two-years-in-u-s-prison.html"
+      "url": "https://cryptoslate.com/bitcoin-survives-a-5-2-treasury-shock-as-traders-slash-1-7-billion-in-leverage/"
     },
     {
-      "title": "Why bond yields are rising and why everyone should care",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://abcnews.com/Business/wireStory/bond-yields-rising-care-136733852"
+      "url": "https://english.khabarhub.com/2026/25/569167/"
     },
     {
-      "title": "Samsung Galaxy S26 FE review: false economy",
+      "title": "The FDA’s Overton Window Problem",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s26-fe-review"
+      "url": "https://newrepublic.com/post/215869/fda-overton-mifepristone-vaccines"
     },
     {
-      "title": "Global bond selloff rolls on, US 30-year yield at highest since 2004",
+      "title": "Dow ends 400 points higher as investors buy AI stocks; Microsoft rallies",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.straitstimes.com/business/economy/global-bond-selloff-rolls-on-us-30-year-yield-at-highest-since-2004"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-ends-400-points-higher-as-investors-buy-ai-stocks-microsoft-rallies/articleshow/134492147.cms"
     },
     {
-      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+      "title": "Boom or bust? The case for and against panicking about 5% yields",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers"
+      "url": "https://fortune.com/2026/09/25/10-year-treasury-yield-bonds-warsh-fed/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -209,12 +209,11 @@
         4376.4,
         4318.4,
         4298.0,
-        4320.5
+        4321.2
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/17",
         "8/18",
         "8/19",
         "8/20",
@@ -243,10 +242,10 @@
         "9/22",
         "9/23",
         "9/24",
-        "9/25"
+        "9/25",
+        "9/26"
       ],
       "values": [
-        159.22,
         159.34,
         159.55,
         158.28,
@@ -275,6 +274,7 @@
         157.37,
         157.46,
         158.26,
+        158.81,
         157.18
       ]
     },
