@@ -1,77 +1,79 @@
 {
-  "updated_at": "2026-09-29 00:41 UTC",
+  "updated_at": "2026-09-29 23:59 UTC",
   "prices": {
     "sp500": {
-      "price": 7683.69,
-      "change_pct": -0.77
+      "price": 7670.84,
+      "change_pct": -0.17
     },
     "nasdaq": {
-      "price": 26820.38,
-      "change_pct": -0.92
+      "price": 26797.54,
+      "change_pct": -0.09
     },
     "usdjpy": {
-      "price": 157.45,
-      "change_pct": -0.01
+      "price": 157.43,
+      "change_pct": 0.04
     },
     "vix": {
-      "price": 16.07,
-      "change_pct": 8.07
+      "price": 16.04,
+      "change_pct": -0.19
     },
     "usbond": {
-      "price": 5.24,
-      "change_pct": 1.16
+      "price": 5.26,
+      "change_pct": 0.38
     },
-    "btc": {}
+    "btc": {
+      "price": 83619.0,
+      "change_pct": 0.14
+    }
   },
   "news": [
     {
-      "title": "Two years on, Indian equities remain stuck in a grind",
+      "title": "Bank of America has a blunt message for S&P 500 investors",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/two-years-on-indian-equities-remain-stuck-in-a-grind/articleshow/134528952.cms"
+      "url": "https://biztoc.com/x/71c9639d624cfdd9"
     },
     {
-      "title": "Stock market today: Live updates",
+      "title": "Sees a More Significant Dip Than Broader Market: Some Facts to Know",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html"
+      "url": "https://biztoc.com/x/134946942f5cbae9"
     },
     {
-      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+      "title": "Tether’s USDT linked to Iran’s shadow banking system, Senate report finds",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now"
+      "url": "https://cryptobriefing.com/tether-usdt-iran-shadow-banking-senate-report/"
     },
     {
-      "title": "Apollo Warns AI Could Trigger Mass Deposit Flight From US Banks – Here’s Why",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/09/27/apollo-warns-ai-could-trigger-mass-deposit-flight-from-us-banks-heres-why/"
-    },
-    {
-      "title": "Beef prices surge as spring gets under way - Andre Lietze",
+      "title": "Fuel import: Abuja court ruling opens fresh battle",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.nzherald.co.nz/the-country/news/beef-prices-surge-as-spring-gets-under-way-andre-lietze/I25MFIV2NVDM3HVFHEGU7GIRR4/"
+      "url": "https://punchng.com/fuel-import-abuja-court-ruling-opens-fresh-battle/"
     },
     {
-      "title": "Darrell Duffie: Shrinking The Fed’s Balance Sheet Is Easier Said Than Done",
-      "tag": "経済",
+      "title": "Artmarket.com: H1 2026 Financial Report--One-of-a-Kind AI Systems Intuitive Artmarket® and Blind Spot Will Drive the Next Phase of Growth for \"AI-First\" Artprice in 2026-2030",
+      "tag": "金",
       "ago": "1日前",
-      "url": "https://siepr.stanford.edu/news/federal-reserve-balance-sheet-warsh"
+      "url": "https://smartbusinesnews.com/business/artmarketcom-h1-2026-financial-report-one-of-a-kind-ai-systems-intuitive-artmarket-and-blind-spot-will-drive-the-next-phase-of-growth-for-ai-first-artprice-in-2026-2030/"
     },
     {
-      "title": "Labor's spending addiction is hurting Australians. Now your mortgage is rising again as politicians gaslight you about who's really to blame: Peter Van Onselen",
+      "title": "High mortgage rates compound housing affordability challenges",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.dailymail.com/news/article-16164997/labor-peter-van-onselen-mortgage-rate-australia.html"
+      "url": "https://www.pbs.org/newshour/show/high-mortgage-rates-compound-housing-affordability-challenges"
+    },
+    {
+      "title": "Aussie homeowners brace for another mortgage shock - and the pain could spread across the economy: PVO",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.dailymail.com/news/article-16167713/interest-rate-hike-australia.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/17",
         "8/18",
         "8/19",
         "8/20",
@@ -100,10 +102,10 @@
         "9/23",
         "9/24",
         "9/25",
-        "9/28"
+        "9/28",
+        "9/29"
       ],
       "values": [
-        7745.06,
         7691.76,
         7707.98,
         7641.16,
@@ -132,12 +134,12 @@
         7706.03,
         7704.13,
         7743.41,
-        7683.69
+        7683.69,
+        7670.84
       ]
     },
     "gold": {
       "dates": [
-        "8/18",
         "8/19",
         "8/20",
         "8/21",
@@ -165,10 +167,9 @@
         "9/23",
         "9/24",
         "9/25",
-        "9/28"
+        "9/29"
       ],
       "values": [
-        4420.6,
         4545.3,
         4571.4,
         4680.6,
@@ -196,12 +197,11 @@
         4318.4,
         4298.0,
         4321.2,
-        4152.2
+        4216.6
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/19",
         "8/20",
         "8/21",
         "8/24",
@@ -230,10 +230,10 @@
         "9/24",
         "9/25",
         "9/28",
-        "9/29"
+        "9/29",
+        "9/30"
       ],
       "values": [
-        159.55,
         158.28,
         158.88,
         158.9,
@@ -262,12 +262,12 @@
         158.26,
         158.81,
         157.46,
-        157.45
+        157.36,
+        157.42
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/17",
         "8/18",
         "8/19",
         "8/20",
@@ -296,10 +296,10 @@
         "9/23",
         "9/24",
         "9/25",
-        "9/28"
+        "9/28",
+        "9/29"
       ],
       "values": [
-        26644.91,
         26289.71,
         26331.09,
         26067.17,
@@ -328,7 +328,8 @@
         26936.04,
         26939.37,
         27068.72,
-        26820.38
+        26820.38,
+        26797.54
       ]
     }
   }
