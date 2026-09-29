@@ -1,90 +1,76 @@
 {
-  "updated_at": "2026-09-27 23:27 UTC",
+  "updated_at": "2026-09-29 00:41 UTC",
   "prices": {
     "sp500": {
-      "price": 7743.41,
-      "change_pct": 0.51
+      "price": 7683.69,
+      "change_pct": -0.77
     },
     "nasdaq": {
-      "price": 27068.72,
-      "change_pct": 0.48
-    },
-    "gold": {
-      "price": 4298.9,
-      "change_pct": -0.52
+      "price": 26820.38,
+      "change_pct": -0.92
     },
     "usdjpy": {
-      "price": 157.55,
-      "change_pct": -0.79
+      "price": 157.45,
+      "change_pct": -0.01
     },
     "vix": {
-      "price": 14.87,
-      "change_pct": -5.11
+      "price": 16.07,
+      "change_pct": 8.07
     },
     "usbond": {
-      "price": 5.18,
-      "change_pct": 0.39
+      "price": 5.24,
+      "change_pct": 1.16
     },
-    "btc": {
-      "price": 84417.0,
-      "change_pct": 0.01
-    }
+    "btc": {}
   },
   "news": [
     {
-      "title": "331 S&P 500 companies mention AI on Q2 2026 earnings calls",
+      "title": "Two years on, Indian equities remain stuck in a grind",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/sp500-ai-mentions-q2-2026-earnings/"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/two-years-on-indian-equities-remain-stuck-in-a-grind/articleshow/134528952.cms"
     },
     {
-      "title": "U.S. Stock Market personal finance tips: Wall Street investors may think over these key 5 points during weekend before Monday trading",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-personal-finance-tips-wall-street-investors-may-think-over-these-key-5-points-during-weekend-before-monday-trading/articleshow/134505204.cms"
+      "url": "https://www.cnbc.com/2026/09/27/stock-market-today-live-updates.html"
     },
     {
-      "title": "The family that grifts together...",
+      "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.inquirer.com/opinion/editorials/trump-family-profit-conflicts-greed-crypto-diplomacy-melania-windfalls-20260926.html"
+      "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now"
     },
     {
-      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "title": "Apollo Warns AI Could Trigger Mass Deposit Flight From US Banks – Here’s Why",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html"
+      "url": "https://dailyhodl.com/2026/09/27/apollo-warns-ai-could-trigger-mass-deposit-flight-from-us-banks-heres-why/"
     },
     {
-      "title": "How social media remade the luxury watch market",
+      "title": "Beef prices surge as spring gets under way - Andre Lietze",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/09/26/how-social-media-is-changing-the-rare-watch-market-instagram-tiktok-watch-collecting/"
+      "url": "https://www.nzherald.co.nz/the-country/news/beef-prices-surge-as-spring-gets-under-way-andre-lietze/I25MFIV2NVDM3HVFHEGU7GIRR4/"
     },
     {
-      "title": "Iran War: Trump Rejects Iranian Offer, Saudi-Yemeni War On the Boil",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-trump-rejects-iranian-offer-saudi-yemeni-war.html"
-    },
-    {
-      "title": "Bond market pointing to rising inflation, interest rate and recession risk",
+      "title": "Darrell Duffie: Shrinking The Fed’s Balance Sheet Is Easier Said Than Done",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-09-27/multi-generation-bond-market-correction/107191114"
+      "url": "https://siepr.stanford.edu/news/federal-reserve-balance-sheet-warsh"
     },
     {
-      "title": "Investors get defensive as ASX 200 drifts to a 15-week low",
+      "title": "Labor's spending addiction is hurting Australians. Now your mortgage is rising again as politicians gaslight you about who's really to blame: Peter Van Onselen",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.fool.com.au/2026/09/27/investors-get-defensive-as-asx-200-drifts-to-a-15-week-low-week-13-2026/"
+      "url": "https://www.dailymail.com/news/article-16164997/labor-peter-van-onselen-mortgage-rate-australia.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/14",
         "8/17",
         "8/18",
         "8/19",
@@ -113,10 +99,10 @@
         "9/22",
         "9/23",
         "9/24",
-        "9/25"
+        "9/25",
+        "9/28"
       ],
       "values": [
-        7785.76,
         7745.06,
         7691.76,
         7707.98,
@@ -145,12 +131,12 @@
         7764.64,
         7706.03,
         7704.13,
-        7743.41
+        7743.41,
+        7683.69
       ]
     },
     "gold": {
       "dates": [
-        "8/17",
         "8/18",
         "8/19",
         "8/20",
@@ -179,10 +165,9 @@
         "9/23",
         "9/24",
         "9/25",
-        "9/27"
+        "9/28"
       ],
       "values": [
-        4473.7,
         4420.6,
         4545.3,
         4571.4,
@@ -211,12 +196,11 @@
         4318.4,
         4298.0,
         4321.2,
-        4298.9
+        4152.2
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/18",
         "8/19",
         "8/20",
         "8/21",
@@ -245,10 +229,10 @@
         "9/23",
         "9/24",
         "9/25",
-        "9/28"
+        "9/28",
+        "9/29"
       ],
       "values": [
-        159.34,
         159.55,
         158.28,
         158.88,
@@ -277,12 +261,12 @@
         157.46,
         158.26,
         158.81,
-        157.54
+        157.46,
+        157.45
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/14",
         "8/17",
         "8/18",
         "8/19",
@@ -311,10 +295,10 @@
         "9/22",
         "9/23",
         "9/24",
-        "9/25"
+        "9/25",
+        "9/28"
       ],
       "values": [
-        26729.16,
         26644.91,
         26289.71,
         26331.09,
@@ -343,7 +327,8 @@
         27244.28,
         26936.04,
         26939.37,
-        27068.72
+        27068.72,
+        26820.38
       ]
     }
   }
