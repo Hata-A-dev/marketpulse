@@ -1,80 +1,86 @@
 {
-  "updated_at": "2026-09-29 23:59 UTC",
+  "updated_at": "2026-10-01 00:13 UTC",
   "prices": {
     "sp500": {
-      "price": 7670.84,
-      "change_pct": -0.17
+      "price": 7651.54,
+      "change_pct": -0.25
     },
     "nasdaq": {
-      "price": 26797.54,
-      "change_pct": -0.09
+      "price": 26861.06,
+      "change_pct": 0.24
+    },
+    "gold": {
+      "price": 4182.4,
+      "change_pct": 0.06
     },
     "usdjpy": {
-      "price": 157.43,
-      "change_pct": 0.04
+      "price": 157.7,
+      "change_pct": 0.19
     },
     "vix": {
-      "price": 16.04,
-      "change_pct": -0.19
+      "price": 16.34,
+      "change_pct": 1.87
     },
     "usbond": {
-      "price": 5.26,
-      "change_pct": 0.38
+      "price": 5.29,
+      "change_pct": 0.57
     },
-    "btc": {
-      "price": 83619.0,
-      "change_pct": 0.14
-    }
+    "btc": {}
   },
   "news": [
     {
-      "title": "Bank of America has a blunt message for S&P 500 investors",
+      "title": "Futures: Market Gives Up Ground, But Not Much; Inflation Data Due",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/71c9639d624cfdd9"
+      "url": "https://biztoc.com/x/e80c179e808a5567"
     },
     {
-      "title": "Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "title": "Is ExxonMobil Stock Increasing Your Market Risk?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/134946942f5cbae9"
+      "url": "https://biztoc.com/x/a83d4222820f3144"
     },
     {
-      "title": "Tether’s USDT linked to Iran’s shadow banking system, Senate report finds",
+      "title": "Bitcoin Unfazed by Trump’s Iran Threats",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/tether-usdt-iran-shadow-banking-senate-report/"
+      "url": "https://activistpost.com/bitcoin-unfazed-by-trumps-iran-threats/"
     },
     {
-      "title": "Fuel import: Abuja court ruling opens fresh battle",
+      "title": "Bitcoin Could Reach $400,000 by 2030, Says Coinbase CEO Brian Armstrong",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://zycrypto.com/bitcoin-could-reach-400000-by-2030-says-coinbase-ceo-brian-armstrong/"
+    },
+    {
+      "title": "Trump brought Venezuelan gold to the U.S. but refiners won't touch it",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://punchng.com/fuel-import-abuja-court-ruling-opens-fresh-battle/"
+      "url": "https://freerepublic.com/focus/f-chat/4397339/posts"
     },
     {
-      "title": "Artmarket.com: H1 2026 Financial Report--One-of-a-Kind AI Systems Intuitive Artmarket® and Blind Spot Will Drive the Next Phase of Growth for \"AI-First\" Artprice in 2026-2030",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://smartbusinesnews.com/business/artmarketcom-h1-2026-financial-report-one-of-a-kind-ai-systems-intuitive-artmarket-and-blind-spot-will-drive-the-next-phase-of-growth-for-ai-first-artprice-in-2026-2030/"
+      "url": "https://english.khabarhub.com/2026/29/569916/"
     },
     {
-      "title": "High mortgage rates compound housing affordability challenges",
+      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.pbs.org/newshour/show/high-mortgage-rates-compound-housing-affordability-challenges"
+      "url": "https://biztoc.com/x/9723a8e16154581d"
     },
     {
-      "title": "Aussie homeowners brace for another mortgage shock - and the pain could spread across the economy: PVO",
+      "title": "Hedge funds now hold a record share of the $30 trillion Treasury market. What could go wrong?",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.dailymail.com/news/article-16167713/interest-rate-hike-australia.html"
+      "url": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/18",
         "8/19",
         "8/20",
         "8/21",
@@ -103,10 +109,10 @@
         "9/24",
         "9/25",
         "9/28",
-        "9/29"
+        "9/29",
+        "9/30"
       ],
       "values": [
-        7691.76,
         7707.98,
         7641.16,
         7674.37,
@@ -135,12 +141,12 @@
         7704.13,
         7743.41,
         7683.69,
-        7670.84
+        7670.84,
+        7651.54
       ]
     },
     "gold": {
       "dates": [
-        "8/19",
         "8/20",
         "8/21",
         "8/24",
@@ -167,10 +173,11 @@
         "9/23",
         "9/24",
         "9/25",
-        "9/29"
+        "9/28",
+        "9/29",
+        "9/30"
       ],
       "values": [
-        4545.3,
         4571.4,
         4680.6,
         4697.8,
@@ -197,12 +204,13 @@
         4318.4,
         4298.0,
         4321.2,
-        4216.6
+        4168.4,
+        4179.7,
+        4182.4
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/20",
         "8/21",
         "8/24",
         "8/25",
@@ -231,10 +239,10 @@
         "9/25",
         "9/28",
         "9/29",
-        "9/30"
+        "9/30",
+        "10/1"
       ],
       "values": [
-        158.28,
         158.88,
         158.9,
         159.14,
@@ -263,12 +271,12 @@
         158.81,
         157.46,
         157.36,
-        157.42
+        157.4,
+        157.7
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/18",
         "8/19",
         "8/20",
         "8/21",
@@ -297,10 +305,10 @@
         "9/24",
         "9/25",
         "9/28",
-        "9/29"
+        "9/29",
+        "9/30"
       ],
       "values": [
-        26289.71,
         26331.09,
         26067.17,
         26180.46,
@@ -329,7 +337,8 @@
         26939.37,
         27068.72,
         26820.38,
-        26797.54
+        26797.54,
+        26861.06
       ]
     }
   }
