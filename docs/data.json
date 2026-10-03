@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 00:02 UTC",
+  "updated_at": "2026-10-03 23:25 UTC",
   "prices": {
     "sp500": {
       "price": 7722.72,
@@ -10,12 +10,12 @@
       "change_pct": 1.19
     },
     "gold": {
-      "price": 4172.1,
-      "change_pct": -0.72
+      "price": 4162.3,
+      "change_pct": -0.95
     },
     "usdjpy": {
       "price": 157.83,
-      "change_pct": 0.17
+      "change_pct": -0.06
     },
     "vix": {
       "price": 15.31,
@@ -25,50 +25,59 @@
       "price": 5.28,
       "change_pct": 0.76
     },
-    "btc": {}
+    "btc": {
+      "price": 84798.0,
+      "change_pct": 0.36
+    }
   },
   "news": [
     {
-      "title": "5 Energy ETFs That Have Soared in 2026",
+      "title": "Stock Drops Despite Market Gains: Important Facts to Note",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://oilprice.com/Energy/Energy-General/5-Energy-ETFs-That-Have-Soared-in-2026.html"
+      "url": "https://biztoc.com/x/3d037ba0f4ae3528"
     },
     {
-      "title": "Outpaces Stock Market Gains: What You Should Know",
+      "title": "Outpaced the Stock Market Today",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/75a26b0a5e597638"
+      "url": "https://biztoc.com/x/acde88a546fd7e54"
     },
     {
-      "title": "Trump’s “Most EXCLUSIVE DINNER IN THE WORLD”",
+      "title": "Dormant Bitcoin Wallet Holding 600 BTC Awakens After 14 Years as Price Hits $87,000",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.vox.com/the-logoff-newsletter-trump/504911/trump-memecoin-crypto-dinner-corruption"
+      "url": "https://zycrypto.com/dormant-bitcoin-wallet-holding-600-btc-awakens-after-14-years-as-price-hits-87000/"
     },
     {
-      "title": "Tennessee Banker Faces Felony Charges After Allegedly Draining Over $139,000 From Elderly Customers",
+      "title": "September and October Usher in the Most Bullish Bitcoin Price Predictions — Details",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/10/01/tennessee-banker-faces-felony-charges-after-allegedly-draining-over-139000-from-elderly-customers/"
+      "url": "https://zycrypto.com/september-and-october-usher-in-the-most-bullish-bitcoin-price-predictions-details/"
     },
     {
-      "title": "The Case For A Hemispheric Dollar Strategy",
+      "title": "Want to Attend an “Exclusive Dinner” With Trump? Just Buy His Meme Coin!",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thefreedomfrequency.org/p/the-case-for-a-hemispheric-dollar"
+      "url": "https://www.motherjones.com/politics/2026/10/trump-meme-coin-exclusive-dinner/"
     },
     {
-      "title": "Strong macro show takes shape in Q2 before festive rush",
+      "title": "Cash-strapped Argentina unveils $350,000 'golden passport' program",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/strong-macro-show-takes-shape-in-q2-before-festive-rush/articleshow/134626554.cms"
+      "url": "https://www.wsbradio.com/news/business/debt-saddled/YO2VFKXSNY7IRHI34MZUVIS34U/"
     },
     {
-      "title": "Mickey Levy: Amid “True Investment Boom” Fed Must Hike To Keep Policy Rate At Neutral",
+      "title": "What a hiring slowdown signals about the state of the U.S. economy",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://kathleenhays.substack.com/p/levy-amid-true-investment-boom-fed"
+      "url": "https://www.pbs.org/newshour/show/what-a-hiring-slowdown-signals-about-the-state-of-the-u-s-economy"
+    },
+    {
+      "title": "'It was a mistake' for Fed to raise rates: CEA Chair Phelan",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://biztoc.com/x/3e7346f01c0ff674"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -200,12 +209,11 @@
         4179.7,
         4186.7,
         4202.3,
-        4172.1
+        4162.3
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/24",
         "8/25",
         "8/26",
         "8/27",
@@ -234,10 +242,10 @@
         "9/29",
         "9/30",
         "10/1",
-        "10/2"
+        "10/2",
+        "10/3"
       ],
       "values": [
-        158.9,
         159.14,
         159.22,
         159.26,
@@ -266,6 +274,7 @@
         157.36,
         157.4,
         157.56,
+        157.93,
         157.83
       ]
     },
