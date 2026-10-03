@@ -1,81 +1,80 @@
 {
-  "updated_at": "2026-10-02 00:17 UTC",
+  "updated_at": "2026-10-03 00:02 UTC",
   "prices": {
     "sp500": {
-      "price": 7666.45,
-      "change_pct": 0.19
+      "price": 7722.72,
+      "change_pct": 0.73
     },
     "nasdaq": {
-      "price": 26871.6,
-      "change_pct": 0.04
+      "price": 27190.86,
+      "change_pct": 1.19
     },
     "gold": {
-      "price": 4205.0,
-      "change_pct": 0.44
+      "price": 4172.1,
+      "change_pct": -0.72
     },
     "usdjpy": {
-      "price": 157.94,
-      "change_pct": 0.24
+      "price": 157.83,
+      "change_pct": 0.17
     },
     "vix": {
-      "price": 16.39,
-      "change_pct": 0.31
+      "price": 15.31,
+      "change_pct": -6.59
     },
     "usbond": {
-      "price": 5.24,
-      "change_pct": -0.95
+      "price": 5.28,
+      "change_pct": 0.76
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "The war with Iran upended markets this month. There were losers — and winners | CNN Business",
+      "title": "5 Energy ETFs That Have Soared in 2026",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnn.com/2026/09/30/business/us-stocks-bonds-iran"
+      "url": "https://oilprice.com/Energy/Energy-General/5-Energy-ETFs-That-Have-Soared-in-2026.html"
     },
     {
-      "title": "Stock market today: Live updates",
+      "title": "Outpaces Stock Market Gains: What You Should Know",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html"
+      "url": "https://biztoc.com/x/75a26b0a5e597638"
     },
     {
-      "title": "Florida Lender Issues Warning After Vendor Data Breached — SSNs and Financial Accounts at Risk",
+      "title": "Trump’s “Most EXCLUSIVE DINNER IN THE WORLD”",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/09/30/florida-lender-issues-warning-after-vendor-data-breached-ssns-and-financial-accounts-at-risk/"
+      "url": "https://www.vox.com/the-logoff-newsletter-trump/504911/trump-memecoin-crypto-dinner-corruption"
     },
     {
-      "title": "De-dollarization alert! U.S. doubling down on weaponization of the dollar",
+      "title": "Tennessee Banker Faces Felony Charges After Allegedly Draining Over $139,000 From Elderly Customers",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://dailyhodl.com/2026/10/01/tennessee-banker-faces-felony-charges-after-allegedly-draining-over-139000-from-elderly-customers/"
+    },
+    {
+      "title": "The Case For A Hemispheric Dollar Strategy",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://freerepublic.com/focus/f-news/4397462/posts"
+      "url": "https://www.thefreedomfrequency.org/p/the-case-for-a-hemispheric-dollar"
     },
     {
-      "title": "How to earn American Airlines AAdvantage miles",
+      "title": "Strong macro show takes shape in Q2 before festive rush",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://thepointsguy.com/loyalty-programs/how-to-earn-miles-american-airlines-aadvantage/"
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/strong-macro-show-takes-shape-in-q2-before-festive-rush/articleshow/134626554.cms"
     },
     {
-      "title": "Rate cut raises hopes for cheaper business loans",
+      "title": "Mickey Levy: Amid “True Investment Boom” Fed Must Hike To Keep Policy Rate At Neutral",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://punchng.com/rate-cut-raises-hopes-for-cheaper-business-loans/"
-    },
-    {
-      "title": "Aussies are paying the price to tame inflation - but Albo risks throwing away a rare glimmer of hope: PETER VAN ONSELEN",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.dailymail.com/news/article-16174111/australia-inflation-reserve-bank-economy-peter-van-onselen.html"
+      "url": "https://kathleenhays.substack.com/p/levy-amid-true-investment-boom-fed"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/20",
         "8/21",
         "8/24",
         "8/25",
@@ -104,10 +103,10 @@
         "9/28",
         "9/29",
         "9/30",
-        "10/1"
+        "10/1",
+        "10/2"
       ],
       "values": [
-        7641.16,
         7674.37,
         7652.86,
         7677.28,
@@ -136,12 +135,12 @@
         7683.69,
         7670.84,
         7651.54,
-        7666.45
+        7666.45,
+        7722.72
       ]
     },
     "gold": {
       "dates": [
-        "8/21",
         "8/24",
         "8/25",
         "8/26",
@@ -169,10 +168,10 @@
         "9/28",
         "9/29",
         "9/30",
-        "10/1"
+        "10/1",
+        "10/2"
       ],
       "values": [
-        4680.6,
         4697.8,
         4694.5,
         4653.3,
@@ -200,7 +199,8 @@
         4168.4,
         4179.7,
         4186.7,
-        4205.0
+        4202.3,
+        4172.1
       ]
     },
     "usdjpy": {
@@ -266,12 +266,11 @@
         157.36,
         157.4,
         157.56,
-        157.94
+        157.83
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/20",
         "8/21",
         "8/24",
         "8/25",
@@ -300,10 +299,10 @@
         "9/28",
         "9/29",
         "9/30",
-        "10/1"
+        "10/1",
+        "10/2"
       ],
       "values": [
-        26067.17,
         26180.46,
         25980.19,
         26151.3,
@@ -332,7 +331,8 @@
         26820.38,
         26797.54,
         26861.06,
-        26871.6
+        26871.6,
+        27190.86
       ]
     }
   }
