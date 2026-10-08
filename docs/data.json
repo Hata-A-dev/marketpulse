@@ -1,87 +1,86 @@
 {
-  "updated_at": "2026-10-07 00:12 UTC",
+  "updated_at": "2026-10-08 00:30 UTC",
   "prices": {
     "sp500": {
-      "price": 7818.93,
-      "change_pct": 0.58
+      "price": 7801.77,
+      "change_pct": -0.22
     },
     "nasdaq": {
-      "price": 27599.89,
-      "change_pct": 0.45
+      "price": 27538.69,
+      "change_pct": -0.22
     },
     "gold": {
-      "price": 4194.1,
-      "change_pct": 0.9
+      "price": 4131.5,
+      "change_pct": -1.33
     },
     "usdjpy": {
-      "price": 158.4,
-      "change_pct": 0.28
+      "price": 157.82,
+      "change_pct": -0.3
     },
     "vix": {
-      "price": 15.01,
-      "change_pct": -3.29
+      "price": 15.08,
+      "change_pct": 0.47
     },
     "usbond": {
-      "price": 5.27,
-      "change_pct": -0.75
+      "price": 5.28,
+      "change_pct": 0.19
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Axcelis Technologies (ACLS) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "title": "Beats Stock Market Upswing: What Investors Need to Know",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/682ecc2000bb66f9"
+      "url": "https://biztoc.com/x/403194e8827237a1"
     },
     {
-      "title": "Rises Higher Than Market: Key Facts",
+      "title": "Outpaces Stock Market Gains: What You Should Know",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/1e4bbd244bf88aa0"
+      "url": "https://biztoc.com/x/c5e0f34f5b090303"
     },
     {
-      "title": "Utah's 'Chip Girl' proposed after her husband put a microchip in her body. Then came the swinging scandal...",
+      "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.dailymail.com/lifestyle/article-16167649/utah-chip-girl-microchip-scandal.html"
+      "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious"
     },
     {
-      "title": "Bitcoin price today: BTC USD nears $88,000 as short sellers pile up - will the crypto hit $93,000 next?",
+      "title": "Affluent investors seen boosting crypto exposure: Survey",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-price-today-btc-usd-nears-88000-as-short-sellers-pile-up-will-the-crypto-hit-93000-next/articleshow/134719878.cms"
+      "url": "https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey"
     },
     {
-      "title": "The Tariffs Were a Wake-Up Call; Ottawa Hits Snooze Again",
+      "title": "Eco-friendly electronics gain ground as Canadian consumers prioritise sustainability",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.commondreams.org/opinion/tariffs-canada-us"
+      "url": "https://www.digitaljournal.com/article/eco-friendly-electronics-gain-ground-as-canadian-consumers-prioritise-sustainability/"
     },
     {
-      "title": "Corruption in the White House: Does Anybody Care?",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.thenation.com/article/politics/trump-presidency-personal-wealth-corruption/"
+      "url": "https://english.khabarhub.com/2026/06/570962/"
     },
     {
-      "title": "Bond markets are demanding 'credibility' and could force the Bank of Canada to hike rates this year, says KPMG",
+      "title": "Gold price prediction: Gold rate slips for the year in 2026, experts predict bullion price for next 12 months",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://financialpost.com/news/economy/bond-markets-bank-of-canada-hike-rates"
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-gold-rate-slips-for-the-year-in-2026-experts-predict-bullion-price-for-next-12-months/articleshow/134752523.cms"
     },
     {
-      "title": "US stocks: Nasdaq gains 1% at close as earnings optimism lifts Wall Street",
+      "title": "Stock Is Trading Up Today",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-dow-close-1-higher-as-investors-focus-on-earnings/articleshow/134716734.cms"
+      "url": "https://biztoc.com/x/5273343e9f75ed1d"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/25",
         "8/26",
         "8/27",
         "8/28",
@@ -110,10 +109,10 @@
         "10/1",
         "10/2",
         "10/5",
-        "10/6"
+        "10/6",
+        "10/7"
       ],
       "values": [
-        7677.28,
         7675.7,
         7730.99,
         7711.76,
@@ -142,12 +141,12 @@
         7666.45,
         7722.72,
         7773.95,
-        7818.93
+        7818.93,
+        7801.77
       ]
     },
     "gold": {
       "dates": [
-        "8/26",
         "8/27",
         "8/28",
         "8/31",
@@ -175,10 +174,10 @@
         "10/1",
         "10/2",
         "10/5",
-        "10/6"
+        "10/6",
+        "10/7"
       ],
       "values": [
-        4653.3,
         4664.0,
         4529.9,
         4481.5,
@@ -206,12 +205,12 @@
         4202.3,
         4162.3,
         4156.8,
-        4194.1
+        4187.1,
+        4132.2
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/27",
         "8/28",
         "8/31",
         "9/1",
@@ -240,10 +239,10 @@
         "10/2",
         "10/5",
         "10/6",
-        "10/7"
+        "10/7",
+        "10/8"
       ],
       "values": [
-        159.26,
         159.32,
         160.12,
         159.75,
@@ -272,12 +271,12 @@
         157.93,
         157.73,
         157.96,
-        158.4
+        158.3,
+        157.81
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/25",
         "8/26",
         "8/27",
         "8/28",
@@ -306,10 +305,10 @@
         "10/1",
         "10/2",
         "10/5",
-        "10/6"
+        "10/6",
+        "10/7"
       ],
       "values": [
-        26151.3,
         26130.2,
         26541.35,
         26402.42,
@@ -338,7 +337,8 @@
         26871.6,
         27190.86,
         27477.31,
-        27599.89
+        27599.79,
+        27538.69
       ]
     }
   }
