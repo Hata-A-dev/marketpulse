@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 23:56 UTC",
+  "updated_at": "2026-10-12 00:03 UTC",
   "prices": {
     "sp500": {
       "price": 7811.54,
@@ -10,12 +10,12 @@
       "change_pct": 0.64
     },
     "gold": {
-      "price": 4216.3,
-      "change_pct": 1.43
+      "price": 4216.0,
+      "change_pct": -0.01
     },
     "usdjpy": {
-      "price": 158.25,
-      "change_pct": 0.12
+      "price": 158.17,
+      "change_pct": 0.07
     },
     "vix": {
       "price": 14.84,
@@ -25,59 +25,56 @@
       "price": 5.24,
       "change_pct": 0.19
     },
-    "btc": {
-      "price": 82905.0,
-      "change_pct": 0.43
-    }
+    "btc": {}
   },
   "news": [
     {
-      "title": "Outpaces Stock Market Gains: What You Should Know",
+      "title": "A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/1f50fe39382b647a"
+      "url": "https://biztoc.com/x/2efbc91bfee585cf"
     },
     {
-      "title": "Stock Sinks As Market Gains: What You Should Know",
+      "title": "Nasdaq Futures Prediction: Will Nasdaq Futures Open Higher or Lower on Monday, October 12? Check US Stock Market Outlook, Treasury Yields, Inflation Data, Bank Earnings & What Investors Should Know",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/f75f0e169c11e38e"
+      "url": "https://sundayguardianlive.com/business/nasdaq-futures-prediction-will-nasdaq-futures-open-higher-or-lower-on-monday-october-12-check-us-stock-market-outlook-treasury-yields-inflation-data-bank-earnings-what-investors-should-know-302954/"
     },
     {
-      "title": "Strive reportedly buys 638 Bitcoin with preferred stock proceeds this week",
+      "title": "NY AG Secures $35,000,000 and Lifetime Crypto Ban From Ex-Celsius CEO for Investor Fraud",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/strive-reportedly-buys-638-bitcoin-with-preferred-stock-proceeds-this-week/"
+      "url": "https://dailyhodl.com/2026/10/10/ny-ag-secures-35000000-and-lifetime-crypto-ban-from-ex-celsius-ceo-for-investor-fraud/"
     },
     {
-      "title": "Ledger hack scare nears $90 million as Tether moves to freeze stolen USDT",
+      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/"
+      "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise"
     },
     {
-      "title": "This Week’s Weird and Wonderful—October 9, 2026",
+      "title": "Michael Hudson on the Oil Markets",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://bringatrailer.com/2026/10/09/this-weeks-weird-and-wonderful-october-9-2026/"
+      "url": "https://www.nakedcapitalism.com/2026/10/michael-hudson-on-the-oil-markets.html"
     },
     {
-      "title": "The United States Is Not Ready for the Arctic Age",
+      "title": "Democrats Don’t Own Affordability. Republicans Just Gave It to Them.",
       "tag": "金",
       "ago": "1日前",
-      "url": "http://foreignpolicy.com/2026/10/09/arctic-russia-china-canada-energy-icebreakers/"
+      "url": "https://www.americanthinker.com/articles/2026/10/democrats-don-t-own-affordability-republicans-just-gave-it-to-them/"
     },
     {
-      "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+      "title": "Wall Street banks had a blockbuster first half. Higher rates could change everything.",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html"
+      "url": "https://finance.yahoo.com/markets/article/wall-street-banks-had-a-blockbuster-first-half-higher-rates-will-test-the-boom-180220191.html"
     },
     {
-      "title": "Canadian employment stumbles again with loss of 68,000 jobs in September",
+      "title": "Expectations of Another Fed Rate Hike This Month Are Shifting Dramatically",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.theglobeandmail.com/business/article-canadian-jobs-report-economy-september-2026/"
+      "url": "https://biztoc.com/x/b02e85bee91e667d"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -178,7 +175,8 @@
         "10/6",
         "10/7",
         "10/8",
-        "10/9"
+        "10/9",
+        "10/11"
       ],
       "values": [
         4481.5,
@@ -209,12 +207,12 @@
         4187.1,
         4140.7,
         4157.0,
+        4216.3,
         4216.3
       ]
     },
     "usdjpy": {
       "dates": [
-        "8/31",
         "9/1",
         "9/2",
         "9/3",
@@ -243,10 +241,10 @@
         "10/6",
         "10/7",
         "10/8",
-        "10/9"
+        "10/9",
+        "10/12"
       ],
       "values": [
-        160.12,
         159.75,
         160.2,
         158.92,
@@ -275,7 +273,8 @@
         157.96,
         158.3,
         158.06,
-        158.25
+        158.06,
+        158.16
       ]
     },
     "nasdaq": {
