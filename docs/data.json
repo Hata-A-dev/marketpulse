@@ -1,151 +1,77 @@
 {
-  "updated_at": "2026-10-12 00:03 UTC",
+  "updated_at": "2026-10-13 02:17 UTC",
   "prices": {
     "sp500": {
-      "price": 7811.54,
-      "change_pct": 0.59
+      "price": 7807.24,
+      "change_pct": -0.06
     },
     "nasdaq": {
-      "price": 27366.17,
-      "change_pct": 0.64
-    },
-    "gold": {
-      "price": 4216.0,
-      "change_pct": -0.01
-    },
-    "usdjpy": {
-      "price": 158.17,
-      "change_pct": 0.07
+      "price": 27245.9,
+      "change_pct": -0.44
     },
     "vix": {
-      "price": 14.84,
-      "change_pct": -3.7
+      "price": 15.21,
+      "change_pct": 2.49
     },
     "usbond": {
       "price": 5.24,
-      "change_pct": 0.19
+      "change_pct": 0.0
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year",
+      "title": "Korean stocks slump as global AI hype fades",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/2efbc91bfee585cf"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/korean-stocks-slump-as-global-ai-hype-fades/articleshow/134880113.cms"
     },
     {
-      "title": "Nasdaq Futures Prediction: Will Nasdaq Futures Open Higher or Lower on Monday, October 12? Check US Stock Market Outlook, Treasury Yields, Inflation Data, Bank Earnings & What Investors Should Know",
+      "title": "Stock market today: Live updates",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://sundayguardianlive.com/business/nasdaq-futures-prediction-will-nasdaq-futures-open-higher-or-lower-on-monday-october-12-check-us-stock-market-outlook-treasury-yields-inflation-data-bank-earnings-what-investors-should-know-302954/"
+      "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html"
     },
     {
-      "title": "NY AG Secures $35,000,000 and Lifetime Crypto Ban From Ex-Celsius CEO for Investor Fraud",
+      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/10/10/ny-ag-secures-35000000-and-lifetime-crypto-ban-from-ex-celsius-ceo-for-investor-fraud/"
+      "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest"
     },
     {
-      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+      "title": "Eric Trump Says Crypto Should 'Embrace The Hell' out of AI Boom",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise"
+      "url": "https://biztoc.com/x/ec1de017d299e8c6"
     },
     {
-      "title": "Michael Hudson on the Oil Markets",
+      "title": "Gold steady as markets strap in for inflation data",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.nakedcapitalism.com/2026/10/michael-hudson-on-the-oil-markets.html"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-markets-strap-in-for-inflation-data/articleshow/134880669.cms"
     },
     {
-      "title": "Democrats Don’t Own Affordability. Republicans Just Gave It to Them.",
+      "title": "Market crash after retirement? Four retirees share lessons on how to prepare in advance",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.americanthinker.com/articles/2026/10/democrats-don-t-own-affordability-republicans-just-gave-it-to-them/"
+      "url": "https://economictimes.indiatimes.com/wealth/plan/market-crash-after-retirement-four-retirees-share-lessons-on-how-to-prepare-in-advance/articleshow/134838814.cms"
     },
     {
-      "title": "Wall Street banks had a blockbuster first half. Higher rates could change everything.",
+      "title": "Why China is importing a record amount of gold — and what it means for prices",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://finance.yahoo.com/markets/article/wall-street-banks-had-a-blockbuster-first-half-higher-rates-will-test-the-boom-180220191.html"
+      "url": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html"
     },
     {
-      "title": "Expectations of Another Fed Rate Hike This Month Are Shifting Dramatically",
+      "title": "Global Market Today: Asian shares cautious as earnings loom, oil slips",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/b02e85bee91e667d"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-cautious-as-earnings-loom-oil-slips/articleshow/134880101.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "8/28",
-        "8/31",
-        "9/1",
-        "9/2",
-        "9/3",
-        "9/4",
-        "9/8",
-        "9/9",
-        "9/10",
-        "9/11",
-        "9/14",
-        "9/15",
-        "9/16",
-        "9/17",
-        "9/18",
-        "9/21",
-        "9/22",
-        "9/23",
-        "9/24",
-        "9/25",
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9"
-      ],
-      "values": [
-        7711.76,
-        7686.14,
-        7631.47,
-        7666.6,
-        7747.71,
-        7718.6,
-        7673.52,
-        7636.36,
-        7591.7,
-        7656.98,
-        7619.98,
-        7585.73,
-        7551.81,
-        7637.76,
-        7650.5,
-        7764.7,
-        7764.64,
-        7706.03,
-        7704.13,
-        7743.41,
-        7683.69,
-        7670.84,
-        7651.54,
-        7666.45,
-        7722.72,
-        7773.95,
-        7818.93,
-        7801.77,
-        7765.36,
-        7811.54
-      ]
-    },
-    "gold": {
       "dates": [
         "8/31",
         "9/1",
@@ -176,10 +102,74 @@
         "10/7",
         "10/8",
         "10/9",
-        "10/11"
+        "10/12"
       ],
       "values": [
-        4481.5,
+        7686.14,
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24
+      ]
+    },
+    "gold": {
+      "dates": [
+        "9/1",
+        "9/2",
+        "9/3",
+        "9/4",
+        "9/8",
+        "9/9",
+        "9/10",
+        "9/11",
+        "9/14",
+        "9/15",
+        "9/16",
+        "9/17",
+        "9/18",
+        "9/21",
+        "9/22",
+        "9/23",
+        "9/24",
+        "9/25",
+        "9/28",
+        "9/29",
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12"
+      ],
+      "values": [
         4396.4,
         4414.6,
         4539.9,
@@ -208,7 +198,7 @@
         4140.7,
         4157.0,
         4216.3,
-        4216.3
+        4189.5
       ]
     },
     "usdjpy": {
@@ -242,7 +232,7 @@
         "10/7",
         "10/8",
         "10/9",
-        "10/12"
+        "10/13"
       ],
       "values": [
         159.75,
@@ -274,12 +264,11 @@
         158.3,
         158.06,
         158.06,
-        158.16
+        158.31
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/28",
         "8/31",
         "9/1",
         "9/2",
@@ -308,10 +297,10 @@
         "10/6",
         "10/7",
         "10/8",
-        "10/9"
+        "10/9",
+        "10/12"
       ],
       "values": [
-        26402.42,
         26370.89,
         26099.77,
         26217.83,
@@ -340,7 +329,8 @@
         27599.79,
         27538.69,
         27193.34,
-        27366.17
+        27366.17,
+        27245.9
       ]
     }
   }
