@@ -1,219 +1,92 @@
 {
-  "updated_at": "2026-10-14 00:00 UTC",
+  "updated_at": "2026-10-14 23:31 UTC",
   "prices": {
     "sp500": {
-      "price": 7805.45,
-      "change_pct": -0.02
+      "price": 7718.94,
+      "change_pct": -1.11
     },
     "nasdaq": {
-      "price": 27204.38,
-      "change_pct": -0.15
+      "price": 26692.87,
+      "change_pct": -1.88
     },
     "gold": {
-      "price": 4179.5,
-      "change_pct": -0.26
+      "price": 4125.2,
+      "change_pct": -1.25
     },
     "usdjpy": {
-      "price": 158.32,
-      "change_pct": -0.13
+      "price": 158.0,
+      "change_pct": -0.2
     },
     "vix": {
-      "price": 15.27,
-      "change_pct": 0.39
+      "price": 16.87,
+      "change_pct": 10.48
     },
     "usbond": {
-      "price": 5.22,
-      "change_pct": -0.38
+      "price": 5.19,
+      "change_pct": -0.57
     },
-    "btc": {}
+    "btc": {
+      "price": 81365.0,
+      "change_pct": -2.08
+    }
   },
   "news": [
     {
-      "title": "Stock Market Today, Oct. 12: Dow Gains as Memory Stocks Weigh on Nasdaq",
+      "title": "Rises As Market Takes a Dip: Key Facts",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/0a0d5893888f81bf"
+      "url": "https://biztoc.com/x/bfcc0a4a081237e2"
     },
     {
-      "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
+      "title": "Ascends While Market Falls: Some Facts to Note",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html"
+      "url": "https://biztoc.com/x/410de9a125aafcc1"
     },
     {
-      "title": "Michael Saylor’s Strategy Continues Bitcoin-Buying Spree, Adds $22,000,000 Worth of BTC",
+      "title": "Bitcoin tipped to surge past key psychological level",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/10/12/michael-saylors-strategy-continues-bitcoin-buying-spree-adds-22000000-worth-of-btc/"
+      "url": "https://www.fool.com.au/2026/10/14/bitcoin-tipped-to-surge-past-key-psychological-level/"
     },
     {
-      "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+      "title": "Ledger Confirms How ‘Spy Implants’ Steal Crypto From Its Devices as Cases Spread",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol"
+      "url": "https://gizmodo.com/ledger-confirms-how-spy-implants-steal-crypto-from-its-devices-as-cases-spread-2000825324"
     },
     {
-      "title": "Affordability Trilogy, Part 2",
+      "title": "A matter of interest (1): The major economic indicators",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.grumpy-economist.com/p/affordability-trilogy-part-2"
+      "url": "https://freethoughtblogs.com/singham/2026/10/13/a-matter-of-interest-1-the-major-economic-indicators/"
     },
     {
-      "title": "Billions in the bin as economy struggles with true cost of food waste",
+      "title": "How Kiawah Island Became the South’s Most Exclusive Sandbar",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-10-13/australia-food-waste-business-economic-cost/107249996"
+      "url": "https://observer.com/2026/10/kiawah-islands-ocean-course-and-the-rise-of-a-golf-enclave/"
     },
     {
-      "title": "Jim Cramer says the bull market's remarkable 4-year run offers a crucial lesson for investors",
+      "title": "US deposit rates choke USDC adoption, and a BIS model reveals why",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/10/12/cramer-sp-500-bull-market-stay-invested.html"
+      "url": "https://cryptoslate.com/us-deposit-rates-choke-usdc-adoption-and-a-bis-model-reveals-why/"
     },
     {
-      "title": "Live: Oil prices on the rise as energy supply concerns continue",
+      "title": "Federal Reserve Says AI Data Center Buildout Is Making Everything More Expensive",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-10-13/asx-markets-business-live-news/107258880"
+      "url": "https://futurism.com/artificial-intelligence/federal-reserve-ai-data-center-buildout-more-expensive"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "9/1",
         "9/2",
         "9/3",
         "9/4",
-        "9/8",
-        "9/9",
-        "9/10",
-        "9/11",
-        "9/14",
-        "9/15",
-        "9/16",
-        "9/17",
-        "9/18",
-        "9/21",
-        "9/22",
-        "9/23",
-        "9/24",
-        "9/25",
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13"
-      ],
-      "values": [
-        7631.47,
-        7666.6,
-        7747.71,
-        7718.6,
-        7673.52,
-        7636.36,
-        7591.7,
-        7656.98,
-        7619.98,
-        7585.73,
-        7551.81,
-        7637.76,
-        7650.5,
-        7764.7,
-        7764.64,
-        7706.03,
-        7704.13,
-        7743.41,
-        7683.69,
-        7670.84,
-        7651.54,
-        7666.45,
-        7722.72,
-        7773.95,
-        7818.93,
-        7801.77,
-        7765.36,
-        7811.54,
-        7807.24,
-        7805.45
-      ]
-    },
-    "gold": {
-      "dates": [
-        "9/2",
-        "9/3",
-        "9/4",
-        "9/8",
-        "9/9",
-        "9/10",
-        "9/11",
-        "9/14",
-        "9/15",
-        "9/16",
-        "9/17",
-        "9/18",
-        "9/21",
-        "9/22",
-        "9/23",
-        "9/24",
-        "9/25",
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13"
-      ],
-      "values": [
-        4414.6,
-        4539.9,
-        4476.6,
-        4439.0,
-        4460.7,
-        4407.3,
-        4408.9,
-        4351.9,
-        4332.8,
-        4387.5,
-        4399.7,
-        4424.9,
-        4383.9,
-        4376.4,
-        4318.4,
-        4298.0,
-        4321.2,
-        4168.4,
-        4179.7,
-        4186.7,
-        4202.3,
-        4162.3,
-        4156.8,
-        4187.1,
-        4140.7,
-        4157.0,
-        4216.3,
-        4190.6,
-        4179.5
-      ]
-    },
-    "usdjpy": {
-      "dates": [
-        "9/3",
-        "9/4",
-        "9/7",
         "9/8",
         "9/9",
         "9/10",
@@ -243,7 +116,136 @@
         "10/14"
       ],
       "values": [
-        158.92,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94
+      ]
+    },
+    "gold": {
+      "dates": [
+        "9/3",
+        "9/4",
+        "9/8",
+        "9/9",
+        "9/10",
+        "9/11",
+        "9/14",
+        "9/15",
+        "9/16",
+        "9/17",
+        "9/18",
+        "9/21",
+        "9/22",
+        "9/23",
+        "9/24",
+        "9/25",
+        "9/28",
+        "9/29",
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14"
+      ],
+      "values": [
+        4539.9,
+        4476.6,
+        4439.0,
+        4460.7,
+        4407.3,
+        4408.9,
+        4351.9,
+        4332.8,
+        4387.5,
+        4399.7,
+        4424.9,
+        4383.9,
+        4376.4,
+        4318.4,
+        4298.0,
+        4321.2,
+        4168.4,
+        4179.7,
+        4186.7,
+        4202.3,
+        4162.3,
+        4156.8,
+        4187.1,
+        4140.7,
+        4157.0,
+        4216.3,
+        4190.6,
+        4177.3,
+        4125.2
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "9/4",
+        "9/7",
+        "9/8",
+        "9/9",
+        "9/10",
+        "9/11",
+        "9/14",
+        "9/15",
+        "9/16",
+        "9/17",
+        "9/18",
+        "9/21",
+        "9/22",
+        "9/23",
+        "9/24",
+        "9/25",
+        "9/28",
+        "9/29",
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15"
+      ],
+      "values": [
         155.66,
         156.2,
         153.85,
@@ -272,12 +274,12 @@
         158.06,
         158.2,
         158.52,
-        158.32
+        158.32,
+        158.0
       ]
     },
     "nasdaq": {
       "dates": [
-        "9/1",
         "9/2",
         "9/3",
         "9/4",
@@ -306,10 +308,10 @@
         "10/8",
         "10/9",
         "10/12",
-        "10/13"
+        "10/13",
+        "10/14"
       ],
       "values": [
-        26099.77,
         26217.83,
         26584.06,
         26506.99,
@@ -338,7 +340,8 @@
         27193.34,
         27366.17,
         27245.9,
-        27204.38
+        27204.38,
+        26692.87
       ]
     }
   }
