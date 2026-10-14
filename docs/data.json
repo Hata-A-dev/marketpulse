@@ -1,79 +1,86 @@
 {
-  "updated_at": "2026-10-13 02:17 UTC",
+  "updated_at": "2026-10-14 00:00 UTC",
   "prices": {
     "sp500": {
-      "price": 7807.24,
-      "change_pct": -0.06
+      "price": 7805.45,
+      "change_pct": -0.02
     },
     "nasdaq": {
-      "price": 27245.9,
-      "change_pct": -0.44
+      "price": 27204.38,
+      "change_pct": -0.15
+    },
+    "gold": {
+      "price": 4179.5,
+      "change_pct": -0.26
+    },
+    "usdjpy": {
+      "price": 158.32,
+      "change_pct": -0.13
     },
     "vix": {
-      "price": 15.21,
-      "change_pct": 2.49
+      "price": 15.27,
+      "change_pct": 0.39
     },
     "usbond": {
-      "price": 5.24,
-      "change_pct": 0.0
+      "price": 5.22,
+      "change_pct": -0.38
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Korean stocks slump as global AI hype fades",
+      "title": "Stock Market Today, Oct. 12: Dow Gains as Memory Stocks Weigh on Nasdaq",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/korean-stocks-slump-as-global-ai-hype-fades/articleshow/134880113.cms"
+      "url": "https://biztoc.com/x/0a0d5893888f81bf"
     },
     {
-      "title": "Stock market today: Live updates",
+      "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html"
+      "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html"
     },
     {
-      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+      "title": "Michael Saylor’s Strategy Continues Bitcoin-Buying Spree, Adds $22,000,000 Worth of BTC",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest"
+      "url": "https://dailyhodl.com/2026/10/12/michael-saylors-strategy-continues-bitcoin-buying-spree-adds-22000000-worth-of-btc/"
     },
     {
-      "title": "Eric Trump Says Crypto Should 'Embrace The Hell' out of AI Boom",
+      "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/ec1de017d299e8c6"
+      "url": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol"
     },
     {
-      "title": "Gold steady as markets strap in for inflation data",
+      "title": "Affordability Trilogy, Part 2",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-markets-strap-in-for-inflation-data/articleshow/134880669.cms"
+      "url": "https://www.grumpy-economist.com/p/affordability-trilogy-part-2"
     },
     {
-      "title": "Market crash after retirement? Four retirees share lessons on how to prepare in advance",
+      "title": "Billions in the bin as economy struggles with true cost of food waste",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/wealth/plan/market-crash-after-retirement-four-retirees-share-lessons-on-how-to-prepare-in-advance/articleshow/134838814.cms"
+      "url": "https://www.abc.net.au/news/2026-10-13/australia-food-waste-business-economic-cost/107249996"
     },
     {
-      "title": "Why China is importing a record amount of gold — and what it means for prices",
+      "title": "Jim Cramer says the bull market's remarkable 4-year run offers a crucial lesson for investors",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html"
+      "url": "https://www.cnbc.com/2026/10/12/cramer-sp-500-bull-market-stay-invested.html"
     },
     {
-      "title": "Global Market Today: Asian shares cautious as earnings loom, oil slips",
+      "title": "Live: Oil prices on the rise as energy supply concerns continue",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-cautious-as-earnings-loom-oil-slips/articleshow/134880101.cms"
+      "url": "https://www.abc.net.au/news/2026-10-13/asx-markets-business-live-news/107258880"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "8/31",
         "9/1",
         "9/2",
         "9/3",
@@ -102,10 +109,10 @@
         "10/7",
         "10/8",
         "10/9",
-        "10/12"
+        "10/12",
+        "10/13"
       ],
       "values": [
-        7686.14,
         7631.47,
         7666.6,
         7747.71,
@@ -134,12 +141,12 @@
         7801.77,
         7765.36,
         7811.54,
-        7807.24
+        7807.24,
+        7805.45
       ]
     },
     "gold": {
       "dates": [
-        "9/1",
         "9/2",
         "9/3",
         "9/4",
@@ -167,10 +174,10 @@
         "10/7",
         "10/8",
         "10/9",
-        "10/12"
+        "10/12",
+        "10/13"
       ],
       "values": [
-        4396.4,
         4414.6,
         4539.9,
         4476.6,
@@ -198,13 +205,12 @@
         4140.7,
         4157.0,
         4216.3,
-        4189.5
+        4190.6,
+        4179.5
       ]
     },
     "usdjpy": {
       "dates": [
-        "9/1",
-        "9/2",
         "9/3",
         "9/4",
         "9/7",
@@ -232,11 +238,11 @@
         "10/7",
         "10/8",
         "10/9",
-        "10/13"
+        "10/12",
+        "10/13",
+        "10/14"
       ],
       "values": [
-        159.75,
-        160.2,
         158.92,
         155.66,
         156.2,
@@ -264,12 +270,13 @@
         158.3,
         158.06,
         158.06,
-        158.31
+        158.2,
+        158.52,
+        158.32
       ]
     },
     "nasdaq": {
       "dates": [
-        "8/31",
         "9/1",
         "9/2",
         "9/3",
@@ -298,10 +305,10 @@
         "10/7",
         "10/8",
         "10/9",
-        "10/12"
+        "10/12",
+        "10/13"
       ],
       "values": [
-        26370.89,
         26099.77,
         26217.83,
         26584.06,
@@ -330,7 +337,8 @@
         27538.69,
         27193.34,
         27366.17,
-        27245.9
+        27245.9,
+        27204.38
       ]
     }
   }
