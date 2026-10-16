@@ -1,78 +1,89 @@
 {
-  "updated_at": "2026-10-15 23:22 UTC",
+  "updated_at": "2026-10-16 23:05 UTC",
   "prices": {
     "sp500": {
-      "price": 7744.06,
-      "change_pct": 0.33
+      "price": 7659.44,
+      "change_pct": -1.09
     },
     "nasdaq": {
-      "price": 26713.03,
-      "change_pct": 0.08
+      "price": 26140.03,
+      "change_pct": -2.15
     },
     "gold": {
-      "price": 4185.0,
-      "change_pct": 1.88
+      "price": 4186.7,
+      "change_pct": 0.4
     },
     "usdjpy": {
-      "price": 158.08,
-      "change_pct": 0.08
+      "price": 157.99,
+      "change_pct": 0.02
     },
     "vix": {
-      "price": 16.46,
-      "change_pct": -2.43
+      "price": 19.99,
+      "change_pct": 21.45
     },
     "usbond": {
-      "price": 5.09,
-      "change_pct": -1.93
+      "price": 5.1,
+      "change_pct": 0.2
     },
     "btc": {
-      "price": 82058.0,
-      "change_pct": 0.61
+      "price": 81698.0,
+      "change_pct": -0.54
     }
   },
   "news": [
     {
-      "title": "Quantum computing presents threat to all crypto currencies, digital assets and passwords: ‘industry is scrambling’",
+      "title": "US Stock Market: What to led to S&P 500, Nasdaq, Dow Jones, Russell 2000 rebound after historic low despite fall of Nvidia stocks, TSMC shares?",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-what-to-led-to-sp-500-nasdaq-dow-jones-russell-2000-rebound-after-historic-low-despite-fall-of-nvidia-stocks-tsmc-shares/articleshow/134979105.cms"
+    },
+    {
+      "title": "Rises Higher Than Market: Key Facts",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://biztoc.com/x/96cf9b5b700c956a"
+    },
+    {
+      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://nypost.com/2026/10/14/tech/quantum-computing-presents-threat-to-all-crypto-currencies/"
+      "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express"
     },
     {
-      "title": "Experts name the US stocks many people forget that could be about to soar - including a uranium company",
+      "title": "'Blatant Corruption': Donors Pouring $330 Million Into Trump Ballroom—and Reaping Benefits—Exposed",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.dailymail.com/yourmoney/article-16203445/experts-stocks-uranium-soar.html"
+      "url": "https://www.commondreams.org/news/trump-ballroom-donors-list"
     },
     {
-      "title": "Bitwise CIO says all roads still lead to Bitcoin regardless of AI boom or recession",
+      "title": "The second life of gifts: Why Diwali giving need not end at unwrapping",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/bitcoins-resilience-amid-ai-boom/"
+      "url": "https://www.business-standard.com/finance/personal-finance/the-second-life-of-gifts-why-diwali-giving-need-not-end-at-unwrapping-126101501447_1.html"
     },
     {
-      "title": "The Transcendent Tech Economy: Abundance and Mass Poverty Will Arrive Together",
+      "title": "World of Hyatt elites can now fast-track to Aeroplan status (here’s what it takes)",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://activistpost.com/the-transcendent-tech-economy-abundance-and-mass-poverty-will-arrive-together/"
+      "url": "https://travelingformiles.com/hyatt-aeroplan-status-challenge/"
     },
     {
-      "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
+      "title": "USD rate: Why is US Dollar down from 18-month peak?",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html"
+      "url": "https://economictimes.indiatimes.com/news/international/us/usd-rate-why-is-us-dollar-down-from-18-month-peak/articleshow/134976970.cms"
     },
     {
-      "title": "Surging dollar forces Bitcoin sell-off as rate hike odds double",
+      "title": "Simmons First National Corporation Reports Third Quarter Results",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/surging-dollar-forces-bitcoin-sell-off-as-rate-hike-odds-double/"
+      "url": "https://www.prnewswire.com/news-releases/simmons-first-national-corporation-reports-third-quarter-results-302910465.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "9/3",
         "9/4",
         "9/8",
         "9/9",
@@ -101,10 +112,10 @@
         "10/12",
         "10/13",
         "10/14",
-        "10/15"
+        "10/15",
+        "10/16"
       ],
       "values": [
-        7747.71,
         7718.6,
         7673.52,
         7636.36,
@@ -133,12 +144,12 @@
         7807.24,
         7805.45,
         7718.94,
-        7744.06
+        7744.06,
+        7659.44
       ]
     },
     "gold": {
       "dates": [
-        "9/4",
         "9/8",
         "9/9",
         "9/10",
@@ -166,10 +177,10 @@
         "10/12",
         "10/13",
         "10/14",
-        "10/15"
+        "10/15",
+        "10/16"
       ],
       "values": [
-        4476.6,
         4439.0,
         4460.7,
         4407.3,
@@ -197,7 +208,8 @@
         4190.6,
         4177.3,
         4107.9,
-        4185.0
+        4170.1,
+        4186.7
       ]
     },
     "usdjpy": {
@@ -263,12 +275,11 @@
         158.52,
         158.32,
         157.96,
-        158.08
+        157.99
       ]
     },
     "nasdaq": {
       "dates": [
-        "9/3",
         "9/4",
         "9/8",
         "9/9",
@@ -297,10 +308,10 @@
         "10/12",
         "10/13",
         "10/14",
-        "10/15"
+        "10/15",
+        "10/16"
       ],
       "values": [
-        26584.06,
         26506.99,
         26421.41,
         26253.34,
@@ -329,7 +340,8 @@
         27245.9,
         27204.38,
         26692.87,
-        26713.03
+        26713.03,
+        26140.03
       ]
     }
   }
