@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 23:05 UTC",
+  "updated_at": "2026-10-17 22:44 UTC",
   "prices": {
     "sp500": {
       "price": 7659.44,
@@ -10,8 +10,8 @@
       "change_pct": -2.15
     },
     "gold": {
-      "price": 4186.7,
-      "change_pct": 0.4
+      "price": 4181.1,
+      "change_pct": 0.26
     },
     "usdjpy": {
       "price": 157.99,
@@ -26,58 +26,58 @@
       "change_pct": 0.2
     },
     "btc": {
-      "price": 81698.0,
-      "change_pct": -0.54
+      "price": 81295.0,
+      "change_pct": -0.25
     }
   },
   "news": [
     {
-      "title": "US Stock Market: What to led to S&P 500, Nasdaq, Dow Jones, Russell 2000 rebound after historic low despite fall of Nvidia stocks, TSMC shares?",
+      "title": "Stock Market Today, Oct. 16: Tech Stocks Plunge as AI Software Valuations Reverse",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-what-to-led-to-sp-500-nasdaq-dow-jones-russell-2000-rebound-after-historic-low-despite-fall-of-nvidia-stocks-tsmc-shares/articleshow/134979105.cms"
+      "url": "https://biztoc.com/x/5cf3277e4f582742"
     },
     {
-      "title": "Rises Higher Than Market: Key Facts",
+      "title": "Stock Market Today: Nasdaq, S&P 500 Sink, Poised for Weekly Losses as AI Stocks Remain Under Pressure; Dow Slips But Set for Weekly Gain - Investopedia",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/96cf9b5b700c956a"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186342220"
     },
     {
-      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+      "title": "Federal Judge Denies Gemini and CFTC Bid to Erase 2025 Settlement",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express"
+      "url": "https://www.pymnts.com/cryptocurrency/2026/federal-judge-denies-gemini-cftc-bid-erase-2025-settlement/"
     },
     {
-      "title": "'Blatant Corruption': Donors Pouring $330 Million Into Trump Ballroom—and Reaping Benefits—Exposed",
+      "title": "Billionaire Paul Tudor Jones Warns 2027 Will Be ‘Really, Really Challenging’ for Stocks – Here’s Why",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.commondreams.org/news/trump-ballroom-donors-list"
+      "url": "https://dailyhodl.com/2026/10/16/billionaire-paul-tudor-jones-warns-2027-will-be-really-really-challenging-for-stocks-heres-why/"
     },
     {
-      "title": "The second life of gifts: Why Diwali giving need not end at unwrapping",
+      "title": "The Points Hobby Guide: How to Earn Points and Redeem Them for Flights and Hotel Stays",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/finance/personal-finance/the-second-life-of-gifts-why-diwali-giving-need-not-end-at-unwrapping-126101501447_1.html"
+      "url": "https://milevalue.com/points-hobby-guide/"
     },
     {
-      "title": "World of Hyatt elites can now fast-track to Aeroplan status (here’s what it takes)",
+      "title": "The 2027 BMW F 450 RR Is Coming To America Only As A $7,815 M Sport. Here’s What Americans Get",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://travelingformiles.com/hyatt-aeroplan-status-challenge/"
+      "url": "https://www.bmwblog.com/2026/10/16/2027-bmw-f-450-rr-price-specs/"
     },
     {
-      "title": "USD rate: Why is US Dollar down from 18-month peak?",
+      "title": "Tech stocks tumble as AI debt fears rattle Wall Street",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/usd-rate-why-is-us-dollar-down-from-18-month-peak/articleshow/134976970.cms"
+      "url": "https://www.cbsnews.com/news/tech-stocks-slide-ai-debt-concerns/"
     },
     {
-      "title": "Simmons First National Corporation Reports Third Quarter Results",
+      "title": "How This Year’s Economics Nobel Winners Shaped the World",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/simmons-first-national-corporation-reports-third-quarter-results-302910465.html"
+      "url": "http://foreignpolicy.com/2026/10/16/economics-nobel-central-banks-fed-warsh-woodford-hall/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -209,7 +209,7 @@
         4177.3,
         4107.9,
         4170.1,
-        4186.7
+        4181.1
       ]
     },
     "usdjpy": {
