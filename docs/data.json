@@ -1,90 +1,89 @@
 {
-  "updated_at": "2026-10-22 23:43 UTC",
+  "updated_at": "2026-10-23 23:36 UTC",
   "prices": {
     "sp500": {
-      "price": 7663.43,
-      "change_pct": -1.21
+      "price": 7623.68,
+      "change_pct": -0.52
     },
     "nasdaq": {
-      "price": 26008.86,
-      "change_pct": -2.6
+      "price": 25955.34,
+      "change_pct": -0.21
     },
     "gold": {
-      "price": 4040.7,
-      "change_pct": -2.63
+      "price": 4010.0,
+      "change_pct": -1.24
     },
     "usdjpy": {
-      "price": 156.54,
-      "change_pct": -1.01
+      "price": 156.81,
+      "change_pct": -0.83
     },
     "vix": {
-      "price": 19.03,
-      "change_pct": 14.09
+      "price": 19.45,
+      "change_pct": 2.21
     },
     "usbond": {
-      "price": 4.95,
-      "change_pct": -3.88
+      "price": 4.99,
+      "change_pct": 0.81
     },
     "btc": {
-      "price": 81248.0,
-      "change_pct": -3.29
+      "price": 80824.0,
+      "change_pct": -0.6
     }
   },
   "news": [
     {
-      "title": "Stocks rise on AI-led earnings, France's 10-year bond yield hits 5%",
+      "title": "Suffers a Larger Drop Than the General Market: Key Insights",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/stocks-rise-ai-led-earnings-frances-10-year-bond-yield-hits-5-6477551"
+      "url": "https://biztoc.com/x/b07989a114e764d1"
     },
     {
-      "title": "SpaceX's Strong Profit Report Lifts AI Stocks",
+      "title": "Fiverr International (FVRR) Gains As Market Dips: What You Should Know",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.newser.com/story/398580/spacexs-strong-profit-report-lifts-ai-stocks.html"
+      "url": "https://biztoc.com/x/9410dfaa2bc23a40"
     },
     {
-      "title": "US Treasury finalizes stablecoin rules under GENIUS Act, boosting crypto clarity",
+      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-treasury-finalizes-stablecoin-rules-under-genius-act-boosting-crypto-clarity/"
+      "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express"
     },
     {
-      "title": "Tesla–SpaceX merger talks could put 30,221 Bitcoin under one roof",
+      "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/tesla-spacex-merger-talks-bitcoin/"
+      "url": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/"
     },
     {
-      "title": "The Petrodollar Could Break Soon—and Upend the Global Financial System",
+      "title": "The Bloodlines Beneath the Vatican",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://activistpost.com/the-petrodollar-could-break-soon-and-upend-the-global-financial-system/"
+      "url": "https://www.globalresearch.ca/bloodlines-beneath-vatican/5944192"
     },
     {
-      "title": "Monetary Reform for the 2028 Election: Monetary Wars Begin in the US: 1795-1832. Part 1.4",
+      "title": "The hidden history of how Big Oil invented the American Dream",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globalresearch.ca/monetary-reform-2028-election-monetary-wars-begin-us-1795-1832-part-1-4/5944123"
+      "url": "https://grist.org/culture/hidden-history-american-dream-oil-gas-investigation/"
     },
     {
-      "title": "Mapped: Where homeowners pay the lowest property tax bills under 0.5%",
+      "title": "Major Banks Restrict AI Agents Amid Fears of Unauthorized Transactions",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://nypost.com/2026/10/21/real-estate/mapped-where-homeowners-pay-the-lowest-property-tax-bills-under-0-5/"
+      "url": "https://legalinsurrection.com/2026/10/major-banks-restrict-ai-agents-amid-fears-of-unauthorized-transactions/"
     },
     {
-      "title": "Fulton Financial Corporation Announces Third Quarter 2026 Results",
+      "title": "US bond market down: Why are 10-year, 30-year, 2-year treasury yield notes are falling? Check latest predictions",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/fulton-financial-corporation-announces-third-quarter-2026-results-302915906.html"
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-bond-market-down-why-are-10-year-30-year-2-year-treasury-yield-notes-are-falling-check-latest-predictions/articleshow/135129800.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "9/11",
         "9/14",
         "9/15",
         "9/16",
@@ -113,10 +112,10 @@
         "10/19",
         "10/20",
         "10/21",
-        "10/22"
+        "10/22",
+        "10/23"
       ],
       "values": [
-        7656.98,
         7619.98,
         7585.73,
         7551.81,
@@ -145,7 +144,8 @@
         7690.73,
         7712.57,
         7757.17,
-        7663.43
+        7663.43,
+        7623.68
       ]
     },
     "gold": {
@@ -178,7 +178,8 @@
         "10/19",
         "10/20",
         "10/21",
-        "10/22"
+        "10/22",
+        "10/23"
       ],
       "values": [
         4351.9,
@@ -209,7 +210,8 @@
         4160.1,
         4142.6,
         4150.0,
-        4040.7
+        4060.4,
+        4010.0
       ]
     },
     "usdjpy": {
@@ -275,12 +277,11 @@
         158.52,
         158.27,
         158.13,
-        156.55
+        156.81
       ]
     },
     "nasdaq": {
       "dates": [
-        "9/11",
         "9/14",
         "9/15",
         "9/16",
@@ -309,10 +310,10 @@
         "10/19",
         "10/20",
         "10/21",
-        "10/22"
+        "10/22",
+        "10/23"
       ],
       "values": [
-        26333.04,
         26186.41,
         25981.57,
         25978.43,
@@ -341,7 +342,8 @@
         26430.89,
         26424.82,
         26702.86,
-        26008.86
+        26008.86,
+        25955.34
       ]
     }
   }
