@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 23:36 UTC",
+  "updated_at": "2026-10-24 22:46 UTC",
   "prices": {
     "sp500": {
       "price": 7623.68,
@@ -10,8 +10,8 @@
       "change_pct": -0.21
     },
     "gold": {
-      "price": 4010.0,
-      "change_pct": -1.24
+      "price": 4007.9,
+      "change_pct": -1.29
     },
     "usdjpy": {
       "price": 156.81,
@@ -26,58 +26,58 @@
       "change_pct": 0.81
     },
     "btc": {
-      "price": 80824.0,
-      "change_pct": -0.6
+      "price": 80467.0,
+      "change_pct": -0.75
     }
   },
   "news": [
     {
-      "title": "Suffers a Larger Drop Than the General Market: Key Insights",
+      "title": "Dow and Small Caps Climb Weekly While Nasdaq Slips on Megacap Earnings Charges",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/b07989a114e764d1"
+      "url": "https://www.prnewswire.com/news-releases/dow-and-small-caps-climb-weekly-while-nasdaq-slips-on-megacap-earnings-charges-302918459.html"
     },
     {
-      "title": "Fiverr International (FVRR) Gains As Market Dips: What You Should Know",
+      "title": "Franklin Templeton to launch two 95% stock, 5% Bitcoin ETFs",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/9410dfaa2bc23a40"
+      "url": "https://cryptobriefing.com/franklin-templeton-stock-bitcoin-etfs/"
     },
     {
-      "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+      "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express"
+      "url": "https://activistpost.com/dark-web-drug-market-operator-sentenced-to-40-years-forfeits-101-million-in-bitcoin/"
     },
     {
-      "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/"
+      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice"
     },
     {
-      "title": "The Bloodlines Beneath the Vatican",
+      "title": "FTSE 100 slips as oil price hits five-month high",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.globalresearch.ca/bloodlines-beneath-vatican/5944192"
+      "url": "https://britbrief.co.uk/business/markets/ftse-100-slips-as-oil-price-hits-five-month-high.html"
     },
     {
-      "title": "The hidden history of how Big Oil invented the American Dream",
+      "title": "RBI flags rising inflation risks from West Asia conflict, El Nino despite resilient Indian economy",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://grist.org/culture/hidden-history-american-dream-oil-gas-investigation/"
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-flags-rising-inflation-risks-from-west-asia-conflict-el-nino-despite-resilient-indian-economy/articleshow/135160910.cms"
     },
     {
-      "title": "Major Banks Restrict AI Agents Amid Fears of Unauthorized Transactions",
+      "title": "Who do Americans blame for their debt? Here’s how every generation answers",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://legalinsurrection.com/2026/10/major-banks-restrict-ai-agents-amid-fears-of-unauthorized-transactions/"
+      "url": "https://nypost.com/business/who-americans-blame-for-debt-by-generation/"
     },
     {
-      "title": "US bond market down: Why are 10-year, 30-year, 2-year treasury yield notes are falling? Check latest predictions",
+      "title": "US Treasury yield on 10-year note, 30-year bond, 2-year jump again: What does this mean for US Fed interest rate?",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-bond-market-down-why-are-10-year-30-year-2-year-treasury-yield-notes-are-falling-check-latest-predictions/articleshow/135129800.cms"
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-treasury-yield-on-10-year-note-30-year-bond-2-year-jump-again-what-does-this-mean-for-us-fed-interest-rate/articleshow/135155273.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -211,7 +211,7 @@
         4142.6,
         4150.0,
         4060.4,
-        4010.0
+        4007.9
       ]
     },
     "usdjpy": {
