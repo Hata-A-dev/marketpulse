@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 22:46 UTC",
+  "updated_at": "2026-10-25 22:52 UTC",
   "prices": {
     "sp500": {
       "price": 7623.68,
@@ -10,12 +10,12 @@
       "change_pct": -0.21
     },
     "gold": {
-      "price": 4007.9,
-      "change_pct": -1.29
+      "price": 4016.1,
+      "change_pct": 0.2
     },
     "usdjpy": {
-      "price": 156.81,
-      "change_pct": -0.83
+      "price": 156.86,
+      "change_pct": 0.24
     },
     "vix": {
       "price": 19.45,
@@ -26,58 +26,58 @@
       "change_pct": 0.81
     },
     "btc": {
-      "price": 80467.0,
-      "change_pct": -0.75
+      "price": 80454.0,
+      "change_pct": -0.42
     }
   },
   "news": [
     {
-      "title": "Dow and Small Caps Climb Weekly While Nasdaq Slips on Megacap Earnings Charges",
+      "title": "Before You Buy the Vanguard S&P 500 ETF, There's 1 Sneaky Risk Investors Should Know",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.prnewswire.com/news-releases/dow-and-small-caps-climb-weekly-while-nasdaq-slips-on-megacap-earnings-charges-302918459.html"
+      "url": "https://biztoc.com/x/9467fd26567f532c"
     },
     {
-      "title": "Franklin Templeton to launch two 95% stock, 5% Bitcoin ETFs",
+      "title": "China’s Stock Market Is Trailing the U.S. by the Widest Margin in History",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/franklin-templeton-stock-bitcoin-etfs/"
+      "url": "https://biztoc.com/x/b3968a2211ac5258"
     },
     {
-      "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
+      "title": "Kraken drops Monero spending questions but keeps a $1,500 rolling 30-day withdrawal cap for individuals",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://activistpost.com/dark-web-drug-market-operator-sentenced-to-40-years-forfeits-101-million-in-bitcoin/"
+      "url": "https://cryptoslate.com/kraken-drops-monero-spending-questions-but-keeps-a-1500-rolling-30-day-withdrawal-cap-for-individuals/"
     },
     {
-      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice"
+      "url": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/"
     },
     {
-      "title": "FTSE 100 slips as oil price hits five-month high",
+      "title": "I spent $200 on thrifted 4K Blu-rays instead of digital rentals, and my local Plex library paid for itself in months",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://britbrief.co.uk/business/markets/ftse-100-slips-as-oil-price-hits-five-month-high.html"
+      "url": "https://www.xda-developers.com/i-spent-200-on-thrifted-4k-blu-rays-instead-of-digital-rentals-my-local-plex-library-paid-for-itself/"
     },
     {
-      "title": "RBI flags rising inflation risks from West Asia conflict, El Nino despite resilient Indian economy",
+      "title": "Sudan’s soaring fuel prices make getting by harder for workers",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-flags-rising-inflation-risks-from-west-asia-conflict-el-nino-despite-resilient-indian-economy/articleshow/135160910.cms"
+      "url": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers"
     },
     {
-      "title": "Who do Americans blame for their debt? Here’s how every generation answers",
+      "title": "5 signs you may not know you’re drowning in credit card debt",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://nypost.com/business/who-americans-blame-for-debt-by-generation/"
+      "url": "https://nypost.com/business/credit-card-debt-warning-signs/"
     },
     {
-      "title": "US Treasury yield on 10-year note, 30-year bond, 2-year jump again: What does this mean for US Fed interest rate?",
+      "title": "A Neocloud’s Gathering Storm",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-treasury-yield-on-10-year-note-30-year-bond-2-year-jump-again-what-does-this-mean-for-us-fed-interest-rate/articleshow/135155273.cms"
+      "url": "https://www.theinformation.com/articles/neoclouds-gathering-storm"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -150,7 +150,6 @@
     },
     "gold": {
       "dates": [
-        "9/14",
         "9/15",
         "9/16",
         "9/17",
@@ -179,10 +178,10 @@
         "10/20",
         "10/21",
         "10/22",
-        "10/23"
+        "10/23",
+        "10/25"
       ],
       "values": [
-        4351.9,
         4332.8,
         4387.5,
         4399.7,
@@ -211,12 +210,12 @@
         4142.6,
         4150.0,
         4060.4,
-        4007.9
+        4007.9,
+        4016.1
       ]
     },
     "usdjpy": {
       "dates": [
-        "9/14",
         "9/15",
         "9/16",
         "9/17",
@@ -245,10 +244,10 @@
         "10/20",
         "10/21",
         "10/22",
-        "10/23"
+        "10/23",
+        "10/25"
       ],
       "values": [
-        153.42,
         154.38,
         155.27,
         156.01,
@@ -277,7 +276,8 @@
         158.52,
         158.27,
         158.13,
-        156.81
+        156.49,
+        156.88
       ]
     },
     "nasdaq": {
