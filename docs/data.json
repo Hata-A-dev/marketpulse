@@ -1,90 +1,76 @@
 {
-  "updated_at": "2026-10-25 22:52 UTC",
+  "updated_at": "2026-10-27 00:07 UTC",
   "prices": {
     "sp500": {
-      "price": 7623.68,
-      "change_pct": -0.52
+      "price": 7676.77,
+      "change_pct": 0.7
     },
     "nasdaq": {
-      "price": 25955.34,
-      "change_pct": -0.21
-    },
-    "gold": {
-      "price": 4016.1,
-      "change_pct": 0.2
+      "price": 26169.38,
+      "change_pct": 0.82
     },
     "usdjpy": {
-      "price": 156.86,
-      "change_pct": 0.24
+      "price": 157.51,
+      "change_pct": 0.43
     },
     "vix": {
-      "price": 19.45,
-      "change_pct": 2.21
+      "price": 18.39,
+      "change_pct": -5.45
     },
     "usbond": {
       "price": 4.99,
-      "change_pct": 0.81
+      "change_pct": 0.0
     },
-    "btc": {
-      "price": 80454.0,
-      "change_pct": -0.42
-    }
+    "btc": {}
   },
   "news": [
     {
-      "title": "Before You Buy the Vanguard S&P 500 ETF, There's 1 Sneaky Risk Investors Should Know",
+      "title": "US Stock Market prediction: S&P 500, Nasdaq, Dow Jones look to rebound as Wall Street investors set to be driven by a few factors, top stocks to follow",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/9467fd26567f532c"
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-prediction-sp-500-nasdaq-dow-jones-look-to-rebound-as-wall-street-investors-set-to-be-driven-by-a-few-factors-top-stocks-to-follow/articleshow/135199387.cms"
     },
     {
-      "title": "China’s Stock Market Is Trailing the U.S. by the Widest Margin in History",
+      "title": "Bank of America warns of 2027 stock market risk few expect",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/b3968a2211ac5258"
+      "url": "https://biztoc.com/x/9925f6de2bfcc72a"
     },
     {
-      "title": "Kraken drops Monero spending questions but keeps a $1,500 rolling 30-day withdrawal cap for individuals",
+      "title": "Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/kraken-drops-monero-spending-questions-but-keeps-a-1500-rolling-30-day-withdrawal-cap-for-individuals/"
+      "url": "https://biztoc.com/x/b5a60856d8474ead"
     },
     {
-      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
+      "title": "Bitcoin Is Down 3% in October and Ethereum 12%. Which Should a First-Time Buyer Pick?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/"
+      "url": "https://biztoc.com/x/f832bd6f3a69b15b"
     },
     {
-      "title": "I spent $200 on thrifted 4K Blu-rays instead of digital rentals, and my local Plex library paid for itself in months",
+      "title": "Money, Money, Money: 20 expert tips to help you get richer",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.xda-developers.com/i-spent-200-on-thrifted-4k-blu-rays-instead-of-digital-rentals-my-local-plex-library-paid-for-itself/"
+      "url": "https://www.nzherald.co.nz/nz/money-money-money-20-expert-tips-to-help-you-get-richer/premium/HDFJFPJKTNAYPA3B6OGYZDXZLY/"
     },
     {
-      "title": "Sudan’s soaring fuel prices make getting by harder for workers",
+      "title": "SILVER CRASHES FROM $121 TO $54: an absolute massacre!",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers"
+      "url": "https://www.shtfplan.com/headline-news/silver-crashes-from-121-to-54-an-absolute-massacre"
     },
     {
-      "title": "5 signs you may not know you’re drowning in credit card debt",
+      "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://nypost.com/business/credit-card-debt-warning-signs/"
-    },
-    {
-      "title": "A Neocloud’s Gathering Storm",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.theinformation.com/articles/neoclouds-gathering-storm"
+      "url": "https://biztoc.com/x/b8985d296c357c28"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "9/14",
         "9/15",
         "9/16",
         "9/17",
@@ -113,10 +99,10 @@
         "10/20",
         "10/21",
         "10/22",
-        "10/23"
+        "10/23",
+        "10/26"
       ],
       "values": [
-        7619.98,
         7585.73,
         7551.81,
         7637.76,
@@ -145,12 +131,12 @@
         7712.57,
         7757.17,
         7663.43,
-        7623.68
+        7623.68,
+        7676.77
       ]
     },
     "gold": {
       "dates": [
-        "9/15",
         "9/16",
         "9/17",
         "9/18",
@@ -179,10 +165,9 @@
         "10/21",
         "10/22",
         "10/23",
-        "10/25"
+        "10/26"
       ],
       "values": [
-        4332.8,
         4387.5,
         4399.7,
         4424.9,
@@ -211,10 +196,76 @@
         4150.0,
         4060.4,
         4007.9,
-        4016.1
+        4018.2
       ]
     },
     "usdjpy": {
+      "dates": [
+        "9/16",
+        "9/17",
+        "9/18",
+        "9/21",
+        "9/22",
+        "9/23",
+        "9/24",
+        "9/25",
+        "9/28",
+        "9/29",
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27"
+      ],
+      "values": [
+        155.27,
+        156.01,
+        156.13,
+        157.05,
+        157.37,
+        157.46,
+        158.26,
+        158.81,
+        157.46,
+        157.36,
+        157.4,
+        157.56,
+        157.93,
+        157.73,
+        157.96,
+        158.3,
+        158.06,
+        158.06,
+        158.2,
+        158.52,
+        158.32,
+        157.96,
+        158.14,
+        157.81,
+        158.52,
+        158.27,
+        158.13,
+        156.49,
+        156.83,
+        157.5
+      ]
+    },
+    "nasdaq": {
       "dates": [
         "9/15",
         "9/16",
@@ -245,76 +296,9 @@
         "10/21",
         "10/22",
         "10/23",
-        "10/25"
+        "10/26"
       ],
       "values": [
-        154.38,
-        155.27,
-        156.01,
-        156.13,
-        157.05,
-        157.37,
-        157.46,
-        158.26,
-        158.81,
-        157.46,
-        157.36,
-        157.4,
-        157.56,
-        157.93,
-        157.73,
-        157.96,
-        158.3,
-        158.06,
-        158.06,
-        158.2,
-        158.52,
-        158.32,
-        157.96,
-        158.14,
-        157.81,
-        158.52,
-        158.27,
-        158.13,
-        156.49,
-        156.88
-      ]
-    },
-    "nasdaq": {
-      "dates": [
-        "9/14",
-        "9/15",
-        "9/16",
-        "9/17",
-        "9/18",
-        "9/21",
-        "9/22",
-        "9/23",
-        "9/24",
-        "9/25",
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23"
-      ],
-      "values": [
-        26186.41,
         25981.57,
         25978.43,
         26418.3,
@@ -343,7 +327,8 @@
         26424.82,
         26702.86,
         26008.86,
-        25955.34
+        25955.34,
+        26169.38
       ]
     }
   }
