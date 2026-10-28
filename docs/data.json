@@ -1,21 +1,25 @@
 {
-  "updated_at": "2026-10-27 00:07 UTC",
+  "updated_at": "2026-10-28 00:06 UTC",
   "prices": {
     "sp500": {
-      "price": 7676.77,
-      "change_pct": 0.7
+      "price": 7722.6,
+      "change_pct": 0.6
     },
     "nasdaq": {
-      "price": 26169.38,
-      "change_pct": 0.82
+      "price": 26477.81,
+      "change_pct": 1.18
+    },
+    "gold": {
+      "price": 4076.2,
+      "change_pct": 0.94
     },
     "usdjpy": {
-      "price": 157.51,
-      "change_pct": 0.43
+      "price": 157.89,
+      "change_pct": 0.23
     },
     "vix": {
-      "price": 18.39,
-      "change_pct": -5.45
+      "price": 17.52,
+      "change_pct": -4.73
     },
     "usbond": {
       "price": 4.99,
@@ -25,181 +29,57 @@
   },
   "news": [
     {
-      "title": "US Stock Market prediction: S&P 500, Nasdaq, Dow Jones look to rebound as Wall Street investors set to be driven by a few factors, top stocks to follow",
+      "title": "Is United Rentals Stock Increasing Your Market Risk?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-prediction-sp-500-nasdaq-dow-jones-look-to-rebound-as-wall-street-investors-set-to-be-driven-by-a-few-factors-top-stocks-to-follow/articleshow/135199387.cms"
+      "url": "https://biztoc.com/x/a7117f0d651bbc4c"
     },
     {
-      "title": "Bank of America warns of 2027 stock market risk few expect",
+      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/9925f6de2bfcc72a"
+      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html"
     },
     {
-      "title": "Which Crypto Could Be the Second to Reach a $1 Trillion Market Value?",
+      "title": "Louisiana Woman Scammed Out Of Thousands By Fake Jon Bon Jovi Using AI Videos Nearly Loses Her Home",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/b5a60856d8474ead"
+      "url": "https://brobible.com/culture/article/woman-scammed-fake-jon-bon-jovi-ai-videos/"
     },
     {
-      "title": "Bitcoin Is Down 3% in October and Ethereum 12%. Which Should a First-Time Buyer Pick?",
+      "title": "Bitcoin’s $80K consolidation could end within days as macro events approach, ARP Digital says",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/f832bd6f3a69b15b"
+      "url": "https://cryptobriefing.com/bitcoin-consolidation-end-macro-events/"
     },
     {
-      "title": "Money, Money, Money: 20 expert tips to help you get richer",
+      "title": "BFSI Insight Summit 2026: FCNR(B) bought India 3-5 years, says Uday Kotak",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.nzherald.co.nz/nz/money-money-money-20-expert-tips-to-help-you-get-richer/premium/HDFJFPJKTNAYPA3B6OGYZDXZLY/"
+      "url": "https://www.business-standard.com/specials/bs-events/bfsi-insight-summit-2026-fcnr-b-bought-india-3-5-years-says-uday-kotak-126102601451_1.html"
     },
     {
-      "title": "SILVER CRASHES FROM $121 TO $54: an absolute massacre!",
+      "title": "This pipeline on early warning inflation pressures is ‘lit up,’ warns Scotiabank economist",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.shtfplan.com/headline-news/silver-crashes-from-121-to-54-an-absolute-massacre"
+      "url": "https://financialpost.com/news/economy/early-warning-inflation-pressures-lit-up-scotiabank"
     },
     {
-      "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
+      "title": "Federal Reserve to announce its latest interest rate move this week. Here's what economists expect",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/b8985d296c357c28"
+      "url": "https://biztoc.com/x/cd97b82dc0b1e56e"
+    },
+    {
+      "title": "Breitbart Business Digest: Volatility Won't Stand in Warsh's Way",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.breitbart.com/economy/2026/10/26/breitbart-business-digest-volatility-wont-stand-in-warshs-way/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "9/15",
-        "9/16",
-        "9/17",
-        "9/18",
-        "9/21",
-        "9/22",
-        "9/23",
-        "9/24",
-        "9/25",
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26"
-      ],
-      "values": [
-        7585.73,
-        7551.81,
-        7637.76,
-        7650.5,
-        7764.7,
-        7764.64,
-        7706.03,
-        7704.13,
-        7743.41,
-        7683.69,
-        7670.84,
-        7651.54,
-        7666.45,
-        7722.72,
-        7773.95,
-        7818.93,
-        7801.77,
-        7765.36,
-        7811.54,
-        7807.24,
-        7805.45,
-        7718.94,
-        7744.06,
-        7659.44,
-        7690.73,
-        7712.57,
-        7757.17,
-        7663.43,
-        7623.68,
-        7676.77
-      ]
-    },
-    "gold": {
-      "dates": [
-        "9/16",
-        "9/17",
-        "9/18",
-        "9/21",
-        "9/22",
-        "9/23",
-        "9/24",
-        "9/25",
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26"
-      ],
-      "values": [
-        4387.5,
-        4399.7,
-        4424.9,
-        4383.9,
-        4376.4,
-        4318.4,
-        4298.0,
-        4321.2,
-        4168.4,
-        4179.7,
-        4186.7,
-        4202.3,
-        4162.3,
-        4156.8,
-        4187.1,
-        4140.7,
-        4157.0,
-        4216.3,
-        4190.6,
-        4177.3,
-        4107.9,
-        4170.1,
-        4181.1,
-        4160.1,
-        4142.6,
-        4150.0,
-        4060.4,
-        4007.9,
-        4018.2
-      ]
-    },
-    "usdjpy": {
       "dates": [
         "9/16",
         "9/17",
@@ -233,7 +113,136 @@
         "10/27"
       ],
       "values": [
-        155.27,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6
+      ]
+    },
+    "gold": {
+      "dates": [
+        "9/17",
+        "9/18",
+        "9/21",
+        "9/22",
+        "9/23",
+        "9/24",
+        "9/25",
+        "9/28",
+        "9/29",
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27"
+      ],
+      "values": [
+        4399.7,
+        4424.9,
+        4383.9,
+        4376.4,
+        4318.4,
+        4298.0,
+        4321.2,
+        4168.4,
+        4179.7,
+        4186.7,
+        4202.3,
+        4162.3,
+        4156.8,
+        4187.1,
+        4140.7,
+        4157.0,
+        4216.3,
+        4190.6,
+        4177.3,
+        4107.9,
+        4170.1,
+        4181.1,
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4076.6
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "9/17",
+        "9/18",
+        "9/21",
+        "9/22",
+        "9/23",
+        "9/24",
+        "9/25",
+        "9/28",
+        "9/29",
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28"
+      ],
+      "values": [
         156.01,
         156.13,
         157.05,
@@ -262,12 +271,12 @@
         158.13,
         156.49,
         156.83,
-        157.5
+        157.53,
+        157.88
       ]
     },
     "nasdaq": {
       "dates": [
-        "9/15",
         "9/16",
         "9/17",
         "9/18",
@@ -296,10 +305,10 @@
         "10/21",
         "10/22",
         "10/23",
-        "10/26"
+        "10/26",
+        "10/27"
       ],
       "values": [
-        25981.57,
         25978.43,
         26418.3,
         26522.54,
@@ -328,7 +337,8 @@
         26702.86,
         26008.86,
         25955.34,
-        26169.38
+        26169.38,
+        26477.81
       ]
     }
   }
