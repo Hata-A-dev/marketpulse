@@ -1,81 +1,86 @@
 {
-  "updated_at": "2026-10-30 00:28 UTC",
+  "updated_at": "2026-10-31 00:12 UTC",
   "prices": {
     "sp500": {
-      "price": 7720.39,
-      "change_pct": -0.3
+      "price": 7580.07,
+      "change_pct": -1.82
     },
     "nasdaq": {
-      "price": 26184.72,
-      "change_pct": -1.38
+      "price": 25437.0,
+      "change_pct": -2.86
     },
     "gold": {
-      "price": 4024.1,
-      "change_pct": -0.68
+      "price": 3884.9,
+      "change_pct": -3.63
     },
     "usdjpy": {
-      "price": 157.75,
-      "change_pct": -0.05
+      "price": 157.8,
+      "change_pct": -0.02
     },
     "vix": {
-      "price": 17.2,
-      "change_pct": 1.71
+      "price": 19.42,
+      "change_pct": 12.91
     },
     "usbond": {
-      "price": 4.99,
-      "change_pct": -1.19
+      "price": 4.93,
+      "change_pct": -1.2
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Stock Market Today, Oct. 28: Markets Edge Higher as Fed Holds Rates Steady",
+      "title": "Alphabet just had its worst day as a public company. BofA now values Google search at a lower multiple than fossil fuel stocks",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/c716f0fee9b6a777"
+      "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/"
     },
     {
-      "title": "US stocks today: US stocks end higher as Fed holds rates, earnings in focus",
+      "title": "US Stock Market today: Why are S&P 500, Dow Jones, Nasdaq down? Check top and worst performing stocks at Wall Street",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms"
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-why-are-sp-500-dow-jones-nasdaq-down-check-top-and-worst-performing-stocks-at-wall-street/articleshow/135335064.cms"
     },
     {
-      "title": "Best Non GamStop Casino UK – Reviews and Rankings for 2026",
+      "title": "Crypto firms freeze billions amid suspected Binance hack",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://learningjquery.com/2026/10/best-non-gamstop-casino-uk-reviews-and-rankings-for-2026-5"
+      "url": "https://www.israelnationalnews.com/news/435377"
     },
     {
-      "title": "The Great AI Hedge",
+      "title": "Cryptocurrency exchange Binance says it’s investigating reports of a potential security incident",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://wirehub.medianewsgroup.com/2026/10/29/cryptocurrency-exchange-binance-says-its-investigating-reports-of-a-potential-security-incident/"
+    },
+    {
+      "title": "Real Estate, Climate and Wild Parties? Here’s How Anthropic’s IPO Could Affect the Bay Area",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.theatlantic.com/technology/2026/10/ai-hedge-financial-tips/689187/?utm_source=feed"
+      "url": "https://www.kqed.org/news/12106480/anthropic-ipo-open-ai-when-will-go-public-effect-on-san-francisco-bay-area"
     },
     {
-      "title": "Here Are the Gerrymandered Districts to Watch on Election Night",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://newrepublic.com/post/217265/gerrymandered-districts-texas-florida"
+      "url": "https://english.khabarhub.com/2026/29/573572/"
     },
     {
-      "title": "Fed Chair Kevin Warsh reveals October surprise inside interest-rate pause",
+      "title": "Federal Reserve leaves interest rates unchanged despite rising inflation",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/b1cc0c15e5f3a16a"
+      "url": "https://biztoc.com/x/65bf695015c600ba"
     },
     {
-      "title": "Fed holds rates, says data will guide next move",
+      "title": "The Fed’s rate freeze will mean nothing unless banks fix a repo market bottleneck",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-holds-rates-says-data-will-guide-next-move/articleshow/135284541.cms"
+      "url": "https://cryptoslate.com/the-feds-rate-freeze-will-mean-nothing-unless-banks-fix-a-repo-market-bottleneck/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "9/18",
         "9/21",
         "9/22",
         "9/23",
@@ -104,10 +109,10 @@
         "10/26",
         "10/27",
         "10/28",
-        "10/29"
+        "10/29",
+        "10/30"
       ],
       "values": [
-        7650.5,
         7764.7,
         7764.64,
         7706.03,
@@ -136,7 +141,8 @@
         7676.77,
         7722.6,
         7743.98,
-        7720.39
+        7720.39,
+        7580.07
       ]
     },
     "gold": {
@@ -169,7 +175,8 @@
         "10/26",
         "10/27",
         "10/28",
-        "10/29"
+        "10/29",
+        "10/30"
       ],
       "values": [
         4383.9,
@@ -200,7 +207,8 @@
         4038.4,
         4074.6,
         4051.6,
-        4024.1
+        4031.4,
+        3884.9
       ]
     },
     "usdjpy": {
@@ -266,12 +274,11 @@
         157.53,
         157.99,
         157.83,
-        157.75
+        157.8
       ]
     },
     "nasdaq": {
       "dates": [
-        "9/18",
         "9/21",
         "9/22",
         "9/23",
@@ -300,10 +307,10 @@
         "10/26",
         "10/27",
         "10/28",
-        "10/29"
+        "10/29",
+        "10/30"
       ],
       "values": [
-        26522.54,
         27122.09,
         27244.28,
         26936.04,
@@ -332,7 +339,8 @@
         26169.38,
         26477.81,
         26549.85,
-        26184.72
+        26184.72,
+        25437.0
       ]
     }
   }
