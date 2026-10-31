@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 00:12 UTC",
+  "updated_at": "2026-10-31 23:49 UTC",
   "prices": {
     "sp500": {
       "price": 7580.07,
@@ -10,8 +10,8 @@
       "change_pct": -2.86
     },
     "gold": {
-      "price": 3884.9,
-      "change_pct": -3.63
+      "price": 3898.9,
+      "change_pct": -3.29
     },
     "usdjpy": {
       "price": 157.8,
@@ -25,56 +25,35 @@
       "price": 4.93,
       "change_pct": -1.2
     },
-    "btc": {}
+    "btc": {
+      "price": 77387.0,
+      "change_pct": 0.24
+    }
   },
   "news": [
     {
-      "title": "Alphabet just had its worst day as a public company. BofA now values Google search at a lower multiple than fossil fuel stocks",
+      "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/"
+      "url": "https://www.bostonherald.com/2026/10/30/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/"
     },
     {
-      "title": "US Stock Market today: Why are S&P 500, Dow Jones, Nasdaq down? Check top and worst performing stocks at Wall Street",
-      "tag": "株式",
-      "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-why-are-sp-500-dow-jones-nasdaq-down-check-top-and-worst-performing-stocks-at-wall-street/articleshow/135335064.cms"
-    },
-    {
-      "title": "Crypto firms freeze billions amid suspected Binance hack",
+      "title": "Who was behind the largest crypto heist in history?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.israelnationalnews.com/news/435377"
+      "url": "https://www.abc.net.au/news/2026-10-31/who-is-behind-the-largest-crypto-heist-in-history/107330706"
     },
     {
-      "title": "Cryptocurrency exchange Binance says it’s investigating reports of a potential security incident",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://wirehub.medianewsgroup.com/2026/10/29/cryptocurrency-exchange-binance-says-its-investigating-reports-of-a-potential-security-incident/"
-    },
-    {
-      "title": "Real Estate, Climate and Wild Parties? Here’s How Anthropic’s IPO Could Affect the Bay Area",
+      "title": "Gold price prediction: Gold rate closes October on 1-year low, what to expect in November, December?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.kqed.org/news/12106480/anthropic-ipo-open-ai-when-will-go-public-effect-on-san-francisco-bay-area"
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-gold-rate-closes-october-on-1-year-low-what-to-expect-in-november-december/articleshow/135381675.cms"
     },
     {
-      "title": "Today’s News in a Nutshell",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/29/573572/"
-    },
-    {
-      "title": "Federal Reserve leaves interest rates unchanged despite rising inflation",
+      "title": "US bond market crash: 10-year, 30-year, 2-year yield notes fall to historic lows. Here's why",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/65bf695015c600ba"
-    },
-    {
-      "title": "The Fed’s rate freeze will mean nothing unless banks fix a repo market bottleneck",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://cryptoslate.com/the-feds-rate-freeze-will-mean-nothing-unless-banks-fix-a-repo-market-bottleneck/"
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-bond-market-crash-10-year-30-year-2-year-yield-notes-fall-to-historic-lows-heres-why/articleshow/135381127.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -208,7 +187,7 @@
         4074.6,
         4051.6,
         4031.4,
-        3884.9
+        3898.9
       ]
     },
     "usdjpy": {
