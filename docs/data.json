@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 23:49 UTC",
+  "updated_at": "2026-11-01 23:59 UTC",
   "prices": {
     "sp500": {
       "price": 7580.07,
@@ -10,12 +10,12 @@
       "change_pct": -2.86
     },
     "gold": {
-      "price": 3898.9,
-      "change_pct": -3.29
+      "price": 3908.1,
+      "change_pct": 0.24
     },
     "usdjpy": {
-      "price": 157.8,
-      "change_pct": -0.02
+      "price": 157.68,
+      "change_pct": -0.08
     },
     "vix": {
       "price": 19.42,
@@ -26,34 +26,58 @@
       "change_pct": -1.2
     },
     "btc": {
-      "price": 77387.0,
-      "change_pct": 0.24
+      "price": 78229.0,
+      "change_pct": 1.03
     }
   },
   "news": [
     {
-      "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
+      "title": "$10,000 in Vanguard's Health Care ETF in 2004 Grew to $93,915, and It Still Charges 0.09%",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.bostonherald.com/2026/10/30/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/"
+      "url": "https://247wallst.com/investing/etf/2026/10/31/10000-in-vanguards-health-care-etf-in-2004-grew-to-93915-and-it-still-charges-0-09/"
     },
     {
-      "title": "Who was behind the largest crypto heist in history?",
+      "title": "A Stock Market Correction Could Be Coming. Here's Why I'm Still Investing",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://biztoc.com/x/604b71b5778f8a41"
+    },
+    {
+      "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-10-31/who-is-behind-the-largest-crypto-heist-in-history/107330706"
+      "url": "https://abcnews.com/Business/wireStory/fbi-blames-north-korea-stolen-billions-binance-biggest-137741287"
     },
     {
-      "title": "Gold price prediction: Gold rate closes October on 1-year low, what to expect in November, December?",
+      "title": "Binance says billions replaced from hack that FBI blames on North Korea",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://www.cbc.ca/news/world/binance-hack-north-korea-9.7404502"
+    },
+    {
+      "title": "October 2026 in Review",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-gold-rate-closes-october-on-1-year-low-what-to-expect-in-november-december/articleshow/135381675.cms"
+      "url": "https://tagn.wordpress.com/2026/10/31/october-2026-in-review/"
     },
     {
-      "title": "US bond market crash: 10-year, 30-year, 2-year yield notes fall to historic lows. Here's why",
+      "title": "Market Crash Fears Rise: Experts Share Strategies to Protect and...",
+      "tag": "金",
+      "ago": "1日前",
+      "url": "https://internewscast.com/business/as-investors-brace-for-a-market-meltdown-experts-reveal-the-best-ways-to-protect-your-wealth-and-keep-it-growing/"
+    },
+    {
+      "title": "WEEKLY RECAP: Interest rate calls, tech earnings in focus",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-bond-market-crash-10-year-30-year-2-year-yield-notes-fall-to-historic-lows-heres-why/articleshow/135381127.cms"
+      "url": "https://biztoc.com/x/e24a0add6a1b5e39"
+    },
+    {
+      "title": "Westhampton Beach Holiday Marketing: Beyond December — Ritner Digital | AI Search & SEO Agency",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.ritnerdigital.com/blog/westhampton-beach-holiday-marketing-turning-november-and-december-shoppers-into-year-round-customers"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -126,7 +150,6 @@
     },
     "gold": {
       "dates": [
-        "9/21",
         "9/22",
         "9/23",
         "9/24",
@@ -155,10 +178,10 @@
         "10/27",
         "10/28",
         "10/29",
-        "10/30"
+        "10/30",
+        "11/1"
       ],
       "values": [
-        4383.9,
         4376.4,
         4318.4,
         4298.0,
@@ -187,12 +210,12 @@
         4074.6,
         4051.6,
         4031.4,
-        3898.9
+        3898.9,
+        3908.1
       ]
     },
     "usdjpy": {
       "dates": [
-        "9/21",
         "9/22",
         "9/23",
         "9/24",
@@ -221,10 +244,10 @@
         "10/27",
         "10/28",
         "10/29",
-        "10/30"
+        "10/30",
+        "11/1"
       ],
       "values": [
-        157.05,
         157.37,
         157.46,
         158.26,
@@ -253,7 +276,8 @@
         157.53,
         157.99,
         157.83,
-        157.8
+        157.8,
+        157.68
       ]
     },
     "nasdaq": {
