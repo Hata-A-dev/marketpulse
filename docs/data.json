@@ -1,90 +1,76 @@
 {
-  "updated_at": "2026-11-01 23:59 UTC",
+  "updated_at": "2026-11-03 02:41 UTC",
   "prices": {
     "sp500": {
-      "price": 7580.07,
-      "change_pct": -1.82
+      "price": 7541.4,
+      "change_pct": -0.51
     },
     "nasdaq": {
-      "price": 25437.0,
-      "change_pct": -2.86
-    },
-    "gold": {
-      "price": 3908.1,
-      "change_pct": 0.24
+      "price": 25164.36,
+      "change_pct": -1.07
     },
     "usdjpy": {
-      "price": 157.68,
-      "change_pct": -0.08
+      "price": 157.92,
+      "change_pct": 0.15
     },
     "vix": {
-      "price": 19.42,
-      "change_pct": 12.91
+      "price": 21.15,
+      "change_pct": 8.91
     },
     "usbond": {
-      "price": 4.93,
-      "change_pct": -1.2
+      "price": 4.89,
+      "change_pct": -0.81
     },
-    "btc": {
-      "price": 78229.0,
-      "change_pct": 1.03
-    }
+    "btc": {}
   },
   "news": [
     {
-      "title": "$10,000 in Vanguard's Health Care ETF in 2004 Grew to $93,915, and It Still Charges 0.09%",
+      "title": "Stock Market LIVE: GIFT Nifty rises over 100 pts; Asia markets mixed; Brent crude drops 2%",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://247wallst.com/investing/etf/2026/10/31/10000-in-vanguards-health-care-etf-in-2004-grew-to-93915-and-it-still-charges-0-09/"
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html"
     },
     {
-      "title": "A Stock Market Correction Could Be Coming. Here's Why I'm Still Investing",
+      "title": "Asian shares slide as AI spending worries mount ahead of tech earnings",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/604b71b5778f8a41"
+      "url": "https://www.business-standard.com/markets/news/asian-shares-slide-as-ai-spending-worries-mount-ahead-of-tech-earnings-126110200042_1.html"
     },
     {
-      "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+      "title": "Binance sees spike in customers pulling funds out after $6.3 billion hack",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://abcnews.com/Business/wireStory/fbi-blames-north-korea-stolen-billions-binance-biggest-137741287"
+      "url": "https://www.business-standard.com/world-news/binance-sees-spike-in-customers-pulling-funds-out-after-6-3-billion-hack-126110200056_1.html"
     },
     {
-      "title": "Binance says billions replaced from hack that FBI blames on North Korea",
+      "title": "Crypto Heist: Binance covers 95% tokens, resumes withdrawals",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.cbc.ca/news/world/binance-hack-north-korea-9.7404502"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/crypto-heist-binance-covers-95-tokens-resumes-withdrawals/articleshow/135441852.cms"
     },
     {
-      "title": "October 2026 in Review",
+      "title": "Economic Digest: A Snapshot of Nepal’s Business News",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://tagn.wordpress.com/2026/10/31/october-2026-in-review/"
+      "url": "https://english.khabarhub.com/2026/02/573988/"
     },
     {
-      "title": "Market Crash Fears Rise: Experts Share Strategies to Protect and...",
+      "title": "Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://internewscast.com/business/as-investors-brace-for-a-market-meltdown-experts-reveal-the-best-ways-to-protect-your-wealth-and-keep-it-growing/"
+      "url": "https://oilprice.com/Energy/Energy-General/Why-Is-This-Rare-Earth-Metal-346-Times-More-Expensive-In-America-Than-in-China.html"
     },
     {
-      "title": "WEEKLY RECAP: Interest rate calls, tech earnings in focus",
+      "title": "Gold lingers near one-year low as Fed hike expectations firm",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/e24a0add6a1b5e39"
-    },
-    {
-      "title": "Westhampton Beach Holiday Marketing: Beyond December — Ritner Digital | AI Search & SEO Agency",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.ritnerdigital.com/blog/westhampton-beach-holiday-marketing-turning-november-and-december-shoppers-into-year-round-customers"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-one-year-low-as-fed-hike-expectations-firm/articleshow/135442111.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "9/21",
         "9/22",
         "9/23",
         "9/24",
@@ -113,10 +99,10 @@
         "10/27",
         "10/28",
         "10/29",
-        "10/30"
+        "10/30",
+        "11/2"
       ],
       "values": [
-        7764.7,
         7764.64,
         7706.03,
         7704.13,
@@ -145,12 +131,12 @@
         7722.6,
         7743.98,
         7720.39,
-        7580.07
+        7580.07,
+        7541.4
       ]
     },
     "gold": {
       "dates": [
-        "9/22",
         "9/23",
         "9/24",
         "9/25",
@@ -179,10 +165,9 @@
         "10/28",
         "10/29",
         "10/30",
-        "11/1"
+        "11/2"
       ],
       "values": [
-        4376.4,
         4318.4,
         4298.0,
         4321.2,
@@ -211,10 +196,76 @@
         4051.6,
         4031.4,
         3898.9,
-        3908.1
+        3953.9
       ]
     },
     "usdjpy": {
+      "dates": [
+        "9/23",
+        "9/24",
+        "9/25",
+        "9/28",
+        "9/29",
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3"
+      ],
+      "values": [
+        157.46,
+        158.26,
+        158.81,
+        157.46,
+        157.36,
+        157.4,
+        157.56,
+        157.93,
+        157.73,
+        157.96,
+        158.3,
+        158.06,
+        158.06,
+        158.2,
+        158.52,
+        158.32,
+        157.96,
+        158.14,
+        157.81,
+        158.52,
+        158.27,
+        158.13,
+        156.49,
+        156.83,
+        157.53,
+        157.99,
+        157.83,
+        157.8,
+        157.68,
+        157.93
+      ]
+    },
+    "nasdaq": {
       "dates": [
         "9/22",
         "9/23",
@@ -245,76 +296,9 @@
         "10/28",
         "10/29",
         "10/30",
-        "11/1"
+        "11/2"
       ],
       "values": [
-        157.37,
-        157.46,
-        158.26,
-        158.81,
-        157.46,
-        157.36,
-        157.4,
-        157.56,
-        157.93,
-        157.73,
-        157.96,
-        158.3,
-        158.06,
-        158.06,
-        158.2,
-        158.52,
-        158.32,
-        157.96,
-        158.14,
-        157.81,
-        158.52,
-        158.27,
-        158.13,
-        156.49,
-        156.83,
-        157.53,
-        157.99,
-        157.83,
-        157.8,
-        157.68
-      ]
-    },
-    "nasdaq": {
-      "dates": [
-        "9/21",
-        "9/22",
-        "9/23",
-        "9/24",
-        "9/25",
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30"
-      ],
-      "values": [
-        27122.09,
         27244.28,
         26936.04,
         26939.37,
@@ -343,7 +327,8 @@
         26477.81,
         26549.85,
         26184.72,
-        25437.0
+        25437.0,
+        25164.36
       ]
     }
   }
