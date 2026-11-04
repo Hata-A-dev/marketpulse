@@ -1,205 +1,79 @@
 {
-  "updated_at": "2026-11-03 02:41 UTC",
+  "updated_at": "2026-11-04 00:57 UTC",
   "prices": {
     "sp500": {
-      "price": 7541.4,
-      "change_pct": -0.51
+      "price": 7568.92,
+      "change_pct": 0.36
     },
     "nasdaq": {
-      "price": 25164.36,
-      "change_pct": -1.07
+      "price": 25372.01,
+      "change_pct": 0.83
+    },
+    "gold": {
+      "price": 3931.7,
+      "change_pct": -0.95
     },
     "usdjpy": {
-      "price": 157.92,
-      "change_pct": 0.15
+      "price": 158.49,
+      "change_pct": 0.37
     },
     "vix": {
-      "price": 21.15,
-      "change_pct": 8.91
+      "price": 20.83,
+      "change_pct": -1.51
     },
     "usbond": {
-      "price": 4.89,
-      "change_pct": -0.81
+      "price": 4.95,
+      "change_pct": 1.23
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Stock Market LIVE: GIFT Nifty rises over 100 pts; Asia markets mixed; Brent crude drops 2%",
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-2-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-jio-share-price-ipo-today-126110200053_1.html"
+      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html"
     },
     {
-      "title": "Asian shares slide as AI spending worries mount ahead of tech earnings",
+      "title": "Apple’s stock drops as new CEO John Ternus delivers his first earnings call",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/markets/news/asian-shares-slide-as-ai-spending-worries-mount-ahead-of-tech-earnings-126110200042_1.html"
+      "url": "https://siliconangle.com/2026/11/02/apples-stock-drops-as-new-ceo-john-ternus-delivers-his-first-earnings-call/"
     },
     {
-      "title": "Binance sees spike in customers pulling funds out after $6.3 billion hack",
+      "title": "Binance warns of second wave of crypto theft as $6.3 billion hack recovery continues",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/world-news/binance-sees-spike-in-customers-pulling-funds-out-after-6-3-billion-hack-126110200056_1.html"
+      "url": "https://cryptoslate.com/binance-warns-of-second-wave-of-crypto-theft-as-6-3-billion-hack-recovery-continues/"
     },
     {
-      "title": "Crypto Heist: Binance covers 95% tokens, resumes withdrawals",
+      "title": "Asset managers, banks consider stablecoin services",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/crypto-heist-binance-covers-95-tokens-resumes-withdrawals/articleshow/135441852.cms"
+      "url": "https://punchng.com/asset-managers-banks-consider-stablecoin-services/"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal’s Business News",
+      "title": "Best silver IRA companies for November 2026",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/02/573988/"
+      "url": "https://nypost.com/2026/11/02/business/best-silver-ira-companies/"
     },
     {
-      "title": "Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China?",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://oilprice.com/Energy/Energy-General/Why-Is-This-Rare-Earth-Metal-346-Times-More-Expensive-In-America-Than-in-China.html"
-    },
-    {
-      "title": "Gold lingers near one-year low as Fed hike expectations firm",
+      "title": "Japan Hits 2% Inflation Goal As Prices Keep Rising",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-one-year-low-as-fed-hike-expectations-firm/articleshow/135442111.cms"
+      "url": "https://newsonjapan.com/article/151221.php"
+    },
+    {
+      "title": "Albanese, as Aussies brace for another rate rise while you're overseas, stop leaving Chalmers to carry the can: PETER VAN ONSELEN",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.dailymail.com/news/article-16259939/anthony-albanese-overseas-jim-chalmers-rba-rate-rise.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "9/22",
-        "9/23",
-        "9/24",
-        "9/25",
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2"
-      ],
-      "values": [
-        7764.64,
-        7706.03,
-        7704.13,
-        7743.41,
-        7683.69,
-        7670.84,
-        7651.54,
-        7666.45,
-        7722.72,
-        7773.95,
-        7818.93,
-        7801.77,
-        7765.36,
-        7811.54,
-        7807.24,
-        7805.45,
-        7718.94,
-        7744.06,
-        7659.44,
-        7690.73,
-        7712.57,
-        7757.17,
-        7663.43,
-        7623.68,
-        7676.77,
-        7722.6,
-        7743.98,
-        7720.39,
-        7580.07,
-        7541.4
-      ]
-    },
-    "gold": {
-      "dates": [
-        "9/23",
-        "9/24",
-        "9/25",
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2"
-      ],
-      "values": [
-        4318.4,
-        4298.0,
-        4321.2,
-        4168.4,
-        4179.7,
-        4186.7,
-        4202.3,
-        4162.3,
-        4156.8,
-        4187.1,
-        4140.7,
-        4157.0,
-        4216.3,
-        4190.6,
-        4177.3,
-        4107.9,
-        4170.1,
-        4181.1,
-        4160.1,
-        4142.6,
-        4150.0,
-        4060.4,
-        4007.9,
-        4038.4,
-        4074.6,
-        4051.6,
-        4031.4,
-        3898.9,
-        3953.9
-      ]
-    },
-    "usdjpy": {
       "dates": [
         "9/23",
         "9/24",
@@ -233,7 +107,136 @@
         "11/3"
       ],
       "values": [
-        157.46,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92
+      ]
+    },
+    "gold": {
+      "dates": [
+        "9/24",
+        "9/25",
+        "9/28",
+        "9/29",
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3"
+      ],
+      "values": [
+        4298.0,
+        4321.2,
+        4168.4,
+        4179.7,
+        4186.7,
+        4202.3,
+        4162.3,
+        4156.8,
+        4187.1,
+        4140.7,
+        4157.0,
+        4216.3,
+        4190.6,
+        4177.3,
+        4107.9,
+        4170.1,
+        4181.1,
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9,
+        3969.6,
+        3931.5
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "9/24",
+        "9/25",
+        "9/28",
+        "9/29",
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4"
+      ],
+      "values": [
         158.26,
         158.81,
         157.46,
@@ -262,12 +265,12 @@
         157.83,
         157.8,
         157.68,
-        157.93
+        157.91,
+        158.49
       ]
     },
     "nasdaq": {
       "dates": [
-        "9/22",
         "9/23",
         "9/24",
         "9/25",
@@ -296,10 +299,10 @@
         "10/28",
         "10/29",
         "10/30",
-        "11/2"
+        "11/2",
+        "11/3"
       ],
       "values": [
-        27244.28,
         26936.04,
         26939.37,
         27068.72,
@@ -328,7 +331,8 @@
         26549.85,
         26184.72,
         25437.0,
-        25164.36
+        25164.31,
+        25372.01
       ]
     }
   }
