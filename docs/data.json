@@ -1,215 +1,79 @@
 {
-  "updated_at": "2026-11-05 01:07 UTC",
+  "updated_at": "2026-11-06 01:14 UTC",
   "prices": {
     "sp500": {
-      "price": 7688.62,
-      "change_pct": 1.58
+      "price": 7353.73,
+      "change_pct": -4.36
     },
     "nasdaq": {
-      "price": 25736.51,
-      "change_pct": 1.44
+      "price": 24315.0,
+      "change_pct": -5.52
     },
     "gold": {
-      "price": 4100.5,
-      "change_pct": 4.06
+      "price": 4101.2,
+      "change_pct": 0.69
     },
     "usdjpy": {
-      "price": 158.08,
-      "change_pct": -0.25
+      "price": 157.85,
+      "change_pct": -0.32
     },
     "vix": {
-      "price": 16.61,
-      "change_pct": -20.26
+      "price": 28.18,
+      "change_pct": 69.66
     },
     "usbond": {
-      "price": 4.89,
-      "change_pct": -1.21
+      "price": 4.84,
+      "change_pct": -1.02
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Stock Market Today, Nov. 3: Markets Edge Higher as Semiconductor Stocks Rebound",
+      "title": "Global Market Today: Asian stocks rise as oil slides after US midterm elections",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/b275060fdfaeb9f9"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-oil-slides-after-us-midterm-elections/articleshow/135555294.cms"
     },
     {
-      "title": "Stock Sinks As Market Gains: What You Should Know",
+      "title": "Stock Dips While Market Gains: Key Facts",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/73cc3ac3d6630af1"
+      "url": "https://biztoc.com/x/fd5298efc53f2278"
     },
     {
-      "title": "US midterms election 2026 live: What they mean for crypto",
+      "title": "Grayscale Bitcoin Outlook: Why Are Giants Still Bullish After Midterms?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto"
+      "url": "https://www.dcforecasts.com/bitcoin-news/grayscale-bitcoin-outlook-giants-bullish-midterms/"
     },
     {
-      "title": "Crypto Lobbies for Looser Rules as Stolen Billions Disappear",
+      "title": "A Quantum Computer Could Crack Major Internet Encryption in Just 3 Days, Study Suggests",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-lobbies-looser-rules-stolen-billions-disappear/"
+      "url": "https://www.sciencealert.com/a-quantum-computer-could-crack-major-internet-encryption-in-just-3-days-study-suggests"
     },
     {
-      "title": "Druski is one of Netflix’s biggest creator signings. What can he do with a multi-year deal?",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.tubefilter.com/2026/11/03/druski-netflix-multi-year-deal-praise-and-collect/"
+      "url": "https://english.khabarhub.com/2026/04/574387/"
     },
     {
-      "title": "Wrestling Fans Call Out WWE Over Absurd Price of John Cena Classic Replica Belt",
+      "title": "Monetary Reform for the 2028 Election: Jackson’s Victory in the “Bank War” but the Money Power Strikes Back. Part 1.6",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://sportsnaut.com/wwe/fans-call-out-wwe-john-cena-classic-replica-belt-price"
+      "url": "https://montanarcc.substack.com/p/jacksons-victory-in-the-bank-war"
     },
     {
-      "title": "As Australians cop 17th interest rate rise under Albanese, Katy Gallagher says Labor needs credit for its 'hard work' on economy",
+      "title": "CBN study links Nigeria’s fiscal deficits to currency depreciation",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.dailymail.com/news/article-16263417/albanese-gallagher-australia-rba-rate-interest.html"
-    },
-    {
-      "title": "3 Stocks That Did Well the Last Time the Fed Raised Rates Aggressively",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://biztoc.com/x/bb67eff75aa5205d"
+      "url": "https://punchng.com/cbn-study-links-nigerias-fiscal-deficits-to-currency-depreciation/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "9/24",
-        "9/25",
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4"
-      ],
-      "values": [
-        7704.13,
-        7743.41,
-        7683.69,
-        7670.84,
-        7651.54,
-        7666.45,
-        7722.72,
-        7773.95,
-        7818.93,
-        7801.77,
-        7765.36,
-        7811.54,
-        7807.24,
-        7805.45,
-        7718.94,
-        7744.06,
-        7659.44,
-        7690.73,
-        7712.57,
-        7757.17,
-        7663.43,
-        7623.68,
-        7676.77,
-        7722.6,
-        7743.98,
-        7720.39,
-        7580.07,
-        7541.4,
-        7568.92,
-        7688.62
-      ]
-    },
-    "gold": {
-      "dates": [
-        "9/25",
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4"
-      ],
-      "values": [
-        4321.2,
-        4168.4,
-        4179.7,
-        4186.7,
-        4202.3,
-        4162.3,
-        4156.8,
-        4187.1,
-        4140.7,
-        4157.0,
-        4216.3,
-        4190.6,
-        4177.3,
-        4107.9,
-        4170.1,
-        4181.1,
-        4160.1,
-        4142.6,
-        4150.0,
-        4060.4,
-        4007.9,
-        4038.4,
-        4074.6,
-        4051.6,
-        4031.4,
-        3898.9,
-        3969.6,
-        3940.4,
-        4100.5
-      ]
-    },
-    "usdjpy": {
       "dates": [
         "9/25",
         "9/28",
@@ -243,7 +107,136 @@
         "11/5"
       ],
       "values": [
-        158.81,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73
+      ]
+    },
+    "gold": {
+      "dates": [
+        "9/28",
+        "9/29",
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5"
+      ],
+      "values": [
+        4168.4,
+        4179.7,
+        4186.7,
+        4202.3,
+        4162.3,
+        4156.8,
+        4187.1,
+        4140.7,
+        4157.0,
+        4216.3,
+        4190.6,
+        4177.3,
+        4107.9,
+        4170.1,
+        4181.1,
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9,
+        3969.6,
+        3940.4,
+        4073.0,
+        4100.3
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "9/28",
+        "9/29",
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6"
+      ],
+      "values": [
         157.46,
         157.36,
         157.4,
@@ -272,12 +265,12 @@
         157.68,
         157.91,
         158.47,
-        158.06
+        158.36,
+        157.85
       ]
     },
     "nasdaq": {
       "dates": [
-        "9/24",
         "9/25",
         "9/28",
         "9/29",
@@ -306,10 +299,10 @@
         "10/30",
         "11/2",
         "11/3",
-        "11/4"
+        "11/4",
+        "11/5"
       ],
       "values": [
-        26939.37,
         27068.72,
         26820.38,
         26797.54,
@@ -338,7 +331,8 @@
         25437.0,
         25164.31,
         25372.01,
-        25736.51
+        25736.51,
+        24315.0
       ]
     }
   }
