@@ -1,81 +1,80 @@
 {
-  "updated_at": "2026-11-06 01:14 UTC",
+  "updated_at": "2026-11-07 00:28 UTC",
   "prices": {
     "sp500": {
-      "price": 7353.73,
-      "change_pct": -4.36
+      "price": 7376.86,
+      "change_pct": 0.31
     },
     "nasdaq": {
-      "price": 24315.0,
-      "change_pct": -5.52
+      "price": 24579.42,
+      "change_pct": 1.09
     },
     "gold": {
-      "price": 4101.2,
-      "change_pct": 0.69
+      "price": 4079.5,
+      "change_pct": -0.83
     },
     "usdjpy": {
-      "price": 157.85,
-      "change_pct": -0.32
+      "price": 157.5,
+      "change_pct": -0.54
     },
     "vix": {
-      "price": 28.18,
-      "change_pct": 69.66
+      "price": 25.64,
+      "change_pct": -9.01
     },
     "usbond": {
-      "price": 4.84,
-      "change_pct": -1.02
+      "price": 4.86,
+      "change_pct": 0.41
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Global Market Today: Asian stocks rise as oil slides after US midterm elections",
+      "title": "Trump erupts at 'dumocrats' after trillions of dollars incinerated in stock plunge and vows US will come back stronger 'one way or another': 'Do not fear'",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-oil-slides-after-us-midterm-elections/articleshow/135555294.cms"
+      "url": "https://www.dailymail.com/news/article-16270245/Trump-blames-Democrats-stock-plunge.html"
     },
     {
-      "title": "Stock Dips While Market Gains: Key Facts",
+      "title": "Tech Rout Wipes Out $2.5 Trillion, With AI Investors Anticipating Heavier Scrutiny From Dems",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/fd5298efc53f2278"
+      "url": "https://gizmodo.com/tech-rout-wipes-out-2-5-trillion-with-ai-investors-anticipating-heavier-scrutiny-2000835986"
     },
     {
-      "title": "Grayscale Bitcoin Outlook: Why Are Giants Still Bullish After Midterms?",
+      "title": "Trust Restored? Binance Attracts $2.8 Billion in Just 24 Hours",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.dcforecasts.com/bitcoin-news/grayscale-bitcoin-outlook-giants-bullish-midterms/"
+      "url": "https://zycrypto.com/trust-restored-binance-attracts-2-8-billion-in-just-24-hours/"
     },
     {
-      "title": "A Quantum Computer Could Crack Major Internet Encryption in Just 3 Days, Study Suggests",
+      "title": "NASDAQ 100 plunges 6%, erasing $2.3T in market value",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.sciencealert.com/a-quantum-computer-could-crack-major-internet-encryption-in-just-3-days-study-suggests"
+      "url": "https://cryptobriefing.com/nasdaq-100-plunges-6-erasing-23t-in-market-value/"
     },
     {
-      "title": "Today’s News in a Nutshell",
+      "title": "Pachinko parlor operator arrested for not obscuring the act of gambling well enough",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/04/574387/"
+      "url": "https://soranews24.com/2026/11/06/pachinko-parlor-operator-arrested-for-not-obscuring-the-act-of-gambling-well-enough/"
     },
     {
-      "title": "Monetary Reform for the 2028 Election: Jackson’s Victory in the “Bank War” but the Money Power Strikes Back. Part 1.6",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://montanarcc.substack.com/p/jacksons-victory-in-the-bank-war"
-    },
-    {
-      "title": "CBN study links Nigeria’s fiscal deficits to currency depreciation",
+      "title": "Treasury bought back $6B in bonds, but dealers say bigger isn’t enough",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://punchng.com/cbn-study-links-nigerias-fiscal-deficits-to-currency-depreciation/"
+      "url": "https://cryptoslate.com/treasury-bought-back-6b-in-bonds-but-dealers-say-bigger-isnt-enough/"
+    },
+    {
+      "title": "The key to understanding the post-election market gyrations is White Castle",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://nypost.com/2026/11/05/business/the-key-to-understanding-the-post-election-market-gyrations-is-white-castle/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "9/25",
         "9/28",
         "9/29",
         "9/30",
@@ -104,10 +103,10 @@
         "11/2",
         "11/3",
         "11/4",
-        "11/5"
+        "11/5",
+        "11/6"
       ],
       "values": [
-        7743.41,
         7683.69,
         7670.84,
         7651.54,
@@ -136,7 +135,8 @@
         7541.4,
         7568.92,
         7688.62,
-        7353.73
+        7353.73,
+        7376.86
       ]
     },
     "gold": {
@@ -169,7 +169,8 @@
         "11/2",
         "11/3",
         "11/4",
-        "11/5"
+        "11/5",
+        "11/6"
       ],
       "values": [
         4168.4,
@@ -200,7 +201,8 @@
         3969.6,
         3940.4,
         4073.0,
-        4100.3
+        4113.5,
+        4079.5
       ]
     },
     "usdjpy": {
@@ -266,12 +268,11 @@
         157.91,
         158.47,
         158.36,
-        157.85
+        157.5
       ]
     },
     "nasdaq": {
       "dates": [
-        "9/25",
         "9/28",
         "9/29",
         "9/30",
@@ -300,10 +301,10 @@
         "11/2",
         "11/3",
         "11/4",
-        "11/5"
+        "11/5",
+        "11/6"
       ],
       "values": [
-        27068.72,
         26820.38,
         26797.54,
         26861.06,
@@ -332,7 +333,8 @@
         25164.31,
         25372.01,
         25736.51,
-        24315.0
+        24315.0,
+        24579.42
       ]
     }
   }
