@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-07 00:28 UTC",
+  "updated_at": "2026-11-08 00:03 UTC",
   "prices": {
     "sp500": {
       "price": 7376.86,
       "change_pct": 0.31
     },
     "nasdaq": {
-      "price": 24579.42,
+      "price": 24579.43,
       "change_pct": 1.09
     },
     "gold": {
-      "price": 4079.5,
-      "change_pct": -0.83
+      "price": 4074.9,
+      "change_pct": -0.94
     },
     "usdjpy": {
-      "price": 157.5,
-      "change_pct": -0.54
+      "price": 158.43,
+      "change_pct": 0.59
     },
     "vix": {
       "price": 25.64,
@@ -29,46 +29,52 @@
   },
   "news": [
     {
-      "title": "Trump erupts at 'dumocrats' after trillions of dollars incinerated in stock plunge and vows US will come back stronger 'one way or another': 'Do not fear'",
+      "title": "Nasdaq, S&P 500, Russell 2000 jump, Dow Jones down at US Stock Market, check top performing Wall Street stocks",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.dailymail.com/news/article-16270245/Trump-blames-Democrats-stock-plunge.html"
+      "url": "https://economictimes.indiatimes.com/news/international/us/nasdaq-sp-500-russell-2000-jump-dow-jones-down-at-us-stock-market-check-top-performing-wall-street-stocks/articleshow/135623512.cms"
     },
     {
-      "title": "Tech Rout Wipes Out $2.5 Trillion, With AI Investors Anticipating Heavier Scrutiny From Dems",
+      "title": "Stock Market Today: Nasdaq, S&P 500 and AI Stocks Rebound After Brutal Week - WSJ",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://gizmodo.com/tech-rout-wipes-out-2-5-trillion-with-ai-investors-anticipating-heavier-scrutiny-2000835986"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186623175"
     },
     {
-      "title": "Trust Restored? Binance Attracts $2.8 Billion in Just 24 Hours",
+      "title": "Bitcoin price prediction: BTC USD could crash to $68,000 before recovery - here's what analysts expect",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://zycrypto.com/trust-restored-binance-attracts-2-8-billion-in-just-24-hours/"
+      "url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-price-prediction-btc-usd-could-crash-to-68000-before-recovery-heres-what-analysts-expect/articleshow/135620216.cms"
     },
     {
-      "title": "NASDAQ 100 plunges 6%, erasing $2.3T in market value",
+      "title": "Nubank and Mercado Pago Pause Crypto Operations Following Provider Issues",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/nasdaq-100-plunges-6-erasing-23t-in-market-value/"
+      "url": "https://www.pymnts.com/cryptocurrency/2026/nubank-mercado-pago-pause-crypto-operations-following-provider-issues/"
     },
     {
-      "title": "Pachinko parlor operator arrested for not obscuring the act of gambling well enough",
+      "title": "Notes on San Marino",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://soranews24.com/2026/11/06/pachinko-parlor-operator-arrested-for-not-obscuring-the-act-of-gambling-well-enough/"
+      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/"
     },
     {
-      "title": "Treasury bought back $6B in bonds, but dealers say bigger isn’t enough",
-      "tag": "経済",
+      "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
+      "tag": "金",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/treasury-bought-back-6b-in-bonds-but-dealers-say-bigger-isnt-enough/"
+      "url": "https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/"
     },
     {
-      "title": "The key to understanding the post-election market gyrations is White Castle",
+      "title": "The Blue Wave—I",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://nypost.com/2026/11/05/business/the-key-to-understanding-the-post-election-market-gyrations-is-white-castle/"
+      "url": "https://www.nybooks.com/online/2026/11/06/the-blue-wave-i/"
+    },
+    {
+      "title": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.cnbc.com/2026/11/06/cramer-coreweave-nebius-earnings.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -202,12 +208,11 @@
         3940.4,
         4073.0,
         4113.5,
-        4079.5
+        4074.9
       ]
     },
     "usdjpy": {
       "dates": [
-        "9/28",
         "9/29",
         "9/30",
         "10/1",
@@ -236,10 +241,10 @@
         "11/3",
         "11/4",
         "11/5",
-        "11/6"
+        "11/6",
+        "11/7"
       ],
       "values": [
-        157.46,
         157.36,
         157.4,
         157.56,
@@ -268,7 +273,8 @@
         157.91,
         158.47,
         158.36,
-        157.5
+        157.5,
+        158.43
       ]
     },
     "nasdaq": {
@@ -334,7 +340,7 @@
         25372.01,
         25736.51,
         24315.0,
-        24579.42
+        24579.43
       ]
     }
   }
