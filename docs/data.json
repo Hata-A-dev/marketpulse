@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 00:03 UTC",
+  "updated_at": "2026-11-09 00:12 UTC",
   "prices": {
     "sp500": {
       "price": 7376.86,
@@ -10,12 +10,12 @@
       "change_pct": 1.09
     },
     "gold": {
-      "price": 4074.9,
-      "change_pct": -0.94
+      "price": 4069.0,
+      "change_pct": -0.14
     },
     "usdjpy": {
-      "price": 158.43,
-      "change_pct": 0.59
+      "price": 158.22,
+      "change_pct": 0.46
     },
     "vix": {
       "price": 25.64,
@@ -29,52 +29,46 @@
   },
   "news": [
     {
-      "title": "Nasdaq, S&P 500, Russell 2000 jump, Dow Jones down at US Stock Market, check top performing Wall Street stocks",
+      "title": "Democrats Just Swept Congress — and 80 Years of Stock Market History Says This Happens Next - Yahoo Finance",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/nasdaq-sp-500-russell-2000-jump-dow-jones-down-at-us-stock-market-check-top-performing-wall-street-stocks/articleshow/135623512.cms"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186643777"
     },
     {
-      "title": "Stock Market Today: Nasdaq, S&P 500 and AI Stocks Rebound After Brutal Week - WSJ",
+      "title": "Democrats Just Swept Congress — and 80 Years of Stock Market History Says This Happens Next - 24/7 Wall St.",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186623175"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186643519"
     },
     {
-      "title": "Bitcoin price prediction: BTC USD could crash to $68,000 before recovery - here's what analysts expect",
+      "title": "Mercado Bitcoin Is Reopening After a Cyberattack Froze Withdrawals for a Week. What Happens to Your Crypto When an Exchange Goes Dark?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-price-prediction-btc-usd-could-crash-to-68000-before-recovery-heres-what-analysts-expect/articleshow/135620216.cms"
+      "url": "https://biztoc.com/x/82563ecbac9635e2"
     },
     {
-      "title": "Nubank and Mercado Pago Pause Crypto Operations Following Provider Issues",
+      "title": "US Adds 165,000 Jobs in October: Why Bitcoin Traders Are Watching the Fed",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.pymnts.com/cryptocurrency/2026/nubank-mercado-pago-pause-crypto-operations-following-provider-issues/"
+      "url": "https://www.newsbtc.com/news/bitcoin/us-adds-165-000-jobs-in-october-why-bitcoin-traders-are-watching-the-fed/"
     },
     {
-      "title": "Notes on San Marino",
+      "title": "Equities, debt or gold? Kalpen Parekh lays out the right asset allocation approach this Diwali",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/"
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/equities-debt-or-gold-kalpen-parekh-lays-out-the-right-asset-allocation-approach-this-diwali/articleshow/135629565.cms"
     },
     {
-      "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
+      "title": "Muhurat Trading 2026: Sensex, Nifty has 80% strike rate. Will this trend continue as Samvat 2083 kicks off?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-2026-sensex-nifty-has-80-strike-rate-will-this-trend-continue-as-samvat-2083-kicks-off/articleshow/135626906.cms"
     },
     {
-      "title": "The Blue Wave—I",
+      "title": "As AI Threatens Tech Workers, Their Workplaces Become Sites of Class Struggle",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.nybooks.com/online/2026/11/06/the-blue-wave-i/"
-    },
-    {
-      "title": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/11/06/cramer-coreweave-nebius-earnings.html"
+      "url": "https://truthout.org/articles/as-ai-threatens-tech-workers-their-workplaces-become-sites-of-class-struggle/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -147,7 +141,6 @@
     },
     "gold": {
       "dates": [
-        "9/28",
         "9/29",
         "9/30",
         "10/1",
@@ -176,10 +169,10 @@
         "11/3",
         "11/4",
         "11/5",
-        "11/6"
+        "11/6",
+        "11/8"
       ],
       "values": [
-        4168.4,
         4179.7,
         4186.7,
         4202.3,
@@ -208,7 +201,8 @@
         3940.4,
         4073.0,
         4113.5,
-        4074.9
+        4074.9,
+        4069.0
       ]
     },
     "usdjpy": {
@@ -242,7 +236,7 @@
         "11/4",
         "11/5",
         "11/6",
-        "11/7"
+        "11/9"
       ],
       "values": [
         157.36,
@@ -274,7 +268,7 @@
         158.47,
         158.36,
         157.5,
-        158.43
+        158.22
       ]
     },
     "nasdaq": {
