@@ -1,211 +1,75 @@
 {
-  "updated_at": "2026-11-09 00:12 UTC",
+  "updated_at": "2026-11-10 03:01 UTC",
   "prices": {
     "sp500": {
-      "price": 7376.86,
-      "change_pct": 0.31
+      "price": 7549.94,
+      "change_pct": 2.35
     },
     "nasdaq": {
-      "price": 24579.43,
-      "change_pct": 1.09
-    },
-    "gold": {
-      "price": 4069.0,
-      "change_pct": -0.14
+      "price": 25253.14,
+      "change_pct": 2.74
     },
     "usdjpy": {
-      "price": 158.22,
-      "change_pct": 0.46
+      "price": 158.02,
+      "change_pct": -0.17
     },
     "vix": {
-      "price": 25.64,
-      "change_pct": -9.01
+      "price": 19.92,
+      "change_pct": -22.31
     },
     "usbond": {
       "price": 4.86,
-      "change_pct": 0.41
+      "change_pct": 0.0
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Democrats Just Swept Congress — and 80 Years of Stock Market History Says This Happens Next - Yahoo Finance",
+      "title": "Asian stocks steady as AI, Middle East jitters recede",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186643777"
+      "url": "https://www.channelnewsasia.com/business/asian-stocks-steady-ai-middle-east-jitters-recede-6535041"
     },
     {
-      "title": "Democrats Just Swept Congress — and 80 Years of Stock Market History Says This Happens Next - 24/7 Wall St.",
+      "title": "Stock Market LIVE: GIFT Nifty indicates positive open; most Asian markets rebound; Brent below $98",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186643519"
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
     },
     {
-      "title": "Mercado Bitcoin Is Reopening After a Cyberattack Froze Withdrawals for a Week. What Happens to Your Crypto When an Exchange Goes Dark?",
+      "title": "Cipher Digital Starts Booking HPC Lease Revenue as $9.1B Contract Takes Shape",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/82563ecbac9635e2"
+      "url": "https://www.newsbtc.com/news/bitcoin/cipher-digital-starts-booking-hpc-lease-revenue-as-9-1b-contract-takes-shape/"
     },
     {
-      "title": "US Adds 165,000 Jobs in October: Why Bitcoin Traders Are Watching the Fed",
+      "title": "Ex-FBI Agent Admits Taking $2.47M in Crypto From 35 Bureau Investigations",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.newsbtc.com/news/bitcoin/us-adds-165-000-jobs-in-october-why-bitcoin-traders-are-watching-the-fed/"
+      "url": "https://www.dcforecasts.com/bitcoin-news/fbi-agent-crypto-theft-guilty-plea/"
     },
     {
-      "title": "Equities, debt or gold? Kalpen Parekh lays out the right asset allocation approach this Diwali",
+      "title": "Gold's short-term volatility contrasts with long-term bullishness",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/equities-debt-or-gold-kalpen-parekh-lays-out-the-right-asset-allocation-approach-this-diwali/articleshow/135629565.cms"
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/golds-short-term-volatility-contrasts-with-long-term-bullishness/articleshow/135668508.cms"
     },
     {
-      "title": "Muhurat Trading 2026: Sensex, Nifty has 80% strike rate. Will this trend continue as Samvat 2083 kicks off?",
+      "title": "Economic Digest: A Snapshot of Nepal’s Business News",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-2026-sensex-nifty-has-80-strike-rate-will-this-trend-continue-as-samvat-2083-kicks-off/articleshow/135626906.cms"
+      "url": "https://english.khabarhub.com/2026/09/574955/"
     },
     {
-      "title": "As AI Threatens Tech Workers, Their Workplaces Become Sites of Class Struggle",
+      "title": "Asian stocks steady as AI, W Asia jitters recede; dollar firm on Fed bets",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://truthout.org/articles/as-ai-threatens-tech-workers-their-workplaces-become-sites-of-class-struggle/"
+      "url": "https://www.business-standard.com/markets/news/asian-stocks-steady-as-ai-w-asia-jitters-recede-dollar-firm-on-fed-bets-126110900051_1.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "9/28",
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6"
-      ],
-      "values": [
-        7683.69,
-        7670.84,
-        7651.54,
-        7666.45,
-        7722.72,
-        7773.95,
-        7818.93,
-        7801.77,
-        7765.36,
-        7811.54,
-        7807.24,
-        7805.45,
-        7718.94,
-        7744.06,
-        7659.44,
-        7690.73,
-        7712.57,
-        7757.17,
-        7663.43,
-        7623.68,
-        7676.77,
-        7722.6,
-        7743.98,
-        7720.39,
-        7580.07,
-        7541.4,
-        7568.92,
-        7688.62,
-        7353.73,
-        7376.86
-      ]
-    },
-    "gold": {
-      "dates": [
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/8"
-      ],
-      "values": [
-        4179.7,
-        4186.7,
-        4202.3,
-        4162.3,
-        4156.8,
-        4187.1,
-        4140.7,
-        4157.0,
-        4216.3,
-        4190.6,
-        4177.3,
-        4107.9,
-        4170.1,
-        4181.1,
-        4160.1,
-        4142.6,
-        4150.0,
-        4060.4,
-        4007.9,
-        4038.4,
-        4074.6,
-        4051.6,
-        4031.4,
-        3898.9,
-        3969.6,
-        3940.4,
-        4073.0,
-        4113.5,
-        4074.9,
-        4069.0
-      ]
-    },
-    "usdjpy": {
       "dates": [
         "9/29",
         "9/30",
@@ -239,7 +103,136 @@
         "11/9"
       ],
       "values": [
-        157.36,
+        7670.84,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94
+      ]
+    },
+    "gold": {
+      "dates": [
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9"
+      ],
+      "values": [
+        4186.7,
+        4202.3,
+        4162.3,
+        4156.8,
+        4187.1,
+        4140.7,
+        4157.0,
+        4216.3,
+        4190.6,
+        4177.3,
+        4107.9,
+        4170.1,
+        4181.1,
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9,
+        3969.6,
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9,
+        4121.2
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "9/30",
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10"
+      ],
+      "values": [
         157.4,
         157.56,
         157.93,
@@ -268,12 +261,12 @@
         158.47,
         158.36,
         157.5,
-        158.22
+        158.29,
+        158.02
       ]
     },
     "nasdaq": {
       "dates": [
-        "9/28",
         "9/29",
         "9/30",
         "10/1",
@@ -302,10 +295,10 @@
         "11/3",
         "11/4",
         "11/5",
-        "11/6"
+        "11/6",
+        "11/9"
       ],
       "values": [
-        26820.38,
         26797.54,
         26861.06,
         26871.6,
@@ -334,7 +327,8 @@
         25372.01,
         25736.51,
         24315.0,
-        24579.43
+        24579.43,
+        25253.14
       ]
     }
   }
