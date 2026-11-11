@@ -1,205 +1,79 @@
 {
-  "updated_at": "2026-11-10 03:01 UTC",
+  "updated_at": "2026-11-11 00:56 UTC",
   "prices": {
     "sp500": {
-      "price": 7549.94,
-      "change_pct": 2.35
+      "price": 7520.93,
+      "change_pct": -0.38
     },
     "nasdaq": {
-      "price": 25253.14,
-      "change_pct": 2.74
+      "price": 25065.88,
+      "change_pct": -0.74
+    },
+    "gold": {
+      "price": 4043.4,
+      "change_pct": -1.73
     },
     "usdjpy": {
-      "price": 158.02,
-      "change_pct": -0.17
+      "price": 158.81,
+      "change_pct": 0.53
     },
     "vix": {
-      "price": 19.92,
-      "change_pct": -22.31
+      "price": 19.46,
+      "change_pct": -2.31
     },
     "usbond": {
-      "price": 4.86,
-      "change_pct": 0.0
+      "price": 4.98,
+      "change_pct": 2.47
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Asian stocks steady as AI, Middle East jitters recede",
+      "title": "Global Market Today: Asian stocks rally after US tech surge, oil slump",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/asian-stocks-steady-ai-middle-east-jitters-recede-6535041"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms"
     },
     {
-      "title": "Stock Market LIVE: GIFT Nifty indicates positive open; most Asian markets rebound; Brent below $98",
+      "title": "Jensen Huang Is Too Big to Fail",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
+      "url": "https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?utm_source=feed"
     },
     {
-      "title": "Cipher Digital Starts Booking HPC Lease Revenue as $9.1B Contract Takes Shape",
+      "title": "Crypto must solidify political influence to avoid regulatory rollback: McHenry",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.newsbtc.com/news/bitcoin/cipher-digital-starts-booking-hpc-lease-revenue-as-9-1b-contract-takes-shape/"
+      "url": "https://cryptobriefing.com/crypto-must-solidify-political-influence-to-avoid-regulatory-rollback-mchenry/"
     },
     {
-      "title": "Ex-FBI Agent Admits Taking $2.47M in Crypto From 35 Bureau Investigations",
+      "title": "Elon Musk, Chimpanzees and “FUK”: North Korean Hackers Behind $6.4 Billion Binance Heist Mint Memecoins To Launder Funds: Elliptic",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.dcforecasts.com/bitcoin-news/fbi-agent-crypto-theft-guilty-plea/"
+      "url": "https://dailyhodl.com/2026/11/09/elon-musk-chimpanzees-and-fuk-north-korean-hackers-behind-6-4-billion-binance-heist-mint-memecoins-to-launder-funds-elliptic/"
     },
     {
-      "title": "Gold's short-term volatility contrasts with long-term bullishness",
+      "title": "Today’s News in a Nutshell",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/golds-short-term-volatility-contrasts-with-long-term-bullishness/articleshow/135668508.cms"
+      "url": "https://english.khabarhub.com/2026/09/574997/"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal’s Business News",
+      "title": "How to Become Self-Sufficient Instead of Co-Dependent",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/09/574955/"
+      "url": "https://www.globalresearch.ca/how-become-self-sufficient-instead-co-dependent/5943467"
     },
     {
-      "title": "Asian stocks steady as AI, W Asia jitters recede; dollar firm on Fed bets",
+      "title": "Dollar sellers hit pause for US inflation data",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/markets/news/asian-stocks-steady-as-ai-w-asia-jitters-recede-dollar-firm-on-fed-bets-126110900051_1.html"
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-sellers-hit-pause-for-us-inflation-data/articleshow/135696077.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "9/29",
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9"
-      ],
-      "values": [
-        7670.84,
-        7651.54,
-        7666.45,
-        7722.72,
-        7773.95,
-        7818.93,
-        7801.77,
-        7765.36,
-        7811.54,
-        7807.24,
-        7805.45,
-        7718.94,
-        7744.06,
-        7659.44,
-        7690.73,
-        7712.57,
-        7757.17,
-        7663.43,
-        7623.68,
-        7676.77,
-        7722.6,
-        7743.98,
-        7720.39,
-        7580.07,
-        7541.4,
-        7568.92,
-        7688.62,
-        7353.73,
-        7376.86,
-        7549.94
-      ]
-    },
-    "gold": {
-      "dates": [
-        "9/30",
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9"
-      ],
-      "values": [
-        4186.7,
-        4202.3,
-        4162.3,
-        4156.8,
-        4187.1,
-        4140.7,
-        4157.0,
-        4216.3,
-        4190.6,
-        4177.3,
-        4107.9,
-        4170.1,
-        4181.1,
-        4160.1,
-        4142.6,
-        4150.0,
-        4060.4,
-        4007.9,
-        4038.4,
-        4074.6,
-        4051.6,
-        4031.4,
-        3898.9,
-        3969.6,
-        3940.4,
-        4073.0,
-        4113.5,
-        4074.9,
-        4121.2
-      ]
-    },
-    "usdjpy": {
       "dates": [
         "9/30",
         "10/1",
@@ -233,7 +107,136 @@
         "11/10"
       ],
       "values": [
-        157.4,
+        7651.54,
+        7666.45,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7520.93
+      ]
+    },
+    "gold": {
+      "dates": [
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10"
+      ],
+      "values": [
+        4202.3,
+        4162.3,
+        4156.8,
+        4187.1,
+        4140.7,
+        4157.0,
+        4216.3,
+        4190.6,
+        4177.3,
+        4107.9,
+        4170.1,
+        4181.1,
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9,
+        3969.6,
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9,
+        4114.5,
+        4043.3
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "10/1",
+        "10/2",
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10",
+        "11/11"
+      ],
+      "values": [
         157.56,
         157.93,
         157.73,
@@ -262,12 +265,12 @@
         158.36,
         157.5,
         158.29,
-        158.02
+        157.98,
+        158.81
       ]
     },
     "nasdaq": {
       "dates": [
-        "9/29",
         "9/30",
         "10/1",
         "10/2",
@@ -296,10 +299,10 @@
         "11/4",
         "11/5",
         "11/6",
-        "11/9"
+        "11/9",
+        "11/10"
       ],
       "values": [
-        26797.54,
         26861.06,
         26871.6,
         27190.86,
@@ -328,7 +331,8 @@
         25736.51,
         24315.0,
         24579.43,
-        25253.14
+        25253.14,
+        25065.88
       ]
     }
   }
