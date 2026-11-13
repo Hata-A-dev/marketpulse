@@ -1,215 +1,85 @@
 {
-  "updated_at": "2026-11-12 02:01 UTC",
+  "updated_at": "2026-11-13 01:33 UTC",
   "prices": {
     "sp500": {
-      "price": 7619.38,
-      "change_pct": 1.31
+      "price": 7592.4,
+      "change_pct": -0.35
     },
     "nasdaq": {
-      "price": 25466.19,
-      "change_pct": 1.6
+      "price": 25366.09,
+      "change_pct": -0.39
     },
     "gold": {
-      "price": 3987.4,
-      "change_pct": -1.06
+      "price": 3916.6,
+      "change_pct": -2.1
     },
     "usdjpy": {
-      "price": 159.68,
-      "change_pct": 0.61
+      "price": 159.86,
+      "change_pct": 0.08
     },
     "vix": {
-      "price": 17.49,
-      "change_pct": -10.12
+      "price": 18.7,
+      "change_pct": 6.92
     },
     "usbond": {
-      "price": 5.0,
-      "change_pct": 0.4
+      "price": 5.1,
+      "change_pct": 2.0
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Futures Rise, CoreWeave Jumps Late In Whipsaw Trade",
+      "title": "Why experts should be buying these ASX ETFs",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/4d58d32017875b57"
+      "url": "https://www.fool.com.au/2026/11/12/why-experts-should-be-buying-these-asx-etfs/"
     },
     {
-      "title": "Is The Market Underpricing Caterpillar Stock?",
+      "title": "Bitcoin Is Swinging Just 1.7 Times as Much as the S&P 500, the Narrowest Gap in a Year",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/79063031fb82f088"
+      "url": "https://www.dcforecasts.com/analysis/bitcoin-volatility-vs-sp-500-narrowest-gap-november-2026/"
     },
     {
-      "title": "Miami-Dade Now Takes Bitcoin for Property Taxes, Weeks Before the 4% Discount Ends",
+      "title": "Sankra Mobile Sportsbook UK – Sports Betting on the Go",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.dcforecasts.com/bitcoin-news/miami-dade-property-tax-bitcoin-payments/"
+      "url": "https://blogdoandroid.com/sankra-mobile-sportsbook-uk-sports-betting-on-the-go/"
     },
     {
-      "title": "Standard Chartered Expands Prime Brokerage Partnership With 24X to Cover BTC and ETH",
+      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.newsbtc.com/business/standard-chartered-24x-bitcoin-ether-prime-brokerage/"
+      "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
     },
     {
-      "title": "Nvidia CEO Jensen Huang might hang on as CEO. But his influence on U.S. AI policy is over",
+      "title": "Pentagon, Inc.",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://fortune.com/2026/11/10/nvidia-ceo-jensen-huang-might-hang-on-as-ceo-but-his-influence-on-u-s-ai-policy-is-over/"
+      "url": "https://theintercept.com/2026/11/11/hegseth-pentagon-investment-bank/"
     },
     {
-      "title": "Would you push a neighbour into unemployment to reduce inflation?",
+      "title": "Coffee Break: Who Benefits From the Nvidia Spy Sex Scandal Allegations?",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-11-11/rba-full-employment-andrew-hauser-trust-in-central-banks/107359286"
+      "url": "https://www.nakedcapitalism.com/2026/11/nvidia-scandal-jensen-huang-megaspeed-alice-huang-spy.html"
     },
     {
-      "title": "Gold holds near one-week low as hot US inflation boosts Fed hike bets",
+      "title": "Gold slips as strong US inflation data bolsters dollar, Fed hike expectations",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets/articleshow/135722357.cms"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-strong-us-inflation-data-bolsters-dollar-fed-hike-expectations/articleshow/135751745.cms"
     },
     {
-      "title": "Jim Cramer: Wall Street is focusing too much on what could go wrong instead of right",
+      "title": "Dollar near one-month high as yen edges toward 160",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/5a682d2ce317e0fd"
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-one-month-high-as-yen-edges-toward-160/articleshow/135751707.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "10/1",
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9",
-        "11/10",
-        "11/11"
-      ],
-      "values": [
-        7666.45,
-        7722.72,
-        7773.95,
-        7818.93,
-        7801.77,
-        7765.36,
-        7811.54,
-        7807.24,
-        7805.45,
-        7718.94,
-        7744.06,
-        7659.44,
-        7690.73,
-        7712.57,
-        7757.17,
-        7663.43,
-        7623.68,
-        7676.77,
-        7722.6,
-        7743.98,
-        7720.39,
-        7580.07,
-        7541.4,
-        7568.92,
-        7688.62,
-        7353.73,
-        7376.86,
-        7549.94,
-        7520.93,
-        7619.38
-      ]
-    },
-    "gold": {
-      "dates": [
-        "10/2",
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9",
-        "11/10",
-        "11/11"
-      ],
-      "values": [
-        4162.3,
-        4156.8,
-        4187.1,
-        4140.7,
-        4157.0,
-        4216.3,
-        4190.6,
-        4177.3,
-        4107.9,
-        4170.1,
-        4181.1,
-        4160.1,
-        4142.6,
-        4150.0,
-        4060.4,
-        4007.9,
-        4038.4,
-        4074.6,
-        4051.6,
-        4031.4,
-        3898.9,
-        3969.6,
-        3940.4,
-        4073.0,
-        4113.5,
-        4074.9,
-        4114.5,
-        4030.2,
-        3987.8
-      ]
-    },
-    "usdjpy": {
       "dates": [
         "10/2",
         "10/5",
@@ -243,7 +113,136 @@
         "11/12"
       ],
       "values": [
-        157.93,
+        7722.72,
+        7773.95,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7520.93,
+        7619.38,
+        7592.4
+      ]
+    },
+    "gold": {
+      "dates": [
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10",
+        "11/11",
+        "11/12"
+      ],
+      "values": [
+        4156.8,
+        4187.1,
+        4140.7,
+        4157.0,
+        4216.3,
+        4190.6,
+        4177.3,
+        4107.9,
+        4170.1,
+        4181.1,
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9,
+        3969.6,
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9,
+        4114.5,
+        4030.2,
+        4000.5,
+        3916.4
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "10/5",
+        "10/6",
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10",
+        "11/11",
+        "11/12",
+        "11/13"
+      ],
+      "values": [
         157.73,
         157.96,
         158.3,
@@ -272,12 +271,12 @@
         158.29,
         157.98,
         158.71,
-        159.68
+        159.73,
+        159.86
       ]
     },
     "nasdaq": {
       "dates": [
-        "10/1",
         "10/2",
         "10/5",
         "10/6",
@@ -306,10 +305,10 @@
         "11/6",
         "11/9",
         "11/10",
-        "11/11"
+        "11/11",
+        "11/12"
       ],
       "values": [
-        26871.6,
         27190.86,
         27477.31,
         27599.79,
@@ -338,7 +337,8 @@
         24579.43,
         25253.14,
         25065.87,
-        25466.19
+        25466.19,
+        25366.09
       ]
     }
   }
