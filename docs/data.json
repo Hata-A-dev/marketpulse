@@ -1,87 +1,86 @@
 {
-  "updated_at": "2026-11-13 01:33 UTC",
+  "updated_at": "2026-11-14 01:06 UTC",
   "prices": {
     "sp500": {
-      "price": 7592.4,
-      "change_pct": -0.35
+      "price": 7561.67,
+      "change_pct": -0.4
     },
     "nasdaq": {
-      "price": 25366.09,
-      "change_pct": -0.39
+      "price": 25136.27,
+      "change_pct": -0.91
     },
     "gold": {
-      "price": 3916.6,
-      "change_pct": -2.1
+      "price": 3887.6,
+      "change_pct": 0.06
     },
     "usdjpy": {
-      "price": 159.86,
-      "change_pct": 0.08
+      "price": 159.88,
+      "change_pct": 0.09
     },
     "vix": {
-      "price": 18.7,
-      "change_pct": 6.92
+      "price": 19.3,
+      "change_pct": 3.21
     },
     "usbond": {
-      "price": 5.1,
-      "change_pct": 2.0
+      "price": 5.15,
+      "change_pct": 0.98
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Why experts should be buying these ASX ETFs",
+      "title": "Stocks Weather Nvidia, Surging Yields; Tesla-SpaceX Deal Close?",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.fool.com.au/2026/11/12/why-experts-should-be-buying-these-asx-etfs/"
+      "url": "https://biztoc.com/x/f5e53332d153eff1"
     },
     {
-      "title": "Bitcoin Is Swinging Just 1.7 Times as Much as the S&P 500, the Narrowest Gap in a Year",
+      "title": "From Jell-O to Philadelphia cream cheese, Kraft Heinz is putting a new spin on old favorites",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.dcforecasts.com/analysis/bitcoin-volatility-vs-sp-500-narrowest-gap-november-2026/"
+      "url": "https://www.cnbc.com/2026/11/12/kraft-heinz-bets-on-protein-foods-to-revive-sales.html"
     },
     {
-      "title": "Sankra Mobile Sportsbook UK – Sports Betting on the Go",
+      "title": "U.S. Treasury develops new custody framework for government-held Bitcoin, replacing informal practices",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://blogdoandroid.com/sankra-mobile-sportsbook-uk-sports-betting-on-the-go/"
+      "url": "https://cryptobriefing.com/us-treasury-develops-new-custody-framework-for-government-held-bitcoin/"
     },
     {
-      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "title": "Russia Sets November 22 Start for Exchange Crypto Trading, Subject to Approval",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
+      "url": "https://www.newsbtc.com/regulation/russia-exchange-crypto-trading-november-22-rules/"
     },
     {
-      "title": "Pentagon, Inc.",
+      "title": "It’s a Really, Really Bad Day for Nvidia",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://theintercept.com/2026/11/11/hegseth-pentagon-investment-bank/"
+      "url": "https://futurism.com/future-society/really-bad-day-nvidia-ceo-resigns"
     },
     {
-      "title": "Coffee Break: Who Benefits From the Nvidia Spy Sex Scandal Allegations?",
+      "title": "Basketball phones and the surprises they may reveal, mayors up in arms over building rules, and a decisive day for Tsavdaridis",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.nakedcapitalism.com/2026/11/nvidia-scandal-jensen-huang-megaspeed-alice-huang-spy.html"
+      "url": "https://en.protothema.gr/2026/11/12/basketball-phones-and-the-surprises-they-may-reveal-mayors-up-in-arms-over-building-rules-and-a-decisive-day-for-tsavdaridis/"
     },
     {
-      "title": "Gold slips as strong US inflation data bolsters dollar, Fed hike expectations",
+      "title": "Weekly Mortgage Rates Drop to 6.99%, but Don’t Exhale Just Yet",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-strong-us-inflation-data-bolsters-dollar-fed-hike-expectations/articleshow/135751745.cms"
+      "url": "https://www.nerdwallet.com/mortgages/news/weekly-mortgage-rates-11-12-26"
     },
     {
-      "title": "Dollar near one-month high as yen edges toward 160",
+      "title": "HUGE NEW Catalysts! Silver & Tungsten: Trade War Is Coming Back!",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-one-month-high-as-yen-edges-toward-160/articleshow/135751707.cms"
+      "url": "https://www.shtfplan.com/headline-news/huge-new-catalysts-silver-tungsten-trade-war-is-coming-back"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "10/2",
         "10/5",
         "10/6",
         "10/7",
@@ -110,10 +109,10 @@
         "11/9",
         "11/10",
         "11/11",
-        "11/12"
+        "11/12",
+        "11/13"
       ],
       "values": [
-        7722.72,
         7773.95,
         7818.93,
         7801.77,
@@ -142,7 +141,8 @@
         7549.94,
         7520.93,
         7619.38,
-        7592.4
+        7592.4,
+        7561.67
       ]
     },
     "gold": {
@@ -175,7 +175,8 @@
         "11/9",
         "11/10",
         "11/11",
-        "11/12"
+        "11/12",
+        "11/13"
       ],
       "values": [
         4156.8,
@@ -206,7 +207,8 @@
         4114.5,
         4030.2,
         4000.5,
-        3916.4
+        3885.3,
+        3887.6
       ]
     },
     "usdjpy": {
@@ -272,12 +274,11 @@
         157.98,
         158.71,
         159.73,
-        159.86
+        159.88
       ]
     },
     "nasdaq": {
       "dates": [
-        "10/2",
         "10/5",
         "10/6",
         "10/7",
@@ -306,10 +307,10 @@
         "11/9",
         "11/10",
         "11/11",
-        "11/12"
+        "11/12",
+        "11/13"
       ],
       "values": [
-        27190.86,
         27477.31,
         27599.79,
         27538.69,
@@ -338,7 +339,8 @@
         25253.14,
         25065.87,
         25466.19,
-        25366.09
+        25366.09,
+        25136.27
       ]
     }
   }
