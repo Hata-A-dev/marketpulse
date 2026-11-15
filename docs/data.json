@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 01:06 UTC",
+  "updated_at": "2026-11-15 00:27 UTC",
   "prices": {
     "sp500": {
       "price": 7561.67,
@@ -10,8 +10,8 @@
       "change_pct": -0.91
     },
     "gold": {
-      "price": 3887.6,
-      "change_pct": 0.06
+      "price": 3886.3,
+      "change_pct": 0.03
     },
     "usdjpy": {
       "price": 159.88,
@@ -29,52 +29,46 @@
   },
   "news": [
     {
-      "title": "Stocks Weather Nvidia, Surging Yields; Tesla-SpaceX Deal Close?",
+      "title": "US stocks tumble as Nvidia slides 4.3%, triggering fresh selloff in technology shares",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/f5e53332d153eff1"
+      "url": "https://www.thehindubusinessline.com/markets/us-stocks-tumble-as-nvidia-slides-43-triggering-fresh-selloff-in-technology-shares/article71700678.ece"
     },
     {
-      "title": "From Jell-O to Philadelphia cream cheese, Kraft Heinz is putting a new spin on old favorites",
+      "title": "Rises As Market Takes a Dip: Key Facts",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/11/12/kraft-heinz-bets-on-protein-foods-to-revive-sales.html"
+      "url": "https://biztoc.com/x/404da57c7591d1c7"
     },
     {
-      "title": "U.S. Treasury develops new custody framework for government-held Bitcoin, replacing informal practices",
+      "title": "Crypto Is Getting Better at Absorbing Hacks Than Preventing Them",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/us-treasury-develops-new-custody-framework-for-government-held-bitcoin/"
+      "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-is-getting-better-absorbing-hacks-than-preventing-them/"
     },
     {
-      "title": "Russia Sets November 22 Start for Exchange Crypto Trading, Subject to Approval",
+      "title": "Why Bitcoin price today crashed to $68,000? ETF outflows, weak buying demand and $856 million in liquidations fuel selloff - can BTC USD rebound to $90,000?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.newsbtc.com/regulation/russia-exchange-crypto-trading-november-22-rules/"
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-bitcoin-price-today-crashed-to-68000-etf-outflows-weak-buying-demand-and-856-million-in-liquidations-fuel-selloff-can-btc-usd-rebound-to-90000/articleshow/135816252.cms"
     },
     {
-      "title": "It’s a Really, Really Bad Day for Nvidia",
+      "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://futurism.com/future-society/really-bad-day-nvidia-ceo-resigns"
+      "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm"
     },
     {
-      "title": "Basketball phones and the surprises they may reveal, mayors up in arms over building rules, and a decisive day for Tsavdaridis",
+      "title": "Gold is not a quest reward in WoW Forever at level 60 but will be more available from higher level quests",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://en.protothema.gr/2026/11/12/basketball-phones-and-the-surprises-they-may-reveal-mayors-up-in-arms-over-building-rules-and-a-decisive-day-for-tsavdaridis/"
+      "url": "https://blizzardwatch.com/2026/11/13/gold-is-not-a-quest-reward-in-wow-forever-at-level-60-but-will-be-more-available-from-higher-level-quests/"
     },
     {
-      "title": "Weekly Mortgage Rates Drop to 6.99%, but Don’t Exhale Just Yet",
+      "title": "Fed’s Jefferson says AI may lift productivity, but inflation still calls the shots",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.nerdwallet.com/mortgages/news/weekly-mortgage-rates-11-12-26"
-    },
-    {
-      "title": "HUGE NEW Catalysts! Silver & Tungsten: Trade War Is Coming Back!",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.shtfplan.com/headline-news/huge-new-catalysts-silver-tungsten-trade-war-is-coming-back"
+      "url": "https://cryptobriefing.com/fed-jefferson-ai-productivity-monetary-policy/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -208,7 +202,7 @@
         4030.2,
         4000.5,
         3885.3,
-        3887.6
+        3886.3
       ]
     },
     "usdjpy": {
