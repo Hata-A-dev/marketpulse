@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 00:27 UTC",
+  "updated_at": "2026-11-16 00:29 UTC",
   "prices": {
     "sp500": {
       "price": 7561.67,
@@ -10,12 +10,12 @@
       "change_pct": -0.91
     },
     "gold": {
-      "price": 3886.3,
-      "change_pct": 0.03
+      "price": 3895.3,
+      "change_pct": 0.23
     },
     "usdjpy": {
-      "price": 159.88,
-      "change_pct": 0.09
+      "price": 159.69,
+      "change_pct": -0.12
     },
     "vix": {
       "price": 19.3,
@@ -29,46 +29,52 @@
   },
   "news": [
     {
-      "title": "US stocks tumble as Nvidia slides 4.3%, triggering fresh selloff in technology shares",
+      "title": "The FAA’s Issued a Halt to Air Travel at 3.54. Six Minutes Before Closure of Stock Market",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/markets/us-stocks-tumble-as-nvidia-slides-43-triggering-fresh-selloff-in-technology-shares/article71700678.ece"
+      "url": "https://www.globalresearch.ca/the-faas-issued-a-halt-to-air-travel-at-3-54-six-minutes-before-closure-of-stock-market/5945855"
     },
     {
-      "title": "Rises As Market Takes a Dip: Key Facts",
+      "title": "Union Pacific Beat the S&P 500 by 28.76 Points in the Past Year, and $1,000 From a Decade Ago Is Now Worth $3,693",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/404da57c7591d1c7"
+      "url": "https://biztoc.com/x/94eac8bb0705396c"
     },
     {
-      "title": "Crypto Is Getting Better at Absorbing Hacks Than Preventing Them",
+      "title": "Russia Approves Securities Group to Oversee Crypto Exchanges",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-is-getting-better-absorbing-hacks-than-preventing-them/"
+      "url": "https://activistpost.com/russia-approves-securities-group-to-oversee-crypto-exchanges/"
     },
     {
-      "title": "Why Bitcoin price today crashed to $68,000? ETF outflows, weak buying demand and $856 million in liquidations fuel selloff - can BTC USD rebound to $90,000?",
+      "title": "What Is the Best Crypto to Buy With $1,000 During This Crash?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-bitcoin-price-today-crashed-to-68000-etf-outflows-weak-buying-demand-and-856-million-in-liquidations-fuel-selloff-can-btc-usd-rebound-to-90000/articleshow/135816252.cms"
+      "url": "https://biztoc.com/x/966bf6bb8739902c"
     },
     {
-      "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
+      "title": "The spaceship bike Honda built for people who did not want a motorcycle",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm"
+      "url": "https://the-gadgeteer.com/2026/11/14/the-spaceship-bike-honda-built-for-people-who-did-not-want-a-motorcycle/"
     },
     {
-      "title": "Gold is not a quest reward in WoW Forever at level 60 but will be more available from higher level quests",
+      "title": "Stablecoins Jumped 131% in Western Europe’s $2.08 Trillion Crypto Economy While the UK Shrank",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://blizzardwatch.com/2026/11/13/gold-is-not-a-quest-reward-in-wow-forever-at-level-60-but-will-be-more-available-from-higher-level-quests/"
+      "url": "https://www.dcforecasts.com/bitcoin-news/western-europe-crypto-economy-mica-crypto-stablecoins-131/"
     },
     {
-      "title": "Fed’s Jefferson says AI may lift productivity, but inflation still calls the shots",
+      "title": "Fed's Collins says gradual rate hikes best to manage economic risks",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/fed-jefferson-ai-productivity-monetary-policy/"
+      "url": "https://www.channelnewsasia.com/world/feds-collins-says-gradual-rate-hikes-best-manage-economic-risks-6552151"
+    },
+    {
+      "title": "Here is Why Fair Isaac (FICO) Could Appear Attractive During Further Monetary Tightening",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://biztoc.com/x/a6935d120d35687a"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -141,7 +147,6 @@
     },
     "gold": {
       "dates": [
-        "10/5",
         "10/6",
         "10/7",
         "10/8",
@@ -170,10 +175,10 @@
         "11/10",
         "11/11",
         "11/12",
-        "11/13"
+        "11/13",
+        "11/15"
       ],
       "values": [
-        4156.8,
         4187.1,
         4140.7,
         4157.0,
@@ -202,12 +207,12 @@
         4030.2,
         4000.5,
         3885.3,
-        3886.3
+        3886.3,
+        3895.3
       ]
     },
     "usdjpy": {
       "dates": [
-        "10/5",
         "10/6",
         "10/7",
         "10/8",
@@ -236,10 +241,10 @@
         "11/10",
         "11/11",
         "11/12",
-        "11/13"
+        "11/13",
+        "11/16"
       ],
       "values": [
-        157.73,
         157.96,
         158.3,
         158.06,
@@ -268,7 +273,8 @@
         157.98,
         158.71,
         159.73,
-        159.88
+        159.88,
+        159.69
       ]
     },
     "nasdaq": {
