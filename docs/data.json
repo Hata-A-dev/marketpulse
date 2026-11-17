@@ -1,217 +1,81 @@
 {
-  "updated_at": "2026-11-16 00:29 UTC",
+  "updated_at": "2026-11-17 03:15 UTC",
   "prices": {
     "sp500": {
-      "price": 7561.67,
-      "change_pct": -0.4
+      "price": 7416.59,
+      "change_pct": -1.92
     },
     "nasdaq": {
-      "price": 25136.27,
-      "change_pct": -0.91
-    },
-    "gold": {
-      "price": 3895.3,
-      "change_pct": 0.23
+      "price": 24509.76,
+      "change_pct": -2.49
     },
     "usdjpy": {
-      "price": 159.69,
-      "change_pct": -0.12
+      "price": 159.3,
+      "change_pct": -0.3
     },
     "vix": {
-      "price": 19.3,
-      "change_pct": 3.21
+      "price": 22.91,
+      "change_pct": 18.7
     },
     "usbond": {
-      "price": 5.15,
-      "change_pct": 0.98
+      "price": 5.12,
+      "change_pct": -0.58
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "The FAA’s Issued a Halt to Air Travel at 3.54. Six Minutes Before Closure of Stock Market",
+      "title": "Stock Market LIVE: GIFT Nifty signals positive open; Asian markets decline; Brent near $95",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.globalresearch.ca/the-faas-issued-a-halt-to-air-travel-at-3-54-six-minutes-before-closure-of-stock-market/5945855"
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html"
     },
     {
-      "title": "Union Pacific Beat the S&P 500 by 28.76 Points in the Past Year, and $1,000 From a Decade Ago Is Now Worth $3,693",
+      "title": "Hedge funds fold on the AI trade as retail piles into Nvidia, says Morgan Stanley’s Savone",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/94eac8bb0705396c"
+      "url": "https://cryptobriefing.com/hedge-funds-fold-retail-buys-nvidia/"
     },
     {
-      "title": "Russia Approves Securities Group to Oversee Crypto Exchanges",
+      "title": "Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://activistpost.com/russia-approves-securities-group-to-oversee-crypto-exchanges/"
+      "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack"
     },
     {
-      "title": "What Is the Best Crypto to Buy With $1,000 During This Crash?",
+      "title": "US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/966bf6bb8739902c"
+      "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest"
     },
     {
-      "title": "The spaceship bike Honda built for people who did not want a motorcycle",
+      "title": "Asian shares fall before Nvidia earnings and Anthropic IPO",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://the-gadgeteer.com/2026/11/14/the-spaceship-bike-honda-built-for-people-who-did-not-want-a-motorcycle/"
+      "url": "https://www.straitstimes.com/business/asian-shares-fall-before-nvidia-earnings-anthropic-ipo-test-tech-rally"
     },
     {
-      "title": "Stablecoins Jumped 131% in Western Europe’s $2.08 Trillion Crypto Economy While the UK Shrank",
+      "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.dcforecasts.com/bitcoin-news/western-europe-crypto-economy-mica-crypto-stablecoins-131/"
+      "url": "https://www.business-standard.com/markets/news/asian-shares-fall-before-nvidia-earnings-anthropic-ipo-test-tech-rally-126111600048_1.html"
     },
     {
-      "title": "Fed's Collins says gradual rate hikes best to manage economic risks",
+      "title": "India braces for higher interest rates as inflation, oil prices rise",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/world/feds-collins-says-gradual-rate-hikes-best-manage-economic-risks-6552151"
+      "url": "https://www.business-standard.com/economy/news/india-braces-for-higher-interest-rates-as-inflation-oil-prices-rise-126111600055_1.html"
     },
     {
-      "title": "Here is Why Fair Isaac (FICO) Could Appear Attractive During Further Monetary Tightening",
+      "title": "RBI rate hikes ahead: Why higher borrowing costs could hurt India",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/a6935d120d35687a"
+      "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-rate-hikes-ahead-why-higher-borrowing-costs-could-hurt-india/article71706629.ece"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "10/5",
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9",
-        "11/10",
-        "11/11",
-        "11/12",
-        "11/13"
-      ],
-      "values": [
-        7773.95,
-        7818.93,
-        7801.77,
-        7765.36,
-        7811.54,
-        7807.24,
-        7805.45,
-        7718.94,
-        7744.06,
-        7659.44,
-        7690.73,
-        7712.57,
-        7757.17,
-        7663.43,
-        7623.68,
-        7676.77,
-        7722.6,
-        7743.98,
-        7720.39,
-        7580.07,
-        7541.4,
-        7568.92,
-        7688.62,
-        7353.73,
-        7376.86,
-        7549.94,
-        7520.93,
-        7619.38,
-        7592.4,
-        7561.67
-      ]
-    },
-    "gold": {
-      "dates": [
-        "10/6",
-        "10/7",
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9",
-        "11/10",
-        "11/11",
-        "11/12",
-        "11/13",
-        "11/15"
-      ],
-      "values": [
-        4187.1,
-        4140.7,
-        4157.0,
-        4216.3,
-        4190.6,
-        4177.3,
-        4107.9,
-        4170.1,
-        4181.1,
-        4160.1,
-        4142.6,
-        4150.0,
-        4060.4,
-        4007.9,
-        4038.4,
-        4074.6,
-        4051.6,
-        4031.4,
-        3898.9,
-        3969.6,
-        3940.4,
-        4073.0,
-        4113.5,
-        4074.9,
-        4114.5,
-        4030.2,
-        4000.5,
-        3885.3,
-        3886.3,
-        3895.3
-      ]
-    },
-    "usdjpy": {
       "dates": [
         "10/6",
         "10/7",
@@ -245,7 +109,136 @@
         "11/16"
       ],
       "values": [
-        157.96,
+        7818.93,
+        7801.77,
+        7765.36,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7520.93,
+        7619.38,
+        7592.4,
+        7561.67,
+        7416.59
+      ]
+    },
+    "gold": {
+      "dates": [
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10",
+        "11/11",
+        "11/12",
+        "11/13",
+        "11/16"
+      ],
+      "values": [
+        4140.7,
+        4157.0,
+        4216.3,
+        4190.6,
+        4177.3,
+        4107.9,
+        4170.1,
+        4181.1,
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9,
+        3969.6,
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9,
+        4114.5,
+        4030.2,
+        4000.5,
+        3885.3,
+        3886.3,
+        3873.6
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "10/7",
+        "10/8",
+        "10/9",
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10",
+        "11/11",
+        "11/12",
+        "11/13",
+        "11/16",
+        "11/17"
+      ],
+      "values": [
         158.3,
         158.06,
         158.06,
@@ -274,12 +267,12 @@
         158.71,
         159.73,
         159.88,
-        159.69
+        159.78,
+        159.29
       ]
     },
     "nasdaq": {
       "dates": [
-        "10/5",
         "10/6",
         "10/7",
         "10/8",
@@ -308,10 +301,10 @@
         "11/10",
         "11/11",
         "11/12",
-        "11/13"
+        "11/13",
+        "11/16"
       ],
       "values": [
-        27477.31,
         27599.79,
         27538.69,
         27193.34,
@@ -340,7 +333,8 @@
         25065.87,
         25466.19,
         25366.09,
-        25136.27
+        25136.27,
+        24509.76
       ]
     }
   }
