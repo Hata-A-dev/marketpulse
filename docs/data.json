@@ -1,215 +1,85 @@
 {
-  "updated_at": "2026-11-19 02:05 UTC",
+  "updated_at": "2026-11-20 01:55 UTC",
   "prices": {
     "sp500": {
-      "price": 7323.63,
-      "change_pct": -0.23
+      "price": 7175.83,
+      "change_pct": -2.02
     },
     "nasdaq": {
-      "price": 24429.88,
-      "change_pct": 0.42
+      "price": 23879.2,
+      "change_pct": -2.25
     },
     "gold": {
-      "price": 3752.8,
-      "change_pct": -2.88
+      "price": 3567.0,
+      "change_pct": -4.67
     },
     "usdjpy": {
-      "price": 159.37,
-      "change_pct": -0.08
+      "price": 159.3,
+      "change_pct": -0.05
     },
     "vix": {
-      "price": 24.56,
-      "change_pct": -3.53
+      "price": 28.44,
+      "change_pct": 15.8
     },
     "usbond": {
-      "price": 5.07,
-      "change_pct": -0.59
+      "price": 5.05,
+      "change_pct": -0.39
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Stock market today: Live updates",
+      "title": "Advances While Market Declines: Some Information for Investors",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+      "url": "https://biztoc.com/x/ce1f5036d2002ffc"
     },
     {
-      "title": "Nvidia’s Earnings Call Is the AI Economy’s Next Stress Test",
+      "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.cnet.com/tech/services-and-software/nvidia-earnings-call-ai-economy-stress-test/"
+      "url": "https://biztoc.com/x/963373ed871e35a4"
     },
     {
-      "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+      "title": "Attackers Exploit Optimizely Flaw To Inject Malicious JavaScript",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027"
+      "url": "https://www.zscaler.com/blogs/security-research/attackers-exploit-optimizely-flaw-inject-malicious-javascript"
     },
     {
-      "title": "Hacker Exploits Trader on Ethereum DEX Lighter, Looting $10,000,000 Worth of Crypto",
+      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://dailyhodl.com/2026/11/17/hacker-exploits-trader-on-ethereum-dex-lighter-looting-10000000-worth-of-crypto/"
+      "url": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto"
     },
     {
-      "title": "Cyclone déjà vu: Andhra Pradesh's 1987 ordeal returns to haunt the state",
+      "title": "Congo’s Escalating Ebola Crisis",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://timesofindia.indiatimes.com/city/vijayawada/cyclone-dj-vu-andhra-pradeshs-1987-ordeal-returns-to-haunt-the-state/articleshow/135938354.cms"
+      "url": "https://foreignpolicy.com/2026/11/18/congo-ebola-outbreak-budnibugyo-constitution-conflict-m23/"
     },
     {
-      "title": "Teok farmers call to save grazing grounds, protest wetland excavation",
+      "title": "Fed Minutes Show Some Officials Weighed December Hike Above 25 Basis Points",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://timesofindia.indiatimes.com/city/guwahati/teok-farmers-call-to-save-grazing-grounds-protest-wetland-excavation/articleshow/135936610.cms"
+      "url": "https://bitcoinfoundation.org/news/bitcoin/fed-minutes-show-some-officials-weighed-december-hike-above-25-basis-points/"
     },
     {
-      "title": "A perfect storm is descending on the AI industry",
+      "title": "Gold recovers from one-year low as markets assess Fed rate outlook",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.vox.com/politics/511132/anthropic-ipo-ai-bubble-nvidia"
+      "url": "https://m.economictimes.com/markets/commodities/news/gold-recovers-from-one-year-low-as-markets-assess-fed-rate-outlook/articleshow/135975129.cms"
     },
     {
-      "title": "Has Chalmers really made $180 billion in budget savings? It depends where you start from",
+      "title": "Global Market Today: Asian shares mixed as commodity prices tumble",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.crikey.com.au/2026/11/18/jim-chalmers-budget-australia-savings-treasury-debt/"
+      "url": "https://m.economictimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-as-commodity-prices-tumble/articleshow/135974671.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "10/8",
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9",
-        "11/10",
-        "11/11",
-        "11/12",
-        "11/13",
-        "11/16",
-        "11/17",
-        "11/18"
-      ],
-      "values": [
-        7765.36,
-        7811.54,
-        7807.24,
-        7805.45,
-        7718.94,
-        7744.06,
-        7659.44,
-        7690.73,
-        7712.57,
-        7757.17,
-        7663.43,
-        7623.68,
-        7676.77,
-        7722.6,
-        7743.98,
-        7720.39,
-        7580.07,
-        7541.4,
-        7568.92,
-        7688.62,
-        7353.73,
-        7376.86,
-        7549.94,
-        7520.93,
-        7619.38,
-        7592.4,
-        7561.67,
-        7416.59,
-        7340.53,
-        7323.63
-      ]
-    },
-    "gold": {
-      "dates": [
-        "10/9",
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9",
-        "11/10",
-        "11/11",
-        "11/12",
-        "11/13",
-        "11/16",
-        "11/17",
-        "11/18"
-      ],
-      "values": [
-        4216.3,
-        4190.6,
-        4177.3,
-        4107.9,
-        4170.1,
-        4181.1,
-        4160.1,
-        4142.6,
-        4150.0,
-        4060.4,
-        4007.9,
-        4038.4,
-        4074.6,
-        4051.6,
-        4031.4,
-        3898.9,
-        3969.6,
-        3940.4,
-        4073.0,
-        4113.5,
-        4074.9,
-        4114.5,
-        4030.2,
-        4000.5,
-        3885.3,
-        3886.3,
-        3853.0,
-        3864.2,
-        3752.6
-      ]
-    },
-    "usdjpy": {
       "dates": [
         "10/9",
         "10/12",
@@ -243,7 +113,136 @@
         "11/19"
       ],
       "values": [
-        158.06,
+        7811.54,
+        7807.24,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7520.93,
+        7619.38,
+        7592.4,
+        7561.67,
+        7416.59,
+        7340.53,
+        7323.63,
+        7175.83
+      ]
+    },
+    "gold": {
+      "dates": [
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10",
+        "11/11",
+        "11/12",
+        "11/13",
+        "11/16",
+        "11/17",
+        "11/18",
+        "11/19"
+      ],
+      "values": [
+        4190.6,
+        4177.3,
+        4107.9,
+        4170.1,
+        4181.1,
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9,
+        3969.6,
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9,
+        4114.5,
+        4030.2,
+        4000.5,
+        3885.3,
+        3886.3,
+        3853.0,
+        3864.2,
+        3741.9,
+        3567.0
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "10/12",
+        "10/13",
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10",
+        "11/11",
+        "11/12",
+        "11/13",
+        "11/16",
+        "11/17",
+        "11/18",
+        "11/19",
+        "11/20"
+      ],
+      "values": [
         158.2,
         158.52,
         158.32,
@@ -272,12 +271,12 @@
         159.78,
         159.52,
         159.5,
-        159.37
+        159.38,
+        159.29
       ]
     },
     "nasdaq": {
       "dates": [
-        "10/8",
         "10/9",
         "10/12",
         "10/13",
@@ -306,10 +305,10 @@
         "11/13",
         "11/16",
         "11/17",
-        "11/18"
+        "11/18",
+        "11/19"
       ],
       "values": [
-        27193.34,
         27366.17,
         27245.9,
         27204.38,
@@ -338,7 +337,8 @@
         25136.27,
         24509.76,
         24328.38,
-        24429.88
+        24429.88,
+        23879.2
       ]
     }
   }
