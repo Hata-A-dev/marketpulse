@@ -1,87 +1,74 @@
 {
-  "updated_at": "2026-11-20 01:55 UTC",
+  "updated_at": "2026-11-21 01:51 UTC",
   "prices": {
     "sp500": {
-      "price": 7175.83,
-      "change_pct": -2.02
+      "price": 6910.39,
+      "change_pct": -3.7
     },
     "nasdaq": {
-      "price": 23879.2,
-      "change_pct": -2.25
+      "price": 22617.73,
+      "change_pct": -5.28
     },
     "gold": {
-      "price": 3567.0,
-      "change_pct": -4.67
+      "price": 3539.0,
+      "change_pct": -3.98
     },
     "usdjpy": {
-      "price": 159.3,
-      "change_pct": -0.05
+      "price": 159.71,
+      "change_pct": 0.21
     },
     "vix": {
-      "price": 28.44,
-      "change_pct": 15.8
+      "price": 35.89,
+      "change_pct": 26.2
     },
     "usbond": {
-      "price": 5.05,
-      "change_pct": -0.39
+      "price": 4.91,
+      "change_pct": -2.77
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Advances While Market Declines: Some Information for Investors",
+      "title": "Anthropic IPO raises $81 billion at $1.75 trillion valuation: Numbers that explain the record listing",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/ce1f5036d2002ffc"
+      "url": "https://www.livemint.com/companies/news/anthropic-ipo-raises-81-billion-at-1-75-trillion-valuation-numbers-that-explain-the-record-listing-11795138451629.html"
     },
     {
-      "title": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead",
+      "title": "Asian shares head for worst week since 2020 as AI trade gloom fails to abate",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/963373ed871e35a4"
+      "url": "https://www.channelnewsasia.com/business/asian-shares-head-worst-week-2020-ai-trade-gloom-fails-abate-6567936"
     },
     {
-      "title": "Attackers Exploit Optimizely Flaw To Inject Malicious JavaScript",
+      "title": "Dollar heads for fourth week of gains after Anthropic IPO, Fed rate hike bets",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.zscaler.com/blogs/security-research/attackers-exploit-optimizely-flaw-inject-malicious-javascript"
+      "url": "https://cryptobriefing.com/dollar-heads-for-fourth-week-of-gains-after-anthropic-ipo-fed-rate-hike-bets/"
     },
     {
-      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
+      "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto"
+      "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo"
     },
     {
-      "title": "Congo’s Escalating Ebola Crisis",
+      "title": "Sikh bizman owns Sonia’s childhood home in Italy, wants to turn it into museum",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://foreignpolicy.com/2026/11/18/congo-ebola-outbreak-budnibugyo-constitution-conflict-m23/"
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/sikh-bizman-owns-sonias-childhood-home-in-italy-wants-to-turn-it-into-museum/articleshow/136003990.cms"
     },
     {
-      "title": "Fed Minutes Show Some Officials Weighed December Hike Above 25 Basis Points",
-      "tag": "金",
-      "ago": "1日前",
-      "url": "https://bitcoinfoundation.org/news/bitcoin/fed-minutes-show-some-officials-weighed-december-hike-above-25-basis-points/"
-    },
-    {
-      "title": "Gold recovers from one-year low as markets assess Fed rate outlook",
+      "title": "Gold set for worst week since March as rate-hike expectations grow",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://m.economictimes.com/markets/commodities/news/gold-recovers-from-one-year-low-as-markets-assess-fed-rate-outlook/articleshow/135975129.cms"
-    },
-    {
-      "title": "Global Market Today: Asian shares mixed as commodity prices tumble",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://m.economictimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-as-commodity-prices-tumble/articleshow/135974671.cms"
+      "url": "https://m.economictimes.com/markets/commodities/news/gold-set-for-worst-week-since-march-as-rate-hike-expectations-grow/articleshow/136009768.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
       "dates": [
-        "10/9",
         "10/12",
         "10/13",
         "10/14",
@@ -110,10 +97,10 @@
         "11/16",
         "11/17",
         "11/18",
-        "11/19"
+        "11/19",
+        "11/20"
       ],
       "values": [
-        7811.54,
         7807.24,
         7805.45,
         7718.94,
@@ -142,7 +129,8 @@
         7416.59,
         7340.53,
         7323.63,
-        7175.83
+        7175.83,
+        6910.39
       ]
     },
     "gold": {
@@ -175,7 +163,8 @@
         "11/16",
         "11/17",
         "11/18",
-        "11/19"
+        "11/19",
+        "11/20"
       ],
       "values": [
         4190.6,
@@ -206,7 +195,8 @@
         3853.0,
         3864.2,
         3741.9,
-        3567.0
+        3685.5,
+        3539.0
       ]
     },
     "usdjpy": {
@@ -272,12 +262,11 @@
         159.52,
         159.5,
         159.38,
-        159.29
+        159.71
       ]
     },
     "nasdaq": {
       "dates": [
-        "10/9",
         "10/12",
         "10/13",
         "10/14",
@@ -306,10 +295,10 @@
         "11/16",
         "11/17",
         "11/18",
-        "11/19"
+        "11/19",
+        "11/20"
       ],
       "values": [
-        27366.17,
         27245.9,
         27204.38,
         26692.87,
@@ -338,7 +327,8 @@
         24509.76,
         24328.38,
         24429.88,
-        23879.2
+        23879.2,
+        22617.73
       ]
     }
   }
