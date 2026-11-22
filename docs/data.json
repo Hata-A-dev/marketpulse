@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 01:51 UTC",
+  "updated_at": "2026-11-22 00:44 UTC",
   "prices": {
     "sp500": {
       "price": 6910.39,
@@ -10,8 +10,8 @@
       "change_pct": -5.28
     },
     "gold": {
-      "price": 3539.0,
-      "change_pct": -3.98
+      "price": 3515.4,
+      "change_pct": -4.62
     },
     "usdjpy": {
       "price": 159.71,
@@ -29,40 +29,46 @@
   },
   "news": [
     {
-      "title": "Anthropic IPO raises $81 billion at $1.75 trillion valuation: Numbers that explain the record listing",
+      "title": "S&P 500 and Dow Face Historic Correction, Nasdaq Wipes Out 2026 Gains After Worst Week Since 2020",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.livemint.com/companies/news/anthropic-ipo-raises-81-billion-at-1-75-trillion-valuation-numbers-that-explain-the-record-listing-11795138451629.html"
+      "url": "https://www.thegatewaypundit.com/2026/11/sp-500-dow-face-historic-correction-nasdaq-wipes/"
     },
     {
-      "title": "Asian shares head for worst week since 2020 as AI trade gloom fails to abate",
+      "title": "Breitbart Business Digest: The AI Sky Is Falling",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/asian-shares-head-worst-week-2020-ai-trade-gloom-fails-abate-6567936"
+      "url": "https://www.breitbart.com/economy/2026/11/20/breitbart-business-digest-the-ai-sky-is-falling/"
     },
     {
-      "title": "Dollar heads for fourth week of gains after Anthropic IPO, Fed rate hike bets",
+      "title": "GTA 6 PC scam alert: $200 malware kit targets gamers with fake downloads and crypto theft",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/dollar-heads-for-fourth-week-of-gains-after-anthropic-ipo-fed-rate-hike-bets/"
+      "url": "https://timesofindia.indiatimes.com/sports/esports/gta/gta-6-pc-scam-alert-200-malware-kit-targets-gamers-with-fake-downloads-and-crypto-theft/articleshow/136042129.cms"
     },
     {
-      "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+      "title": "4 Best XRP Lending Platforms Compared by Security, LTV, and Speed",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo"
+      "url": "https://hackread.com/xrp-lending-platforms-compared-security-ltv-speed/"
     },
     {
-      "title": "Sikh bizman owns Sonia’s childhood home in Italy, wants to turn it into museum",
+      "title": "Lisa Cook Doubts One Hike Can Tame Inflation That Has Run Hot for 67 Months",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/sikh-bizman-owns-sonias-childhood-home-in-italy-wants-to-turn-it-into-museum/articleshow/136003990.cms"
+      "url": "https://www.dcforecasts.com/bitcoin-news/lisa-cook-inflation-67-months-fed-rate-hike/"
     },
     {
-      "title": "Gold set for worst week since March as rate-hike expectations grow",
+      "title": "Debt got you down? These are the best debt relief companies of 2026",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://m.economictimes.com/markets/commodities/news/gold-set-for-worst-week-since-march-as-rate-hike-expectations-grow/articleshow/136009768.cms"
+      "url": "https://nypost.com/business/best-debt-relief-companies/"
+    },
+    {
+      "title": "Stocks Plunge as AI Selloff Pushes S&P 500 and Dow Into Correction",
+      "tag": "経済",
+      "ago": "1日前",
+      "url": "https://www.breitbart.com/economy/2026/11/20/stocks-plunge-as-ai-selloff-pushes-sp-500-and-dow-into-correction/"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -196,7 +202,7 @@
         3864.2,
         3741.9,
         3685.5,
-        3539.0
+        3515.4
       ]
     },
     "usdjpy": {
