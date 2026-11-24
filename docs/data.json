@@ -1,211 +1,75 @@
 {
-  "updated_at": "2026-11-23 01:12 UTC",
+  "updated_at": "2026-11-24 05:02 UTC",
   "prices": {
     "sp500": {
-      "price": 6910.39,
-      "change_pct": -3.7
+      "price": 7237.17,
+      "change_pct": 4.73
     },
     "nasdaq": {
-      "price": 22617.73,
-      "change_pct": -5.28
-    },
-    "gold": {
-      "price": 3579.0,
-      "change_pct": 1.81
+      "price": 24089.56,
+      "change_pct": 6.51
     },
     "usdjpy": {
-      "price": 158.88,
-      "change_pct": -0.52
+      "price": 158.99,
+      "change_pct": 0.04
     },
     "vix": {
-      "price": 35.89,
-      "change_pct": 26.2
+      "price": 26.62,
+      "change_pct": -25.83
     },
     "usbond": {
-      "price": 4.91,
-      "change_pct": -2.77
+      "price": 4.92,
+      "change_pct": 0.2
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Stock market correction? Whatever — Wall Street is bullish on 2027, and one chief investment officer sees the S&P 500 soaring 45% to 10,000",
+      "title": "The Democratic Party’s Three Conflicting Camps on AI",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://biztoc.com/x/e96fe4515c0852f7"
+      "url": "https://foreignpolicy.com/2026/11/23/democratic-party-ai-race-china-regulation-nvidia-data-centers/"
     },
     {
-      "title": "ARK withdraws two proposed CoinDesk 20 crypto ETFs from SEC consideration",
+      "title": "TCS, Infosys, Wipro, other IT stocks rise up to 3% as AI bloodbath continues; Nasdaq logs worst week since 2020",
+      "tag": "株式",
+      "ago": "1日前",
+      "url": "https://m.economictimes.com/markets/stocks/news/tcs-infosys-wipro-other-it-stocks-rise-up-to-3-as-ai-stocks-bloodbath-continues-nasdaq-logs-worst-week-since-2020/articleshow/136089907.cms"
+    },
+    {
+      "title": "Bitcoin holders realize $17B in losses over 30 days",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptobriefing.com/ark-withdraws-coindesk-20-crypto-etfs/"
+      "url": "https://cryptobriefing.com/bitcoin-holders-realize-17b-losses-30-days/"
     },
     {
-      "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
+      "title": "Crypto Market Today, Nov. 22: Bitcoin Reclaims $60,000 After $1.8 Billion Liquidation Wipeout. Is the Worst Over?",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/"
+      "url": "https://biztoc.com/x/33bd1b6350613ee1"
     },
     {
-      "title": "17L UP youths trained under PM’s skill mission initiative: Yogi",
+      "title": "A colourful walk down Delhi’s Said-ul-Ajaib lane",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/17l-up-youths-trained-under-pms-skill-mission-initiative-yogi/articleshow/136062666.cms"
+      "url": "https://timesofindia.indiatimes.com/city/delhi/a-colourful-walk-down-delhis-said-ul-ajaib-lane/articleshow/136089412.cms"
     },
     {
-      "title": "Kashi bags national honour for empowering street vendors",
+      "title": "MCX gold prices rise Rs 2,800/10g after 5-day fall, silver jumps Rs 3,600/kg despite increasing rate hike bets. Here’s why",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://timesofindia.indiatimes.com/city/varanasi/kashi-bags-national-honour-for-empowering-street-vendors/articleshow/136062387.cms"
+      "url": "https://m.economictimes.com/markets/commodities/news/mcx-gold-prices-rise-rs-2800/10g-after-5-day-fall-silver-jumps-rs-3600/kg-despite-increasing-rate-hike-bets-heres-why/articleshow/136089223.cms"
     },
     {
-      "title": "Trump Looks To Democrats To Fulfill Campaign Promise GOP Congress Couldn’t Deliver",
+      "title": "Australia's economy is flashing a major warning sign: Why experts fear we could be heading into recession by Christmas",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://dailycaller.com/2026/11/21/donald-trump-democrats-campaign-promise-cap-credit-card-interest-rates-fox-news-kayleigh-mcenany-saturday-america/"
-    },
-    {
-      "title": "Trump Says He’ll Work With Incoming Democratic Congress To Cap Credit Card Interest Rates",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.huffpost.com/entry/trump-says-work-incoming-democratic-congress-cap-credit-card-interest-rates_n_6b02106be4b0213d8627f005"
+      "url": "https://www.dailymail.com/news/article-16313577/recession-alert-australia.html"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "10/12",
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9",
-        "11/10",
-        "11/11",
-        "11/12",
-        "11/13",
-        "11/16",
-        "11/17",
-        "11/18",
-        "11/19",
-        "11/20"
-      ],
-      "values": [
-        7807.24,
-        7805.45,
-        7718.94,
-        7744.06,
-        7659.44,
-        7690.73,
-        7712.57,
-        7757.17,
-        7663.43,
-        7623.68,
-        7676.77,
-        7722.6,
-        7743.98,
-        7720.39,
-        7580.07,
-        7541.4,
-        7568.92,
-        7688.62,
-        7353.73,
-        7376.86,
-        7549.94,
-        7520.93,
-        7619.38,
-        7592.4,
-        7561.67,
-        7416.59,
-        7340.53,
-        7323.63,
-        7175.83,
-        6910.39
-      ]
-    },
-    "gold": {
-      "dates": [
-        "10/13",
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9",
-        "11/10",
-        "11/11",
-        "11/12",
-        "11/13",
-        "11/16",
-        "11/17",
-        "11/18",
-        "11/19",
-        "11/20",
-        "11/22"
-      ],
-      "values": [
-        4177.3,
-        4107.9,
-        4170.1,
-        4181.1,
-        4160.1,
-        4142.6,
-        4150.0,
-        4060.4,
-        4007.9,
-        4038.4,
-        4074.6,
-        4051.6,
-        4031.4,
-        3898.9,
-        3969.6,
-        3940.4,
-        4073.0,
-        4113.5,
-        4074.9,
-        4114.5,
-        4030.2,
-        4000.5,
-        3885.3,
-        3886.3,
-        3853.0,
-        3864.2,
-        3741.9,
-        3685.5,
-        3515.4,
-        3579.0
-      ]
-    },
-    "usdjpy": {
       "dates": [
         "10/13",
         "10/14",
@@ -239,7 +103,134 @@
         "11/23"
       ],
       "values": [
-        158.52,
+        7805.45,
+        7718.94,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7520.93,
+        7619.38,
+        7592.4,
+        7561.67,
+        7416.59,
+        7340.53,
+        7323.63,
+        7175.83,
+        6910.39,
+        7237.17
+      ]
+    },
+    "gold": {
+      "dates": [
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10",
+        "11/11",
+        "11/12",
+        "11/13",
+        "11/16",
+        "11/17",
+        "11/18",
+        "11/19",
+        "11/20",
+        "11/23"
+      ],
+      "values": [
+        4170.1,
+        4181.1,
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9,
+        3969.6,
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9,
+        4114.5,
+        4030.2,
+        4000.5,
+        3885.3,
+        3886.3,
+        3853.0,
+        3864.2,
+        3741.9,
+        3685.5,
+        3515.4,
+        3651.4
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "10/14",
+        "10/15",
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10",
+        "11/11",
+        "11/12",
+        "11/13",
+        "11/16",
+        "11/17",
+        "11/18",
+        "11/19",
+        "11/20",
+        "11/23",
+        "11/24"
+      ],
+      "values": [
         158.32,
         157.96,
         158.14,
@@ -268,12 +259,12 @@
         159.5,
         159.38,
         159.71,
-        158.88
+        158.93,
+        158.99
       ]
     },
     "nasdaq": {
       "dates": [
-        "10/12",
         "10/13",
         "10/14",
         "10/15",
@@ -302,10 +293,10 @@
         "11/17",
         "11/18",
         "11/19",
-        "11/20"
+        "11/20",
+        "11/23"
       ],
       "values": [
-        27245.9,
         27204.38,
         26692.87,
         26713.03,
@@ -334,7 +325,8 @@
         24328.38,
         24429.88,
         23879.2,
-        22617.73
+        22617.73,
+        24089.56
       ]
     }
   }
