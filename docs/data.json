@@ -1,215 +1,73 @@
 {
-  "updated_at": "2026-11-25 03:51 UTC",
+  "updated_at": "2026-11-26 03:15 UTC",
   "prices": {
     "sp500": {
-      "price": 7201.09,
-      "change_pct": -0.5
+      "price": 7182.78,
+      "change_pct": -0.25
     },
     "nasdaq": {
-      "price": 23733.54,
-      "change_pct": -1.48
+      "price": 23585.8,
+      "change_pct": -0.62
     },
     "gold": {
-      "price": 3551.3,
-      "change_pct": -2.74
+      "price": 3611.5,
+      "change_pct": 1.39
     },
     "usdjpy": {
-      "price": 159.27,
-      "change_pct": 0.16
+      "price": 159.18,
+      "change_pct": -0.05
     },
     "vix": {
-      "price": 26.36,
-      "change_pct": -0.98
+      "price": 28.29,
+      "change_pct": 7.32
     },
     "usbond": {
-      "price": 4.9,
-      "change_pct": -0.41
+      "price": 4.85,
+      "change_pct": -1.02
     },
     "btc": {}
   },
   "news": [
     {
-      "title": "Stock market holiday today: Are BSE, NSE closed on November 24 for Guru Nanak Jayanti?",
+      "title": "SpaceX-Tesla merger: Elon Musk’s companies assemble teams to discuss ‘biggest ever’ $3.2 trillion deal",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-are-bse-nse-closed-on-november-24-for-guru-nanak-jayanti/articleshow/136118430.cms"
+      "url": "https://www.livemint.com/companies/news/spacextesla-merger-elon-musk-s-companies-assemble-teams-to-discuss-biggest-ever-3-2-trillion-deal-11795572495864.html"
     },
     {
-      "title": "Jensen Huang a 'protected species' after Trump intervened with Nvidia",
+      "title": "Stock Market LIVE: GIFT Nifty jumps 200 pts; Kospi down 5% as AI-trade unwind",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.abc.net.au/news/2026-11-24/trump-influence-on-jensen-huang-nvidia/107419642"
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-25-gift-nifty-bse-sensex-today-nifty50-crude-oil-prices-ipo-today-126112500069_1.html"
     },
     {
-      "title": "CFTC staff advisory says crypto can count toward reserves, not liquidity rule",
+      "title": "Jury Duty Scam Run From Prison Cells Leads DOJ’s 800-Defendant Sweep",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.channelnewsasia.com/business/cftc-staff-advisory-says-crypto-can-count-toward-reserves-not-liquidity-rule-6576391"
+      "url": "https://www.dcforecasts.com/regulation/jury-duty-scam-doj-anti-scam-surge-800-defendants/"
     },
     {
-      "title": "Solana Price Prediction 2030: Is $2,000 SOL Still on the Table After a 75% Crash?",
-      "tag": "BTC",
-      "ago": "1日前",
-      "url": "https://www.newsbtc.com/news/solana/solana-price-prediction-2030/"
-    },
-    {
-      "title": "‘Iran’s Leaders Are Panicking’: Trump Unveils Sweeping Sanctions to Sever Regime’s ‘Last Financial Lifeline’",
+      "title": "Economic Digest: A Snapshot of Nepal’s Business News",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://www.breitbart.com/politics/2026/11/23/irans-leaders-are-panicking-trump-unveils-sweeping-sanctions-sever-regimes-last-financial-lifeline/"
+      "url": "https://english.khabarhub.com/2026/25/576933/"
     },
     {
-      "title": "State Will Not Take Over Lands Of Ordinary Farmers : Bawankule",
+      "title": "Gold ticks lower ahead of US inflation data",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://timesofindia.indiatimes.com/city/nagpur/state-will-not-take-over-lands-of-ordinary-farmers-bawankule/articleshow/136113524.cms"
+      "url": "https://m.economictimes.com/markets/commodities/news/gold-ticks-lower-ahead-of-us-inflation-data/articleshow/136145643.cms"
     },
     {
-      "title": "Gold ticks up on bargain buying; US inflation data awaited",
+      "title": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-ticks-up-on-bargain-buying-us-inflation-data-awaited/article71737088.ece"
-    },
-    {
-      "title": "Nvidia shares soar 31% as Jensen Huang's return sparks Wall Street rally",
-      "tag": "経済",
-      "ago": "1日前",
-      "url": "https://www.business-standard.com/markets/news/nvidia-shares-soar-31-as-jensen-huang-s-return-sparks-wall-street-rally-126112400047_1.html"
+      "url": "https://m.economictimes.com/markets/forex/forex-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi/articleshow/136145689.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
   "history": {
     "sp500": {
-      "dates": [
-        "10/14",
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9",
-        "11/10",
-        "11/11",
-        "11/12",
-        "11/13",
-        "11/16",
-        "11/17",
-        "11/18",
-        "11/19",
-        "11/20",
-        "11/23",
-        "11/24"
-      ],
-      "values": [
-        7718.94,
-        7744.06,
-        7659.44,
-        7690.73,
-        7712.57,
-        7757.17,
-        7663.43,
-        7623.68,
-        7676.77,
-        7722.6,
-        7743.98,
-        7720.39,
-        7580.07,
-        7541.4,
-        7568.92,
-        7688.62,
-        7353.73,
-        7376.86,
-        7549.94,
-        7520.93,
-        7619.38,
-        7592.4,
-        7561.67,
-        7416.59,
-        7340.53,
-        7323.63,
-        7175.83,
-        6910.39,
-        7237.17,
-        7201.09
-      ]
-    },
-    "gold": {
-      "dates": [
-        "10/15",
-        "10/16",
-        "10/19",
-        "10/20",
-        "10/21",
-        "10/22",
-        "10/23",
-        "10/26",
-        "10/27",
-        "10/28",
-        "10/29",
-        "10/30",
-        "11/2",
-        "11/3",
-        "11/4",
-        "11/5",
-        "11/6",
-        "11/9",
-        "11/10",
-        "11/11",
-        "11/12",
-        "11/13",
-        "11/16",
-        "11/17",
-        "11/18",
-        "11/19",
-        "11/20",
-        "11/23",
-        "11/24"
-      ],
-      "values": [
-        4170.1,
-        4181.1,
-        4160.1,
-        4142.6,
-        4150.0,
-        4060.4,
-        4007.9,
-        4038.4,
-        4074.6,
-        4051.6,
-        4031.4,
-        3898.9,
-        3969.6,
-        3940.4,
-        4073.0,
-        4113.5,
-        4074.9,
-        4114.5,
-        4030.2,
-        4000.5,
-        3885.3,
-        3886.3,
-        3853.0,
-        3864.2,
-        3741.9,
-        3685.5,
-        3515.4,
-        3651.4,
-        3551.3
-      ]
-    },
-    "usdjpy": {
       "dates": [
         "10/15",
         "10/16",
@@ -243,7 +101,136 @@
         "11/25"
       ],
       "values": [
-        157.96,
+        7744.06,
+        7659.44,
+        7690.73,
+        7712.57,
+        7757.17,
+        7663.43,
+        7623.68,
+        7676.77,
+        7722.6,
+        7743.98,
+        7720.39,
+        7580.07,
+        7541.4,
+        7568.92,
+        7688.62,
+        7353.73,
+        7376.86,
+        7549.94,
+        7520.93,
+        7619.38,
+        7592.4,
+        7561.67,
+        7416.59,
+        7340.53,
+        7323.63,
+        7175.83,
+        6910.39,
+        7237.17,
+        7201.09,
+        7182.78
+      ]
+    },
+    "gold": {
+      "dates": [
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10",
+        "11/11",
+        "11/12",
+        "11/13",
+        "11/16",
+        "11/17",
+        "11/18",
+        "11/19",
+        "11/20",
+        "11/23",
+        "11/24",
+        "11/25"
+      ],
+      "values": [
+        4181.1,
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9,
+        3969.6,
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9,
+        4114.5,
+        4030.2,
+        4000.5,
+        3885.3,
+        3886.3,
+        3853.0,
+        3864.2,
+        3741.9,
+        3685.5,
+        3515.4,
+        3651.4,
+        3561.9,
+        3611.5
+      ]
+    },
+    "usdjpy": {
+      "dates": [
+        "10/16",
+        "10/19",
+        "10/20",
+        "10/21",
+        "10/22",
+        "10/23",
+        "10/26",
+        "10/27",
+        "10/28",
+        "10/29",
+        "10/30",
+        "11/2",
+        "11/3",
+        "11/4",
+        "11/5",
+        "11/6",
+        "11/9",
+        "11/10",
+        "11/11",
+        "11/12",
+        "11/13",
+        "11/16",
+        "11/17",
+        "11/18",
+        "11/19",
+        "11/20",
+        "11/23",
+        "11/24",
+        "11/25",
+        "11/26"
+      ],
+      "values": [
         158.14,
         157.81,
         158.52,
@@ -272,12 +259,12 @@
         159.71,
         158.93,
         159.01,
-        159.27
+        159.26,
+        159.17
       ]
     },
     "nasdaq": {
       "dates": [
-        "10/14",
         "10/15",
         "10/16",
         "10/19",
@@ -306,10 +293,10 @@
         "11/19",
         "11/20",
         "11/23",
-        "11/24"
+        "11/24",
+        "11/25"
       ],
       "values": [
-        26692.87,
         26713.03,
         26140.03,
         26430.89,
@@ -338,7 +325,8 @@
         23879.2,
         22617.73,
         24089.56,
-        23733.54
+        23733.54,
+        23585.8
       ]
     }
   }
