@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 03:15 UTC",
+  "updated_at": "2026-11-27 03:20 UTC",
   "prices": {
     "sp500": {
       "price": 7182.78,
@@ -10,16 +10,16 @@
       "change_pct": -0.62
     },
     "gold": {
-      "price": 3611.5,
-      "change_pct": 1.39
+      "price": 3661.2,
+      "change_pct": 3.55
     },
     "usdjpy": {
-      "price": 159.18,
-      "change_pct": -0.05
+      "price": 159.22,
+      "change_pct": 0.01
     },
     "vix": {
-      "price": 28.29,
-      "change_pct": 7.32
+      "price": 26.8,
+      "change_pct": -5.27
     },
     "usbond": {
       "price": 4.85,
@@ -29,40 +29,46 @@
   },
   "news": [
     {
-      "title": "SpaceX-Tesla merger: Elon Musk’s companies assemble teams to discuss ‘biggest ever’ $3.2 trillion deal",
+      "title": "Stock Market LIVE: GIFT Nifty signals gap-up open; Asia mkts rebound as dip-buyers return to tech",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.livemint.com/companies/news/spacextesla-merger-elon-musk-s-companies-assemble-teams-to-discuss-biggest-ever-3-2-trillion-deal-11795572495864.html"
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-26-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112600049_1.html"
     },
     {
-      "title": "Stock Market LIVE: GIFT Nifty jumps 200 pts; Kospi down 5% as AI-trade unwind",
+      "title": "For Trump, doubling down on tariffs is about power, not popularity",
       "tag": "株式",
       "ago": "1日前",
-      "url": "https://www.business-standard.com/markets/news/stock-market-live-november-25-gift-nifty-bse-sensex-today-nifty50-crude-oil-prices-ipo-today-126112500069_1.html"
+      "url": "https://m.economictimes.com/news/international/world-news/for-trump-doubling-down-on-tariffs-is-about-power-not-popularity/articleshow/136176235.cms"
     },
     {
-      "title": "Jury Duty Scam Run From Prison Cells Leads DOJ’s 800-Defendant Sweep",
+      "title": "Ripple’s latest banking partnership opens another route to XRP adoption in Turkey",
       "tag": "BTC",
       "ago": "1日前",
-      "url": "https://www.dcforecasts.com/regulation/jury-duty-scam-doj-anti-scam-surge-800-defendants/"
+      "url": "https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey/"
     },
     {
-      "title": "Economic Digest: A Snapshot of Nepal’s Business News",
+      "title": "Bitcoin Could Take an NFT-Style Hit and Crash to $10,000 According to Bloomberg Analyst",
+      "tag": "BTC",
+      "ago": "1日前",
+      "url": "https://zycrypto.com/bitcoin-could-take-an-nft-style-hit-and-crash-to-10000-according-to-bloomberg-analyst/"
+    },
+    {
+      "title": "Gold extends losses as hot US inflation cements Fed hike bets",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://english.khabarhub.com/2026/25/576933/"
+      "url": "https://m.economictimes.com/markets/commodities/news/gold-extends-losses-as-hot-us-inflation-cements-fed-hike-bets/articleshow/136176262.cms"
     },
     {
-      "title": "Gold ticks lower ahead of US inflation data",
+      "title": "Premium perks, without the price tag: Virgin Australia slashes 30 per cent off Economy X seat upgrades for Black Friday",
       "tag": "金",
       "ago": "1日前",
-      "url": "https://m.economictimes.com/markets/commodities/news/gold-ticks-lower-ahead-of-us-inflation-data/articleshow/136145643.cms"
+      "url": "https://www.dailymail.com/buyline/article-16301779/Virgin-Australia-Black-Friday-Economy-X-upgrades-sale.html"
     },
     {
-      "title": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
+      "title": "Dollar steady as sliding yields temper safe-haven bid",
       "tag": "経済",
       "ago": "1日前",
-      "url": "https://m.economictimes.com/markets/forex/forex-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi/articleshow/136145689.cms"
+      "url": "https://m.economictimes.com/markets/forex/forex-news/dollar-steady-as-sliding-yields-temper-safe-haven-bid/articleshow/136176300.cms"
     }
   ],
   "summary": "毎朝自動更新中。価格データはyfinance・CoinGeckoより取得。",
@@ -163,7 +169,8 @@
         "11/20",
         "11/23",
         "11/24",
-        "11/25"
+        "11/25",
+        "11/26"
       ],
       "values": [
         4181.1,
@@ -194,12 +201,12 @@
         3515.4,
         3651.4,
         3561.9,
-        3611.5
+        3535.8,
+        3660.0
       ]
     },
     "usdjpy": {
       "dates": [
-        "10/16",
         "10/19",
         "10/20",
         "10/21",
@@ -228,10 +235,10 @@
         "11/23",
         "11/24",
         "11/25",
-        "11/26"
+        "11/26",
+        "11/27"
       ],
       "values": [
-        158.14,
         157.81,
         158.52,
         158.27,
@@ -260,7 +267,8 @@
         158.93,
         159.01,
         159.26,
-        159.17
+        159.21,
+        159.22
       ]
     },
     "nasdaq": {
